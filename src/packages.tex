@@ -32,7 +32,19 @@
 
 % Code listing package
 \usepackage{listings}                 % Code formatting and syntax highlighting
-
+\lstset{
+    language=C++,
+    basicstyle=\ttfamily,
+    keywordstyle=\color{blue}\ttfamily,
+    stringstyle=\color{red}\ttfamily,
+    commentstyle=\color{green}\ttfamily,
+    morecomment=[l][\color{magenta}]{\#},
+    numbers=left,
+    numberstyle=\color{gray},
+    breaklines=true,
+    breakatwhitespace=true,
+    tabsize=4
+}
 
 % Document settings
 % ----------------
@@ -44,9 +56,13 @@
 \usepackage[normalem]{ulem}           % Underlining and emphasis styles
 \usepackage{calc}                     % Mathematical calculations in LaTeX commands
 \usepackage{soul}                     % Additional text formatting options
+\usepackage{multicol}
 
 % Section formatting package
 \usepackage{sectsty}                  % Customizing section headings
+\usepackage{titlesec}
+% Redefine the format of the section title
+\titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
 
 
 % Additional packages
@@ -64,9 +80,9 @@
 }
 
 % Custom command
-\newcommand{\addauthor}[1]{%
-    \addtocontents{toc}{\hspace{15pt}\textbf{#1}} % Add author to table of contents
-}
+%\newcommand{\addauthor}[1]{%
+%    \addtocontents{toc}{\hspace{15pt}\textbf{#1}} % Add author to table of contents
+%}
 
 % Graphics path
 \graphicspath{{assets}}
