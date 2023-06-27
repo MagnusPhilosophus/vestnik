@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"db057fb2b164c81f356fa70d734cc49708c41fcc"
+"909fa373275c3a9e4938e280b8b4fe6a4422af7a"
 [nil nil nil nil (25752 31422 511304 532000) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 1 . 2) (#("
 " 0 1 (fontified nil)) . -23869) (1 . 23870) (t 25752 31413 83475 752000)) nil (25752 31422 511302 87000) 0 nil])
@@ -150,5 +150,92 @@ nil
 ([nil nil ((#("
 " 0 1 (fontified t)) . 20889) (undo-tree-id384 . -1)) nil (25752 47022 836798 449000) 0 nil])
 ([nil nil ((#("\\large" 0 6 (fontified t face font-lock-keyword-face)) . 3649) (undo-tree-id424 . -5) (undo-tree-id425 . -5) (undo-tree-id426 . -5) (undo-tree-id427 . -5) (undo-tree-id428 . -6) (undo-tree-id429 . -5) (undo-tree-id430 . -5) (undo-tree-id431 . -6) 3654 (t 25752 47022 841151 377000)) nil (25752 47288 685395 423000) 0 nil])
-([nil current ((nil rear-nonsticky nil 3771 . 3772) (nil fontified nil 3766 . 3772) (3766 . 3772) 3765) nil (25752 47288 685376 147000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 3771 . 3772) (nil fontified nil 3766 . 3772) (3766 . 3772) 3765) nil (25752 47288 685376 147000) 0 nil])
+([nil nil ((25123 . 25909) (#("Акишев Каршыга Максутович, к.т.н., асс. профессор, кафедра
+«Информационные технологии», Казахский университет технологии и бизнеса,
+г. Астана, Республика Казахстан: email:akmail04cx@mail.ru
+
+Карпов Валерий Иванович, доктор технических наук, профессор, кафедра
+«Информационные технологии» Московский Государственный универститет
+технологии и управления имени К.Г. Разумовского,г. Москва,
+Россия:email:Vikarp@mail.ru
+
+Акишева Ленара Каршыгаевна, ученица 7 классса Назарбаев Интеллектуальная
+школа, г. Астана, Республика Казахстан LK@mail.ru
+
+Тулегулов Амандос Дабысович, к.ф.м.н., асс. профессор, зав. кафедрой
+«Информационные технологии», Казахский университет технологии и бизнеса,
+г. Астана, Республика Казахстан: tud62@yandex.ru
+" 0 59 (fontified t) 59 60 (fontified t face font-lock-keyword-face) 60 85 (fontified t face font-lock-string-face) 85 86 (fontified t face font-lock-keyword-face) 86 260 (fontified t) 260 261 (fontified t face font-lock-keyword-face) 261 286 (fontified t face font-lock-string-face) 286 287 (fontified t face font-lock-keyword-face) 287 609 (fontified t) 609 610 (fontified t face font-lock-keyword-face) 610 635 (fontified t face font-lock-string-face) 635 636 (fontified t face font-lock-keyword-face) 636 731 (fontified t)) . 25123) (undo-tree-id497 . -731) (undo-tree-id498 . -682) (undo-tree-id499 . -731) (undo-tree-id500 . -731) (undo-tree-id501 . -731) (undo-tree-id502 . -731) (undo-tree-id503 . -731) (undo-tree-id504 . -731) (undo-tree-id505 . -731) (undo-tree-id506 . -682) (undo-tree-id507 . -682) (undo-tree-id508 . -682) (undo-tree-id509 . -682) (undo-tree-id510 . -539) (undo-tree-id511 . -415) (undo-tree-id512 . -190) (t 25752 47288 689692 548000)) nil (25753 47210 966859 825000) 0 nil])
+([nil nil ((24300 . 25137) (#("Akishev Karshyga Maksutovich, Candidate of Technical Sciences, Ass.
+Professor, Department of \"Information Technology\", Kazakh University of
+Technology and Business, Astana, Republic of
+Kazakhstan:email:akmail04cx@mail.ru
+
+Karpov Valery Ivanovich, Doctor of Technical Sciences, Professor,
+Department of Information Technology, Moscow State University of
+Technology and Management named after K.G. Razumovsky, Moscow, Russia
+:email:Vikarp@mail.ru
+
+Akisheva Lenara Karshygaevna, 7th grade student of Nazarbayev
+Intellectual School, Astana, Republic of Kazakhstan email:LK@mail.ru
+
+Tulegulov Amandos Dabysovich, Ph.D., Ass. Professor, Head of the
+Department of \"Information Technology\", Kazakh University of Technology
+and Business, Astana, Republic of Kazakhstan email:tud62@yandex.ru
+" 0 578 (fontified t) 578 643 (fontified t) 643 715 (fontified t) 715 782 (fontified t)) . 24300) (undo-tree-id489 . -782) (undo-tree-id490 . -715) (undo-tree-id491 . -715) (undo-tree-id492 . -782) (undo-tree-id493 . -715) (undo-tree-id494 . -715) (undo-tree-id495 . -715) (undo-tree-id496 . -643)) nil (25753 47210 966848 441000) 0 nil])
+([nil nil ((24043 . 24044)) nil (25753 47210 966695 629000) 0 nil])
+([nil nil ((22034 . 24316) (#("1. Akishev K and other. Mathematical formulation and the problem
+solution of clustering recipes of concrete mixtures using technogenic
+waste waste and slags of metallurgical enterprises.-- Метаllurjia. -
+2022. - 61(1)213-216. Zagreb, p.321.
+
+2. Electronicresource
+:URL:\\href{https://www.google.com/url?sa=t\\&source=web\\&rct=\\%20j\\&url=https://trends.rbc.ru}{https://www.google.com/url?sa=t\\&source=web\\&rct=
+j\\&url=https://trends.rbc.ru}/trends/amp/news/61b359739a7947c7376ef7ce\\&ved
+=2ahUKEwi8t6 uloOj-AhWPxosKHaboDG4QFnoECCAQAQ\\&usg=
+AOvVaw2QeUcHkOYOZ3RdPy3Sttjx -Date of application 12.05.2023.
+
+3. Electronic
+resource:URL:\\url{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}
+- Date of application 12.05.2023.
+
+4. Electronic
+resource:URL:\\url{https://etu.ru/assets/files/nauka/}dissertacii /2009
+/SIElizarov.doc. -date of application 12.05.2023.
+
+5. Electronicresource:
+URL:\\url{https://elibrary.ru/item.asp?id=45420956} - Date of application
+12.05.2023.
+
+6. Electronicresource :URL:\\url{https://habr.com/ru/articles/322034/}
+-Date of application 12.05.2023.
+
+7. Electronic resource:URL:
+\\url{http://pzs.dstu.dp.ua/DataMining/cluster/bibl/\\%25}D0\\% 9A
+\\%D0\\%9B\\%D0\\%90\\%D0\\%A1\\%D0\\%A2\\%D0\\%95\\%D0\\%A0\\%D0\\%98\\%D0\\%97\\%D0\\%90\\%D0\\%A6\\%D0\\%98\\%D0\\%AF\\%20\\%D0\\%9E\\%D0\\%91\\%D0\\%AA\\%D0\\%95\\%D0\\%9A\\%D0\\%A2\\%D0\\%9E\\%D0\\%92\\%20\\%D0\\%A1\\%20\\%D0\\%9F\\%D0\\%9E\\%D0\\%9C\\%D0\\%9E\\%D0\\%A9\\%D0\\%AC\\%D0\\%AE\\%20\\%D0\\%90\\%D0\\%9B\\%D0\\%93\\%D0\\%9E\\%D0\\%A0\\%D0\\%98\\%D0\\%A2\\%D0\\%9C\\%D0\\%90\\%20DBSCAN.pdf
+- Date of application 12.05.2023{]}
+
+8. Electronicresource: URL:
+\\url{https://www.math.spbu.ru/SD_AIS/documents/2014-05-341/2014-05-tw11.pdf}
+-Date of application 12.05.2023.
+
+9. Electronicresource:URL:
+\\url{https://core.ac.uk/download/pdf/196226625.pdf} - date of
+application 12.05.2023.
+
+10. Electronic resource :URL: Ortiz-Arroyo D. Discovering Sets of Key
+Players in Social Networks // Computational Social Networks Analysis. --
+2010 -- C. 27-47 {[}Date of application 12.05.2023.
+
+11. Electronic resource:URL:
+\\href{https://kpfu.ru/portal/docs/F_1980845423/161_3\\%20_phys\\%20_mat_8.pdf}{https://kpfu.ru/portal/docs/F\\_1980845423/161\\_3
+\\_phys \\_mat\\_8.pdf} - Date of application 12.05.2023.
+" 0 35 (fontified t) 35 42 (fontified t) 42 65 (fontified t) 65 110 (fontified t) 110 112 (fontified t) 112 124 (fontified t) 124 126 (fontified t) 126 135 (fontified t) 135 138 (fontified t) 138 204 (fontified t) 204 241 (fontified t) 241 244 (fontified t) 244 263 (fontified t) 263 264 (fontified t) 264 269 (fontified t) 269 274 (fontified t face font-lock-keyword-face) 274 291 (fontified t) 291 306 (fontified t) 306 308 (fontified t face font-lock-keyword-face) 308 318 (fontified t) 318 320 (fontified t face font-lock-keyword-face) 320 324 (fontified t) 324 326 (fontified t face font-lock-keyword-face) 326 329 (fontified t) 329 331 (fontified t face font-lock-keyword-face) 331 342 (fontified t) 342 354 (fontified t) 354 389 (fontified t) 389 391 (fontified t face font-lock-keyword-face) 391 401 (fontified t) 401 403 (fontified t face font-lock-keyword-face) 403 408 (fontified t) 408 409 (fontified t) 409 411 (fontified t face font-lock-keyword-face) 411 430 (fontified t) 430 478 (fontified t) 478 480 (fontified t face font-lock-keyword-face) 480 484 (fontified t) 484 529 (fontified t) 529 531 (fontified t face font-lock-keyword-face) 531 626 (fontified t) 626 630 (fontified t face font-lock-keyword-face) 630 631 (fontified t) 631 715 (fontified t face tex-verbatim) 715 737 (fontified t) 737 751 (fontified t) 751 779 (fontified t) 779 783 (fontified t face font-lock-keyword-face) 783 784 (fontified t) 784 818 (fontified t face tex-verbatim) 818 915 (fontified t) 915 919 (fontified t face font-lock-keyword-face) 919 920 (fontified t) 920 960 (fontified t face tex-verbatim) 960 1024 (fontified t) 1024 1028 (fontified t face font-lock-keyword-face) 1028 1029 (fontified t) 1029 1065 (fontified t face tex-verbatim) 1065 1067 (fontified t) 1067 1129 (fontified t) 1129 1133 (fontified t face font-lock-keyword-face) 1133 1134 (fontified t) 1134 1184 (fontified t face tex-verbatim) 1184 1187 (fontified t) 1187 1189 (fontified t face font-lock-keyword-face) 1189 1193 (fontified t) 1193 1195 (fontified t face font-lock-keyword-face) 1195 1197 (fontified t) 1197 1199 (fontified t face font-lock-keyword-face) 1199 1201 (fontified t) 1201 1203 (fontified t face font-lock-keyword-face) 1203 1205 (fontified t) 1205 1207 (fontified t face font-lock-keyword-face) 1207 1209 (fontified t) 1209 1211 (fontified t face font-lock-keyword-face) 1211 1213 (fontified t) 1213 1215 (fontified t face font-lock-keyword-face) 1215 1217 (fontified t) 1217 1219 (fontified t face font-lock-keyword-face) 1219 1221 (fontified t) 1221 1223 (fontified t face font-lock-keyword-face) 1223 1225 (fontified t) 1225 1227 (fontified t face font-lock-keyword-face) 1227 1229 (fontified t) 1229 1231 (fontified t face font-lock-keyword-face) 1231 1233 (fontified t) 1233 1235 (fontified t face font-lock-keyword-face) 1235 1237 (fontified t) 1237 1239 (fontified t face font-lock-keyword-face) 1239 1241 (fontified t) 1241 1243 (fontified t face font-lock-keyword-face) 1243 1245 (fontified t) 1245 1247 (fontified t face font-lock-keyword-face) 1247 1249 (fontified t) 1249 1251 (fontified t face font-lock-keyword-face) 1251 1253 (fontified t) 1253 1255 (fontified t face font-lock-keyword-face) 1255 1257 (fontified t) 1257 1259 (fontified t face font-lock-keyword-face) 1259 1261 (fontified t) 1261 1263 (fontified t face font-lock-keyword-face) 1263 1265 (fontified t) 1265 1267 (fontified t face font-lock-keyword-face) 1267 1269 (fontified t) 1269 1271 (fontified t face font-lock-keyword-face) 1271 1273 (fontified t) 1273 1275 (fontified t face font-lock-keyword-face) 1275 1277 (fontified t) 1277 1279 (fontified t face font-lock-keyword-face) 1279 1281 (fontified t) 1281 1283 (fontified t face font-lock-keyword-face) 1283 1285 (fontified t) 1285 1287 (fontified t face font-lock-keyword-face) 1287 1289 (fontified t) 1289 1291 (fontified t face font-lock-keyword-face) 1291 1293 (fontified t) 1293 1295 (fontified t face font-lock-keyword-face) 1295 1297 (fontified t) 1297 1299 (fontified t face font-lock-keyword-face) 1299 1301 (fontified t) 1301 1303 (fontified t face font-lock-keyword-face) 1303 1305 (fontified t) 1305 1307 (fontified t face font-lock-keyword-face) 1307 1309 (fontified t) 1309 1311 (fontified t face font-lock-keyword-face) 1311 1313 (fontified t) 1313 1315 (fontified t face font-lock-keyword-face) 1315 1317 (fontified t) 1317 1319 (fontified t face font-lock-keyword-face) 1319 1321 (fontified t) 1321 1323 (fontified t face font-lock-keyword-face) 1323 1325 (fontified t) 1325 1327 (fontified t face font-lock-keyword-face) 1327 1329 (fontified t) 1329 1331 (fontified t face font-lock-keyword-face) 1331 1333 (fontified t) 1333 1335 (fontified t face font-lock-keyword-face) 1335 1337 (fontified t) 1337 1339 (fontified t face font-lock-keyword-face) 1339 1341 (fontified t) 1341 1343 (fontified t face font-lock-keyword-face) 1343 1345 (fontified t) 1345 1347 (fontified t face font-lock-keyword-face) 1347 1349 (fontified t) 1349 1351 (fontified t face font-lock-keyword-face) 1351 1353 (fontified t) 1353 1355 (fontified t face font-lock-keyword-face) 1355 1357 (fontified t) 1357 1359 (fontified t face font-lock-keyword-face) 1359 1361 (fontified t) 1361 1363 (fontified t face font-lock-keyword-face) 1363 1365 (fontified t) 1365 1367 (fontified t face font-lock-keyword-face) 1367 1369 (fontified t) 1369 1371 (fontified t face font-lock-keyword-face) 1371 1373 (fontified t) 1373 1375 (fontified t face font-lock-keyword-face) 1375 1377 (fontified t) 1377 1379 (fontified t face font-lock-keyword-face) 1379 1381 (fontified t) 1381 1383 (fontified t face font-lock-keyword-face) 1383 1385 (fontified t) 1385 1387 (fontified t face font-lock-keyword-face) 1387 1389 (fontified t) 1389 1391 (fontified t face font-lock-keyword-face) 1391 1393 (fontified t) 1393 1395 (fontified t face font-lock-keyword-face) 1395 1397 (fontified t) 1397 1399 (fontified t face font-lock-keyword-face) 1399 1401 (fontified t) 1401 1403 (fontified t face font-lock-keyword-face) 1403 1405 (fontified t) 1405 1407 (fontified t face font-lock-keyword-face) 1407 1409 (fontified t) 1409 1411 (fontified t face font-lock-keyword-face) 1411 1413 (fontified t) 1413 1415 (fontified t face font-lock-keyword-face) 1415 1417 (fontified t) 1417 1419 (fontified t face font-lock-keyword-face) 1419 1421 (fontified t) 1421 1423 (fontified t face font-lock-keyword-face) 1423 1425 (fontified t) 1425 1427 (fontified t face font-lock-keyword-face) 1427 1429 (fontified t) 1429 1431 (fontified t face font-lock-keyword-face) 1431 1433 (fontified t) 1433 1435 (fontified t face font-lock-keyword-face) 1435 1437 (fontified t) 1437 1439 (fontified t face font-lock-keyword-face) 1439 1441 (fontified t) 1441 1443 (fontified t face font-lock-keyword-face) 1443 1445 (fontified t) 1445 1447 (fontified t face font-lock-keyword-face) 1447 1449 (fontified t) 1449 1451 (fontified t face font-lock-keyword-face) 1451 1453 (fontified t) 1453 1455 (fontified t face font-lock-keyword-face) 1455 1457 (fontified t) 1457 1459 (fontified t face font-lock-keyword-face) 1459 1461 (fontified t) 1461 1463 (fontified t face font-lock-keyword-face) 1463 1465 (fontified t) 1465 1467 (fontified t face font-lock-keyword-face) 1467 1469 (fontified t) 1469 1471 (fontified t face font-lock-keyword-face) 1471 1473 (fontified t) 1473 1475 (fontified t face font-lock-keyword-face) 1475 1477 (fontified t) 1477 1479 (fontified t face font-lock-keyword-face) 1479 1481 (fontified t) 1481 1483 (fontified t face font-lock-keyword-face) 1483 1485 (fontified t) 1485 1487 (fontified t face font-lock-keyword-face) 1487 1489 (fontified t) 1489 1491 (fontified t face font-lock-keyword-face) 1491 1493 (fontified t) 1493 1495 (fontified t face font-lock-keyword-face) 1495 1497 (fontified t) 1497 1499 (fontified t face font-lock-keyword-face) 1499 1501 (fontified t) 1501 1503 (fontified t face font-lock-keyword-face) 1503 1505 (fontified t) 1505 1507 (fontified t face font-lock-keyword-face) 1507 1585 (fontified t) 1585 1589 (fontified t face font-lock-keyword-face) 1589 1590 (fontified t) 1590 1660 (fontified t face tex-verbatim) 1660 1723 (fontified t) 1723 1727 (fontified t face font-lock-keyword-face) 1727 1728 (fontified t) 1728 1773 (fontified t face tex-verbatim) 1773 2005 (fontified t) 2005 2006 (fontified t) 2006 2035 (fontified t) 2035 2040 (fontified t face font-lock-keyword-face) 2040 2071 (fontified t) 2071 2072 (display (raise -0.2) fontified t face (subscript)) 2072 2086 (fontified t) 2086 2087 (display (raise -0.2) fontified t face (subscript)) 2087 2089 (fontified t face font-lock-keyword-face) 2089 2092 (fontified t) 2092 2093 (display (raise -0.2) fontified t face (subscript)) 2093 2096 (fontified t) 2096 2098 (fontified t face font-lock-keyword-face) 2098 2101 (fontified t) 2101 2102 (display (raise -0.2) fontified t face (subscript)) 2102 2105 (fontified t) 2105 2106 (display (raise -0.2) fontified t face (subscript)) 2106 2141 (fontified t) 2141 2143 (fontified t face font-lock-keyword-face) 2143 2157 (fontified t) 2157 2159 (fontified t face font-lock-keyword-face) 2159 2161 (fontified t) 2161 2163 (fontified t face font-lock-keyword-face) 2163 2168 (fontified t) 2168 2170 (fontified t face font-lock-keyword-face) 2170 2173 (fontified t) 2173 2175 (fontified t face font-lock-keyword-face) 2175 2216 (fontified t)) . -22034) (undo-tree-id432 . 206) (undo-tree-id433 . -2161) (undo-tree-id434 . -1956) (undo-tree-id435 . -2161) (undo-tree-id436 . -1067) (undo-tree-id437 . -2006) (undo-tree-id438 . -2161) (undo-tree-id439 . -2161) (undo-tree-id440 . -2161) (undo-tree-id441 . -2161) (undo-tree-id442 . -2009) (undo-tree-id443 . -2009) (undo-tree-id444 . -2009) (undo-tree-id445 . -2009) (undo-tree-id446 . -2009) (undo-tree-id447 . -2009) (undo-tree-id448 . -2005) (undo-tree-id449 . -2005) (undo-tree-id450 . -2005) (undo-tree-id451 . -2005) (undo-tree-id452 . -2005) (undo-tree-id453 . -2005) (undo-tree-id454 . -1956) (undo-tree-id455 . -1070) (undo-tree-id456 . -720) (undo-tree-id457 . -720) (undo-tree-id458 . -720) (undo-tree-id459 . -598) (undo-tree-id460 . -598) (undo-tree-id461 . -241) (undo-tree-id462 . -598) (undo-tree-id463 . -241) (undo-tree-id464 . -241) (undo-tree-id465 . -241) (undo-tree-id466 . -241) (undo-tree-id467 . -241) (undo-tree-id468 . -241) (undo-tree-id469 . -2216) (undo-tree-id470 . -2161) (undo-tree-id471 . -241) (undo-tree-id472 . -598) (undo-tree-id473 . -751) (undo-tree-id474 . -887) (undo-tree-id475 . -996) (undo-tree-id476 . -1100) (undo-tree-id477 . -1100) (undo-tree-id478 . -1129) (undo-tree-id479 . -1556) (undo-tree-id480 . -1585) (undo-tree-id481 . -1695) (undo-tree-id482 . -1723) (undo-tree-id483 . -1809) (undo-tree-id484 . -2005) (undo-tree-id485 . -2161) (undo-tree-id486 . -2161) (undo-tree-id487 . -2161) (undo-tree-id488 . -2216) 24250) nil (25753 47210 966688 156000) 0 nil])
+([nil nil ((#("{" 0 1 (fontified t)) . 23626) (undo-tree-id526 . 1) (undo-tree-id527 . -1) (undo-tree-id528 . -1) (undo-tree-id529 . -1) (undo-tree-id530 . -1) (undo-tree-id531 . -1) (t 25753 47210 970493 737000)) nil (25753 47255 921785 682000) 0 nil])
+([nil nil ((#("]" 0 1 (fontified t)) . 23626) (undo-tree-id517 . -1) (undo-tree-id518 . -1) (undo-tree-id519 . -1) (undo-tree-id520 . -1) (undo-tree-id521 . -1) (undo-tree-id522 . 1) (undo-tree-id523 . -1) (undo-tree-id524 . -1) (undo-tree-id525 . -1)) nil (25753 47255 921779 116000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . 23626) (undo-tree-id513 . 1) (undo-tree-id514 . -1) (undo-tree-id515 . -1) (undo-tree-id516 . -1)) nil (25753 47255 921770 37000) 0 nil])
+([nil nil ((23626 . 23627)) nil (25753 47255 921754 672000) 0 nil])
+([nil current ((#("
+" 0 1 (fontified t)) . 24364) (undo-tree-id532 . -1) (undo-tree-id533 . -1) (t 25753 47255 926913 708000)) nil (25753 47259 453658 451000) 0 nil])
 nil
