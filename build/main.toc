@@ -1,0 +1,17 @@
+\selectlanguage *{russian}
+\contentsline {chapter}{\numberline {1}Информационно-коммуникационные и химические технологии}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}ПРИМЕНЕНИЕ ИНТЕЛЛЕКТУЛЬНЫХ СИСТЕМ ПОЖАРНОЙ БЕЗОПАСНОСТИ В УМНЫХ ГОРОДАХ}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}DATAMINING CAPABILITIES FOR CLUSTERING CONCRETE MIX FORMULATIONS}{19}{section.1.2}%
+\contentsline {section}{\numberline {1.3}EXPLORING THE USE OF ELECTRONIC MEDICAL RECORDS FOR PATIENTS}{28}{section.1.3}%
+\contentsline {section}{\numberline {1.4}ХОЛЕКАЛЬЦИФЕРОЛДЫҢ ОЛИГОҚАНТПЕН СУДА ЕРИТІН КЕШЕНІН АЛУ}{35}{section.1.4}%
+\contentsline {section}{\numberline {1.5}КИНЕТИКА ТЕРМИЧЕСКОЙ ДЕСТРУКЦИИ УГЛЯ МЕСТОРОЖДЕНИЯ КИЯКТЫ}{47}{section.1.5}%
+\contentsline {section}{\numberline {1.6}VOLTAMMETRIC STUDY OF THE CATHODIC BEHAVIOR OF COPPER, NICKEL AND ZINC IONS IN AMMONIA SOLUTIONS}{55}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Производственные и обрабатывающие отрасли}{64}{chapter.2}%
+\contentsline {section}{\numberline {2.1}СПРОС НАСЕЛЕНИЯ НА ЗЕРНОВЫЕ НАПИТКИ В РК}{64}{section.2.1}%
+\contentsline {section}{\numberline {2.2}SAFETY STUDY OF UZBEKISTAN FRESHWATER FISH AND THEIR CANNED FISH}{73}{section.2.2}%
+\contentsline {section}{\numberline {2.3}OПPEДEЛEНИE OПТИМAЛЬНOЙ ДOЗЫ ВНOCИМЫХ ИНКAПCУЛИPOВAННЫХ БАД В КИCЛOМOЛOЧНЫЙ ПPOДУКТ}{81}{section.2.3}%
+\contentsline {section}{\numberline {2.4}НАПРАВЛЕНИЯ ПОВЫШЕНИЯ ЭНЕРГОЭФФЕКТИВНОСТИ НА ОТКРЫТЫХ РАЗРАБОТКАХ МЕСТОРОЖДЕНИЙ ПОЛЕЗНЫХ ИСКОПАЕМЫХ}{87}{section.2.4}%
+\contentsline {section}{\numberline {2.5}ТАУ-КЕН ӨНЕРКӘСІБІНЕ АРНАЛҒАН ДИСПЕТЧЕРЛІК-ТАЛДАМАЛЫҚ ЖҮЙЕ}{98}{section.2.5}%
+\contentsline {section}{\numberline {2.6}THE INFLUENCE OF TECHNOGENIC FACTORS ON THE EFFECTIVE COMBINED DEVELOPMENT OF ORE DEPOSITS}{106}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Экономика, бизнес и услуги}{115}{chapter.3}%
+\contentsline {section}{\numberline {3.1}MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKHSTAN: ASSESSMENT AND PROSPECTS FOR IMPROVEMENT}{115}{section.3.1}%

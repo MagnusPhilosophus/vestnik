@@ -1,0 +1,2215 @@
+(undo-tree-save-format-version . 1)
+"7e9f3f6bf8ff381897bd65b18994f4df5b0374da"
+[nil nil nil nil (25756 19618 743227 345000) 0 nil]
+([nil nil ((#("\\begin{quote}
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (fontified t latex-env-pair t) 7 12 (fontified t latex-env-pair t face font-lock-function-name-face) 12 13 (fontified t latex-env-pair t) 13 14 (fontified t)) . 18544) (undo-tree-id8 . -8) (undo-tree-id9 . -13) 18552 (t 25756 18639 461735 803000)) nil (25756 19618 743224 62000) 0 nil])
+([nil nil ((#("\\end{quote}
+" 0 4 (fontified t face font-lock-keyword-face) 4 5 (fontified t latex-env-pair t) 5 10 (fontified t latex-env-pair t face font-lock-function-name-face) 10 11 (fontified t latex-env-pair t) 11 12 (fontified t)) . 18654) (undo-tree-id6 . -8) (undo-tree-id7 . -11) 18662) nil (25756 19618 743219 802000) 0 nil])
+([nil nil ((#("SRSTI 52.13.05
+
+\\textbf{THE INFLUENCE OF TECHNOGENIC FACTORS ON THE EFFECTIVE}
+
+\\textbf{COMBINED DEVELOPMENT OF ORE DEPOSITS}
+
+\\textbf{M.B. Baizbayev\\textsuperscript{1*}, S.B.
+Aliyev\\textsuperscript{2}, A.D. Shontayev\\textsuperscript{3}, D.D.
+Meiram\\textsuperscript{3}, E.K. Karzhauova\\textsuperscript{3}}
+
+\\textbf{\\textsuperscript{1,3}} Kazakh University of Technology and
+Business, Astana, Kazakhstan Institute of Problems
+
+of Complex Development of Subsoil named after academic N.V.Melnikov
+(IPKON RAN), Moscow, Russian Federation,
+
+\\begin{quote}
+e-mail: \\href{mailto:baiz76@mail.ru}{\\nolinkurl{baiz76@mail.ru}}
+\\end{quote}
+
+The predominant field of application of the complex open-underground
+method is extended steep--falling deposits with a homogeneous nature of
+mineralization. The main factors influencing the choice of a specific
+technological scheme are the capacity of the deposit, the value of the
+ore and the stability of the array. The complexity of solving
+geomechanical problems determines the main factors of choosing an
+open-underground technology -- the state of the treatment space and the
+way to control the state of the array.
+
+\\textbf{Keywords:} combined geotechnology, technogenic space, mountain
+range, deformation, geomechanical processes.
+
+\\textbf{РУДАЛЫҚ КЕН ОРЫНДАРЫН ТИІМДІ АРАЛАС ИГЕРУГЕ}
+
+\\begin{quote}
+\\textbf{ТЕХНОГЕНДІК ФАКТОРЛАРДЫҢ ӘСЕРІ}
+\\end{quote}
+
+\\textbf{М.Б Баизбаев\\textsuperscript{1*}, С.Б.Алиев\\textsuperscript{2},
+А.Ж.Шонтаев\\textsuperscript{3}, Д.Д.Мейрам\\textsuperscript{3}, Э.К.
+Қаржауова\\textsuperscript{3}}
+
+\\textbf{\\textsuperscript{1,3}}Қазақ технология және бизнес университеті,
+Астана, Қазақстан
+
+\\textbf{\\textsuperscript{2}}Ресей ғылым академиясы акад. Н.В.Мельников
+атындағы Жер қойнауын
+
+кешенді игеру мәселелерінің институты (ИПКОН РАН), Мәскеу, Ресей
+Федерациясы,
+
+e-mail: \\href{mailto:baiz76@mail.ru}{\\nolinkurl{baiz76@mail.ru}}
+
+Күрделі ашық жерасты әдісін қолданудың басым саласы біркелкі минералдану
+үлгісімен созылған тік шөгінді кен орындары болып табылады. Нақты
+технологиялық схеманы таңдауға әсер ететін негізгі факторларға кен
+орнының қалыңдығы, кеннің құндылығы және массивтің тұрақтылығы жатады.
+Геомеханикалық есептерді шешудің күрделілігі ашық жер асты технологиясын
+таңдаудың негізгі факторларын анықтайды - өндіріс аймағының жағдайы және
+массивтің күйін басқару әдісі.
+
+\\textbf{Туйін сөздер:} \\emph{~}аралас геотехнология, техногендік
+кеңістік, тау-кен массиві, деформация, геомеханикалық процестер.
+
+\\textbf{ВЛИЯНИЕ ТЕХНОГЕННЫХ ФАКТОРОВ НА ЭФФЕКТИВНУЮ}
+
+\\textbf{КОМБИНИРОВАННУЮ РАЗРАБОТКУ РУДНЫХ МЕСТОРОЖДЕНИЙ}
+
+\\textbf{М.Б.Баизбаев\\textsuperscript{1*}, С.Б.Алиев\\textsuperscript{2},
+А.Д.Шонтаев\\textsuperscript{3}, Д.Д.Мейрам\\textsuperscript{3},
+Э.К.Каржауова\\textsuperscript{3}}
+
+Казахский университет технологии и бизнеса, Астана, Казахстан,
+
+Институт проблем комплексного освоения недр имени акад. Н.В.Мельникова
+
+Российской академии наук (ИПКОН РАН),
+
+e-mail: \\href{mailto:baiz76@mail.ru}{\\nolinkurl{baiz76@mail.ru}}
+
+Преимущественная область применения комплексного открыто-подземного
+способа -- протяженные крутопадающие месторождения с однородным
+характером оруденения. Основными факторами, влияющими на выбор
+конкретной технологической схемы, являются мощность залежи, ценность
+руды и устойчивость массива. Сложность решения геомеханических задач
+определяет основные факторы выбора открыто-подземной технологии --
+состояние очистного пространства и способ управления состоянием массива.
+
+\\textbf{Ключевые слова:} комбинированная геотехнология, техногенное
+пространство, горный массив, деформация, геомеханические процессы.
+
+\\textbf{Introduction.} A characteristic feature of the combined
+development is the presence of quarry and underground treatment spaces
+located in the immediate vicinity. The combination of open-pit and
+underground operations or the transition from open-pit mining to the
+underground method highlights the geomechanical aspects of the choice of
+technological schemes and development parameters. This is due to the
+need for joint assessments of the state of the mountain range near
+underground workings and the side-worked sides of the quarry. The
+presence of a technogenic space formed by an open mining method
+significantly complicates the geomechanical situation in the zone of
+underground work, changing the stress-strain state of elements of
+underground mining systems, creating zones of concentration and stress
+relief. On the other hand, the presence of extensive underground
+mined-out spaces leads to the softening and destruction of the rocks of
+the overlying massif, reducing the stability of the sides of the
+quarries, supporting and dividing pillars. Forecasting the behavior of
+the rock massifs being worked on, assessing the stability of outcrops,
+determining rational technological parameters of development in this
+case can be based only on the study of geomechanical processes occurring
+in the zone of mutual influence of underground and open-pit works.
+Prerequisites for the successful solution of the problems of combined
+development, ensuring its effectiveness is achieved by knowing the
+patterns of distribution of stresses, deformations, displacements formed
+in the array during the operation of the field in a combined way.
+Research in these areas is a methodological basis for substantiating the
+parameters of combined technologies, such as rational opening and
+preparation schemes, reliable methods for managing the state of the
+arrays being worked on {[}1{]}.
+
+Carrying out underground mining operations in the zone of influence of
+the quarry (under the bottom and in the sides) causes a redistribution
+of stresses in the developed array. The change in the stress state of
+the rock mass causes, in turn, the redistribution of values and the
+direction of action of the shifting and holding forces.
+
+The degree of softening of rocks as a result of mining can be different
+and depends on the specific conditions of the deposit: the intensity of
+structural fragmentation of the massif; orientation of the weakening
+planes relative to underground treatment workings and quarry elements;
+the initial strength of the massif; the stage of development of the zone
+of displacement of the degree of mining of the massif; the speed of
+mining, etc {[}2{]}.
+
+The influence of the technogenic space formed by the quarry on
+underground mining operations was also studied in order to determine the
+preferred order and direction of mining development in the transition
+zone of the deposit. Variants of the direction of development of
+underground works from the massif to the slope and from the slope to the
+array were investigated. The direction of development of underground
+mining vertically does not have a significant impact on the formation of
+stress fields in the underworked board. In order to intensify the work
+and ensure the stability of the sides, on the first underground horizon
+at the base of the quarry, it is preferable to develop reserves with
+division into panels, continuous excavation of reserves.
+
+The factors determining the use of open-underground technology in the
+fields are: the joint use of mine workings for transportation and
+drainage; the most complete development of the reserves of the deposit;
+the use of waste rocks as a laying material with a simplified scheme of
+feeding them into the mine. The factors limiting the use of this method
+are disadvantages: the need to reduce the seismic impact of quarry and
+underground explosions on the quarry massif; difficult conditions for
+ventilation of mine workings.
+
+\\textbf{Materials and methods.} The open-underground mining of deposits
+is characterized by a number of features that determine the conditions
+of mining operations {[}3{]}.
+
+First, under the influence of underground work, rock movements and
+subsidence of the surface are likely. One of the conditions for choosing
+underground mining systems during joint work is the need for permanent
+and temporary preservation of the stability of the array. The choice of
+the development system depends on the specific mining and geological
+conditions and the possibility of providing a reliable guarantee of work
+safety.
+
+Secondly, the mutual influence of blasting operations in a quarry and in
+an underground mine introduces restrictions and should be taken into
+account when drawing up plans, calculating BVR passports.
+
+The third is that the joint technology of conducting underground and
+open-pit work requires special organization of labor at quarry ore
+outlets underground and at drainage works.
+
+Fourth, the high responsibility and complexity of solving geomechanical
+tasks imply: calculation of the parameters of safe berms between open
+and underground works; assessment of the thickness of the ceiling over
+individual sections of the worked-out space; calculation of the
+parameters of the supporting pillars and the strength of the hardening
+bookmark; determination of the permissible area of horizontal exposure
+of the roof of the cleaning space; assessment of the stability of the
+sides of the quarry being worked by underground workings.
+
+Currently, in most methods of assessing the stability of slopes, only
+the matching stresses due to the action of gravitational forces are
+taken into account, and the maximum height of the slope is found by
+solving the equation of equilibrium of holding and shifting forces along
+the selected sliding surface in the vertical plane. The value of the
+stability coefficient of the side depends on the presence of natural
+tectonic forces in the rock mass, the ratio of the elastic
+characteristics of the rocks composing the mountain range, the ratio of
+the geometric dimensions of the quarry.
+
+This leads to great economic damage and aggravation of the environmental
+situation in the regions of developed mining production.
+
+Further development of the open method of development, especially in the
+central and southern regions of the country, will be associated with the
+continuation of the seizure of valuable land. Simultaneously with the
+increase in the depth of quarries, there is a progressive increase in
+the volume of stripping and the cost of ore extraction.
+
+An important direction in the development of mineral extraction, which
+allows to reduce the influence of these negative factors and increase
+the efficiency of mining operations, is the integrated development of
+mineral resources. One of the ways to implement this direction is the
+most effective combination (complex) of various technologies and
+techniques during the operation of the field.
+
+With this method, when open-pit mining reaches the final design depth
+(Figure 1 a) on one of the flanks of the deposit, they continue to
+develop horizontally towards the center of the deposit. After the
+working side of the quarry moves 150-200 m, in the immediate vicinity of
+the end part of the non-working side, a rising one passes, which
+connects the bottom of the quarry with the pre-designed workings of the
+underground horizon. With a series of vertical wells, the rising is
+expanded into a cut-off slot located across the stretch of the ore body
+at its full capacity. The underlying stratum (open-underground tier) is
+drilled to the full height from the bottom of the quarry and collapsed
+following the advance of the front of the open works with the subsequent
+issuance of ore mass through underground workings. Reserves of deeper
+horizons are worked out underground by a floor-chamber system or a
+system of floor forced collapse. Thus, a single developed space of a
+quarry, an open-underground tier and underground mining is created. It
+is used as a container for placing internal dumps, which, by ensuring
+the loading of the sides of the developed space, increase their
+stability.
+
+At newly developed deposits, it is possible to open the ore horizons of
+the quarry with a complex of underground workings, which are also used
+in the development of the open-underground tier. Due to this, the
+non-working side is freed from transport communications for its use in
+the formation of internal dumps.
+
+The complex open-underground method is also applicable in existing
+quarries, where the implementation of planned production volumes is
+constrained by the backlog of stripping operations and the lack of space
+for the placement of external dumps. In this case, the design boundaries
+of the quarry can be revised and favorable conditions for an earlier
+transition to underground mining can be provided {[}4{]}.
+
+The technology in question has a number of features that determine its
+effectiveness and application prospects. They determined the main
+directions of research.
+
+Geomechanical processes in the combination of open and underground
+mining operations in general, and in the complex open-underground method
+in particular, are characterized by significant heterogeneity of
+stresses and deformations due to the imposition of several stress fields
+on the same section of the massif due to the complicated configuration
+of a single developed space. The stability of the ledge for the basic
+variant (Fig. 1a) was studied by the finite element method in relation
+to the conditions of the Prioskolsky deposit of the Kursk Magnetic
+Anomaly (KMA). The analysis showed that the weakest structural element
+is the cutting zone. The stability of a ledge with a height of 100 m
+with a slope angle of 70 ° can be provided with a margin factor of 1.5
+with the ratio of the area of the pillars in the cutting zone to its
+total area of at least 0.4. The stability of the ledge of a higher
+height is achieved by the exclusion of advanced cutting and the
+formation of exhaust workings with a lag, under the bulk of the
+collapsed ore mass. In this case, a feature of the stress-strain state
+is the formation of a zone of concentration of compressive stresses in
+the lower part of the ledge and a zone of tensile stresses under the
+bottom of the developed space (Figure 1).
+
+\\includegraphics[width=0.8\\textwidth]{image74}
+
+a -- without loading the sides and ledge with rock mass; b -- with
+partial loading of the ledge with broken rock; c -- with the completion
+of deep horizons in an open way without additional separation of the
+sides of the quarry; d, е -- with full loading of the ledge and sides of
+the worked space, respectively, with bottom and end ore release; 1 --
+non-working side of the quarry; 2 -- internal dump; 3 -- ore mass; 4 --
+ledge of the open-underground tier; 5 -- working side of the quarry; 6
+-- parallel descending wells; 7 -- output workings;
+
+8 -- loading of the ledge; 9 -- fan wells
+
+Figure 1 - Principal variants of an integrated open-underground method
+development
+
+With an increase in the height of the open-underground tier and a
+decrease in the width of the upper working area, the zone of
+concentration of compressive stresses expands, and the stresses
+themselves increase, at the same time, the zone of tensile stresses is
+removed from the ledge. Drilling and exhaust workings outside the lower
+part of the ledge and loading a high ledge with a collapsing rock mass
+can reduce the concentration of stresses in the selected zones.
+
+On the basis of the bulk medium model, an analysis of the stability of
+the vertical ledge was carried out {[}5-6{]}. It has been established
+that the stability of an undisturbed vertical ledge composed of
+quartzites is ensured when the beaten ore is loaded, located at the
+angle of the natural slope of its entire surface, with the exception of
+the upper part, at a height equal to the depth of the vertical crack of
+separation. Studies carried out by the laboratory of Rock Pressure
+Problems of the IPKON RAN on the example of the Annovsky deposit have
+shown that the loading of a high ledge ensures its stability even in the
+presence of unfavorably oriented cracks in the array. In contrast to the
+periodically (once every 1-2 months) collapsed ledge, the stability of
+the sides of the developed space must be ensured during the entire life
+of the transition zone.
+
+The study of stress fields in the sides of the open-underground tier for
+the conditions of the Annovsky deposit was carried out using the
+polarization-optical method. It is established that at the height of the
+tier 100-120 m, the stability of the unloaded sides of the developed
+space is achieved at their slope angle of no more than 70°. The
+dependence of the safe slope angles of the ab sides (degree) on the
+height of the open-underground tier, taking into account the strength of
+the K\\textsubscript{k} rocks, can be represented as
+
+\\(a_{\\delta} = \\text{arcctgK}_{к} \\cdot H_{я}\\text{.}\\) (1)
+
+The flattening of the sides of the worked-out space as the depth of the
+worked-out space increases leads to the fact that the width of its
+bottom gradually decreases. At the maximum height of the tier, the
+section of the developed space takes the shape of a triangle (Figure 2).
+This height Н\\textsubscript{maх} (m) depends on the thickness of the
+deposit M
+
+\\(H_{\\text{max}} = \\sqrt{\\frac{M}{2K_{k}}}\\text{.}\\) (2)
+
+\\includegraphics[width=0.8\\textwidth]{image75}
+
+Н\\textsubscript{y} -- the height of the open-underground tier;
+Н\\textsubscript{o} -- the depth of the completion of reserves in an open
+way without spreading the sides of the quarry; α\\textsubscript{к} -- the
+angle of the slope of the sides of the quarry during completion;
+В\\textsubscript{к} -- the width of the bottom of the quarry;
+α\\textsubscript{b} -- the angle of the slope of the sides of the
+worked-out space of the open-underground tier; m\\textsubscript{я} -- the
+width of the bottom of the worked-out space; Н\\textsubscript{maх} -- the
+maximum possible height of the open-underground tier
+
+Figure 2 - Change in the cross-section of the developed space with
+options involving the flattening of its sides with an increase in the
+height of the tier
+
+The maximum cross-sectional area of the developed space and,
+accordingly, the largest volume of reserves in the open-underground tier
+corresponds to its height equal to 0.8 H\\textsubscript{max}.
+
+The necessary stability of the developed space in the period between the
+end of ore release and the beginning of internal dumping is provided by
+the choice of a safe angle of slope of the sides, which requires the
+abandonment of ore triangles; their volume increases with the height of
+the open-underground tier and the decrease in the angle of incidence of
+the ore body.
+
+Reduction of ore losses in triangles can be achieved by constant and
+complete loading of the sides of the worked-out space with rock mass.
+The possibilities of controlling the stability of the array in this case
+were considered using numerical modeling of its stress-strain state by
+the finite element method on the example of the Tarynnakh iron ore
+deposit. It is established that the factors that have the greatest
+impact on the stability of the hanging side are the height of the
+open-underground tier and the angle of incidence of the ore body.
+Stability is maintained at an angle from 60 to 90° and a tier height of
+about 80-100 m. At the same time, the zones of possible local
+destruction and cracking are located in the lower part of the side of
+the quarry from the hanging side and in its upper part from the
+recumbent side. However, the presence of such zones does not violate the
+stability of the system as a whole.
+
+\\textbf{Results and discussion.} The results of the assessment of the
+geomechanical state of the massif made it possible to form three main
+options for complex open-underground mining, differing in the way of
+ensuring the stability of the ledge and the sides of the developed
+space.
+
+The first option provides for the complete release of ore after each
+cycle of stripping, leaving only a small ore cushion (Figure 3, a). The
+stability of the ledge and the sides of the worked-out space, which are
+in an unloaded state for a certain time, is ensured by giving them safe
+slope angles. The inner dump is formed with a lag from the ledge without
+contact of the waste rock with the ore mass. At the same time, free
+bottom release of ore is carried out over the entire area occupied by
+the recaptured ore. This option, according to geomechanical conditions,
+ensures the creation of an open-underground tier with a maximum height
+of 80-100 m using quarry machines for drilling with the formation of
+only a lower cut without an underground drilling horizon. It is
+advisable to use it at a deposit capacity of no more than 130-150 m,
+when the height of the tier will be at least 0.8 H\\textsubscript{max}.
+
+In the second variant, after each breakout cycle, a part of the beaten
+ore is stored in contact with the ledge, and the internal rock dump is
+formed similarly to the first variant. In this case, the stability of
+the ledge of the open-underground tier is ensured by priming it with
+beaten ore, and the stability of the sides of the worked-out space is
+provided by giving them a safe angle of slope.
+
+The full release of ore is carried out only outside the loading, within
+the boundaries of which only 10-15\\% of the volumes are extracted to
+create the necessary loosening. Depending on the size of the loading,
+the height of the ledge under geomechanical conditions can be increased
+to 150-170 m, which makes it necessary to form an underground drilling
+horizon above the bottom level outside the stress concentration zone and
+conduct exhaust workings under the bulk of the beaten ore. This option
+provides the maximum cross-sectional area of the developed space with a
+deposit capacity of up to 200-250 m. With higher power, modifications
+can be used that provide for the completion of the upper part of the
+open-underground tier reserves in an open way without additional side
+spacing (Figure 3, c).
+
+\\includegraphics[width=0.8\\textwidth]{image76}
+
+Figure 3 - Schematic diagrams of the opening of the ledge of the
+open-underground tier
+
+The conditions of free ore release characteristic of the considered
+options allow increasing the distance between the bottom outlet workings
+to 15-20 m, which ensures an increase in reserves per outlet to 150-200
+thousand tons.
+
+The third option involves the constant filling of the entire worked-out
+space with rock mass. This is due to the need to break off the entire
+ledge on the clamping medium and makes it possible to use both an area
+and an end outlet (Figure 1 d, e). The height of the tier is limited to
+70-90 m both according to the conditions of stability of the hanging
+side, and based on the possibilities of rebounding in a clamped
+environment. In case of areal release, after each breakout cycle, an
+internal dump is built up with the placement of rock above the ore mass;
+ore release is carried out at some distance from the ledge where the
+dump has reached the design height. At the end outlet, after each
+breakout cycle, a complete extraction of the ore mass is carried out
+with vertical contact with the rocks of the inner dump. The use of
+options with constant filling of the entire worked-out space with rock
+mass is advisable when the deposit capacity is up to 80-100 m.
+
+The effectiveness of complex open-underground mining largely depends on
+the reasonable choice of parameters and indicators of drilling and
+blasting operations.
+
+In principle, three main schemes for the construction of a high ledge
+are possible (Figure 4). The first scheme (Figure 3, a) provides for
+drilling the entire ledge with parallel descending wells using quarry
+machines. This makes it possible to abandon the creation of an
+underground drilling horizon, but requires the formation of a lower cut.
+Based on the characteristics of the most powerful quarry equipment, the
+height of the tier in this case does not exceed 70-90 m, taking into
+account the cutting.
+
+The second scheme (Figure 3, b) assumes the formation of an underground
+drilling horizon at the level of the release horizon and the rebounding
+of the lower part of the ledge with fan wells. The maximum height of the
+tier in this case can reach 120-140 m.
+
+The disadvantages of the location of drilling workings in the stress
+concentration zone make the third scheme more promising (Figure 3, c),
+which provides for drilling horizon above the bottom level and drilling
+of the lower part of the ledge with ascending and descending fan wells.
+In this case, the parameters of the existing drilling equipment allow
+increasing the height of the tier to 160-170 m.
+
+The main feature of the rebound in open-underground mining is the
+significant depth of blast wells, with the growth of which their
+deviation from the design position increases. As a result, the
+consumption of explosives in certain parts of the exploding array
+becomes less than the calculated one, which leads to a deterioration in
+the quality of crushing.
+
+Based on data on well deviations at a number of domestic and foreign
+enterprises and taking into account experience in reducing these
+deviations, the dependences of the oversized yield on the height of the
+open-underground tier were calculated and it was found that with the
+appropriate parameters of drilling and blasting operations and a
+conditioned piece of 1000 mm, the oversized yield should not exceed
+10\\%. The effective release of ore of such a granulometric composition
+with significant reserves per outlet can be ensured through the use of
+high-unit power technical means, which include heavy vibratory feeders,
+loading and delivery machines with a large bucket capacity and hydraulic
+excavators. This equipment should work in combination with the most
+productive transport equipment.
+
+The technical and economic analysis showed that in the variants with
+free ore release, it is advisable to use a complex vibrating feeder of
+the RPU type - rail transport using heavy-duty wagons with a load
+capacity of 20 tons or more. With options with constant filling of the
+worked-out space and release under the overlying rocks with the use of
+area release, the most promising is the use of powerful loading and
+transport machines with ore delivery to the ore outlet. Excavators in
+combination with underground dump trucks or trolleybuses can also be
+used for the end release.
+
+Studies were devoted to the problem of the organization of ventilation
+of mine workings with a complex open-underground method, as a result of
+which, based on the study of the mode of air movement during filtration
+through the collapse zone, the use of a combined suction-discharge
+ventilation scheme was recommended, which allows a wide range of
+operating modes of suction and discharge fans.
+
+An indicator of the intensity of field exploitation within the
+open-underground tier is the rate of movement of a high ledge, which, in
+combination with the cross-sectional area of the developed space,
+determines the possible production volumes. The speed of moving the
+ledge, in turn, depends on four main factors: the rate of advance of the
+front of work in the quarry, the intensity of drilling and blasting, the
+release and transportation of ore and internal dumping.
+
+The rate of movement of the operational front under the condition of
+drilling and blasting operations and ore release
+v\\textsubscript{f}\\textsuperscript{b.v} (m /year) is determined based on
+the maximum number of relevant equipment in simultaneous operation of
+the pob, and its unit productivity Q\\textsubscript{ob}, depending on the
+adopted technology and the parameters of the tier
+
+\\(v_{ф}^{б\\text{.}в} = \\frac{n_{\\text{об}} \\cdot Q_{\\text{об}} \\cdot N_{\\text{см}} \\cdot N_{\\text{год}}}{S_{в} \\cdot \\gamma_{р}},\\)
+(3)
+
+where Q\\textsubscript{ob} is the shift productivity of a unit of
+equipment, t/shift; N\\textsubscript{cm} is the number of working shifts
+per day; N\\textsubscript{год} is the number of working days per year;
+S\\textsubscript{в} is the cross-sectional area of the worked space,
+m\\textsuperscript{2}; γ\\textsubscript{р} is the average ore density,
+t/m\\textsuperscript{3}.
+
+The rate of advance of the front according to the condition of internal
+dumping v\\textsubscript{f} (m/ year) is
+
+\\(v_{ф}^{\\text{отв}} = \\frac{n_{\\text{об}^{0}} \\cdot Q_{\\text{об}^{0}} \\cdot N_{\\text{см}} \\cdot N_{\\text{год}} \\cdot К_{р}}{(S_{в} + S_{k}) \\cdot \\gamma_{п}},\\)
+(4)
+
+Calculations have shown that ensuring the required intensity of
+development is achieved mainly due to the development of the ore release
+zone.
+
+The variants of the complex open-underground mining method differ in the
+level of the upper boundary of the open-underground tier and its height
+and are characterized by different volumes of reserves intended for
+open, open-underground and underground mining.
+
+With free ore release, the maximum height of the open-underground tier
+is determined by the safe slope angles of the sides with a deposit
+capacity of up to 150-180 m. With a higher capacity, the height of the
+open-underground tier is determined by technological factors, in
+particular, the capabilities of drilling equipment. With constant
+filling of the worked-out space with rock mass, the maximum height of
+the tier is limited by the conditions of breaking in a clamped
+environment within 70-90 m.
+
+It has been established that at the new deposit, it is advisable to
+place the upper boundary of the open-underground tier at the level of
+the maximum depth of the quarry, justified by known methods without
+taking into account the features of open-underground mining. In the
+conditions of an exploited field, with overburden lagging and increased
+requirements for environmental protection, it is advisable to place the
+open-underground tier partially within the reserves located in the
+contours of the quarry, with a decrease in the maximum depth of the
+latter.
+
+Technological options with constant filling of the worked-out space with
+rock mass and the release of ore under the overlying rocks of the
+internal dump ensure the greatest efficiency of field development at the
+maximum permissible height of the open-underground tier located below
+the limit of open work.
+
+\\textbf{Conclusion.} Thus, the conducted research and design studies
+have established that an integrated open-underground method of
+developing strong ores is a promising direction for the development of
+subsurface resources. In the appropriate mining-geological and mining
+engineering conditions, it allows:
+
+- to reduce the area of environmental disturbance by reducing the volume
+of external dumping;
+
+- to significantly compensate for the decrease in ore production volumes
+during the development of deep horizons of quarries;
+
+- to reduce the total volume of overburden in the contour of the quarry
+due to the development of deep horizons with one high ledge without
+additional separation of the sides;
+
+- use general schemes for opening deep horizons of a quarry and
+underground mines.
+
+Combined geotechnology makes it possible to identify the main directions
+of the implementation of the idea of integrated development of the
+subsoil in the field of open-underground mining. These include: a
+combination of technological elements of open and underground mining
+operations at the stage of treatment excavation, the joint use of open
+and underground mining operations for ore transportation, the use of a
+single developed space of open and underground mining operations to
+accommodate overburden. With a complex open-underground method, all
+three of these directions are implemented, but they can also develop
+independently in a wider range of mining and geological conditions.
+Therefore, an important task of further research should be considered
+the development of new technological solutions and the substantiation of
+the principles of their design within the framework of the considered
+promising areas.
+
+\\textbf{References}
+
+\\begin{enumerate}
+\\def\\labelenumi{\\arabic{enumi}.}
+\\item
+  Puchkov L.A., Sharovar I.I., Vitkalov V.G. Geotekhnologicheskie
+  sposoby razrabotki mestorozhdenii. - M: Izd-vo ``Gornaya kniga'',
+  2006. - s. 322.
+\\end{enumerate}
+
+2. Lazchenko K.N., Terentyev B.D. Geotekhnologicheskie sposoby
+razrabotki mestorozhdenii poleznykh iskopaemykh. - M: MGGU, 2000. - s.
+75.
+
+3. Demidov YU.V. O klassifikatsii sistem kombinirovannoi razrabotki
+rudnykh mestorozhdenii // Gornyi zhurnal. - №4, 1995. - s. 16-19.
+
+4. Kazikaev D.M. Kombinirovannaya razrabotka rudnykh mestorozhdenii. --
+M: Izd-vo «Gornaya kniga». - 2008. - s. 355.
+
+5. Kaplunov D.R., Kalmykov V.N., Rylnikova M.V. Kombinirovannaya
+geotekhnologiya. -- M: Izd-vo «Ruda i metally». - 2003. - s. 550.
+
+6. Kaplunov D.R., Rylnikova M.V. Kombinirovannaya razrabotka rudnyh
+mestorozhdenij. - M.: Gornaya kniga, 2012. - 344 s.
+
+\\emph{\\textbf{Information about the authors}}
+
+Baizbayev M.B. - Kazakh University of Technology and Business, Astana,
+Kazakhstan, \\href{mailto:baiz76@mail.ru}{\\nolinkurl{baiz76@mail.ru}};
+
+Aliyev S.B. - Institute of Problems of Complex Development of Subsoil
+named after academic N.V.Melnikov (IPKON RAN), Moscow, Russian
+Federation, \\href{mailto:baiz76@mail.ru}{alsamat@yandex.ru};
+
+Shontayev A. D. - Kazakh University of Technology and Business, Astana,
+Kazakhstan,
+\\href{mailto:shon_oskar@mail.ru}{\\nolinkurl{shon\\_oskar@mail.ru}};
+
+Meiram D. D. - Kazakh University of Technology and Business, Astana,
+Kazakhstan,
+\\href{mailto:diana_meiram@mail.ru}{\\nolinkurl{diana\\_meiram@mail.ru}};
+
+Karzhauova E. K. - Kazakh University of Technology and Business, Astana,
+Kazakhstan,
+\\href{mailto:karzhauova.81@mail.ru}{\\nolinkurl{karzhauova.81@mail.ru}}
+
+\\emph{\\textbf{Сведения об авторах}}
+
+Баизбаев М.Б. - Казахский университет технологии и бизнеса, Астана,
+Казахстан, \\href{mailto:baiz76@mail.ru}{\\nolinkurl{baiz76@mail.ru}}:
+
+Алиев С.Б. - Институт проблем комплексного освоения недр имени акад.
+Н.В.Мельникова Российской академии наук (ИПКОН РАН), Москва, Российская
+Федерация, \\href{mailto:baiz76@mail.ru}{alsamat@yandex.ru};
+
+Шонтаев А.Д. - Казахский университет технологии и бизнеса, Астана,
+Казахстан,
+\\href{mailto:shon_oskar@mail.ru}{\\nolinkurl{shon\\_oskar@mail.ru}};
+
+Мейрам Д.Д. - Казахский университет технологии и бизнеса, Астана,
+Казахстан,
+\\href{mailto:diana_meiram@mail.ru}{\\nolinkurl{diana\\_meiram@mail.ru}};
+
+Каржауова Э.К. - Казахский университет технологии и бизнеса, Астана,
+Казахстан,
+\\href{mailto:karzhauova.81@mail.ru}{\\nolinkurl{karzhauova.81@mail.ru}}
+
+\\textbf{Экономика, бизнес и услуги}
+
+SRSTI 06.81.65
+
+\\textbf{MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKHSTAN: ASSESSMENT
+AND PROSPECTS FOR IMPROVEMENT}
+
+\\textbf{Z.R. Karbetova\\textsuperscript{1*},
+A.S.Baktymbet\\textsuperscript{1}, Sh.R. Karbetova\\textsuperscript{2}}
+
+\\emph{\\textbf{\\textsuperscript{1}}}Kazakh University of Technology and
+Business, Astana, Kazakhstan
+
+\\emph{\\textbf{\\textsuperscript{2}}}International Transport and
+Humanitarian University, Almaty, Kazakhstan
+
+e-mаil \\href{mailto:kzr_2011@mail.ru}{\\nolinkurl{kzr\\_2011@mail.ru}}
+
+The success of public administration depends on the extent to which
+civil servants realize their professional potential. The insufficient
+level of motivation of civil servants is an obstacle to their effective
+work. Ways to increase professional potential through motivational
+interventions aimed at developing the competence of civil servants
+remain undeveloped. Therefore, the main focus of this study will be on
+the assessment of the modern system of motivation of civil servants and
+consideration of ways to improve it in the Republic of Kazakhstan, which
+is relevant and of great scientific and practical importance.
+
+The paper notes the features of the motivation of civil servants,
+analyzes foreign experience in motivating the professional activities of
+civil servants and considers the directions for stimulating their work;
+a modern system for evaluating the performance of civil servants based
+on a survey has been studied. In the process of conducting an empirical
+study in Kazakhstan, the processing of questionnaires made it possible
+to identify the main factors motivating the professional activities of
+active civil servants. The sample set of the conducted survey allowed to
+achieve a high level of representativeness of the results and
+conclusions.
+
+The new model of civil service, which has been tested, is based on a
+factor-score scale. The new system of remuneration of civil servants
+will make it possible to select the most conscientious and versatile
+employees for the civil service, which will improve the quality of
+public administration. Thus, we carried out an analysis of the
+effectiveness of the system of motivation of civil servants in the
+Republic of Kazakhstan, evaluated them, and developed measures to
+improve the motivation for the professional activities of civil servants
+of the Republic of Kazakhstan.
+
+\\textbf{Keywords:} motivation systems, civil servants, assessment,
+management, analysis, remuneration, efficiency.
+
+\\textbf{СИСТЕМА МОТИВАЦИИ ГОСУДАРСТВЕННЫХ СЛУЖАЩИХ КАЗАХСТАНА: ОЦЕНКА И
+ПЕРСПЕКТИВЫ СОВЕРШЕНСТВОВАНИЯ}
+
+\\textbf{З.Р.Карбетова\\textsuperscript{1*},
+А.С.Бактымбет\\textsuperscript{1}, Ш.Р.Карбетова\\textsuperscript{1}}
+
+\\textbf{\\textsuperscript{1}}Казахский университет технологии и бизнеса,
+г.Астана, Казахстан
+
+\\emph{\\textsuperscript{2}}Международный транспортно-гуманитарный
+университет, г.Алматы, Казахстан
+
+e-mаil \\href{mailto:kzr_2011@mail.ru}{\\nolinkurl{kzr\\_2011@mail.ru}}
+
+Успех деятельности государственного управления зависит от того, в какой
+степени государственные служащие реализовывают свой профессиональный
+потенциал. Недостаточный уровень мотивации госслужащих является
+препятствием для их эффективной деятельности. Неразработанными остаются
+пути повышения профессионального потенциала посредством мотивационного
+вмешательства, направленного на развитие компетентности государственных
+служащих. Поэтому основной акцент данного исследования будет сделан на
+оценке современной системы мотивации~ государственных служащих~ и
+рассмотрении пути ее совершенствования в Республике Казахстан, что
+является актуальным и имеет важное научное и практическое значение.
+
+В работе отмечены особенности мотивации государственных служащих,
+проанализи-
+
+рован зарубежный опыт ~мотивации~~профессиональной деятельности
+~государственных служащих~ и~ рассмотрены направления~стимулирования~их
+труда; исследована современ-ная система оценки деятельности
+государственных служащих на основе анкетирования. В процессе проведения
+эмпирического исследования в Казахстане, обработка анкет позволи-
+
+ла выявить основные факторы мотивации профессиональной деятельности
+действующих государственных служащих. Выборочная совокупность
+проведенного анкетирования поз-
+
+волила достичь высокого уровня репрезентативности результатов и выводов.
+
+Прошедшая апробация, новая~модель государственной службы основана на
+факторно - бальной шкале. Новая система оплаты труда госслужащих
+позволит отобрать на государственную службу наиболее добросовестных и
+разносторонне грамотных сотрудников, что повысит качество
+государственного управления. ~Таким образом, нами был осуществлён анализ
+эффективности системы мотивации государственных служащих в РК, проведена
+их оценка, и~разработаны мероприятия~ по совершенствованию мотивации
+профессиональной деятельности государственных служащих Республики
+Казахстан.
+
+\\textbf{Ключевые слова:} системы мотивации, государственные служащие,
+оценка, управ-ление, анализ, оплата труда, эффективность.
+
+\\textbf{ҚАЗАҚСТАН РЕСПУБЛИКАСЫНДАҒЫ МЕМЛЕКЕТТІК}
+
+\\textbf{ҚЫЗМЕТШІЛЕРІН МОТИВАЦИЯЛАУ ЖҮЙЕСІ: БАҒАЛАУ ЖӘНЕ ЖЕТІЛДІРУ
+БОЛАШАҒЫ}
+
+\\textbf{З.Р.Карбетова\\textsuperscript{1*},
+А.С}.\\textbf{Бақтымбет\\textsuperscript{1}},
+\\textbf{Ш.Р.Карбетова\\textsuperscript{2}}
+
+\\textbf{\\textsuperscript{1}}Қазақ технология және бизнес университеті,
+Астана к., Қазақстан
+
+\\textbf{\\textsuperscript{2}}Халықаралық
+көлікжәнегуманитарлықуниверситеті, Алматы к., Қазақстан
+
+e-mаil \\href{mailto:kzr_2011@mail.ru}{\\nolinkurl{kzr\\_2011@mail.ru}}
+
+Мемлекеттік басқарудың жетістікті болуы мемлекеттік қызметшілердің
+кәсіби әлеуетін қандай дәрежеде іске асыруына байланысты. Мемлекеттік
+қызметшілерді ынталандыру деңгейінің жеткіліксіздігі олардың нәтижелі
+жұмыс істеуіне кедергі болып отыр. Мемлекеттік қызметшілердің
+құзыреттілігін дамытуға бағытталған уәждемелік ықпал ету арқылы кәсіби
+әлеуетті арттыру жолдары әлі де дамымаған күйде қалып отыр. Сондықтан
+бұл зерттеудің негізгі бағыты өзекті және ғылыми-тәжірибелік маңызы зор
+мемлекеттік қызметшілерді ынталандырудың заманауи жүйесін бағалау және
+оны Қазақстан Республикасында жетілдіру жолдарын қарастыру болмақ.
+
+Сондықтан мемлекеттік қызметшілерді ынталандырудың заманауи жүйесін
+бағалау және оны Қазақстан Республикасында жетілдіру жолдарын қарастыру
+бұл зерттеудің негізгі бағыты өзекті және ғылыми-тәжірибелік маңызы зор
+болып келеді.
+
+Жұмыста мемлекеттік қызметшілерді ынталандыру ерекшеліктері атап
+көрсетіліп, мемлекеттік қызметшілердің кәсіби қызметін ынталандырудың
+шетелдік тәжірибесі талданып және олардың жұмысын ынталандыру бағыттары
+қарастырылды; сауалнама негізінде мемлекеттік қызметшілердің қызметін
+бағалаудың заманауи жүйесі зерделенді. Қазақстанда эмпирикалық зерттеу
+жүргізу барысында сауалнамаларды өңдеу белсенді мемлекеттік
+қызметшілердің кәсіби қызметін ынталандыратын негізгі факторларды
+анықтауға мүмкіндік берді. Өткізілген сауалнаманың іріктеме жинағы
+нәтижелер мен қорытындылардың репрезентативтілігінің жоғары деңгейіне
+қол жеткізуге мүмкіндік берді.
+
+Тестілеуден өткен мемлекеттік қызметтің жаңа моделі факторлық-баллдық
+жүйеге сүйенеді. Мемлекеттік қызметшілерге еңбекақы төлеудің жаңа жүйесі
+мемлекеттік қызметке ең адал және жан-жақты сауатты қызметкерлерді
+іріктеуге мүмкіндік береді, бұл мемлекеттік басқарудың сапасын
+арттырады. Осылайша, біз Қазақстан Республикасындағы мемлекеттік
+қызметшілерді ынталандыру жүйесінің тиімділігіне талдау жүргізіп, оларды
+бағалап, Қазақстан Республикасы мемлекеттік қызметшілерінің кәсіби
+қызметіне ынталандыруды жетілдіру бойынша шаралар әзірледік.
+
+\\textbf{Түйін сөздер:} мотивация жүйелері, мемлекеттік қызметшілер,
+бағалау, басқару, талдау, еңбекақы, тиімділік.
+
+The issues of formation of motivation for the professional growth of
+civil servants have a high degree of relevance, and are determined by
+the importance of the processes of improving the motivation for the
+professional activity of civil servants. The insufficient level of
+motivation of civil servants is an obstacle to their effective
+performance. The effectiveness of the implementation of state
+development programs that bring the country to new higher levels of
+socio-economic development and prosperity depends on how efficiently and
+professionally the professional duties of civil servants are performed
+{[}1{]}.
+
+The purpose of the work is to develop measures to enhance the motivation
+of civil servants in Kazakhstan by examining motivational theories,
+studying foreign experience, analyzing the current staffing and
+structure of state bodies, exploring modern evaluation systems, and
+proposing improvements.
+
+The scientific novelty of the research results lies in the development
+of a comprehensive methodological toolkit to motivate the professional
+activities of civil servants. This can be achieved through the
+integrated use of motivation mechanisms and personnel management.
+
+\\textbf{Materials and methods.} The study was conducted using general
+scientific methods of cognition: historical and logical approaches,
+systemic and situational, questioning and methods of economic analysis.
+In the course of this study, various general scientific and private
+research methods were also used, including: methods of synthesis and
+deduction, description and statistical methods, graphic-analytical and
+calculation methods. The analysis of statistical data was carried out
+using the methods of grouping, comparison and generalization. For the
+collection and processing of empirical data, sociological methods of
+collecting information were used: a questionnaire survey and analysis of
+documents {[}3{]}.
+
+\\textbf{Results and discussion.} In modern conditions, for solving
+complex problems, issues of the quality of personnel management at all
+levels of government are of paramount importance. The effectiveness of
+the implementation of state development programs that bring the country
+to new higher levels of socio-economic development and prosperity
+depends on how effectively and professionally the professional duties of
+civil servants are carried out. It should be noted that for the quality
+work of the state apparatus, a high level of professional development of
+the performers themselves, that is, civil servants, is necessary.
+
+An analysis of the theoretical and methodological approach to the system
+of motivation for the professional activities of civil servants showed
+that it more reflects the effect of material factors of motivation. Of
+particular relevance to the professional growth of civil servants are
+various technologies and artificial intelligence that can perform the
+typical duties of an official - from creating template letters and
+processing large amounts of information to providing public services.
+
+In this study, an attempt was made to develop new ways and methods of
+organizing the motivation of civil servants and answer the most pressing
+questions:
+
+1. What is the most effective way to achieve high professional labor
+returns from civil servants, and what motives drive them?
+
+2. When are civil servants ready to show all their professional and
+personal qualities to the maximum for the successful functioning of
+their organization, and what will lead to an irresponsible and negligent
+approach to work?
+
+3. What are the factors that form the motivation of civil servants, and
+what impact do they have on their professional activities?
+
+Therefore, in order to determine the impact on the level of motivation
+of a civil servant for professional growth, it is necessary to study
+what the domestic apparatus of civil servants is like in general, what
+are its main characteristics, and also what general trends in its
+development are currently taking place. Therefore, the leadership of an
+organization or government body should have a good knowledge of the
+theoretical aspects of the problem under consideration in order to
+properly organize the work of their subordinates and be able to direct
+them to the effective performance of their functional duties.
+
+In the course of the study, a wide range of various sources was studied
+and the main schools and directions of motivation for the professional
+activity of civil servants in the Republic of Kazakhstan were
+identified{[}4,5{]}.
+
+Source 4 studied the attitudes of 740 civil servants in Kazakhstan
+towards their careers, organizational culture and climate at work. The
+results of the study made it possible to highlight three main points
+regarding the motivation and attitude of civil servants to their work in
+Kazakhstan.
+
+1. Three out of four respondents emphasize that primary and secondary
+benefits are important to their motivation and performance. Interviewed
+civil servants in Kazakhstan demonstrated high levels of ``public
+service motivation'' (PSM) and intrinsic motivation compared to
+extrinsic motivation.
+
+2. Civil servants in Kazakhstan demonstrate a positive attitude towards
+their colleagues and team spirit in the workplace. The high level of
+intrinsic motivation and MSM of civil servants in Kazakhstan explain the
+willingness to change and reform, despite the existing difficulties.
+
+3. There is a widespread opinion among civil servants that promotion
+does not depend on personal merit, and this important problem needs to
+be addressed. The results obtained indicate the need to increase the
+number of comparative studies of the motivation of civil servants in
+Kazakhstan.
+
+According to source 5, the main directions and approaches to assessing
+the activities of civil servants as a system of motivation for their
+professional activities are considered. The features and key elements of
+the motivation of the professional activity of civil servants of the
+most developed countries were identified on the basis of a study of
+foreign experience.
+
+In the process of conducting an empirical study in Kazakhstan, the
+processing of questionnaires made it possible to identify the main
+factors motivating the professional activities of active civil servants.
+The sample set of the conducted survey allowed to achieve a high level
+of representativeness of the results and conclusions.
+
+The main objective of the study is to study those samples of foreign
+experience that force the creation of a modern and efficient personnel
+management system, taking into account the specifics of
+Kazakhstan\\textquotesingle s development and statehood. Analyzing
+foreign experience {[}6{]}, it should be noted a number of features that
+are of practical interest and can be taken into account in the process
+of improving the civil service system of Kazakhstan:
+
+- professionalization of the state apparatus on a permanent basis;
+
+- flexible methods of human resource management (personnel management);
+
+- career development management: flexible system of career advancement,
+high career mobility, career advancement based on professional
+achievements, i.e. not only depending on work experience;
+
+- the results of the assessment of civil servants - the basis for career
+growth and material rewards;
+
+- availability of various employment schemes for the public service:
+
+- permanent civil servants and employees on a contract basis;
+
+- modern organization of work: more flexible working hours, introduction
+of advanced technologies;
+
+- modern methods of material incentives, including wages (taking into
+account individual and collective results of work).
+
+To date, the country has created its own model of public service, which
+combines the achievements of world experience and the specifics of the
+domestic public administration system. The new model consists of two
+parts - constant and variable {[}7{]}. The permanent part is based on a
+factor-point scale (FBS), according to which the amount of wages depends
+on the nature, volume and complexity of the work. The variable part,
+bonuses, will be accrued to effective employees based on the results of
+their performance evaluation. The study revealed the results of the work
+done in the framework of the professionalization of the state apparatus
+in the Republic of Kazakhstan.
+
+In Kazakhstan, the FBS of civil servants has been introduced, which
+radically changes the system of remuneration. According to the Agency
+for Civil Service Affairs, the main advantage of the FBS is the
+avoidance of ``leveling''. According to the new system, the official
+salary of civil servants will depend on the volume and complexity of
+work, which will increase the responsibility and motivation of civil
+servants.
+
+According to the head of the department of the Agency of the Republic of
+Kazakhstan for Civil Service Affairs, in connection with the
+introduction of the FBS, those wishing to enter the civil service have
+increased. According to analysts, the new system of remuneration of
+civil servants will make it possible to select the most conscientious
+and versatile employees for the civil service. Consequently, the quality
+of public administration depends on civil servants, their work, which
+reflects their professional level.
+
+What is the apparatus of civil servants of Kazakhstan, what are its main
+characteristics and general trends in its development are currently
+presented below. As of January 1, 2020, the staff of civil servants
+amounted to 97,403 units. At the same time, the actual number of civil
+servants decreased by 1,927 {[}8, 9{]} people compared to 2018. The
+release of positions occurred without the actual reduction of employees
+by not filling vacancies, the saved funds were directed to increase the
+wages of the most effective employees.
+
+In recent years, there has been a constant trend of understaffing
+throughout the entire structure of the state apparatus. According to the
+results of 2020 data, staffing was 93.22\\%. The dynamics of the analyzed
+indicator during the analyzed period was positive. At the same time, it
+should be noted that the persistence of a significant percentage of
+understaffing for a sufficiently long time indicates the presence of
+problems in the personnel service in terms of organizing planning and
+forecasting personnel.
+
+According to the National report on the state of the civil service in
+the Republic of Kazakhstan, as of January 1, 2022, the number of civil
+servants was 88,321. At the same time, the actual number of government
+agencies decreased by 6.4\\% {[}10{]}. In order to solve state problems
+in the medium term, the further vector of development of the civil
+service will be aimed at solving the issues of excessive bureaucracy of
+the state apparatus, strengthening communication and interaction with
+the population, attracting talented youth to the civil service,
+automating personnel processes and reorienting personnel management
+services to strengthen the personnel potential of state bodies.
+
+The educational level of civil servants in the Republic of Kazakhstan is
+quite high and tends to further increase. Scientists confirm the
+influence to a large extent of such factors as the level of education,
+economic status, age, etc., on the indicators of participation in
+sociological studies on effective motivation and effective personnel
+management {[}11{]}. In terms of the level of education, respondents
+with higher education dominate the most - 92.69\\%, including:
+specialists or bachelors (84.44\\%), as well as masters (82.5\\%). These
+results coincided with the data of the Agency for Civil Service Affairs
+(92\\%). This situation with the qualitative composition of public
+authorities contributes to an increase in the level of services they
+provide.
+
+In our opinion, the constant increase in the level of education of
+existing employees is also explained by the systematic implementation of
+the 100 Concrete Steps Nation Plan, which made it possible to strengthen
+the principles of meritocracy in the selection and career advancement
+{[}12{]}. This improved the quality of the civil servants. Currently,
+92\\% of employees have higher education, while at the central level this
+figure reaches 100\\%. Persons with secondary and secondary vocational
+education (8\\%) occupy low-level positions of the district and rural
+levels, about 2.8 thousand are graduates of foreign universities. The
+number of graduates of the international scholarship \"Bolashak\" over the
+past 3 years has increased by 12\\% (from 505 in 2017 to 565 in 2019),
+the Academy of Public Administration under the President - by 4\\% (from
+740 to 770).
+
+Over the past few years, there has been a stability in the personnel of
+the state apparatus. The outflow of personnel from the civil service
+system is within 6\\% and tends to gradually decrease (in 2015 - 11.2\\%,
+in 2016 - 6.3\\%, in 2017 - 6.2\\%, in 2018 - 6.2\\% , in 2019 - 6\\%).
+
+This situation with the qualitative composition of public authorities
+contributes to an increase in the level of services they provide, which
+is noted in the Strategic Plan of the Agency of the Republic of
+Kazakhstan for Civil Service Affairs and Anti-Corruption for 2018-2021:
+``Over the years of assessment, starting from 2011, there has been an
+increase in the average government agencies\" {[}13{]}. At the same time,
+the same document acknowledges the existence of serious problems with
+the quality of services provided by state bodies today: ``There is a
+trend of increasing the number of justified complaints received by state
+bodies about the quality of public services.''
+
+Most of all, citizens aged 30-39 years old (34.9\\%) participated in the
+survey, citizens aged 20-29 years old (23.9\\%) and 40-49 years old
+(23.2\\%) took second place. This fact also confirms the assessment of
+the Agency for Civil Service Affairs, according to which the average age
+of civil servants is 39 years, including by age groups: up to 30 years
+old - 23\\%, from 30 to 40 years old - 34.1\\%, from 40 to 50 years -
+22.2\\%, 50 years and older - 20.7\\%72. This fact indicates the current
+trend towards a gradual rejuvenation of the apparatus of state
+administration, which increases the opportunities for training,
+retraining and advanced training, as young employees more effectively
+perceive new knowledge. It is also important that there is a gender
+balance in the personnel structure of the civil service in Kazakhstan.
+Thus, according to these data, the proportion of men is 40.2\\%, and the
+proportion of women is 59.8\\%, which indicates that women are more
+likely to participate in sociological research than men. The results of
+the study confirm the information of the Agency for Civil Service
+Affairs of the Republic of Kazakhstan on the proportion of women among
+civil servants: 59.8\\%.
+
+In Kazakhstan, the proportion of civil servants to the economically
+active population is approximately 1.1\\%, and there are about 197.7
+citizens per civil servant. At the same time, for example, in the OECD
+countries, these figures are 2.43\\% and 116 people, respectively.
+
+At any enterprise and in any organization, including government bodies,
+the following issues should be resolved first of all:
+
+- providing employees with at least a sufficient level of wages;
+
+- providing employees with an attractive social package;
+
+- providing employees with a workplace equipped with everything
+necessary for comfortable and high-quality work.
+
+Unmotivated civil servants are not exclusively a problem for the Kazakh
+state. Many problems of bureaucracy are relevant for all countries of
+the world. Even such sociologists as M. Weber and R. Merton noted that
+dysfunctional signs of bureaucracy are found both in the West and in the
+East {[}14{]}.
+
+Thus, the most serious motivating factors in choosing the profession of
+a civil servant are the motives dictated by categories of a high order.
+Recently, however, facts from the modern life of various countries, when
+civil servants began to trample on state and public interests, speak of
+a catastrophic decline in the morale of civil servants.
+
+But explanations of these facts showed that A. Maslow\\textquotesingle s
+conclusions regarding basic human needs are true at any time and in any
+state. As a result of the research, it turned out that the reasons for
+this development of the situation are ``lower wages, insufficient
+material and technical equipment for the performance of official duties,
+an inadequate state budget and pressure to remain efficient while
+reducing resources and costs'' {[}15{]}.
+
+Of particular interest is the study of existing theories of motivation
+in terms of the possibility of using their provisions, approaches and
+postulates in motivating the professional activities of domestic civil
+servants. In order to assess and identify the degree of correlation
+between the elements of the motivation system and the efficiency /
+performance of domestic civil servants, we conducted an empirical study
+based on a survey of existing civil servants.
+
+The choice of empirical assessment is justified by the fact that an
+effective motivation system should be maximally integrated with the
+assessment system. Using the current assessment system to identify the
+motivational profile of civil servants is inappropriate. Therefore, a
+survey of civil servants was conducted in order to identify the level of
+motivation of their professional activities. The impersonality of this
+survey allowed to increase the level of reliability of the study
+
+The questionnaire was compiled in such a way as to be able to process
+the results according to the scientifically based Methodology of K.
+Zamfir in the modification of A. Rean \"Studying the motivation of
+professional activity\" {[}16{]}. The need to conduct a survey of civil
+servants is to identify the level of motivation of their professional
+activities. These questionnaires were designed and compiled in such a
+way as to give the most detailed and large-scale idea of
+\\hspace{0pt}\\hspace{0pt}the effectiveness of the current motivation
+system and its shortcomings.
+
+The survey was conducted among active civil servants in two stages. At
+the first stage of the empirical study, the goal was to collect data to
+identify the degree of influence of external and internal factors. The
+second stage of the empirical study was the questioning of the same
+group of respondents, but within the framework of another survey. The
+survey within this stage is aimed at clarifying and detailing the
+results of the first stage. The survey results were processed and
+summarized in a table 1.
+
+Table 1. The opinion of civil servants on the level of factors affecting
+the motivation of their work
+
+\\begin{longtable}[]{@{}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.2386}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1622}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1474}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1620}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1475}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1424}}@{}}
+\\toprule\\noalign{}
+\\begin{minipage}[b]{\\linewidth}\\raggedright
+Question
+\\end{minipage} &
+\\multicolumn{5}{>{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.7614} + 8\\tabcolsep}@{}}{%
+\\begin{minipage}[b]{\\linewidth}\\raggedright
+Answeroptions
+\\end{minipage}} \\\\
+\\midrule\\noalign{}
+\\endhead
+\\bottomrule\\noalign{}
+\\endlastfoot
+1 &
+\\multicolumn{5}{>{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.7614} + 8\\tabcolsep}@{}}{%
+2} \\\\
+\\multirow{2}{*}{1). Would you agree to change jobs, subject to a
+reduction in pay by 25\\% - 30\\%, but with more interesting
+responsibilities?} & Yes & No & Ratheryesthanno & More likely no than
+yes & Difficult to answer \\\\
+& 18,5 & 33,1 & 17,9 & 19,3 & 11,2 \\\\
+2). In the process of working in the public service, what will be the
+most important for you? & Possibility of obtaining
+
+knowledge and skills & Recognitionfrompeers & Official
+
+height & Management recognition & Difficult to answer \\\\
+& 18,1 & 13,2 & 27,2 & 35,4 & 6,2 \\\\
+\\multirow{2}{*}{3). What factors, from your point of view, have the
+greatest impact on reducing the motivation and professionalism of civil
+servants?} & Recruitment and promotion of personnel through
+acquaintance, personal loyalty
+
+news & Underestimation of the role of staff professionalism & Lack of
+demand for honest and principled civil servants & Low level of
+professional culture of managers & Other \\\\
+& 45,5 & 21,8 & 16,1 & 11,6 & 5,0 \\\\
+\\multirow{2}{*}{4). What stimulates you to increase the level of
+professional growth?} & High level of independence (freedom) &
+Competition in the work team & Possibility of realization of acquired
+knowledge & Careerprospect & Encouragement/recognition of merit by
+management \\\\
+& 21,1 & 7,6 & 25,9 & 32,2 & 14,2 \\\\
+\\multirow{2}{*}{5). How do you assess the current system of motivation
+for the professional activities of civil servants?} & Effective &
+Noteffective & Very little is known about it & Haven\\textquotesingle t
+come across it in
+
+practice & Difficult to answer \\\\
+& 32,2 & 27,6 & 16,5 & 17,0 & 6,7 \\\\
+\\multirow{2}{*}{6). Which of the ways to increase professional growth do
+you consider the most effective?} &
+Obtainingadditionalprofessionaleducation & Scientific researchactivities
+& Exchange ofexperience (internships) & Collective methods of improving
+professional
+
+physical skills & Difficult to answer \\\\
+& 18,1 & 6,4 & 51,5 & 6,2 & 19.8 \\\\
+\\multirow{2}{*}{7). Is, in your opinion, material incentives the most
+effective method of stimulating the professional activities of civil
+servants?} & Yes & No & Ratheryesthanno & More likely no than yes &
+Difficult to answer \\\\
+& 52,5 & 15,7 & 17,2 & 7,3 & 7,3 \\\\
+\\multicolumn{6}{@{}>{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{1.0000} + 10\\tabcolsep}@{}}{%
+Note: compiled by the authors based on sociological research data} \\\\
+\\end{longtable}
+
+To the question: \"Would you agree to change jobs, subject to a reduction
+in pay by 25-30\\%, but with more interesting responsibilities?\" 18.5\\%
+answered positively and ``more likely than not'' another 17.9\\% of
+respondents. The results of the survey indicate that more than a third
+of current civil servants are ready to sacrifice material income in
+order to change their routine duties to more interesting ones.
+
+This is another confirmation of the theory about the importance of
+non-monetary factors motivating the professional growth of civil
+servants. However, the presence of 33.1\\% of those who are not ready to
+sacrifice the amount of wages indicates that an effective motivation
+system should consist of both monetary and non-monetary factors
+motivating the professional development of modern domestic officials.
+
+For a third of active civil servants, recognition from management is of
+the greatest importance (35.4\\%), and only after it is promotion
+(27.1\\%). This situation is caused by the fact that promotion up the
+career ladder currently depends more on the loyalty of the management
+than on the level of professionalism of the employee.
+
+It should be noted that the majority of civil servants are aware that
+the prospect of career growth (32.2\\%) is one of the main motives for
+their professional growth. At the same time, more than half of the
+surveyed respondents admit that the most effective way to increase
+professional growth is the exchange of experience (internships) -
+51.5\\%.
+
+In the process of working in the civil service, in our opinion, the
+greatest importance should be the opportunity to acquire knowledge and
+skills, which is an internal motive, which, according to personal data,
+amounted to only 18.1\\%.
+
+According to the survey data, 45.5\\% of current civil servants and
+21.8\\% underestimated the role of staff professionalism had the greatest
+impact on the decrease in the motivation and professionalism of civil
+servants: recruitment and promotion of personnel through acquaintances,
+personal loyalty. These negative factors had a significant impact on the
+desire of state bodies to improve their professional level.
+
+It also follows from the results of this survey that more than a third
+of civil servants either know very little about it (16.5\\%) or have not
+encountered it at all in practice (17.0\\%). This is another confirmation
+of the relevance and timeliness of the ongoing research within the
+framework of this research work. Therefore, it is necessary to work out
+measures to optimize the system of personnel changes, taking into
+account the reduction of the influence of the human factor on the
+results.
+
+To the question \"Is, in your opinion, material incentives the most
+effective method of stimulating the professional activities of civil
+servants?\" more than half (52.5\\%) answered \"Yes\" and only 17.2\\%
+answered \"No\". But we consider it necessary to note that financial
+incentives account for 52.5\\% of respondents, which indicates the
+importance of this factor.
+
+The survey data confirm the fact that gradually non-monetary forms of
+motivation are also becoming increasingly important. The survey showed a
+high level of internal motivation of domestic civil servants. It follows
+that satisfaction from the process itself and the result of the work and
+the possibility of the most complete self-realization in this particular
+activity are important for them. According to the calculations, this
+result states that in the motivation system of a modern civil servant,
+it is necessary to pay more attention to non-monetary factors that have
+taken leading positions and are the most optimal direction for improving
+the existing motivation system.
+
+Thus, based on the conclusions of the above analysis, we can judge the
+list of factors of labor motivation of civil servants, the impact of
+which the heads of public administration organizations should fully take
+into account in their work. The specificity of the system of factors of
+labor motivation of civil servants lies in the priority of certain
+factors. Without resolving the issues of fulfilling physiological and
+security needs, it will not be possible to form a system of labor
+motivation for civil servants as a whole. But the factors generated by
+the needs of a high order should be taken into account to the same
+extent from the very beginning of the organization.
+
+In order to overcome these shortcomings, the development plan of the
+Agency of the Republic of Kazakhstan for Civil Service Affairs for
+2020-2024 provides for the implementation of a number of measures,
+including the necessary amount of work on retraining and advanced
+training of civil servants {[}17{]}. In this document, the actual
+figures are given for 2018-2019, and the planned period is from
+2020-2024. Let\\textquotesingle s analyze the Section. 3. ``Strategic
+directions, macro indicators, goals and target indicators'', subsection
+1. ``Strategic direction. Formation of a strategically innovative civil
+service'' The level of compliance with the principle of meritocracy in
+2019 was 60.1\\%, and in 2024 it should reach 61.6\\%.
+
+In subsection 1.1 ``Transformation of the civil service. Target
+indicators interconnected with budget programs''.
+
+1. The net turnover of civil servants (leaving the civil service system)
+amounted to 6.2\\% and 6.0\\%, respectively, in 2018-2019, and from 7.0\\%
+to 6.6\\% in the planned period, decreasing every year by 0.1 \\%. The
+main reason for the high turnover was \"command movements\", when the key
+staff of the apparatus was updated during the change of the first
+leaders.
+
+2. The share of civil servants of central government bodies who
+completed retraining and advanced training courses, within the funds
+allocated from the Republican budget for the reporting period in
+2018-2019, amounted to 99.7\\% and 100\\%, respectively, and from 94.0\\%
+in the planning period up to 96\\% increasing every year by 0.5\\%.
+
+3. The share of civil servants satisfied with the quality of education
+at the Academy in 2018-2019 amounted to 93.0\\% and 94.4\\%, respectively,
+and in the planned period from 94.5\\% to 95.0\\%, increasing every year
+by 0.5 \\% except 2021.
+
+4. The share of implemented recommendations of the Ethics Councils in
+2018-2019 amounted to 99.0\\% and 99.6\\%, respectively, and in the
+planned period from 91.1\\% to 95.0\\%, increasing every year by 1.0\\%.
+
+5. For executed orders (representations) to eliminate violations
+identified as a result of inspections on compliance with the legislation
+on civil service and proposals to cancel decisions of state bodies
+adopted in violation of the legislation on civil service and other
+normative legal acts of the Republic of Kazakhstan in 2018-2019 amounted
+to 96.0\\% and 97.0\\%, respectively, and in the planned period from
+92.5\\% to 95.0\\%, increasing every year by 0.5 and 1.0\\%.
+
+6. The share of advanced training seminars and disciplines of
+pre-training courses conducted in the state language at the Academy of
+Public Administration and the share of modernized subsystems of IIS
+\"E-kyzmet\", taking into account the transition of subsystems to modules
+from among those to be modernized and are shown only in the planning
+period, respectively, from 30.0 \\% to 34.0\\% and from 50.0\\% to 90.0\\%,
+increasing every year.
+
+In subsection 2. ``Strategic direction. Improving the quality of the
+provision of public services ''The share of restored rights of service
+recipients based on the results of violations identified during
+inspections on appeals for the reporting period in 2018-2019 amounted to
+83.00\\% and 88.4\\%, respectively, and in the planned period from 86.0\\%
+to 90, 1\\% increasing every year by 1.0\\%. In subsection 2.1
+\"Development of customer focus in the public service\" The share of
+public services covered by public monitoring of the quality of public
+services for the state social order of the Agency, including online in
+the total number in the Register of public services.The share of
+instructions and recommendations executed by the central state bodies on
+the elimination of violations, causes and conditions contributing to
+their completion, identified by the results of inspections, as well as
+the results of analyzes carried out in relevant areas on compliance with
+the law in terms of the provision of public services and are shown only
+in the planning period, respectively, from 60.0\\% to 62.0\\% and from
+82.0\\% to 84.0\\%, increasing by 1.0\\% every year. From the above data,
+strategic directions, macro indicators, goals and target indicators,
+inclusive of 2024, are visible.
+
+According to the planned indicators, by 2021 it was planned to increase
+the share of those who completed retraining and advanced training
+courses, of those subject to retraining and advanced training, to
+95.0\\%, while at the end of 2018 this figure was 70.0\\%. In order to
+achieve such a high level of this indicator and implement a number of
+other measures to improve the quality of services provided, in addition
+to the administrative resource, it is necessary to generate internal
+staff motivation for professional development.
+
+The main criterion for the quality of public services, in our opinion,
+is the satisfaction of their external users, that is, the population. In
+order to determine this indicator, constant on-line monitoring is
+carried out on the website of the Agency of the Republic of Kazakhstan
+for Civil Service Affairs and Anti-Corruption. Consider the results of a
+survey conducted at the beginning of 2023 by online monitoring, which
+are presented in the table.
+
+Table 2. Results of a survey of the population on the quality of public
+services provided
+
+\\begin{longtable}[]{@{}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 6\\tabcolsep) * \\real{0.0683}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 6\\tabcolsep) * \\real{0.7167}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 6\\tabcolsep) * \\real{0.1148}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 6\\tabcolsep) * \\real{0.1002}}@{}}
+\\toprule\\noalign{}
+\\multirow{2}{*}{\\begin{minipage}[b]{\\linewidth}\\raggedright
+N No.
+
+P p/n
+\\end{minipage}} &
+\\multirow{2}{*}{\\begin{minipage}[b]{\\linewidth}\\raggedright
+Questions, answeroptions
+\\end{minipage}} &
+\\multicolumn{2}{>{\\raggedright\\arraybackslash}p{(\\columnwidth - 6\\tabcolsep) * \\real{0.2150} + 2\\tabcolsep}@{}}{%
+\\begin{minipage}[b]{\\linewidth}\\raggedright
+Meaning of answer
+\\end{minipage}} \\\\
+& & \\begin{minipage}[b]{\\linewidth}\\raggedright
+people
+\\end{minipage} & \\begin{minipage}[b]{\\linewidth}\\raggedright
+\\%
+\\end{minipage} \\\\
+\\midrule\\noalign{}
+\\endhead
+\\bottomrule\\noalign{}
+\\endlastfoot
+11. & Have you encountered a violation of professional ethics by civil
+servants of the Agency of the Republic of Kazakhstan for Civil Service
+Affairs (unethical behavior)?
+
+- Yes
+
+- No
+
+- Do not interact with the public sector & 14
+
+218
+
+2 & 6,0
+
+93,2
+
+0,8 \\\\
+32. & To improve the ethical culture of public employees need:
+
+- To bring to disciplinary responsibility
+
+- Encourage ethical civil servants in every possible way
+
+- Own option & 53
+
+160
+
+21 & 22,6
+
+68,4
+
+9,0 \\\\
+3. & Measures taken in the state body for compliance with ethical
+standards:
+
+- Efficient, civil servants are correct and respectful towards citizens
+and colleagues
+
+- Ineffective, employees allow facts of incorrect behavior in relation
+to citizens and colleagues
+
+- Difficult to answer
+
+- Own option & 186
+
+20
+
+24
+
+4 & 79,5
+
+8,5
+
+10,3
+
+1,7 \\\\
+& Note: compiled by the authors based on sociological research data &
+& \\\\
+\\end{longtable}
+
+The survey involved 234 respondents. To the first question, ``Have you
+encountered a violation of professional ethics by civil servants of the
+Agency of the Republic of Kazakhstan for Civil Service Affairs
+(unethical behavior)? \"No\" answered 93.2\\%, \"Yes\" answered 6\\%, which
+indicates the ethical behavior of civil servants and 0.8\\% of
+respondents, indicates little contact between the population and civil
+servants.
+
+On the second question: ``In order to improve the ethical culture of
+public22.6 respondents answered that it is necessary to ``Bring to
+disciplinary responsibility and -- 68.4\\% of respondents that it is
+necessary to encourage ethical civil servants in every possible way and
+only 9\\% suggested ``Own option'' 9.0\\%.
+
+To the third question: ``Measures taken in the state body tocompliance
+with ethical standards\" - \"Effective,...\" answered 79.5
+respondents,``Ineffective, ... answered 8.5\\% of respondents,
+``Difficult to answer'' 10.3\\% and offered ``Own option'' - 1.7\\% of
+respondents.
+
+Thus, in order to detail the problems and disclose the situation, we
+analyzed the results of monitoring, which reflects the current
+situation.
+
+In the current conditions of the development of the civil service, the
+question of the effectiveness of the activities of civil servants is
+acute. From the foregoing, it can be seen that the effectiveness of the
+civil service depends on the quality and efficiency of the work of civil
+servants in the field, respectively, on the motivation in the efficiency
+of the work of civil servants in the organization.
+
+Today, the motivation of civil servants is carried out mainly through
+strict administrative methods, the main attention is paid to monitoring
+the performance of functions, compliance with the activities of civil
+servants with established norms and procedures, which provokes a formal
+attitude to the performance of official duties or their non-performance
+{[}18, pp. 63-67{]}.
+
+Prestige as a motive for entering the civil service are: stability of
+position, career opportunities, social guarantees, gaining professional
+experience, the managerial nature of work, the possibility of more fully
+realizing one\\textquotesingle s professional qualities and the desire to
+bring more benefits to society and the state. Factors that reduce the
+attractiveness of the civil service are low wages, lack of job growth
+prospects, a difficult psychological environment, overtime workloads, a
+tight schedule, the absence of clear criteria for evaluating performance
+and the absence of tangible results of work.
+
+Motivation and stimulation of the work of civil servants is a
+problematic topic that requires a systematic approach and improvement.
+Today, there is a decrease in the overall level of staff motivation,
+which includes:
+
+- the predominance of material needs among officials;
+
+- inefficient system of financial incentives for officials;
+
+- insufficient elaboration of socio-psychological incentive mechanisms.
+
+Considering the foreign experience of motivating civil servants, it can
+be noted that the main direction of stimulating the work of officials is
+to increase the level of their qualifications, as well as to obtain and
+improve special competencies. This is typical for European countries,
+the USA, China and Japan {[}19{]}.
+
+Currently, Singapore\\textquotesingle s civil service is considered one
+of the most efficient in Asia. This efficiency is a consequence of
+strict discipline, assertiveness and diligence of officials, low level
+of corruption, recruitment of the most capable candidates based on the
+principles of meritocracy {[}20{]}. The government of the country enjoys
+a good reputation, public support, which it achieves through educational
+activities and publicity; the discipline of the people taking tough but
+necessary measures.
+
+In Germany, to stimulate talented specialists in the civil service, a
+system of ``two directions in a career'' is used: either job growth or
+work in the same position with a gradual increase in wages {[}21{]}.It
+should also be noted that the motivation for professional
+self-realization in Germany occurs already at the stage of training
+future specialists. In the training programs for civil servants, the
+emphasis is not only on the transfer of certain knowledge, but also on
+the formation of a certain way of thinking and behavior of officials of
+the corresponding rank, on the prestige of the profession, on
+efficiency. In Japan, the system of material incentives consists of two
+main blocks: the system of promotion of personnel; systems of natural
+and monetary incentives.
+
+It seems that the use of positive foreign practice to motivate the
+professional activities of civil servants in the Republic of Kazakhstan
+will improve the efficiency of the public administration system.The
+severity and relevance of the problems of motivation of public service
+employees require further analysis, rethinking of traditional concepts
+and the development of modern methods for the formation and
+implementation of motivational models in a changing environment of
+public life. Therefore, we have identified and searched for methods for
+solving problems based on a comparative analysis of foreign and domestic
+experience in motivating the professional activities of civil servants.
+
+In Kazakhstan, the remuneration of civil servants was limited to wages.
+In our opinion, the introduction of a new model based on a factor-point
+scale will increase the responsibility and motivation of civil servants
+of the Republic of Kazakhstan.
+
+Thus, in the course of the study, it was revealed that the motivation of
+civil servants is due to only partial satisfaction of the needs
+associated with the content of the labor itself, social utility, status
+needs, and the perception of work as a source of livelihood. In this
+regard, the prospect of further research is seen in the development of a
+system for stimulating and motivating civil servants in the Republic of
+Kazakhstan based on positive foreign experience, as well as the
+principles of project management.
+
+The analysis carried out allows us to state the following:
+
+- the motivational mechanism in the public service system includes both
+material and non-material components;
+
+- the presence of regulatory and legal aspects for motivating the work
+of civil servants necessitates the improvement of the salary structure
+of civil servants, depending not only on the length of service in the
+civil service, but also on other variable parameters;
+
+- the development of the main elements of the motivational mechanism
+involves the use of non-standard managerial, integrated approaches, the
+adoption of measures to improve the organizational management model with
+the corresponding optimization of the function and number of civil
+servants through the introduction of information and communication
+technologies in the business processes of state bodies.
+
+The current system for evaluating the performance of civil servants is,
+at present, more formal and does not reflect the real results of the
+evaluation of the professional performance of civil servants, but
+reflects only that part of the evaluation that is based on results and
+has a great influence of the human factor. This fact is negative.
+
+It opens up opportunities for distorting factual information under the
+influence of human factors (the mood of the manager, honesty and
+conscientiousness of the employee, priorities and personal attitudes of
+immediate supervisors), and what is even more dangerous, the possibility
+of using corruption schemes, which runs counter to the priorities for
+the development and modernization of the civil service. in the Republic
+of Kazakhstan.
+
+In recent years, the civil service system of Kazakhstan has been
+transformed, which has led to a revision of the principles and
+approaches to managing the personnel of state bodies in an attempt to
+form a professional state. In modern conditions, for solving complex
+problems, issues of the quality of personnel management at all levels of
+government are of paramount importance.
+
+The achievement of a high level of professionalism by civil servants can
+be built on the basis of the motivation of this civil servant to
+constantly improve their knowledge and professional competence.
+Therefore, the factors of internal motivation of an official for
+continuous professional development are at the forefront, as it is able
+to ensure its implementation. In our opinion, it is difficult to achieve
+such interest by will or order. In this regard, we have set a goal to
+identify exactly those factors, the impact of which leads to the
+formation of civil servants\\textquotesingle{} motivation for
+professional development. Knowledge of such employee motivation factors
+will allow the leadership of state bodies to build an optimal policy for
+managing the professional development of their subordinates.
+
+For the corresponding analytical study of the motivation factors of
+civil servants that are of interest to us, general quantitative and
+qualitative characteristics of the personnel composition and structure
+of government bodies were considered. Based on the conclusions of our
+analysis, we can talk about the list of factors of labor motivation of
+civil servants, the impact of which the heads of public administration
+bodies should fully take into account in the work of civil servants. It
+should be noted that the assessment system should not be limited only to
+the assessment of the labor activity of a civil servant, but should
+cover a wider range of assessed indicators that would form the basis of
+not only monetary, but also non-monetary motivation.
+
+The main difficulty lies in the absence of a clear system of criteria
+for assessing both a state body and an individual civil servant, which
+could be taken as a basis. At the civil service level, the following
+performance indicators can and are used as quantitative indicators: the
+number of requests or letters processed; the number of processed and
+sent responses, the number of requests received, etc. The main
+difficulty here is that none of the indicators mentioned above or used
+in modern practice can reflect the real contribution of a certain
+official to the work of a particular state department, body or
+institution.
+
+We hope that the new model of public administration will be based on the
+principles of a ``hearing'', efficient, accountable, professional and
+pragmatic state. As part of the implementation of the Concept, the
+mechanisms for finding and attracting talents for public service at the
+country level will be improved. At the same time, the emphasis in the
+further improvement of selection procedures will be shifted to assessing
+the professional and personal competencies of candidates, including with
+the involvement of the public and experts {[}7{]}.
+
+In order to achieve the goal of increasing the motivation of civil
+servants through the development of professional competence, it is
+necessary to develop a certain system of remuneration and incentives,
+both material and intangible, through the professional initiative of
+employees in raising their level of professional development.
+
+Therefore, the analytical study is aimed at identifying incentive
+factors, the use of which leads to an increase in the efficiency of the
+system of motivation for the professional activities of civil servants.
+In the process of analysis, the main aspects of quantitative and
+qualitative indicators characterizing the composition, structure and
+dynamics of the personnel apparatus of public administration bodies were
+preliminary touched upon, on the basis of which some important trends
+were identified.
+
+As a result of an empirical study of the factors influencing the
+motivation of the professional activities of civil servants, there are
+both monetary and non-monetary factors. The main non-monetary factors,
+according to the assessment of the results of the survey according to
+the method of K. Zamfir in the modification of A. Rean \"Studying the
+motivation of professional activity\", include factors of internal
+motivation, such as: the possibility of the most complete
+self-realization and getting satisfaction from the process itself and
+the result of work.However, it should be noted that monetary factors are
+of great importance in the system of professional activity motivation.
+The main monetary factor is the amount of remuneration, which is
+directly related to the current evaluation system aimed at determining
+the result. Thus, we come to the conclusion that the motivation system
+cannot exist independently of the evaluation system. Therefore, the
+question arises of the need to integrate assessment and motivation
+systems in order to optimize both systems.
+
+The influence of non-monetary factors, especially in the civil service,
+should be significant. The importance of the influence of material
+factors is undeniable for maintaining a high professional level of
+public service. Building the image of a civil servant is impossible
+without ensuring the proper level of remuneration. The work of highly
+qualified personnel requires an appropriate assessment.The current
+system of wages, with its basic salary levels, remains unattractive,
+especially at the level of local government bodies. In addition to the
+lower level of wages in the regions, there is also no social package
+that attracts workers to the central offices of public service bodies.
+Thus, non-material incentive factors remain the main and most accessible
+way to increase the level of motivation for the professional activities
+of civil servants.
+
+It should be emphasized once again that the development of a system of
+motivation for the professional activities of civil servants is based on
+an integrated approach that provides for the interaction of the system
+with the assessment of the effectiveness / efficiency of their
+professional activities, which involves the use of material and
+non-material methods to stimulate the professional activities of civil
+servants. As a result of the introduction and implementation of
+techniques, methods and mechanisms, an effective integrated system for a
+comprehensive assessment of the activities of civil servants, taking
+into account motivation, is obtained.
+
+\\textbf{Conclusions.}
+
+1. In Kazakhstan, by now, it has been possible to create a stable and
+optimal in terms of the number of state administrative apparatus. There
+is an understaffing of civil servants, which, in turn, indicates the
+presence of gaps in the work of the personnel service of the state
+apparatus.
+
+2. In the civil service in Kazakhstan, there is a tendency towards a
+gradual rejuvenation of the state administration apparatus, which
+increases the opportunities for training, retraining and advanced
+training, as young employees more effectively perceive new knowledge.
+There is a gender balance (59.8\\%).
+
+3. The educational level of civil servants is quite high and tends to
+further increase. However, we consider it necessary to note that the
+increase in the level of education is accompanied by a decrease in the
+quality of services provided by civil servants. Consequently,
+professional development, being a multifaceted process, is not always
+associated with higher education, but directly proportional to the level
+of acquired knowledge and skills.
+
+4. The Strategic Plan of the Agency of the Republic of Kazakhstan for
+Civil Service Affairs for 2020-2024 provides for the implementation of a
+number of measures, including carrying out the necessary amount of work
+on retraining and advanced training of civil servants, as well as
+improving the quality of public services from 83\\% in 2018 to 90.1\\% in
+2024.
+
+5. Recent reforms in the Republic of Kazakhstan modernized the civil
+service, including systems of material incentives and career planning
+for civil servants through the introduction of a factor-score scale.
+
+6. The modernization of the civil service involves the improvement of
+the internal management system and the introduction of flexible methods
+of human resource management based on achieving the best results of
+socio-economic development by improving the quality of public services
+and attracting qualified specialists.
+
+7. To this end, the governments of various countries create and develop
+systems of material incentives and career planning for civil servants.
+The ultimate goal of the ongoing reforms is to create a professional and
+efficient public service.
+
+8. The final point in optimizing the system of motivation for the
+professional activities of civil servants in the Republic of Kazakhstan
+is the introduction of elements of project management, which defines a
+completely new approach to management for the civil service.
+
+9. The project approach to the management of the professional activities
+of civil servants implies not only the presence of a certain deadline
+for the performance of work, but also a clear definition of the
+necessary resources, which makes it possible to evaluate the
+effectiveness of the work of both an individual employee and the team as
+a whole.
+
+10. The integrated system of motivation and performance assessment that
+we have considered allows for continuous monitoring of the motivational
+profile of a civil servant at all stages of professional activity from
+selection to a position to dismissal. And the practical implementation
+and effective use of all the identified factors in combination can
+create and maintain a positive motivation for civil servants to improve
+their educational and professional level.
+
+\\textbf{References}
+
+1. Khaziev, A. O. Features of the system of motivation of public civil
+servants. // Young scientist. - 2019. - No. 47 (285). --- S. 234-237.
+
+2. Message of the President of the Republic of Kazakhstan N. Nazarbayev
+to the people of Kazakhstan. October 5, 2018. Increasing the well-being
+of Kazakhstanis: increasing incomes and quality of LIFE
+
+3. Moskaleva N.V. Kuzmenkova V.D. Methods of economic research. -
+Smolensk: FGBOU Smolensk State Agricultural Academy, 2016 - 86 p.
+
+4. Motivation of civil servants in Kazakhstan. 04.04.2018..
+09.11.2019.//International Journal of Civil Service Reform and
+Practice.: p. 71.
+
+5. Abilmazhinov T.T. The evolution of systems for assessing and
+motivating the professional activities of civil servants // Bulletin of
+Modern Research.-2018.- No. 1.1 (16).- P. 179-183.
+
+6. Evseenko V.V.A. Foreign experience of personnel motivation and the
+possibility of its application in domestic practice // Manager. - 2022.
+- No. 1 (99). - -- S. 87-95
+
+7. RabigaNurbay. Factor-point scale of civil servants: efficiency and
+prospects
+
+8. National report on the state of public service in the Republic of
+Kazakhstan. Nur-Sultan, 2022 https://online.zakon.kz › Document
+
+9. National report on the state of the civil service in the Republic of
+Kazakhstan for 2019 - GOV.KZ https://www.gov.kz › qyzmet › documents ›
+details
+
+10.November 11, 2020 National report on the state of the civil service
+in the Republic of Kazakhstan. - GOV.KZhttps://www.gov.kz › uploads
+
+11. Improving the management of state bodies. - under the scientific
+supervision of Isenova G.K., Kazakhstan, Nur-Sultan, 2020, 161 p.
+
+12. The plan of the nation \"100 concrete steps to implement five
+institutional reforms\" / ed. ed. A. M. Rakhimzhanova, B. M. Kaipova. -
+Nur-Sultan: Library of the First President of the Republic of Kazakhstan
+- Elbasy, 2019. - 196 p.
+
+13. Strategic Plan of the Agency of the Republic of Kazakhstan for Civil
+Service Affairs and Anti-Corruptionfor 2017--2021. Astana, 2017, - 26 p.
+
+14. Baiturina G.R. Transformation of the Weberian bureaucracy in the
+model of R. Merton and A. Gouldner Interpretation of bureaucracy by A.
+Gouldner 2018) https://cyberleninka.ru › article ›
+transformatsiya-veber.
+
+15. Maslow A.G. Theory of human motivation / per. in Russian S.A.
+language Chetvertakova,2013//
+ttp://www.sergeychet.narod.ru/bibl\\_psy/hummotiv1943.htm. (Date of
+access 26.01.2017).
+
+16. Methodology for studying the motivation of professional activity
+(methodology of K. Zamfir in the modification of A.
+Rean)http://psihdocs.ru › metodika-izuchenie-motivacii-profe...
+(accessed March 7, 2021)
+
+17. Appendix to the order of the Chairman of the Agency of the Republic
+of Kazakhstan for Civil Service Affairs for 2020-2024 (dated July 21,
+2022 No. 163)
+
+18. Fofanova A. Yu. Criteria for assessing the effectiveness of labor
+motivation of civil servants in an organization // CETERIS PARIBUS -
+2016 - No. 1-2 - P. 63-67.
+
+19. Belova N.P., Miroshnichenko O.N. Foreign experience of motivating
+the professional activities of civil servants // Bulletin of the Russian
+University of Cooperation -2019.- No. 3 (37) - P. 28-31.
+
+20.Morgan D.G. The Singapore Constitution: A Brief Introduction /
+Singapore Management University //
+https://\\href{http://www.smu.edu.sg/faculty/profile/9491/Jeremy-}{www.smu.edu.sg/faculty/profile/9491/Jeremy-}
+GOH.
+
+21. CebroYu.A. Modern problems of motivation and stimulation of labor of
+state civil servants // Innovations and investments. - 2019. - No.
+3.-S.141-144.
+
+\\emph{\\textbf{Information about authors}}
+
+Karbetova Zatira Rakhimovna - Ph.D., Professorof Economics, Kazakh
+University of Technology and Business, Department of Economics and
+Service, e-meil kzr\\_2011@mail.ru
+
+Baktymbet Asem Serikovna - Candidateof Economics, AssociateProfessor,
+Head. Department of \"Economics and Management\" of theKazakh University
+of Technology and Business, e-meil asem\\_abs@mail.ru
+
+Karbetova Sholpan Rakhimovna - Ph.D. in Economics, AssociateProfessor,
+International Transport and Humanitarian University, Department of
+Business and Management, e-meil
+\\href{mailto:karbetova_2013@mail.ru}{\\nolinkurl{karbetova\\_2013@mail.ru}}
+
+\\emph{\\textbf{Сведения об авторах:}}
+
+Карбетова Затира Рахимовна - кандидат технических наук, профессор,
+Казахский университет технологии и бизнеса, факультет экономики и
+сервиса, e-meil kzr\\_2011@mail.ru
+
+Бактымбет Асем Сериковна - кандидат экономических наук, доцент,
+заведующий кафедрой «Экономика и управление» Казахского университета
+технологии и бизнеса.
+
+Карбетова Шолпан Рахимовна - кандидат экономических наук, доцент,
+Международный транспортно-гуманитарный университет, факультет бизнеса и
+менеджмента, e-meil karbetova\\_2013@mail.ru
+
+Редактор: Оспанова М.К.
+
+Верстка на компьютере:Ундасынов Р. Е.
+
+Подписано в печать 29.06.2023 г.
+
+Издание АО «КазУТБ» 010000, Астана, Казахстан,
+
+ул. Кайыма Мухамедханова, 37 А,
+
+телефон рабочий + (7172) 72-58-12 (134)
+
+е-mail: vestnik@kaztbu.kz
+" 0 16 (fontified t) 16 23 (fontified t face font-lock-keyword-face) 23 24 (fontified t) 24 77 (fontified t face (bold)) 77 78 (fontified t) 78 79 (fontified t) 79 80 (fontified t) 80 87 (fontified t face font-lock-keyword-face) 87 88 (fontified t) 88 124 (fontified t face (bold)) 124 126 (fontified t) 126 127 (fontified t) 127 134 (fontified t face font-lock-keyword-face) 134 135 (fontified t) 135 149 (fontified t face (bold)) 149 165 (fontified t face (font-lock-keyword-face bold)) 165 182 (fontified t face (bold)) 182 198 (fontified t face (font-lock-keyword-face bold)) 198 217 (fontified t face (bold)) 217 233 (fontified t face (font-lock-keyword-face bold)) 233 249 (fontified t face (bold)) 249 265 (fontified t face (font-lock-keyword-face bold)) 265 285 (fontified t face (bold)) 285 301 (fontified t face (font-lock-keyword-face bold)) 301 304 (fontified t face (bold)) 304 307 (fontified t) 307 314 (fontified t face font-lock-keyword-face) 314 315 (fontified t) 315 331 (fontified t face (font-lock-keyword-face bold)) 331 336 (fontified t face (bold)) 336 536 (fontified t) 536 542 (fontified t face font-lock-keyword-face) 542 543 (latex-env-pair t fontified t) 543 548 (latex-env-pair t fontified t face font-lock-function-name-face) 548 549 (latex-env-pair t fontified t) 549 558 (fontified t) 558 563 (fontified t face font-lock-keyword-face) 563 587 (fontified t) 587 597 (fontified t face font-lock-keyword-face) 597 598 (fontified t) 598 612 (fontified t face tex-verbatim) 612 615 (fontified t) 615 619 (fontified t face font-lock-keyword-face) 619 620 (latex-env-pair t fontified t) 620 625 (latex-env-pair t fontified t face font-lock-function-name-face) 625 626 (latex-env-pair t fontified t) 626 1150 (fontified t) 1150 1157 (fontified t face font-lock-keyword-face) 1157 1158 (fontified t) 1158 1167 (fontified t face (bold)) 1167 1267 (fontified t) 1267 1274 (fontified t face font-lock-keyword-face) 1274 1275 (fontified t) 1275 1318 (fontified t face (bold)) 1318 1321 (fontified t) 1321 1327 (fontified t face font-lock-keyword-face) 1327 1328 (latex-env-pair t fontified t) 1328 1333 (latex-env-pair t fontified t face font-lock-function-name-face) 1333 1334 (latex-env-pair t fontified t) 1334 1335 (fontified t) 1335 1342 (fontified t face font-lock-keyword-face) 1342 1343 (fontified t) 1343 1373 (fontified t face (bold)) 1373 1375 (fontified t) 1375 1379 (fontified t face font-lock-keyword-face) 1379 1380 (latex-env-pair t fontified t) 1380 1385 (latex-env-pair t fontified t face font-lock-function-name-face) 1385 1386 (latex-env-pair t fontified t) 1386 1388 (fontified t) 1388 1395 (fontified t face font-lock-keyword-face) 1395 1396 (fontified t) 1396 1408 (fontified t face (bold)) 1408 1424 (fontified t face (font-lock-keyword-face bold)) 1424 1439 (fontified t face (bold)) 1439 1442 (fontified t face (font-lock-keyword-face bold)) 1442 1455 (fontified t face (font-lock-keyword-face bold)) 1455 1460 (fontified t face (bold)) 1460 1471 (fontified t face (bold)) 1471 1487 (fontified t face (font-lock-keyword-face bold)) 1487 1502 (fontified t face (bold)) 1502 1518 (fontified t face (font-lock-keyword-face bold)) 1518 1537 (fontified t face (bold)) 1537 1553 (fontified t face (font-lock-keyword-face bold)) 1553 1556 (fontified t face (bold)) 1556 1559 (fontified t) 1559 1566 (fontified t face font-lock-keyword-face) 1566 1567 (fontified t) 1567 1579 (fontified t face (font-lock-keyword-face bold)) 1579 1583 (face (font-lock-keyword-face bold) fontified t) 1583 1588 (face (bold) fontified t) 1588 1632 (fontified t) 1651 1658 (face font-lock-keyword-face) 1659 1675 (face (font-lock-keyword-face bold)) 1675 1678 (face (bold)) 1832 1837 (face font-lock-keyword-face) 1861 1871 (face font-lock-keyword-face) 1872 1886 (face tex-verbatim) 2345 2352 (face font-lock-keyword-face) 2353 2366 (face (bold)) 2368 2373 (face font-lock-keyword-face) 2374 2375 (face (italic)) 2476 2483 (face font-lock-keyword-face) 2484 2527 (face (bold)) 2530 2537 (face font-lock-keyword-face) 2538 2585 (face (bold)) 2588 2595 (face font-lock-keyword-face) 2596 2608 (face (bold)) 2608 2624 (face (font-lock-keyword-face bold)) 2624 2639 (face (bold)) 2639 2655 (face (font-lock-keyword-face bold)) 2655 2671 (face (bold)) 2671 2687 (face (font-lock-keyword-face bold)) 2687 2702 (face (bold)) 2702 2718 (face (font-lock-keyword-face bold)) 2718 2736 (face (bold)) 2736 2752 (face (font-lock-keyword-face bold)) 2752 2755 (face (bold)) 2941 2946 (face font-lock-keyword-face) 2970 2980 (face font-lock-keyword-face) 2981 2995 (face tex-verbatim) 3473 3480 (face font-lock-keyword-face) 3481 3496 (face (bold)) 3609 3616 (face font-lock-keyword-face) 3617 3630 (face (bold)) 7558 7565 (face font-lock-keyword-face) 7566 7588 (face (bold)) 13914 13930 (face font-lock-keyword-face) 13940 13950 (face font-lock-keyword-face) 13952 13959 (face font-lock-builtin-face) 16464 16478 (face font-lock-keyword-face) 16512 16514 (face font-lock-keyword-face) 16516 16517 (display (raise -0.2) face (subscript)) 16517 16523 (face (font-lock-keyword-face subscript) display (raise -0.2)) 16523 16524 (display (raise -0.2) face (subscript)) 16527 16532 (face font-lock-keyword-face) 16542 16545 (display (raise -0.2) face (subscript)) 16546 16551 (face font-lock-keyword-face) 16554 16557 (display (raise -0.2) face (subscript)) 16557 16562 (face font-lock-keyword-face) 16565 16567 (face font-lock-keyword-face) 16865 16879 (face font-lock-keyword-face) 16932 16934 (face font-lock-keyword-face) 16936 16937 (display (raise -0.2) face (subscript)) 16937 16942 (face (font-lock-keyword-face subscript) display (raise -0.2)) 16942 16948 (display (raise -0.2) face (subscript)) 16951 16956 (face font-lock-keyword-face) 16957 16962 (face font-lock-keyword-face) 16969 16972 (display (raise -0.2) face (subscript)) 16974 16979 (face font-lock-keyword-face) 16982 16984 (face font-lock-keyword-face) 16990 17006 (face font-lock-keyword-face) 17016 17026 (face font-lock-keyword-face) 17028 17035 (face font-lock-builtin-face) 17039 17053 (face font-lock-keyword-face) 17102 17116 (face font-lock-keyword-face) 17222 17236 (face font-lock-keyword-face) 17313 17327 (face font-lock-keyword-face) 17374 17388 (face font-lock-keyword-face) 17486 17500 (face font-lock-keyword-face) 17557 17571 (face font-lock-keyword-face) 17969 17983 (face font-lock-keyword-face) 19291 19298 (face font-lock-keyword-face) 19299 19322 (face (bold)) 20466 20480 (face font-lock-keyword-face) 20993 20995 (face font-lock-keyword-face) 21690 21706 (face font-lock-keyword-face) 21716 21726 (face font-lock-keyword-face) 21728 21735 (face font-lock-builtin-face) 25118 25120 (face font-lock-keyword-face) 27073 27087 (face font-lock-keyword-face) 27090 27106 (face font-lock-keyword-face) 27251 27265 (face font-lock-keyword-face) 27339 27341 (face font-lock-keyword-face) 27343 27346 (display (raise -0.2) face (subscript)) 27347 27349 (display (raise 0.2) face (superscript)) 27349 27354 (face (font-lock-keyword-face superscript) display (raise 0.2)) 27354 27359 (display (raise 0.2) face (superscript)) 27362 27367 (face font-lock-keyword-face) 27370 27371 (display (raise -0.2) face (subscript)) 27371 27376 (face (font-lock-keyword-face subscript) display (raise -0.2)) 27376 27381 (display (raise -0.2) face (subscript)) 27382 27387 (face font-lock-keyword-face) 27390 27391 (display (raise -0.2) face (subscript)) 27391 27396 (face (font-lock-keyword-face subscript) display (raise -0.2)) 27396 27401 (display (raise -0.2) face (subscript)) 27402 27407 (face font-lock-keyword-face) 27410 27411 (display (raise -0.2) face (subscript)) 27411 27416 (face (font-lock-keyword-face subscript) display (raise -0.2)) 27416 27420 (display (raise -0.2) face (subscript)) 27420 27421 (display (raise -0.2) face (subscript)) 27422 27427 (face font-lock-keyword-face) 27430 27431 (display (raise -0.2) face (subscript)) 27431 27436 (face (font-lock-keyword-face subscript) display (raise -0.2)) 27436 27442 (display (raise -0.2) face (subscript)) 27446 27449 (display (raise -0.2) face (subscript)) 27450 27455 (face font-lock-keyword-face) 27456 27462 (face font-lock-keyword-face) 27463 27466 (display (raise -0.2) face (subscript)) 27468 27470 (face font-lock-keyword-face) 27483 27497 (face font-lock-keyword-face) 27562 27576 (face font-lock-keyword-face) 27623 27637 (face font-lock-keyword-face) 27684 27698 (face font-lock-keyword-face) 27752 27768 (face font-lock-keyword-face) 27774 27788 (face font-lock-keyword-face) 27823 27839 (face font-lock-keyword-face) 27926 27940 (face font-lock-keyword-face) 27958 27960 (face font-lock-keyword-face) 27962 27965 (display (raise -0.2) face (subscript)) 27966 27967 (display (raise 0.2) face (superscript)) 27967 27972 (face (font-lock-keyword-face superscript) display (raise 0.2)) 27972 27978 (display (raise 0.2) face (superscript)) 27981 27986 (face font-lock-keyword-face) 27989 27990 (display (raise -0.2) face (subscript)) 27990 27995 (face (font-lock-keyword-face subscript) display (raise -0.2)) 27995 28000 (display (raise -0.2) face (subscript)) 28000 28003 (display (raise 0.2) face (subscript superscript)) 28003 28004 (display (raise -0.2) face (subscript)) 28005 28010 (face font-lock-keyword-face) 28013 28014 (display (raise -0.2) face (subscript)) 28014 28019 (face (font-lock-keyword-face subscript) display (raise -0.2)) 28019 28024 (display (raise -0.2) face (subscript)) 28024 28027 (display (raise 0.2) face (subscript superscript)) 28027 28028 (display (raise -0.2) face (subscript)) 28029 28034 (face font-lock-keyword-face) 28037 28038 (display (raise -0.2) face (subscript)) 28038 28043 (face (font-lock-keyword-face subscript) display (raise -0.2)) 28043 28048 (display (raise -0.2) face (subscript)) 28049 28054 (face font-lock-keyword-face) 28057 28058 (display (raise -0.2) face (subscript)) 28058 28063 (face (font-lock-keyword-face subscript) display (raise -0.2)) 28063 28069 (display (raise -0.2) face (subscript)) 28070 28075 (face font-lock-keyword-face) 28078 28081 (display (raise -0.2) face (subscript)) 28086 28089 (display (raise -0.2) face (subscript)) 28094 28097 (display (raise -0.2) face (subscript)) 28099 28104 (face font-lock-keyword-face) 28105 28111 (face font-lock-keyword-face) 28112 28115 (display (raise -0.2) face (subscript)) 28117 28119 (face font-lock-keyword-face) 29901 29908 (face font-lock-keyword-face) 29909 29920 (face (bold)) 31614 31621 (face font-lock-keyword-face) 31622 31632 (face (bold)) 31635 31641 (face font-lock-keyword-face) 31641 31642 (latex-env-pair t) 31642 31651 (latex-env-pair t face font-lock-function-name-face) 31651 31652 (latex-env-pair t) 31653 31657 (face font-lock-keyword-face) 31658 31668 (face font-lock-function-name-face) 31669 31676 (face font-lock-keyword-face) 31686 31691 (face font-lock-keyword-face) 31807 31809 (face font-lock-keyword-face) 31809 31822 (face font-lock-string-face) 31822 31824 (face font-lock-keyword-face) 31844 31848 (face font-lock-keyword-face) 31848 31849 (latex-env-pair t) 31849 31858 (latex-env-pair t face font-lock-function-name-face) 31858 31859 (latex-env-pair t) 32217 32218 (face font-lock-keyword-face) 32218 32231 (face font-lock-string-face) 32231 32232 (face font-lock-keyword-face) 32348 32349 (face font-lock-keyword-face) 32349 32363 (face font-lock-string-face) 32363 32364 (face font-lock-keyword-face) 32506 32511 (face font-lock-keyword-face) 32512 32519 (face (font-lock-keyword-face italic)) 32519 32520 (face (italic)) 32520 32549 (face (bold italic)) 32549 32550 (face (italic)) 32636 32641 (face font-lock-keyword-face) 32665 32675 (face font-lock-keyword-face) 32676 32690 (face tex-verbatim) 32840 32845 (face font-lock-keyword-face) 32974 32979 (face font-lock-keyword-face) 32992 32993 (display (raise -0.2) face (subscript)) 33007 33017 (face font-lock-keyword-face) 33018 33037 (face tex-verbatim) 33123 33128 (face font-lock-keyword-face) 33142 33143 (display (raise -0.2) face (subscript)) 33158 33168 (face font-lock-keyword-face) 33169 33190 (face tex-verbatim) 33280 33285 (face font-lock-keyword-face) 33316 33326 (face font-lock-keyword-face) 33327 33348 (face tex-verbatim) 33352 33357 (face font-lock-keyword-face) 33358 33365 (face (font-lock-keyword-face italic)) 33365 33366 (face (italic)) 33366 33385 (face (bold italic)) 33385 33386 (face (italic)) 33468 33473 (face font-lock-keyword-face) 33497 33507 (face font-lock-keyword-face) 33508 33522 (face tex-verbatim) 33679 33684 (face font-lock-keyword-face) 33807 33812 (face font-lock-keyword-face) 33825 33826 (display (raise -0.2) face (subscript)) 33840 33850 (face font-lock-keyword-face) 33851 33870 (face tex-verbatim) 33952 33957 (face font-lock-keyword-face) 33971 33972 (display (raise -0.2) face (subscript)) 33987 33997 (face font-lock-keyword-face) 33998 34019 (face tex-verbatim) 34104 34109 (face font-lock-keyword-face) 34140 34150 (face font-lock-keyword-face) 34151 34172 (face tex-verbatim) 34176 34183 (face font-lock-keyword-face) 34184 34210 (face (bold)) 34229 34236 (face font-lock-keyword-face) 34237 34328 (face (bold)) 34331 34338 (face font-lock-keyword-face) 34339 34353 (face (bold)) 34353 34369 (face (font-lock-keyword-face bold)) 34369 34388 (face (bold)) 34388 34404 (face (font-lock-keyword-face bold)) 34404 34424 (face (bold)) 34424 34440 (face (font-lock-keyword-face bold)) 34440 34443 (face (bold)) 34446 34451 (face font-lock-keyword-face) 34452 34459 (face (font-lock-keyword-face italic)) 34459 34460 (face (italic)) 34460 34476 (face (font-lock-keyword-face bold italic)) 34476 34479 (face (bold italic)) 34547 34552 (face font-lock-keyword-face) 34553 34560 (face (font-lock-keyword-face italic)) 34560 34561 (face (italic)) 34561 34577 (face (font-lock-keyword-face bold italic)) 34577 34580 (face (bold italic)) 34662 34667 (face font-lock-keyword-face) 34679 34680 (display (raise -0.2) face (subscript)) 34693 34703 (face font-lock-keyword-face) 34704 34721 (face tex-verbatim) 36568 36575 (face font-lock-keyword-face) 36576 36585 (face (bold)) 36684 36691 (face font-lock-keyword-face) 36692 36785 (face (bold)) 36788 36795 (face font-lock-keyword-face) 36796 36809 (face (bold)) 36809 36825 (face (font-lock-keyword-face bold)) 36825 36844 (face (bold)) 36844 36860 (face (font-lock-keyword-face bold)) 36860 36878 (face (bold)) 36878 36894 (face (font-lock-keyword-face bold)) 36894 36897 (face (bold)) 36900 36907 (face font-lock-keyword-face) 36908 36924 (face (font-lock-keyword-face bold)) 36924 36927 (face (bold)) 36993 36998 (face font-lock-keyword-face) 36999 37015 (face (font-lock-keyword-face italic)) 37015 37018 (face (italic)) 37099 37104 (face font-lock-keyword-face) 37116 37117 (display (raise -0.2) face (subscript)) 37130 37140 (face font-lock-keyword-face) 37141 37158 (face tex-verbatim) 39061 39068 (face font-lock-keyword-face) 39069 39084 (face (bold)) 39190 39197 (face font-lock-keyword-face) 39198 39237 (face (bold)) 39240 39247 (face font-lock-keyword-face) 39248 39314 (face (bold)) 39317 39324 (face font-lock-keyword-face) 39325 39338 (face (bold)) 39338 39354 (face (font-lock-keyword-face bold)) 39354 39363 (face (bold)) 39365 39372 (face font-lock-keyword-face) 39373 39382 (face (bold)) 39382 39398 (face (font-lock-keyword-face bold)) 39398 39401 (face (bold)) 39404 39411 (face font-lock-keyword-face) 39412 39425 (face (bold)) 39425 39441 (face (font-lock-keyword-face bold)) 39441 39444 (face (bold)) 39447 39454 (face font-lock-keyword-face) 39455 39471 (face (font-lock-keyword-face bold)) 39471 39474 (face (bold)) 39540 39547 (face font-lock-keyword-face) 39548 39564 (face (font-lock-keyword-face bold)) 39564 39567 (face (bold)) 39644 39649 (face font-lock-keyword-face) 39661 39662 (display (raise -0.2) face (subscript)) 39675 39685 (face font-lock-keyword-face) 39686 39702 (face tex-verbatim) 39702 39703 (face tex-verbatim) 41738 41745 (face font-lock-keyword-face) 41746 41759 (face (bold)) 43045 43052 (face font-lock-keyword-face) 43053 43075 (face (bold)) 43765 43772 (face font-lock-keyword-face) 43773 43796 (face (bold)) 46870 46872 (face font-lock-keyword-face) 46872 46897 (face font-lock-string-face) 46897 46899 (face font-lock-keyword-face) 48451 48467 (face font-lock-keyword-face) 50389 50391 (face font-lock-keyword-face) 50391 50399 (face font-lock-string-face) 50399 50401 (face font-lock-keyword-face) 51827 51829 (face font-lock-keyword-face) 52400 52402 (face font-lock-keyword-face) 53312 53314 (face font-lock-keyword-face) 53358 53360 (face font-lock-keyword-face) 53387 53389 (face font-lock-keyword-face) 53473 53475 (face font-lock-keyword-face) 53970 53972 (face font-lock-keyword-face) 54059 54061 (face font-lock-keyword-face) 54123 54125 (face font-lock-keyword-face) 54355 54357 (face font-lock-keyword-face) 54456 54458 (face font-lock-keyword-face) 54638 54640 (face font-lock-keyword-face) 54688 54690 (face font-lock-keyword-face) 54705 54707 (face font-lock-keyword-face) 54722 54724 (face font-lock-keyword-face) 54739 54741 (face font-lock-keyword-face) 54755 54757 (face font-lock-keyword-face) 55039 55041 (face font-lock-keyword-face) 55041 55438 (face font-lock-string-face) 55438 55440 (face font-lock-keyword-face) 55490 55492 (face font-lock-keyword-face) 55557 55559 (face font-lock-keyword-face) 55586 55588 (face font-lock-keyword-face) 55803 55805 (face font-lock-keyword-face) 55837 55839 (face font-lock-keyword-face) 55867 55869 (face font-lock-keyword-face) 55896 55898 (face font-lock-keyword-face) 56330 56332 (face font-lock-keyword-face) 56369 56371 (face font-lock-keyword-face) 56638 56640 (face font-lock-keyword-face) 56749 56751 (face font-lock-keyword-face) 56883 56885 (face font-lock-keyword-face) 57983 57999 (face font-lock-keyword-face) 58183 58185 (face font-lock-keyword-face) 58185 58378 (face font-lock-string-face) 58378 58380 (face font-lock-keyword-face) 59817 59824 (face font-lock-keyword-face) 59829 59836 (face font-lock-keyword-face) 60528 60534 (face font-lock-keyword-face) 60534 60535 (latex-env-pair t) 60535 60544 (latex-env-pair t face font-lock-function-name-face) 60544 60545 (latex-env-pair t) 60556 60568 (face font-lock-keyword-face) 60568 60583 (face font-lock-keyword-face) 60587 60599 (face font-lock-keyword-face) 60604 60614 (face font-lock-keyword-face) 60618 60623 (face font-lock-keyword-face) 60637 60649 (face font-lock-keyword-face) 60649 60664 (face font-lock-keyword-face) 60668 60680 (face font-lock-keyword-face) 60685 60695 (face font-lock-keyword-face) 60699 60704 (face font-lock-keyword-face) 60718 60730 (face font-lock-keyword-face) 60730 60745 (face font-lock-keyword-face) 60749 60761 (face font-lock-keyword-face) 60766 60776 (face font-lock-keyword-face) 60780 60785 (face font-lock-keyword-face) 60799 60811 (face font-lock-keyword-face) 60811 60826 (face font-lock-keyword-face) 60830 60842 (face font-lock-keyword-face) 60847 60857 (face font-lock-keyword-face) 60861 60866 (face font-lock-keyword-face) 60880 60892 (face font-lock-keyword-face) 60892 60907 (face font-lock-keyword-face) 60911 60923 (face font-lock-keyword-face) 60928 60938 (face font-lock-keyword-face) 60942 60947 (face font-lock-keyword-face) 60961 60973 (face font-lock-keyword-face) 60973 60988 (face font-lock-keyword-face) 60992 61004 (face font-lock-keyword-face) 61009 61019 (face font-lock-keyword-face) 61023 61028 (face font-lock-keyword-face) 61042 61050 (face font-lock-keyword-face) 61050 61058 (face font-lock-keyword-face) 61061 61067 (face font-lock-keyword-face) 61067 61068 (latex-env-pair t) 61068 61076 (latex-env-pair t face font-lock-function-name-face) 61076 61077 (latex-env-pair t) 61081 61091 (face font-lock-keyword-face) 61092 61104 (face font-lock-keyword-face) 61114 61118 (face font-lock-keyword-face) 61118 61119 (latex-env-pair t) 61119 61120 (latex-env-pair t face font-lock-function-name-face) 61120 61127 (latex-env-pair t face font-lock-function-name-face) 61127 61128 (latex-env-pair t) 61131 61143 (face font-lock-keyword-face) 61149 61161 (face font-lock-keyword-face) 61161 61176 (face font-lock-keyword-face) 61180 61192 (face font-lock-keyword-face) 61197 61207 (face font-lock-keyword-face) 61211 61216 (face font-lock-keyword-face) 61228 61238 (face font-lock-keyword-face) 61244 61246 (face font-lock-comment-face) 61246 61252 (face font-lock-keyword-face) 61252 61253 (latex-env-pair t) 61253 61261 (latex-env-pair t face font-lock-function-name-face) 61261 61262 (latex-env-pair t) 61266 61276 (face font-lock-keyword-face) 61277 61289 (face font-lock-keyword-face) 61304 61308 (face font-lock-keyword-face) 61308 61309 (latex-env-pair t) 61309 61317 (latex-env-pair t face font-lock-function-name-face) 61317 61318 (latex-env-pair t) 61320 61322 (face font-lock-warning-face) 61323 61331 (face font-lock-keyword-face) 61331 61339 (face font-lock-keyword-face) 61342 61350 (face font-lock-keyword-face) 61351 61362 (face font-lock-keyword-face) 61362 61370 (face font-lock-keyword-face) 61373 61385 (face font-lock-keyword-face) 61390 61402 (face font-lock-keyword-face) 61408 61420 (face font-lock-keyword-face) 61420 61435 (face font-lock-keyword-face) 61439 61451 (face font-lock-keyword-face) 61456 61466 (face font-lock-keyword-face) 61470 61475 (face font-lock-keyword-face) 61487 61497 (face font-lock-keyword-face) 61503 61505 (face font-lock-comment-face) 61508 61510 (face font-lock-warning-face) 61511 61520 (face font-lock-keyword-face) 61598 61600 (face font-lock-keyword-face) 61605 61607 (face font-lock-keyword-face) 61731 61733 (face font-lock-warning-face) 61769 61771 (face font-lock-warning-face) 62004 62006 (face font-lock-warning-face) 62041 62043 (face font-lock-warning-face) 62044 62053 (face font-lock-keyword-face) 62450 62452 (face font-lock-warning-face) 62487 62489 (face font-lock-warning-face) 62490 62499 (face font-lock-keyword-face) 62766 62768 (face font-lock-warning-face) 62803 62805 (face font-lock-warning-face) 62806 62815 (face font-lock-keyword-face) 62995 63011 (face font-lock-keyword-face) 63064 63066 (face font-lock-warning-face) 63101 63103 (face font-lock-warning-face) 63104 63113 (face font-lock-keyword-face) 63410 63412 (face font-lock-warning-face) 63446 63448 (face font-lock-warning-face) 63449 63458 (face font-lock-keyword-face) 63676 63678 (face font-lock-warning-face) 63712 63714 (face font-lock-warning-face) 63715 63727 (face font-lock-keyword-face) 63736 63748 (face font-lock-keyword-face) 63748 63763 (face font-lock-keyword-face) 63767 63779 (face font-lock-keyword-face) 63784 63794 (face font-lock-keyword-face) 63798 63803 (face font-lock-keyword-face) 63816 63826 (face font-lock-keyword-face) 63832 63834 (face font-lock-comment-face) 63901 63903 (face font-lock-warning-face) 63904 63908 (face font-lock-keyword-face) 63908 63909 (latex-env-pair t) 63909 63918 (latex-env-pair t face font-lock-function-name-face) 63918 63919 (latex-env-pair t) 64009 64011 (face font-lock-keyword-face) 64062 64064 (face font-lock-keyword-face) 64089 64091 (face font-lock-keyword-face) 64091 64111 (face font-lock-string-face) 64111 64113 (face font-lock-keyword-face) 64126 64128 (face font-lock-keyword-face) 64506 64508 (face font-lock-keyword-face) 64844 64846 (face font-lock-keyword-face) 64885 64887 (face font-lock-keyword-face) 65179 65181 (face font-lock-keyword-face) 65418 65420 (face font-lock-keyword-face) 65655 65657 (face font-lock-keyword-face) 65694 65696 (face font-lock-keyword-face) 65731 65733 (face font-lock-keyword-face) 66203 66205 (face font-lock-keyword-face) 66258 66260 (face font-lock-keyword-face) 66740 66742 (face font-lock-keyword-face) 66772 66774 (face font-lock-keyword-face) 66869 66871 (face font-lock-keyword-face) 68708 68724 (face font-lock-keyword-face) 68751 68753 (face font-lock-keyword-face) 68753 68798 (face font-lock-string-face) 68798 68820 (face font-lock-string-face) 68820 68822 (face font-lock-keyword-face) 68838 68840 (face font-lock-keyword-face) 68840 68914 (face font-lock-string-face) 68914 68916 (face font-lock-keyword-face) 68991 68993 (face font-lock-keyword-face) 69027 69029 (face font-lock-keyword-face) 69050 69052 (face font-lock-keyword-face) 69052 69142 (face font-lock-string-face) 69142 69144 (face font-lock-keyword-face) 69235 69237 (face font-lock-keyword-face) 69245 69247 (face font-lock-keyword-face) 69289 69291 (face font-lock-keyword-face) 69298 69300 (face font-lock-keyword-face) 69353 69355 (face font-lock-keyword-face) 69734 69736 (face font-lock-keyword-face) 69744 69746 (face font-lock-keyword-face) 69775 69777 (face font-lock-keyword-face) 69809 69811 (face font-lock-keyword-face) 69840 69842 (face font-lock-keyword-face) 69960 69962 (face font-lock-keyword-face) 69971 69973 (face font-lock-keyword-face) 70024 70026 (face font-lock-keyword-face) 70034 70036 (face font-lock-keyword-face) 70067 70069 (face font-lock-keyword-face) 70180 70182 (face font-lock-keyword-face) 70191 70193 (face font-lock-keyword-face) 70244 70246 (face font-lock-keyword-face) 70254 70256 (face font-lock-keyword-face) 70286 70288 (face font-lock-keyword-face) 70643 70645 (face font-lock-keyword-face) 70654 70656 (face font-lock-keyword-face) 70707 70709 (face font-lock-keyword-face) 70717 70719 (face font-lock-keyword-face) 70757 70759 (face font-lock-keyword-face) 71136 71138 (face font-lock-keyword-face) 71146 71148 (face font-lock-keyword-face) 71162 71164 (face font-lock-keyword-face) 71172 71174 (face font-lock-keyword-face) 71217 71219 (face font-lock-keyword-face) 71219 71298 (face font-lock-string-face) 71298 71300 (face font-lock-keyword-face) 71482 71484 (face font-lock-keyword-face) 71493 71495 (face font-lock-keyword-face) 71546 71548 (face font-lock-keyword-face) 71557 71559 (face font-lock-keyword-face) 71588 71590 (face font-lock-keyword-face) 72288 72290 (face font-lock-keyword-face) 72298 72300 (face font-lock-keyword-face) 72314 72316 (face font-lock-keyword-face) 72324 72326 (face font-lock-keyword-face) 72345 72347 (face font-lock-keyword-face) 72691 72693 (face font-lock-keyword-face) 72740 72742 (face font-lock-keyword-face) 73559 73565 (face font-lock-keyword-face) 73565 73566 (latex-env-pair t) 73566 73575 (latex-env-pair t face font-lock-function-name-face) 73575 73576 (latex-env-pair t) 73587 73599 (face font-lock-keyword-face) 73599 73614 (face font-lock-keyword-face) 73618 73630 (face font-lock-keyword-face) 73634 73644 (face font-lock-keyword-face) 73648 73653 (face font-lock-keyword-face) 73667 73679 (face font-lock-keyword-face) 73679 73694 (face font-lock-keyword-face) 73698 73710 (face font-lock-keyword-face) 73714 73724 (face font-lock-keyword-face) 73728 73733 (face font-lock-keyword-face) 73747 73759 (face font-lock-keyword-face) 73759 73774 (face font-lock-keyword-face) 73778 73790 (face font-lock-keyword-face) 73794 73804 (face font-lock-keyword-face) 73808 73813 (face font-lock-keyword-face) 73827 73839 (face font-lock-keyword-face) 73839 73854 (face font-lock-keyword-face) 73858 73870 (face font-lock-keyword-face) 73874 73884 (face font-lock-keyword-face) 73888 73893 (face font-lock-keyword-face) 73907 73915 (face font-lock-keyword-face) 73915 73923 (face font-lock-keyword-face) 73926 73935 (face font-lock-keyword-face) 73942 73948 (face font-lock-keyword-face) 73948 73949 (latex-env-pair t) 73949 73957 (latex-env-pair t face font-lock-function-name-face) 73957 73958 (latex-env-pair t) 73962 73972 (face font-lock-keyword-face) 73973 73985 (face font-lock-keyword-face) 73999 74003 (face font-lock-keyword-face) 74003 74004 (latex-env-pair t) 74004 74012 (latex-env-pair t face font-lock-function-name-face) 74012 74013 (latex-env-pair t) 74017 74026 (face font-lock-keyword-face) 74033 74039 (face font-lock-keyword-face) 74039 74040 (latex-env-pair t) 74040 74048 (latex-env-pair t face font-lock-function-name-face) 74048 74049 (latex-env-pair t) 74053 74063 (face font-lock-keyword-face) 74064 74076 (face font-lock-keyword-face) 74102 74106 (face font-lock-keyword-face) 74106 74107 (latex-env-pair t) 74107 74115 (latex-env-pair t face font-lock-function-name-face) 74115 74116 (latex-env-pair t) 74120 74132 (face font-lock-keyword-face) 74138 74150 (face font-lock-keyword-face) 74150 74165 (face font-lock-keyword-face) 74169 74181 (face font-lock-keyword-face) 74185 74195 (face font-lock-keyword-face) 74199 74204 (face font-lock-keyword-face) 74216 74226 (face font-lock-keyword-face) 74232 74234 (face font-lock-comment-face) 74234 74240 (face font-lock-keyword-face) 74240 74241 (latex-env-pair t) 74241 74249 (latex-env-pair t face font-lock-function-name-face) 74249 74250 (latex-env-pair t) 74254 74264 (face font-lock-keyword-face) 74265 74277 (face font-lock-keyword-face) 74296 74300 (face font-lock-keyword-face) 74300 74301 (latex-env-pair t) 74301 74309 (latex-env-pair t face font-lock-function-name-face) 74309 74310 (latex-env-pair t) 74312 74314 (face font-lock-warning-face) 74319 74325 (face font-lock-keyword-face) 74325 74326 (latex-env-pair t) 74326 74334 (latex-env-pair t face font-lock-function-name-face) 74334 74335 (latex-env-pair t) 74339 74349 (face font-lock-keyword-face) 74350 74362 (face font-lock-keyword-face) 74370 74374 (face font-lock-keyword-face) 74374 74375 (latex-env-pair t) 74375 74383 (latex-env-pair t face font-lock-function-name-face) 74383 74384 (latex-env-pair t) 74387 74393 (face font-lock-keyword-face) 74393 74394 (latex-env-pair t) 74394 74402 (latex-env-pair t face font-lock-function-name-face) 74402 74403 (latex-env-pair t) 74407 74417 (face font-lock-keyword-face) 74418 74430 (face font-lock-keyword-face) 74431 74433 (face font-lock-keyword-face) 74434 74438 (face font-lock-keyword-face) 74438 74439 (latex-env-pair t) 74439 74447 (latex-env-pair t face font-lock-function-name-face) 74447 74448 (latex-env-pair t) 74449 74451 (face font-lock-warning-face) 74452 74460 (face font-lock-keyword-face) 74460 74468 (face font-lock-keyword-face) 74471 74479 (face font-lock-keyword-face) 74480 74491 (face font-lock-keyword-face) 74491 74499 (face font-lock-keyword-face) 74502 74514 (face font-lock-keyword-face) 74772 74774 (face font-lock-warning-face) 74985 74987 (face font-lock-warning-face) 75329 75331 (face font-lock-warning-face) 75404 75406 (face font-lock-warning-face) 75407 75411 (face font-lock-keyword-face) 75411 75412 (latex-env-pair t) 75412 75421 (latex-env-pair t face font-lock-function-name-face) 75421 75422 (latex-env-pair t) 75484 75486 (face font-lock-keyword-face) 75486 76151 (face font-lock-string-face) 76151 76153 (face font-lock-keyword-face) 76157 76159 (face font-lock-keyword-face) 76185 76187 (face font-lock-keyword-face) 76187 76372 (face font-lock-string-face) 76372 76374 (face font-lock-keyword-face) 76379 76381 (face font-lock-keyword-face) 76394 76396 (face font-lock-keyword-face) 76396 76406 (face font-lock-string-face) 76406 76408 (face font-lock-keyword-face) 76414 76416 (face font-lock-keyword-face) 77594 77610 (face font-lock-keyword-face) 78736 78752 (face font-lock-keyword-face) 79315 79317 (face font-lock-keyword-face) 79317 79343 (face font-lock-string-face) 79343 79345 (face font-lock-keyword-face) 84061 84077 (face font-lock-keyword-face) 85777 85779 (face font-lock-keyword-face) 85779 85786 (face font-lock-string-face) 85786 85788 (face font-lock-keyword-face) 89663 89670 (face font-lock-keyword-face) 89671 89683 (face (bold)) 90278 90280 (face font-lock-keyword-face) 91063 91065 (face font-lock-keyword-face) 91081 91083 (face font-lock-keyword-face) 92956 92963 (face font-lock-keyword-face) 92964 92974 (face (bold)) 95324 95326 (face font-lock-keyword-face) 96223 96228 (face font-lock-keyword-face) 96487 96492 (face font-lock-keyword-face) 96493 96500 (face (font-lock-keyword-face italic)) 96500 96501 (face (italic)) 96501 96526 (face (bold italic)) 96526 96527 (face (italic)) 96683 96685 (face font-lock-keyword-face) 96879 96881 (face font-lock-keyword-face) 97064 97069 (face font-lock-keyword-face) 97087 97088 (display (raise -0.2) face (subscript)) 97101 97111 (face font-lock-keyword-face) 97112 97135 (face tex-verbatim) 97139 97144 (face font-lock-keyword-face) 97145 97152 (face (font-lock-keyword-face italic)) 97152 97153 (face (italic)) 97153 97173 (face (bold italic)) 97173 97174 (face (italic)) 97310 97329 (fontified t) 97329 97331 (fontified t face font-lock-keyword-face) 97331 97429 (fontified t) 97429 97430 (fontified t face font-lock-keyword-face) 97430 97452 (fontified t face font-lock-string-face) 97452 97453 (fontified t face font-lock-keyword-face) 97453 97668 (fontified t) 97668 97670 (fontified t face font-lock-keyword-face) 97670 97793 (fontified t) 97793 97794 (fontified t face font-lock-keyword-face) 97794 97800 (fontified t face font-lock-string-face) 97800 97801 (fontified t face font-lock-keyword-face) 97801 97905 (fontified t) 97905 97930 (fontified t)) . 18528) (undo-tree-id0 . -97930) (undo-tree-id1 . -97930) (undo-tree-id2 . -97310) (undo-tree-id3 . -97929) (undo-tree-id4 . -97930) (undo-tree-id5 . -97930) 116458) nil (25756 19618 743213 656000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 18527) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (t 25756 19618 749695 346000)) nil (25756 19619 930391 405000) 0 nil])
+([nil nil ((nil fontified t 17915 . 17916) (nil face (italic) 17915 . 17916) (nil fontified t 17908 . 17915) (nil face (font-lock-keyword-face italic) 17908 . 17915) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 17905) (17913 . 17924) (nil fontified t 17144 . 17145) (nil face (italic) 17144 . 17145) (nil fontified t 17137 . 17144) (nil face (font-lock-keyword-face italic) 17137 . 17144) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 17134) (17142 . 17153) (nil fontified t 16747 . 16748) (nil fontified t 16740 . 16747) (nil face font-lock-keyword-face 16740 . 16747) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 16737) (16745 . 16756) (nil fontified t 16349 . 16350) (nil fontified t 16342 . 16349) (nil face font-lock-keyword-face 16342 . 16349) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 16339) (16347 . 16358) (nil fontified t 15691 . 15692) (nil fontified t 15684 . 15691) (nil face font-lock-keyword-face 15684 . 15691) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 15681) (15689 . 15700) (nil fontified t 15377 . 15378) (nil fontified t 15370 . 15377) (nil face font-lock-keyword-face 15370 . 15377) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 15367) (15375 . 15386) (nil fontified t 11938 . 11939) (nil fontified t 11931 . 11938) (nil face font-lock-keyword-face 11931 . 11938) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 11928) (11936 . 11947) (nil fontified t 4919 . 4920) (nil fontified t 4912 . 4919) (nil face font-lock-keyword-face 4912 . 4919) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 4909) (4917 . 4928) (nil fontified t 3493 . 3494) (nil fontified t 3486 . 3493) (nil face font-lock-keyword-face 3486 . 3493) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3483) (3491 . 3502) (nil fontified t 3320 . 3321) (nil fontified t 3313 . 3320) (nil face font-lock-keyword-face 3313 . 3320) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3310) (3318 . 3329) (nil fontified t 2448 . 2449) (nil fontified t 2441 . 2448) (nil face font-lock-keyword-face 2441 . 2448) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2438) (2446 . 2457) (nil fontified t 2419 . 2420) (nil fontified t 2412 . 2419) (nil face font-lock-keyword-face 2412 . 2419) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2409) (2417 . 2428) (nil fontified t 2367 . 2368) (nil fontified t 2360 . 2367) (nil face font-lock-keyword-face 2360 . 2367) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2357) (2365 . 2376) (nil fontified t 2175 . 2176) (nil fontified t 2168 . 2175) (nil face font-lock-keyword-face 2168 . 2175) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2165) (2173 . 2184) (nil fontified t 1279 . 1280) (nil fontified t 1272 . 1279) (nil face font-lock-keyword-face 1272 . 1279) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1269) (1277 . 1288) (nil fontified t 1231 . 1232) (nil fontified t 1224 . 1231) (nil face font-lock-keyword-face 1224 . 1231) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1221) (1229 . 1240) (nil fontified t 1183 . 1184) (nil fontified t 1176 . 1183) (nil face font-lock-keyword-face 1176 . 1183) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1173) (1181 . 1192) (nil fontified t 1009 . 1010) (nil fontified t 1002 . 1009) (nil face font-lock-keyword-face 1002 . 1009) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 999) (1007 . 1018) (nil fontified t 124 . 125) (nil fontified t 117 . 124) (nil face font-lock-keyword-face 117 . 124) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 114) (122 . 133) (nil fontified t 82 . 83) (nil fontified t 75 . 82) (nil face font-lock-keyword-face 75 . 82) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 72) (80 . 91) (nil fontified t 39 . 40) (nil fontified t 32 . 39) (nil face font-lock-keyword-face 32 . 39) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 29) (37 . 48) (nil fontified t 11 . 12) (t 25756 19619 936355 501000) (nil fontified t 4 . 11) (t 25756 19619 936355 501000) (nil face font-lock-keyword-face 4 . 11) (t 25756 19619 936355 501000) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1) (t 25756 19619 936355 501000) (9 . 20) (t 25756 19619 936355 501000)) nil (25756 19686 937886 410000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -70) (undo-tree-id70 . -1) 29 (t 25756 19686 942654 474000)) nil (25756 19752 85355 584000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . 69) (undo-tree-id65 . 1) (undo-tree-id66 . -1) (undo-tree-id67 . -1) (undo-tree-id68 . -1) (undo-tree-id69 . -1)) nil (25756 19752 85352 231000) 0 nil])
+([nil nil ((#("{\\bfseries " 0 1 (fontified t) 1 10 (fontified t face font-lock-keyword-face) 10 11 (fontified t face (bold))) . 70) (undo-tree-id61 . -10) (undo-tree-id62 . 11) (undo-tree-id63 . -1) (undo-tree-id64 . -11)) nil (25756 19752 85347 412000) 0 nil])
+([nil nil ((69 . 70) (#("
+" 0 1 (fontified t face (bold))) . -69) (undo-tree-id54 . -1) (undo-tree-id55 . -1) (undo-tree-id56 . -1) (undo-tree-id57 . -1) (undo-tree-id58 . -1) (undo-tree-id59 . -1) (undo-tree-id60 . -1) 29) nil (25756 19752 85343 571000) 0 nil])
+([nil nil ((#("\\bfseries " 0 9 (fontified t face font-lock-keyword-face) 9 10 (fontified t face (bold))) . 30) (undo-tree-id52 . -9) (undo-tree-id53 . -10)) nil (25756 19752 85337 285000) 0 nil])
+([nil nil ((34 . 37) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -34) (undo-tree-id51 . -1) (29 . 35)) nil (25756 19752 85334 491000) 0 nil])
+([nil nil ((99 . 514) (#("{\\bfseries А.Д. Тулегулов\\textsuperscript{1*}, К.М.
+Акишев\\textsuperscript{1}, Н.К. Юрков\\textsuperscript{2}, Д.
+Островерхов\\textsuperscript{3}}
+
+\\textsuperscript{1}Қазақ технология және бизнес университеті, Астана,
+Қазақстан,
+
+\\textsuperscript{2}Пенза мемлекеттік университеті, Пенза, Ресей
+Федерациясы
+
+\\textsuperscript{3}Берлин техникалық университеті, Берлин, Германия,
+
+tad62@ya.ru
+" 0 1 (fontified t) 1 10 (fontified t face font-lock-keyword-face) 10 11 (fontified t face (bold)) 11 25 (fontified t face (bold)) 25 41 (fontified t face (font-lock-keyword-face bold)) 41 52 (fontified t face (bold)) 52 58 (fontified t face (bold)) 58 74 (fontified t face (font-lock-keyword-face bold)) 74 89 (fontified t face (bold)) 89 105 (fontified t face (font-lock-keyword-face bold)) 105 124 (fontified t face (bold)) 124 140 (fontified t face (font-lock-keyword-face bold)) 140 143 (fontified t face (bold)) 143 146 (fontified t) 146 162 (fontified t face font-lock-keyword-face) 162 228 (fontified t) 228 244 (fontified t face font-lock-keyword-face) 244 305 (fontified t) 305 321 (fontified t face font-lock-keyword-face) 321 387 (fontified t)) . -99) (undo-tree-id38 . -7) (undo-tree-id39 . -375) (undo-tree-id40 . -375) (undo-tree-id41 . -387) (undo-tree-id42 . -7) (undo-tree-id43 . -375) (undo-tree-id44 . -7) (undo-tree-id45 . -7) (undo-tree-id46 . -7) (undo-tree-id47 . -145) (undo-tree-id48 . -227) (undo-tree-id49 . -375) (undo-tree-id50 . -387) 486) nil (25756 19752 85331 139000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -1232) (undo-tree-id34 . -1) (undo-tree-id35 . -1) (undo-tree-id36 . -1) (undo-tree-id37 . -1) 1186) nil (25756 19752 85320 384000) 0 nil])
+([nil nil ((#("А" 0 1 (fontified t face (bold))) . 1230) (undo-tree-id27 . -1) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) 1231) nil (25756 19755 50684 225000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . 1230) (undo-tree-id101 . -1) (undo-tree-id102 . -1) (undo-tree-id103 . 1) (undo-tree-id104 . -1) (undo-tree-id105 . -1) (undo-tree-id106 . -1)) nil (25756 19770 73051 207000) 0 nil] [nil nil ((#("М" 0 1 (fontified t face (bold))) . 1229) (undo-tree-id76 . -1) (undo-tree-id77 . -1) (undo-tree-id78 . -1) (undo-tree-id79 . -1) (undo-tree-id80 . -1) (undo-tree-id81 . -1) (undo-tree-id82 . -1) (undo-tree-id83 . -1) (undo-tree-id84 . -1) 1230) ((1229 . 1230)) (25756 19755 50586 936000) 0 nil] [nil nil ((1231 . 1232) (#("
+" 0 1 (fontified t)) . -1231) (undo-tree-id26 . -1) 1230) ((1231 . 1232) (#(" " 0 1 (fontified t)) . 1231) (undo-tree-id71 . -1) (undo-tree-id72 . -1) (undo-tree-id73 . -1) (undo-tree-id74 . -1) (undo-tree-id75 . -1)) (25756 19752 85437 507000) 0 nil])
+([nil nil ((1230 . 1231) (#("
+" 0 1 (fontified t face (bold))) . -1230) (undo-tree-id100 . -1) 1229) nil (25756 19770 73045 969000) 0 nil])
+nil
+([nil nil ((#("{\\bfseries " 0 1 (fontified t) 1 10 (fontified t face font-lock-keyword-face) 10 11 (fontified t face (bold))) . 1232) (undo-tree-id22 . -10) (undo-tree-id23 . 11) (undo-tree-id24 . -1) (undo-tree-id25 . -11)) ((1232 . 1243)) (25756 19752 85302 295000) 0 nil])
+([nil nil ((#("{\\bfseries " 0 1 (fontified t face (bold)) 1 10 (fontified t face (font-lock-keyword-face bold)) 10 11 (fontified t face (bold))) . 1231) (undo-tree-id96 . -10) (undo-tree-id97 . 11) (undo-tree-id98 . -1) (undo-tree-id99 . -11)) nil (25756 19770 73043 175000) 0 nil])
+nil
+([nil nil ((1187 . 1193)) nil (25756 19770 73038 426000) 0 nil])
+([nil nil ((2363 . 2369)) nil (25756 19770 73036 541000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -2418) (undo-tree-id95 . -1) 2368) nil (25756 19770 73033 677000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . 2417) (undo-tree-id90 . -1) (undo-tree-id91 . 1) (undo-tree-id92 . -1) (undo-tree-id93 . -1) (undo-tree-id94 . -1)) nil (25756 19770 73030 325000) 0 nil])
+([nil nil ((2417 . 2418) (#("
+" 0 1 (fontified t face (bold))) . -2417) (undo-tree-id89 . -1) 2416) nil (25756 19770 73024 458000) 0 nil])
+([nil nil ((#("{\\bfseries " 0 1 (fontified t face (bold)) 1 10 (fontified t face (font-lock-keyword-face bold)) 10 11 (fontified t face (bold))) . 2418) (undo-tree-id85 . -10) (undo-tree-id86 . 11) (undo-tree-id87 . -1) (undo-tree-id88 . -11)) nil (25756 19770 73018 312000) 0 nil])
+([nil nil ((2362 . 2827) (#("{\\large\\bfseries DISPATCH AND ANALYTICAL SYSTEM FOR THE MINING INDUSTRY}
+
+{\\bfseries A.D.Tulegulov\\textsuperscript{1*}, K.M.
+Akishev\\textsuperscript{1}, N.K. Yurkov\\textsuperscript{2}, D.
+Ostroverkhov\\textsuperscript{3}}
+
+\\textsuperscript{1}Kazakh University of Technology and Business, Astana.
+Kazakhstan,
+
+\\textsuperscript{2}Penza State University, Penza, Russia,
+\\textsuperscript{3}Technical University, Berlin, Germany,
+
+tad62@ya.ru
+" 0 1 (fontified t) 1 7 (fontified t face font-lock-keyword-face) 7 16 (fontified t face font-lock-keyword-face) 16 17 (fontified t face (bold)) 17 55 (fontified t face (bold)) 55 56 (fontified t face (bold)) 56 71 (fontified t face (bold)) 71 73 (fontified t) 73 74 (fontified t) 74 75 (fontified t) 75 84 (fontified t face font-lock-keyword-face) 84 85 (fontified t face (bold)) 85 98 (fontified t face (bold)) 98 114 (fontified t face (font-lock-keyword-face bold)) 114 125 (fontified t face (bold)) 125 132 (fontified t face (bold)) 132 148 (fontified t face (font-lock-keyword-face bold)) 148 164 (fontified t face (bold)) 164 180 (fontified t face (font-lock-keyword-face bold)) 180 200 (fontified t face (bold)) 200 216 (fontified t face (font-lock-keyword-face bold)) 216 219 (fontified t face (bold)) 219 222 (fontified t) 222 238 (fontified t face font-lock-keyword-face) 238 308 (fontified t) 308 324 (fontified t face font-lock-keyword-face) 324 356 (fontified t) 356 357 (fontified t) 357 366 (fontified t) 366 382 (fontified t face font-lock-keyword-face) 382 404 (fontified t) 404 424 (fontified t) 424 437 (fontified t)) . -2362) (undo-tree-id124 . -56) (undo-tree-id125 . -56) (undo-tree-id126 . -56) (undo-tree-id127 . -436) (undo-tree-id128 . -436) (undo-tree-id129 . 430) (undo-tree-id130 . -55) (undo-tree-id131 . -56) (undo-tree-id132 . -56) (undo-tree-id133 . -437) (undo-tree-id134 . -56) (undo-tree-id135 . -436) (undo-tree-id136 . -56) (undo-tree-id137 . -56) (undo-tree-id138 . -422) (undo-tree-id139 . -425) (undo-tree-id140 . -437) 2799 (t 25756 19770 78864 936000)) nil (25756 19778 987313 407000) 0 nil])
+([nil nil ((1186 . 1687) (#("{\\large\\bfseries ДИСПЕТЧЕРСКО-АНАЛИТИЧЕСКАЯ СИСТЕМ ДЛЯ ГОРНОДОБЫВАЮЩЕЙ ПРОМЫШЛЕННОСТИ}
+
+{\\bfseries А.Д. Тулегулов\\textsuperscript{1*}, К.М.
+Акишев\\textsuperscript{1}, Н.К. Юрков\\textsuperscript{2}, Д.
+Островерхов\\textsuperscript{3}}
+
+\\textsuperscript{1}Казахский университет технологии и бизнеса,
+
+\\textsuperscript{2}Пензенский государственный университет, Пенза,
+Российская Федерация,
+
+\\textsuperscript{3}Берлинский технический университет, Берлин, Германия,
+
+tad62@ya.ru
+" 0 1 (fontified t) 1 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t face font-lock-keyword-face) 8 16 (fontified t face font-lock-keyword-face) 16 17 (fontified t face (bold)) 17 49 (fontified t face (bold)) 49 50 (fontified t face (bold)) 50 51 (fontified t face (bold)) 51 85 (fontified t face (bold)) 85 87 (fontified t) 87 88 (fontified t) 88 89 (fontified t) 89 98 (fontified t face font-lock-keyword-face) 98 99 (fontified t face (bold)) 99 113 (fontified t face (bold)) 113 129 (fontified t face (font-lock-keyword-face bold)) 129 140 (fontified t face (bold)) 140 146 (fontified t face (bold)) 146 162 (fontified t face (font-lock-keyword-face bold)) 162 177 (fontified t face (bold)) 177 193 (fontified t face (font-lock-keyword-face bold)) 193 212 (fontified t face (bold)) 212 228 (fontified t face (font-lock-keyword-face bold)) 228 231 (fontified t face (bold)) 231 234 (fontified t) 234 250 (fontified t face font-lock-keyword-face) 250 298 (fontified t) 298 314 (fontified t face font-lock-keyword-face) 314 344 (fontified t) 344 347 (fontified t) 347 364 (fontified t) 364 387 (fontified t) 387 391 (fontified t face font-lock-keyword-face) 391 403 (fontified t face font-lock-keyword-face) 403 432 (fontified t) 432 460 (fontified t) 460 473 (fontified t)) . 1186) (undo-tree-id107 . -473) (undo-tree-id108 . -461) (undo-tree-id109 . -50) (undo-tree-id110 . -50) (undo-tree-id111 . -87) (undo-tree-id112 . -87) (undo-tree-id113 . -233) (undo-tree-id114 . -233) (undo-tree-id115 . -473) (undo-tree-id116 . -473) (undo-tree-id117 . -461) (undo-tree-id118 . -461) (undo-tree-id119 . -461) (undo-tree-id120 . 473) (undo-tree-id121 . -1) (undo-tree-id122 . 388) (undo-tree-id123 . -86)) nil (25756 19778 987297 623000) 0 nil])
+([nil nil ((3550 . 3557) (#("o" 0 1 (fontified t face font-lock-function-name-face)) . -3550) (undo-tree-id141 . -1) (undo-tree-id142 . -1) (undo-tree-id143 . -1) (undo-tree-id144 . -1) (undo-tree-id145 . -1) (undo-tree-id146 . -1) (#("l" 0 1 (fontified t face font-lock-function-name-face)) . -3551) (undo-tree-id147 . -1) (undo-tree-id148 . -1) (undo-tree-id149 . -1) (undo-tree-id150 . -1) (undo-tree-id151 . -1) (undo-tree-id152 . -1) (#("e" 0 1 (fontified t face font-lock-function-name-face)) . -3552) (undo-tree-id153 . -1) (undo-tree-id154 . -1) (undo-tree-id155 . -1) (undo-tree-id156 . -1) (undo-tree-id157 . -1) (undo-tree-id158 . -1) (#("s" 0 1 (fontified t face font-lock-function-name-face)) . -3553) (undo-tree-id159 . -1) (undo-tree-id160 . -1) (undo-tree-id161 . -1) (undo-tree-id162 . -1) 3554 (3548 . 3554) (#("i" 0 1 (fontified t face font-lock-function-name-face)) . -3548) (undo-tree-id163 . -1) (3541 . 3549) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -3541) (undo-tree-id164 . -1) (3537 . 3542) (3536 . 3537) (t 25756 19778 995482 673000) 3536) nil (25756 19808 351700 850000) 0 nil])
+([nil nil ((7272 . 7273) (t 25756 19808 358654 877000) 7213) nil (25756 19818 302716 149000) 0 nil])
+([nil nil ((7279 . 7280) (#("i" 0 1 (fontified t face font-lock-function-name-face)) . -7279) (undo-tree-id167 . -1) (7273 . 7280)) nil (25756 19818 302713 286000) 0 nil])
+([nil nil ((#("i" 0 1 (fontified t face font-lock-function-name-face)) . -7279) (undo-tree-id166 . -1) 7280) nil (25756 19818 302709 25000) 0 nil])
+([nil nil ((7282 . 7288) (#("i" 0 1 (fontified t face font-lock-function-name-face)) . -7282) (undo-tree-id165 . -1) (7279 . 7283)) nil (25756 19818 302702 740000) 0 nil])
+([nil nil ((#("t" 0 1 (fontified t latex-env-pair t)) . -7288) (undo-tree-id220 . -1) (undo-tree-id221 . -1) (undo-tree-id222 . -1) (undo-tree-id223 . -1) (undo-tree-id224 . -1) 7289 (7288 . 7289) (t 25756 19818 311933 592000)) nil (25756 19887 297620 227000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 7289 . 7290) (#("
+" 0 1 (fontified nil)) . -7451) (7289 . 7452)) nil (25756 19887 297615 408000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image69}
+" 0 9 (fontified t face font-lock-keyword-face) 9 16 (fontified t face font-lock-keyword-face) 16 26 (fontified t) 26 36 (fontified t face font-lock-keyword-face) 36 38 (fontified t) 38 45 (fontified t face font-lock-builtin-face) 45 47 (fontified t)) . 7452) (undo-tree-id218 . -46) (undo-tree-id219 . -47)) nil (25756 19887 297613 104000) 0 nil])
+([nil nil ((7370 . 7372) (#("9" 0 1 (fontified t face font-lock-builtin-face)) . -7370) (undo-tree-id209 . -1) (undo-tree-id210 . -1) (undo-tree-id211 . -1) (undo-tree-id212 . -1) (undo-tree-id213 . -1) (undo-tree-id214 . -1) 7371 (7370 . 7371) (#("48" 0 2 (fontified t face font-lock-builtin-face)) . 7370) (undo-tree-id215 . -1) (undo-tree-id216 . -2) (undo-tree-id217 . -2)) nil (25756 19887 297609 332000) 0 nil])
+([nil nil ((#("Концепция энергосбережения на открытых разработках" 0 50 (fontified t)) . 7387) (undo-tree-id198 . -35) (undo-tree-id199 . -49) (undo-tree-id200 . -35) (undo-tree-id201 . -35) (undo-tree-id202 . -35) (undo-tree-id203 . -35) (undo-tree-id204 . -35) (undo-tree-id205 . -35) (undo-tree-id206 . -35) (undo-tree-id207 . -35) (undo-tree-id208 . -50)) nil (25756 19887 297602 208000) 0 nil])
+([nil nil ((#("h" 0 1 (fontified t)) . -7387) (undo-tree-id192 . -1) (undo-tree-id193 . -1) 7388 (7387 . 7388) (#("h" 0 1 (fontified t)) . -7387) (undo-tree-id194 . -1) (undo-tree-id195 . -1) (undo-tree-id196 . -1) (undo-tree-id197 . -1) 7388 (7387 . 7388)) nil (25756 19887 297593 967000) 0 nil])
+([nil nil ((7386 . 7387)) nil (25756 19887 297587 821000) 0 nil])
+([nil nil ((7946 . 7947) (#("
+" 0 1 (fontified t)) . -7946) (undo-tree-id190 . -1) (#("
+" 0 1 (fontified t)) . -7946) (undo-tree-id191 . -1) 7875) nil (25756 19887 297585 935000) 0 nil])
+([nil nil ((#("Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы" 0 71 (fontified t) 71 72 (fontified t) 72 90 (fontified t)) . 7875) (undo-tree-id181 . -89) (undo-tree-id182 . -71) (undo-tree-id183 . -70) (undo-tree-id184 . -70) (undo-tree-id185 . -70) (undo-tree-id186 . -71) (undo-tree-id187 . -71) (undo-tree-id188 . -90) (undo-tree-id189 . -90)) nil (25756 19887 297582 94000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 7477 . 7478) (nil fontified nil 7388 . 7478) (7388 . 7478) 7387) nil (25756 19887 297575 40000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 7965) (undo-tree-id180 . -1)) nil (25756 19887 297571 688000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 7964) (undo-tree-id168 . -1) (undo-tree-id169 . -1) (undo-tree-id170 . -1) (undo-tree-id171 . -1) (undo-tree-id172 . -1) (undo-tree-id173 . -1) (undo-tree-id174 . -1) (undo-tree-id175 . -1) (undo-tree-id176 . -1) (undo-tree-id177 . -1) (undo-tree-id178 . -1) (undo-tree-id179 . -1)) nil (25756 19887 297565 891000) 0 nil])
+([nil nil ((#("\\end{quote}
+" 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 10 (latex-env-pair t fontified t face font-lock-function-name-face) 10 11 (latex-env-pair t fontified t) 11 12 (fontified t)) . 9947) (undo-tree-id248 . -11) (undo-tree-id249 . -12) (t 25756 19887 304888 331000)) nil (25756 19948 664783 147000) 0 nil])
+([nil nil ((#("\\begin{quote}
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 12 (latex-env-pair t fontified t face font-lock-function-name-face) 12 13 (latex-env-pair t fontified t) 13 14 (fontified t)) . 9056) (undo-tree-id246 . -13) (undo-tree-id247 . -14)) nil (25756 19948 664780 213000) 0 nil])
+([nil nil ((7505 . 7514) (#("i" 0 1 (fontified t face font-lock-function-name-face)) . -7505) (undo-tree-id244 . -1) (7498 . 7506) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -7498) (undo-tree-id245 . -1) (7494 . 7499) (7493 . 7494) 7493) nil (25756 19948 664776 861000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10058 . 10059) (#("
+" 0 1 (fontified nil)) . -10300) (10058 . 10301) 10041) nil (25756 19948 664772 601000) 0 nil])
+([nil nil ((#("69" 0 2 (fontified t face font-lock-builtin-face)) . -10156) (10158 . 10160) 10157) nil (25756 19948 664770 226000) 0 nil])
+([nil nil ((#("Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы" 0 89 (fontified t) 89 90 (rear-nonsticky t fontified t)) . 10174) (undo-tree-id236 . -89) (undo-tree-id237 . -34) (undo-tree-id238 . -34) (undo-tree-id239 . -34) (undo-tree-id240 . -34) (undo-tree-id241 . -34) (undo-tree-id242 . -34) (undo-tree-id243 . -90) 10208) nil (25756 19948 664767 362000) 0 nil])
+([nil nil ((#("Сурет 2- \"Қазақстан\" шахтасының кабельдік байланыс желілерінің" 0 62 (fontified t)) . 10260) (undo-tree-id233 . -61) (undo-tree-id234 . -62) (undo-tree-id235 . -62)) nil (25756 19948 664761 286000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10235 . 10236) (nil fontified nil 10174 . 10236) (10174 . 10236) 10173) nil (25756 19948 664757 96000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10323) (undo-tree-id232 . -1)) nil (25756 19948 664754 721000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10321) (undo-tree-id229 . -1) (undo-tree-id230 . -1) (undo-tree-id231 . -1)) nil (25756 19948 664751 858000) 0 nil])
+([nil nil ((#("құрылымдық сызбасы" 0 18 (fontified t)) . 10322) (undo-tree-id225 . -17) (undo-tree-id226 . -18) (undo-tree-id227 . -18) (undo-tree-id228 . -18)) nil (25756 19948 664746 550000) 0 nil])
+([nil nil ((10236 . 10237)) nil (25756 19948 664734 48000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10254 . 10255) (nil fontified nil 10237 . 10255) (10237 . 10255) 10236) nil (25756 19948 664728 391000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10340) (undo-tree-id287 . -1) (undo-tree-id288 . -1) (t 25756 19948 671218 253000)) nil (25756 19956 321073 957000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10340) (undo-tree-id286 . -1)) nil (25756 19956 321070 604000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image70}
+" 0 16 (fontified t face font-lock-keyword-face) 16 26 (fontified t) 26 36 (fontified t face font-lock-keyword-face) 36 38 (fontified t) 38 45 (fontified t face font-lock-builtin-face) 45 47 (fontified t)) . 10293) (undo-tree-id270 . -46) (undo-tree-id271 . -47) (undo-tree-id272 . -47) (undo-tree-id273 . -47) (undo-tree-id274 . -47) (undo-tree-id275 . -47) (undo-tree-id276 . -47) (undo-tree-id277 . -47) (undo-tree-id278 . -47) (undo-tree-id279 . -47) (undo-tree-id280 . -47) (undo-tree-id281 . -47) (undo-tree-id282 . -47) (undo-tree-id283 . -47) (undo-tree-id284 . -47) (undo-tree-id285 . -47)) nil (25756 19956 321066 274000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10292) (undo-tree-id251 . -1) (undo-tree-id252 . -1) (undo-tree-id253 . -1) (undo-tree-id254 . -1) (undo-tree-id255 . -1) (undo-tree-id256 . -1) (undo-tree-id257 . -1) (undo-tree-id258 . -1) (undo-tree-id259 . -1) (undo-tree-id260 . -1) (undo-tree-id261 . -1) (undo-tree-id262 . -1) (undo-tree-id263 . -1) (undo-tree-id264 . -1) (undo-tree-id265 . -1) (undo-tree-id266 . -1) (undo-tree-id267 . -1) (undo-tree-id268 . -1) (undo-tree-id269 . -1)) nil (25756 19956 320969 404000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10292) (undo-tree-id250 . -1)) nil (25756 19956 320952 223000) 0 nil])
+([nil nil ((#("\\begin{multicols}{2}
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 16 (latex-env-pair t fontified t face font-lock-function-name-face) 16 20 (latex-env-pair t fontified t) 20 21 (fontified t)) . 10271) (undo-tree-id289 . -20) (undo-tree-id290 . -21) (undo-tree-id291 . -20) (undo-tree-id292 . -21) (undo-tree-id293 . -21) (undo-tree-id294 . -21) (undo-tree-id295 . -21) (undo-tree-id296 . -21) (undo-tree-id297 . -21) (undo-tree-id298 . -21) (undo-tree-id299 . -21) (undo-tree-id300 . -21) (undo-tree-id301 . -21) (undo-tree-id302 . -21) (undo-tree-id303 . -21) (undo-tree-id304 . -21) (undo-tree-id305 . -21) (undo-tree-id306 . -21) (undo-tree-id307 . -21) (undo-tree-id308 . -21) (undo-tree-id309 . -21) (undo-tree-id310 . -21) (undo-tree-id311 . -21) (t 25756 19956 324509 589000)) nil (25756 19960 333067 153000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10671 . 10672) (#("
+" 0 1 (fontified nil)) . -10865) (10671 . 10866) (t 25756 19960 341154 215000)) nil (25756 20007 390944 432000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image71}
+" 0 16 (fontified t face font-lock-keyword-face) 16 26 (fontified t) 26 36 (fontified t face font-lock-keyword-face) 36 38 (fontified t) 38 45 (fontified t face font-lock-builtin-face) 45 47 (fontified t)) . 10866) (undo-tree-id385 . -46) (undo-tree-id386 . -47)) nil (25756 20007 390942 57000) 0 nil])
+([nil nil ((nil fontified t 10752 . 10754) (nil face font-lock-builtin-face 10752 . 10754) (#("70" 0 2 (fontified t face font-lock-builtin-face)) . -10752) (10754 . 10756) 10753) nil (25756 20007 390938 635000) 0 nil])
+([nil nil ((#("Сурет 2- \"Қазақстан\" шахтасының кабельдік байланыс желілерінің құрылымдық сызбасы" 0 61 (fontified t) 61 62 (rear-nonsticky t fontified t) 62 63 (fontified t) 63 80 (fontified t) 80 81 (rear-nonsticky t fontified t)) . 10770) (undo-tree-id377 . -80) (undo-tree-id378 . -34) (undo-tree-id379 . -34) (undo-tree-id380 . -34) (undo-tree-id381 . -34) (undo-tree-id382 . -34) (undo-tree-id383 . -34) (undo-tree-id384 . -81) 10804) nil (25756 20007 390935 771000) 0 nil])
+([nil nil ((#("Сурет 3- \"Қазақстан\" шахтасының орталық диспетчерлік пунктінде жүйе
+аппаратурасының орналасу сызбасы
+" 0 7 (fontified t) 7 68 (fontified t) 68 101 (fontified t)) . 10786) (undo-tree-id368 . -68) (undo-tree-id369 . -100) (undo-tree-id370 . -68) (undo-tree-id371 . -68) (undo-tree-id372 . -101) (undo-tree-id373 . -68) (undo-tree-id374 . -68) (undo-tree-id375 . -68) (undo-tree-id376 . -101) 10854) nil (25756 20007 390929 975000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10771 . 10772) (#("
+" 0 1 (fontified nil)) . -10872) (10771 . 10873) 10756) nil (25756 20007 390921 943000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . -10770) (undo-tree-id362 . -1) (undo-tree-id363 . -1) (undo-tree-id364 . -1) (undo-tree-id365 . 1) (undo-tree-id366 . -1) (undo-tree-id367 . -1) 10771) nil (25756 20007 390919 79000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t rear-nonsticky t)) . -10770) (undo-tree-id357 . -1) (undo-tree-id358 . 1) (undo-tree-id359 . -1) (undo-tree-id360 . -1) (undo-tree-id361 . -1) 10769) nil (25756 20007 390913 911000) 0 nil])
+([nil nil ((10870 . 10871)) nil (25756 20007 390909 581000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10885) (undo-tree-id349 . -1) (undo-tree-id350 . -1) (undo-tree-id351 . -1) (undo-tree-id352 . -1) (undo-tree-id353 . -1) (undo-tree-id354 . -1) (undo-tree-id355 . -1) (undo-tree-id356 . -1)) nil (25756 20007 390907 206000) 0 nil])
+([nil nil ((10891 . 10896) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -10891) (undo-tree-id348 . -1) (10886 . 10892)) nil (25756 20007 390901 340000) 0 nil])
+([nil nil ((10974 . 10975)) nil (25756 20007 390898 965000) 0 nil])
+([nil nil ((#("\\caption*{Кесте 1.\"Қазақстан\" шахтасының ЦДП-да орнатылатын жүйе аппаратурасының
+тізбесі}
+" 0 9 (fontified t face font-lock-keyword-face) 9 10 (fontified t) 10 11 (fontified t) 11 81 (fontified t) 81 90 (fontified t)) . 10886) (undo-tree-id313 . -88) (undo-tree-id314 . -89) (undo-tree-id315 . -7) (undo-tree-id316 . -88) (undo-tree-id317 . 1) (undo-tree-id318 . -88) (undo-tree-id319 . -7) (undo-tree-id320 . -7) (undo-tree-id321 . -9) (undo-tree-id322 . -9) (undo-tree-id323 . -9) (undo-tree-id324 . -9) (undo-tree-id325 . -9) (undo-tree-id326 . -9) (undo-tree-id327 . -88) (undo-tree-id328 . -88) (undo-tree-id329 . -89) (undo-tree-id330 . -88) (undo-tree-id331 . -88) (undo-tree-id332 . -88) (undo-tree-id333 . -88) (undo-tree-id334 . -88) (undo-tree-id335 . -88) (undo-tree-id336 . -90) (undo-tree-id337 . -7) (undo-tree-id338 . -88) (undo-tree-id339 . -7) (undo-tree-id340 . -7) (undo-tree-id341 . -81) (undo-tree-id342 . 2) (undo-tree-id343 . -89) (undo-tree-id344 . 81) (undo-tree-id345 . -10) (undo-tree-id346 . -88) (undo-tree-id347 . -90) 10974) nil (25756 20007 390895 194000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 11234 . 11235) (#("
+" 0 1 (fontified nil)) . -11324) (11234 . 11325) 11151) nil (25756 20007 390874 241000) 0 nil])
+([nil nil ((11324 . 11327)) nil (25756 20007 390871 308000) 0 nil])
+([nil nil ((11315 . 11316) (#("
+" 0 1 (fontified t)) . -11315) (undo-tree-id312 . -1) 11245) nil (25756 20007 390866 70000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10885) (undo-tree-id387 . -1) (undo-tree-id388 . -1) (undo-tree-id389 . -1) (undo-tree-id390 . -1) (undo-tree-id391 . -1) (undo-tree-id392 . -1) (undo-tree-id393 . -1) (undo-tree-id394 . -1) (undo-tree-id395 . -1) (undo-tree-id396 . -1) (undo-tree-id397 . -1) (undo-tree-id398 . -1) (undo-tree-id399 . -1) (undo-tree-id400 . -1) (undo-tree-id401 . -1) (undo-tree-id402 . -1) (undo-tree-id403 . -1) (undo-tree-id404 . -1) (undo-tree-id405 . -1) (undo-tree-id406 . -1) (undo-tree-id407 . -1) (undo-tree-id408 . -1) (undo-tree-id409 . -1) (t 25756 20007 397562 662000)) nil (25756 20009 786662 144000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 12070 . 12071) (#("
+" 0 1 (fontified nil)) . -12086) (12070 . 12087) (t 25756 20009 790882 862000)) nil (25756 20072 411858 682000) 0 nil])
+([nil nil ((12075 . 12077) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -12075) (undo-tree-id421 . -1) (12072 . 12076) (#("e" 0 1 (fontified t face font-lock-keyword-face)) . -12072) (undo-tree-id422 . -1) (undo-tree-id423 . -1) 12073 (12072 . 12073) (#("end" 0 3 (fontified t face font-lock-keyword-face)) . 12072) (undo-tree-id424 . -2) (undo-tree-id425 . -3) (undo-tree-id426 . -3)) nil (25756 20072 411855 329000) 0 nil])
+([nil nil ((12088 . 12091)) nil (25756 20072 411849 183000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15297 . 15298) (#("
+" 0 1 (fontified nil)) . -15318) (15297 . 15319) 15262) nil (25756 20072 411847 228000) 0 nil])
+([nil nil ((15299 . 15302) (#("begin" 0 5 (fontified t face font-lock-keyword-face)) . 15299) (undo-tree-id418 . -4) (undo-tree-id419 . -5) (undo-tree-id420 . -5)) nil (25756 20072 411843 805000) 0 nil])
+([nil nil ((#("{2}" 0 3 (latex-env-pair t fontified t)) . 15313) (undo-tree-id410 . -3) (undo-tree-id411 . -2) (undo-tree-id412 . 3) (undo-tree-id413 . -1) (undo-tree-id414 . 1) (undo-tree-id415 . -3) (undo-tree-id416 . -3) (undo-tree-id417 . -3)) nil (25756 20072 411836 193000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15314 . 15315) (#("
+" 0 1 (fontified nil)) . -15527) (15314 . 15528) (t 25756 20072 420539 185000)) nil (25756 20125 901773 915000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15631 . 15632) (#("
+" 0 1 (fontified nil)) . -15844) (15631 . 15845)) nil (25756 20125 901771 541000) 0 nil])
+([nil nil ((#("Сурет 3- \"Қазақстан\" шахтасының орталық диспетчерлік пунктінде жүйе
+аппаратурасының орналасу сызбасы" 0 7 (fontified t) 7 68 (fontified t) 68 100 (fontified t)) . 15413) (undo-tree-id475 . -99) (undo-tree-id476 . -65) (undo-tree-id477 . -65) (undo-tree-id478 . -65) (undo-tree-id479 . -65) (undo-tree-id480 . -100) 15478) nil (25756 20125 901769 236000) 0 nil])
+([nil nil ((#("Сурет 3- \"Қазақстан\" шахтасының орталық диспетчерлік пунктінде жүйе
+аппаратурасының орналасу сызбасы" 0 7 (fontified t) 7 68 (fontified t) 68 100 (fontified t)) . 15630) (undo-tree-id471 . -99) (undo-tree-id472 . -1) (undo-tree-id473 . -1) (undo-tree-id474 . -100) 15631) nil (25756 20125 901763 509000) 0 nil])
+([nil nil ((nil fontified t 15395 . 15397) (nil face font-lock-builtin-face 15395 . 15397) (#("71" 0 2 (fontified t face font-lock-builtin-face)) . -15395) (15397 . 15399) 15396) nil (25756 20125 901758 411000) 0 nil])
+([nil nil ((nil fontified t 15612 . 15614) (nil face font-lock-builtin-face 15612 . 15614) (#("71" 0 2 (fontified t face font-lock-builtin-face)) . -15612) (15614 . 15616) 15613) nil (25756 20125 901756 106000) 0 nil])
+([nil nil ((nil fontified t 15612 . 15614) (nil face font-lock-builtin-face 15612 . 15614) (#("72" 0 2 (fontified t face font-lock-builtin-face)) . -15612) (15614 . 15616) 15613) nil (25756 20125 901753 731000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image72}
+" 0 16 (fontified t face font-lock-keyword-face) 16 26 (fontified t) 26 36 (fontified t face font-lock-keyword-face) 36 38 (fontified t) 38 45 (fontified t face font-lock-builtin-face) 45 47 (fontified t)) . 15428) (undo-tree-id461 . -46) (undo-tree-id462 . -45) (undo-tree-id463 . 2) (undo-tree-id464 . -46) (undo-tree-id465 . 10) (undo-tree-id466 . -38) (undo-tree-id467 . -45) (undo-tree-id468 . -45) (undo-tree-id469 . -45) (undo-tree-id470 . -47) 15473) nil (25756 20125 901750 868000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image73}
+" 0 16 (fontified t face font-lock-keyword-face) 16 26 (fontified t) 26 36 (fontified t face font-lock-keyword-face) 36 38 (fontified t) 38 45 (fontified t face font-lock-builtin-face) 45 47 (fontified t)) . 15598) (undo-tree-id459 . -46) (undo-tree-id460 . -47)) nil (25756 20125 901744 93000) 0 nil])
+([nil nil ((#("Сурет 4 - Датчиктердің №2 өндіру учаскесінде орналасуы" 0 54 (fontified t)) . 15429) (undo-tree-id454 . -53) (undo-tree-id455 . -48) (undo-tree-id456 . -48) (undo-tree-id457 . -54) (undo-tree-id458 . -54)) nil (25756 20125 901741 299000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15466 . 15467) (nil fontified nil 15413 . 15467) (15413 . 15467) 15412) nil (25756 20125 901736 550000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 15482) (undo-tree-id451 . -1) (undo-tree-id452 . -1) (undo-tree-id453 . -1)) nil (25756 20125 901734 176000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 15482) (undo-tree-id449 . -1) (undo-tree-id450 . -1)) nil (25756 20125 901730 893000) 0 nil])
+([nil nil ((#("
+" 0 1 (rear-nonsticky t fontified t)) . 15482) (undo-tree-id446 . -1) (undo-tree-id447 . -1) (undo-tree-id448 . -1)) nil (25756 20125 901727 191000) 0 nil])
+([nil nil ((#("Сурет 5 - Датчиктердің № 5 өндіру учаскесінде орналасуы
+" 0 56 (fontified t)) . 15596) (undo-tree-id444 . -55) (undo-tree-id445 . -56)) nil (25756 20125 901723 420000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15581 . 15582) (#("
+" 0 1 (fontified nil)) . -15637) (15581 . 15638) 15579) nil (25756 20125 901720 68000) 0 nil])
+([nil nil ((15581 . 15582) (#("
+" 0 1 (fontified t rear-nonsticky t)) . -15581) (undo-tree-id440 . -1) (undo-tree-id441 . -1) (undo-tree-id442 . -1) (undo-tree-id443 . -1) 15566) nil (25756 20125 901717 204000) 0 nil])
+([nil nil ((#("}" 0 1 (fontified t)) . 15580) (undo-tree-id434 . -1) (undo-tree-id435 . -1) (undo-tree-id436 . 1) (undo-tree-id437 . -1) (undo-tree-id438 . -1) (undo-tree-id439 . -1)) nil (25756 20125 901712 315000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 15580) (undo-tree-id432 . -1) (undo-tree-id433 . -1)) nil (25756 20125 901706 169000) 0 nil])
+([nil nil ((15635 . 15636)) nil (25756 20125 901702 258000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 15650) (undo-tree-id427 . -1) (undo-tree-id428 . -1) (undo-tree-id429 . -1) (undo-tree-id430 . -1) (undo-tree-id431 . -1)) nil (25756 20125 901697 90000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15650 . 15651) (#("
+" 0 1 (fontified nil)) . -15666) (15650 . 15667) (t 25756 20125 906912 348000)) nil (25756 20157 666935 160000) 0 nil])
+([nil nil ((15655 . 15657) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -15655) (undo-tree-id481 . -1) (15654 . 15656) (#("o" 0 1 (fontified t face font-lock-keyword-face)) . -15654) (undo-tree-id482 . -1) (undo-tree-id483 . -1) (undo-tree-id484 . -1) (undo-tree-id485 . -1) (#("g" 0 1 (fontified t face font-lock-keyword-face)) . -15655) (undo-tree-id486 . -1) (undo-tree-id487 . -1) 15656 (15652 . 15656) (#("end" 0 3 (fontified t face font-lock-keyword-face)) . 15652) (undo-tree-id488 . -2) (undo-tree-id489 . -3) (undo-tree-id490 . -3)) nil (25756 20157 666931 389000) 0 nil])
+([nil nil ((15668 . 15671)) nil (25756 20157 666914 277000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 16827 . 16828) (#("
+" 0 1 (fontified nil)) . -16843) (16827 . 16844) 16793) nil (25756 20157 666908 550000) 0 nil])
+([nil nil ((16869 . 17283) (#("1.Трубецкой К.Н., Кулешов А.А., Клебанов А.Ф., Владимиров Д.Я.
+\"Современные системы управления горно-транспортными комплексами\". М.:
+Недра.2014. -- 263 с.
+
+2. Овсянников Ю.А., Кораблев В.А. Автоматизация подземного оборудования.
+М.: Недра.2012. -- 297 с.
+
+3. Портнов В.С., Юров В.М. Аппаратура диспетчеризации горного
+оборудования. КарПТИ. 2009. Караганда. 2013. -- 281 с.
+" 0 33 (fontified t) 33 62 (fontified t) 62 63 (fontified t) 63 93 (fontified t) 93 109 (fontified t) 109 133 (fontified t) 133 135 (fontified t) 135 146 (fontified t) 146 155 (fontified t) 155 165 (fontified t) 165 185 (fontified t) 185 201 (fontified t) 201 229 (fontified t) 229 261 (fontified t) 261 304 (fontified t) 304 318 (fontified t) 318 319 (fontified t) 319 373 (fontified t)) . -16869) (undo-tree-id498 . -318) (undo-tree-id499 . -318) (undo-tree-id500 . -155) (undo-tree-id501 . -155) (undo-tree-id502 . -318) 17242 (t 25756 20157 673404 698000)) nil (25756 20203 908135 29000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 16869)) nil (25756 20203 908268 914000) 0 nil])
+([nil nil ((17307 . 17716) (#("1. Trubetskoy K.N., Kuleshov A.A., Klebanov A.F., Vladimirov D.Ya.
+\"Modern management systems of mining and transport complexes\". M:.
+Nedra. 2014. 263 p.
+
+2. Ovsyannikov Yu.A., Korablev A.A. Automation of underground equipment.
+M:. Nedra. 2012. 297 p.
+
+3. Portnov V.S., Yurov V.M. Equipment for dispatching mining equipment.
+CarPTI. 2009. Karaganda. 2013. -- 281 c.
+" 0 228 (fontified t) 228 251 (fontified t) 251 252 (fontified t) 252 366 (fontified t)) . 17307) (undo-tree-id505 . -325) (undo-tree-id506 . -366) (undo-tree-id507 . -155) (undo-tree-id508 . -366) (undo-tree-id509 . -366) (undo-tree-id510 . -366) (undo-tree-id511 . -366)) ((17307 . 17673) (#("\\begin{enumerate}
+\\item
+Trubetskoy K.N., Kuleshov A.A., Klebanov A.F., Vladimirov D.Ya.
+\"Modern management systems of mining and transport complexes\". M:.
+Nedra. 2014. 263 p.
+
+\\item
+Ovsyannikov Yu.A., Korablev A.A. Automation of underground equipment.
+M:. Nedra. 2012. 297 p.
+
+\\item
+Portnov V.S., Yurov V.M. Equipment for dispatching mining equipment.
+CarPTI. 2009. Karaganda. 2013. -- 281 c.
+\\end{enumerate}
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (fontified t latex-env-pair t) 7 16 (fontified t latex-env-pair t face font-lock-function-name-face) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t) 18 23 (fontified t face font-lock-keyword-face) 23 24 (fontified t) 24 176 (fontified t) 176 181 (fontified t face font-lock-keyword-face) 181 182 (fontified t) 182 252 (fontified t) 252 275 (fontified t) 275 276 (fontified t) 276 277 (fontified t) 277 282 (fontified t face font-lock-keyword-face) 282 283 (fontified t) 283 393 (fontified t) 393 397 (fontified t face font-lock-keyword-face) 397 398 (fontified t latex-env-pair t) 398 407 (fontified t latex-env-pair t face font-lock-function-name-face) 407 408 (fontified t latex-env-pair t) 408 409 (fontified t)) . 17307) (undo-tree-id503 . 391) (undo-tree-id504 . -175)) (25756 20204 571267 769000) 0 nil])
+([nil nil ((17764 . 18541) (#("Тулегулов Амандос Дабысұлы - физика-математика ғылымдарының кандидаты,
+қауымдастырылған профессор, кафедра меңгерушісі, Қазақ технология және
+бизнес университеті, Астана, Қазақстан, tad62@ya.ru;
+
+Акишев Каршыга Мақсұтұлы, техника ғылымдарының кандидаты,
+қауымдастырылған профессор. Қазақ технология және бизнес университеті,
+Астана. Қазақстан,
+\\href{mailto:akmail04@gmail.com}{\\nolinkurl{akmail04@gmail.com}}
+
+Юрков Николай Кондратьевич, техника ғылымдарының докторы, профессор.
+Пенза мемлекеттік университеті, Пенза, Ресей,
+\\href{mailto:nk49@mail.ru}{\\nolinkurl{nk49@mail.ru}}
+
+Дмитрий Островерхов. Зерттеу инженері. Берлин техникалық университеті,
+Берлин, Германия, \\href{mailto:tub14@mail.ru}{\\nolinkurl{tub14@mail.ru}}
+" 0 344 (fontified t) 344 349 (fontified t face font-lock-keyword-face) 349 377 (fontified t) 377 387 (fontified t face font-lock-keyword-face) 387 388 (fontified t) 388 406 (fontified t face tex-verbatim) 406 525 (fontified t) 525 530 (fontified t face font-lock-keyword-face) 530 552 (fontified t) 552 562 (fontified t face font-lock-keyword-face) 562 563 (fontified t) 563 575 (fontified t face tex-verbatim) 575 663 (fontified t) 663 666 (fontified t) 666 668 (fontified t) 668 673 (fontified t face font-lock-keyword-face) 673 696 (fontified t) 696 706 (fontified t face font-lock-keyword-face) 706 707 (fontified t) 707 720 (fontified t face tex-verbatim) 720 723 (fontified t)) . -17764) (undo-tree-id521 . -650) (undo-tree-id522 . -650) (undo-tree-id523 . -723) (undo-tree-id524 . -650) (undo-tree-id525 . -344) (undo-tree-id526 . -650) (undo-tree-id527 . -723) 18487) nil (25756 20215 16229 136000) 0 nil])
+([nil nil ((18592 . 19290) (#("Tulegulov Amandos Dabysovich, Candidate of Physical and Mathematical
+Sciences, Associate Professor, Head of the Department. Kazakh University
+of Technology and Business, Astana, Kazakhstan, tad62@ya.ru;
+
+Akishev Karshiga Maksutovich, Candidate of Technical Sciences, Associate
+Professor, Kazakh University of Technology and Business, Astana,
+Kazakhstan.
+\\href{mailto:akmail04@gmail.com}{\\nolinkurl{akmail04@gmail.com}}
+
+Yurkov Nikolay Kondratievich, Doctor of Technical Sciences, Professor,
+Penza State University, Penza,Russia. nk49@mail.ru
+
+Ostroverkhov Dmitry - Research engineer, Berlin Technical University,
+Berlin, Germany, tub14@mail.ru
+" 0 287 (fontified t) 287 342 (fontified t) 342 354 (fontified t) 354 359 (fontified t face font-lock-keyword-face) 359 387 (fontified t) 387 397 (fontified t face font-lock-keyword-face) 397 398 (fontified t) 398 416 (fontified t face tex-verbatim) 416 540 (fontified t) 540 542 (fontified t) 542 570 (fontified t) 570 613 (fontified t) 613 644 (fontified t)) . -18592) (undo-tree-id512 . -613) (undo-tree-id513 . -644) (undo-tree-id514 . -644) (undo-tree-id515 . -613) (undo-tree-id516 . -644) (undo-tree-id517 . -613) (undo-tree-id518 . -644) (undo-tree-id519 . -613) (undo-tree-id520 . -644) 19236) nil (25756 20215 16220 57000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 16886 . 16887) (#("
+" 0 1 (fontified nil)) . -16892) (16886 . 16893) 16869 (t 25756 20215 19756 680000)) nil (25756 20315 492768 801000) 0 nil])
+([nil nil ((#("1" 0 1 (fontified t)) . 16893) (undo-tree-id530 . -1) (undo-tree-id531 . -1)) nil (25756 20315 492765 868000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t)) . 16893) (undo-tree-id528 . -1) (undo-tree-id529 . -1)) nil (25756 20315 492758 185000) 0 nil])
+([nil current ((1 . 11) (1 . 2) 8 (t 25756 20315 499205 304000)) nil (25756 25174 275963 522000) 0 nil])
+nil

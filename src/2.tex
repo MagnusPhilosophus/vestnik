@@ -1,3 +1,4 @@
+\clearpage
 {\bfseries SRSTI 50.47.00:20.23.19}
 
 \section{DATAMINING CAPABILITIES FOR CLUSTERING CONCRETE MIX
@@ -114,6 +115,7 @@ e-mail:
 {\bfseries Ключевые слова}: кластеризация, datamining, рецептуры бетонных
 смесей, критерии качества
 
+\begin{multicols}{2}
 {\bfseries Introduction.}To date, the active promotion of information
 technology (datamining) provides the necessary and sufficient
 opportunities to obtain reliable and high-quality results, in particular
@@ -211,8 +213,7 @@ As a result of the solution {[}1{]}, a mathematical formulation of the
 problem of clustering concrete mixtures using technogenic waste formula
 1 was obtained.
 
-\emph{F(C\textsubscript{k},C\textsubscript{l})=1/(N\textsubscript{k}*N\textsubscript{l})*}\(\sum_{SiCk}^{}{\sum_{SjCl}^{}{f(Sj\ ,Sj)}}\)
-(1)
+\[F(C_k, C_l) = \frac{1}{{N_k \cdot N_l}} \sum\limits_{SiCk} \sum\limits_{SjCl} f(S_j, S_j) \quad (1)\]
 
 That is, each cluster contains formulations of concrete mixtures that
 are closest in their characteristics and the formulations of each class
@@ -223,8 +224,7 @@ solution of the problem of clustering concrete mixtures, the program
 "Comprehensive quality assessment and classification of multidimensional
 objects" in Russian was used. Data on the metrics of the recipe of
 concrete mixtures are presented in Table 1.
-
-Table 1. Recipe of concrete mixtures
+\end{multicols}
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}
@@ -232,6 +232,7 @@ Table 1. Recipe of concrete mixtures
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}}
+\caption*{Table 1. Recipe of concrete mixtures} \\
 \toprule\noalign{}
 \multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
 № recipes
@@ -257,57 +258,57 @@ g/\%
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-1 & 3.11 & & & 337/3 \\
-2 & 3.7 & & & 505/4 \\
-3 & 8.32 & & & 674/5 \\
-4 & 3.5 & & & 842/7 \\
-5 & 3.6 & & & 1011/8 \\
-6 & 2.84 & & & 944/7 \\
-7 & 2.56 & & & 910/7 \\
-8 & 2.73 & 574/4.4 & & \\
-9 & 2.3 & 246/2 & & 337/3 \\
-10 & 4.4 & 574/4.4 & & \\
-11 & 2.5 & 656/5 & & \\
-12 & 4.5 & 3370/26 & & \\
-13 & 2.51 & 492/4 & & \\
-14 & 2.8 & 574/4.4 & & \\
-15 & 3.45 & & & 410/3.2 \\
-16 & 4.54 & & & 410,3.2 \\
-17 & 3.9 & 246/2 & 798/6 & \\
-18 & 2.55 & 328/2.5 & 798/6\% & \\
-19 & 3.5 & 328/2.5 & 640/5 & \\
-20-\textsubscript{15} & 1.47 & 107/1.3 & 1066/13 & \\
-21 & 9.74 & 328/2.5 & 798//6 & 246/2 \\
-22 & 3.18 & & 399/3 & 328/2.5 \\
-23 & 3.23 & 164/1.3 & 798/6 & 164/1.3 \\
-24-\textsubscript{15} & 1.6 & & 1020/12 & 357/4.2 \\
-25 & 4.77 & 328/2.5 & 399/3 & 337/2.5 \\
-26 & 4.33 & 164/1.2 & 798/6 & 337/2.5 \\
-27 & 3.3 & 337/2.5 & 798/6 & 164/1.2 \\
-28 & 9 & 337/2.5 & 798/6 & 505/4 \\
-29 & 10 & 337/2.5 & 1596/12 & \\
-30 & 3.22 & 328/.5 & 798/6 & 674/5.2 \\
-31 & 4.62 & 246/2 & & 505/3.2 \\
-32 & 2.3 & & & 1685/13 \\
-33 & 9.1 & 164/1.3 & & 1685/13 \\
-34 & 8.18 & 164/1.3 & & 2022/16 \\
-35 & 4.37 & 1011/8 & & \\
-36 & 1.35 & 7798/80 & & \\
-37 & 4.43 & 337/1.5 & 798/6 & 674/5.2 \\
-38 & 4.13 & 337/2.5 & 798/6 & 337/2.5 \\
-39 & 22.3 & 505/4 & 1197/9. & 337/2.5 \\
+1 & 11\hfill\textsuperscript{3.} & & & 337/3 \\
+2 & 7\hfill\textsuperscript{3.} & & & 505/4 \\
+3 & 32\hfill\textsuperscript{8.} & & & 674/5 \\
+4 & 5\hfill\textsuperscript{3.} & & & 842/7 \\
+5 & 6\hfill\textsuperscript{3.} & & & 1011/8 \\
+6 & 84\hfill\textsuperscript{2.} & & & 944/7 \\
+7 & 56\hfill\textsuperscript{2.} & & & 910/7 \\
+8 & 73\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+9 & 3\hfill\textsuperscript{2.} & 46/2\hfill\textsuperscript{2.} & & 337/3 \\
+10 & 4\hfill\textsuperscript{4.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+11 & 5\hfill\textsuperscript{2.} & 56/5\hfill\textsuperscript{6.} & & \\
+12 & 5\hfill\textsuperscript{4.} & 370/26\hfill\textsuperscript{3.} & & \\
+13 & 51\hfill\textsuperscript{2.} & 92/4\hfill\textsuperscript{4.} & & \\
+14 & 8\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+15 & 45\hfill\textsuperscript{3.} & & & 410/3.2 \\
+16 & 54\hfill\textsuperscript{4.} & & & 410,3.2 \\
+17 & 9\hfill\textsuperscript{3.} & 246/2\hfill\textsuperscript{2.} & 798/6 & \\
+18 & 55\hfill\textsuperscript{2.} & 328/2.5\hfill\textsuperscript{2.} & 798/6\% & \\
+19 & 5\hfill\textsuperscript{3.} & 328/2.5\hfill\textsuperscript{2.} & 640/5 & \\
+20-\textsubscript{15} & 1.47\hfill\textsuperscript{4.} & 107/1.3\hfill\textsuperscript{2.} & 1066/13 & \\
+21 & 74\hfill\textsuperscript{9.} & 28/2.5\hfill\textsuperscript{3.} & 798//6 & 246/2 \\
+22 & 18\hfill\textsuperscript{3.} & & 399/3 & 328/2.5 \\
+23 & 23\hfill\textsuperscript{3.} & 64/1.3\hfill\textsuperscript{1.} & 798/6 & 164/1.3 \\
+24-\textsubscript{15} & 1.6\hfill\textsuperscript{4.} & & 1020/12 & 357/4.2 \\
+25 & 77\hfill\textsuperscript{4.} & 28/2.5\hfill\textsuperscript{3.} & 399/3 & 337/2.5 \\
+26 & 33\hfill\textsuperscript{4.} & 64/1.2\hfill\textsuperscript{1.} & 798/6 & 337/2.5 \\
+27 & 3\hfill\textsuperscript{3.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 164/1.2 \\
+28 & \hfill\textsuperscript{9.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 505/4 \\
+29 & \hfill\textsuperscript{10.} & 37/2.5\hfill\textsuperscript{3.} & 1596/12 & \\
+30 & 22\hfill\textsuperscript{3.} & 328/.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
+31 & 62\hfill\textsuperscript{4.} & 46/2\hfill\textsuperscript{2.} & & 505/3.2 \\
+32 & 3\hfill\textsuperscript{2.} & & & 1685/13 \\
+33 & 1\hfill\textsuperscript{9.} & 64/1.3\hfill\textsuperscript{1.} & & 1685/13 \\
+34 & 18\hfill\textsuperscript{8.} & 64/1.3\hfill\textsuperscript{1.} & & 2022/16 \\
+35 & 37\hfill\textsuperscript{4.} & 011/8\hfill\textsuperscript{2.} & & \\
+36 & 35\hfill\textsuperscript{1.} & 798/80\hfill\textsuperscript{7.} & & \\
+37 & 43\hfill\textsuperscript{4.} & 37/1.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
+38 & 13\hfill\textsuperscript{4.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 337/2.5 \\
+39 & 3\hfill\textsuperscript{22.} & 05/4\hfill\textsuperscript{5.} & 1197/9. & 337/2.5 \\
 \end{longtable}
 
-Fig.1-Shows the interface of the program "Comprehensive quality
-assessment and classification of multidimensional objects". The data is
-entered directly from the keyboard{\bfseries .}
-
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{image8}
   \caption*{Fig. 1- Program interface ""Comprehensive quality assessment and
 classification of multidimensional objects"}
 \end{figure}
+
+Fig.1-Shows the interface of the program "Comprehensive quality
+assessment and classification of multidimensional objects". The data is
+entered directly from the keyboard{\bfseries .}
 
 \begin{figure}
   \centering
@@ -373,9 +374,11 @@ g/\%
 & RBS29 & 10 & 337/2.5 & 1596/12 & \\
 & RBS33 & 9.1 & 164/1.3 & & 1685/13 \\
 & RBS21 & 9.74 & 328/2.5 & 798//6 & 246/2 \\
+\hline
 6 & RBS39 & 22.3 & 505/4 & 1197/9.2 & 337/2.5 \\
 \end{longtable}
 
+\begin{multicols}{2}
 {\bfseries Methods and materials}. As a software tool for clustering
 concrete mix formulations, we use the DBSCAN clustering algorithm
 {[}4-11{]}.
@@ -442,8 +445,8 @@ the distances between objects from the same class
 ϵ\textgreater0�\textgreater0, and between objects from different classes
 (cross-clusterdistance) will be greater than ϵ�.
 
-For our case, a table of distances between classes is formed in Figure
-4.
+For our case, a table of distances between classes is formed in Figure 4.
+\end{multicols}
 
 \begin{lstlisting}[language=Python]
 library('reshape2')
@@ -493,20 +496,22 @@ ggplot() + geom_text(data = d,
 As a result, using the DBSCAN algorithm, the distribution of concrete
 mix formulations by class is obtained, as shown in Figure 6.
 
-\begin{figure}
-  \centering
-  \includegraphics[width=0.8\textwidth]{image13}
-  \caption*{Fig. 6 - Results of the distribution of concrete mix recipe by class}
-\end{figure}
-
 Figure 7 shows the clustering of concrete mix formulations.
 
-\begin{figure}
+\begin{figure}[H]
+\begin{subfigure}[b]{0.45\textwidth}
   \centering
-  \includegraphics[width=0.8\textwidth]{image14}
+  \includegraphics[width=\textwidth]{image13}
+  \caption*{Fig. 6 - Results of the distribution of concrete mix recipe by class}
+\end{subfigure}
+\begin{subfigure}[b]{0.45\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{image14}
   \caption*{Fig. 7 - Distribution of concrete mix formulations by clusters}
+\end{subfigure}
 \end{figure}
 
+\begin{multicols}{2}
 {\bfseries Discussion and results}. As can be seen from Figure 7, all the
 formulations of concrete mixtures are combined into 5 clusters. The
 largest is cluster 3, the smallest is cluster 1.
@@ -529,9 +534,9 @@ and training, there is a potential prospect that we will get good
 clustering results. In the future, we plan to use one of the software
 tools presented above for clustering man-made waste of the Pavlodar
 region.
+\end{multicols}
 
 {\bfseries Referenses}
-
 
 \begin{enumerate}
 \item
@@ -548,28 +553,24 @@ j\&url=https://trends.rbc.ru}/trends/amp/news/61b359739a7947c7376ef7ce\&ved
 AOvVaw2QeUcHkOYOZ3RdPy3Sttjx -Date of application 12.05.2023.
 
 \item
-Electronic
-resource:URL:\url{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}
+Electronic resource:URL: \url{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}
 - Date of application 12.05.2023.
 
 \item
-Electronic
-resource:URL:\url{https://etu.ru/assets/files/nauka/}dissertacii /2009
+Electronic resource: URL:\url{https://etu.ru/assets/files/nauka/}dissertacii /2009
 /SIElizarov.doc. -date of application 12.05.2023.
 
 \item
-Electronicresource:
-URL:\url{https://elibrary.ru/item.asp?id=45420956} - Date of application
+Electronic resource: URL:\url{https://elibrary.ru/item.asp?id=45420956} - Date of application
 12.05.2023.
 
 \item
-Electronicresource :URL:\url{https://habr.com/ru/articles/322034/}
+Electronic resource: URL:\url{https://habr.com/ru/articles/322034/}
 -Date of application 12.05.2023.
 
 \item
 Electronic resource:URL:
-\url{http://pzs.dstu.dp.ua/DataMining/cluster/bibl/\%25}D0\% 9A
-\%D0\%9B\%D0\%90\%D0\%A1\%D0\%A2\%D0\%95\%D0\%A0\%D0\%98\%D0\%97\%D0\%90\%D0\%A6\%D0\%98\%D0\%AF\%20\%D0\%9E\%D0\%91\%D0\%AA\%D0\%95\%D0\%9A\%D0\%A2\%D0\%9E\%D0\%92\%20\%D0\%A1\%20\%D0\%9F\%D0\%9E\%D0\%9C\%D0\%9E\%D0\%A9\%D0\%AC\%D0\%AE\%20\%D0\%90\%D0\%9B\%D0\%93\%D0\%9E\%D0\%A0\%D0\%98\%D0\%A2\%D0\%9C\%D0\%90\%20DBSCAN.pdf
+\url{http://pzs.dstu.dp.ua/DataMining/cluster/bibl/\%25D0\%9A\%D0\%9B\%D0\%90\%D0\%A1\%D0\%A2\%D0\%95\%D0\%A0\%D0\%98\%D0\%97\%D0\%90\%D0\%A6\%D0\%98\%D0\%AF\%20\%D0\%9E\%D0\%91\%D0\%AA\%D0\%95\%D0\%9A\%D0\%A2\%D0\%9E\%D0\%92\%20\%D0\%A1\%20\%D0\%9F\%D0\%9E\%D0\%9C\%D0\%9E\%D0\%A9\%D0\%AC\%D0\%AE\%20\%D0\%90\%D0\%9B\%D0\%93\%D0\%9E\%D0\%A0\%D0\%98\%D0\%A2\%D0\%9C\%D0\%90\%20DBSCAN.pdf}
 - Date of application 12.05.2023.
 
 \item

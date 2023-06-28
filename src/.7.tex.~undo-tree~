@@ -1,6 +1,1381 @@
 (undo-tree-save-format-version . 1)
-"ce4b0d8f0c198cac60813d920d257cc99d9a5a83"
+"9da870bc5741c9338f82466aac49368e199f54c1"
 [nil nil nil nil (25752 31690 98018 744000) 0 nil]
 ([nil nil ((1 . 37291) (t 25752 31682 578663 578000)) nil (25752 31690 98013 17000) 0 nil])
-([nil current ((nil fontified t 36342 . 36343) (nil face (italic) 36342 . 36343) (nil fontified t 36335 . 36342) (nil face (font-lock-keyword-face italic) 36335 . 36342) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 36332) (36340 . 36351) (nil fontified t 35343 . 35344) (nil face (italic) 35343 . 35344) (nil fontified t 35336 . 35343) (nil face (font-lock-keyword-face italic) 35336 . 35343) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 35333) (35341 . 35352) (nil fontified t 32566 . 32567) (nil fontified t 32559 . 32566) (nil face font-lock-keyword-face 32559 . 32566) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 32556) (32564 . 32575) (nil fontified t 29369 . 29370) (nil fontified t 29362 . 29369) (nil face font-lock-keyword-face 29362 . 29369) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 29359) (29367 . 29378) (nil fontified t 28094 . 28095) (nil fontified t 28087 . 28094) (nil face font-lock-keyword-face 28087 . 28094) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 28084) (28092 . 28103) (nil fontified nil 23647 . 23648) (nil fontified nil 23640 . 23647) (nil face font-lock-keyword-face 23640 . 23647) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23637) (23645 . 23656) (nil fontified nil 23624 . 23625) (nil fontified nil 23617 . 23624) (nil face font-lock-keyword-face 23617 . 23624) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23614) (23622 . 23633) (nil fontified nil 23597 . 23598) (nil fontified nil 23590 . 23597) (nil face font-lock-keyword-face 23590 . 23597) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23587) (23595 . 23606) (nil fontified t 23576 . 23577) (nil fontified t 23569 . 23576) (nil face font-lock-keyword-face 23569 . 23576) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23566) (23574 . 23585) (nil fontified t 23338 . 23339) (nil fontified t 23331 . 23338) (nil face font-lock-keyword-face 23331 . 23338) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23328) (23336 . 23347) (nil fontified t 23312 . 23313) (nil fontified t 23305 . 23312) (nil face font-lock-keyword-face 23305 . 23312) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23302) (23310 . 23321) (nil fontified nil 23291 . 23292) (nil fontified nil 23284 . 23291) (nil face font-lock-keyword-face 23284 . 23291) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23281) (23289 . 23300) (nil fontified t 23267 . 23268) (nil fontified t 23260 . 23267) (nil face font-lock-keyword-face 23260 . 23267) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23257) (23265 . 23276) (nil fontified nil 23180 . 23181) (nil fontified nil 23173 . 23180) (nil face font-lock-keyword-face 23173 . 23180) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23170) (23178 . 23189) (nil fontified t 23163 . 23164) (nil fontified t 23156 . 23163) (nil face font-lock-keyword-face 23156 . 23163) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23153) (23161 . 23172) (nil fontified t 23142 . 23143) (nil fontified t 23135 . 23142) (nil face font-lock-keyword-face 23135 . 23142) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23132) (23140 . 23151) (nil fontified nil 23018 . 23019) (nil fontified nil 23011 . 23018) (nil face font-lock-keyword-face 23011 . 23018) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23008) (23016 . 23027) (nil fontified t 23000 . 23001) (nil fontified t 22993 . 23000) (nil face font-lock-keyword-face 22993 . 23000) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22990) (22998 . 23009) (nil fontified t 22973 . 22974) (nil fontified t 22966 . 22973) (nil face font-lock-keyword-face 22966 . 22973) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22963) (22971 . 22982) (nil fontified nil 22935 . 22936) (nil fontified nil 22928 . 22935) (nil face font-lock-keyword-face 22928 . 22935) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 22925) (22933 . 22944) (nil fontified t 22896 . 22897) (nil fontified t 22889 . 22896) (nil face font-lock-keyword-face 22889 . 22896) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22886) (22894 . 22905) (nil fontified nil 22832 . 22833) (nil fontified nil 22825 . 22832) (nil face font-lock-keyword-face 22825 . 22832) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 22822) (22830 . 22841) (nil fontified t 22816 . 22817) (nil fontified t 22809 . 22816) (nil face font-lock-keyword-face 22809 . 22816) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22806) (22814 . 22825) (nil fontified t 22714 . 22715) (nil fontified t 22707 . 22714) (nil face font-lock-keyword-face 22707 . 22714) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22704) (22712 . 22723) (nil fontified t 22620 . 22621) (nil fontified t 22613 . 22620) (nil face font-lock-keyword-face 22613 . 22620) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22610) (22618 . 22629) (nil fontified t 22419 . 22420) (nil fontified t 22412 . 22419) (nil face font-lock-keyword-face 22412 . 22419) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22409) (22417 . 22428) (nil fontified t 22299 . 22300) (nil fontified t 22292 . 22299) (nil face font-lock-keyword-face 22292 . 22299) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22289) (22297 . 22308) (nil fontified t 22188 . 22189) (nil fontified t 22181 . 22188) (nil face font-lock-keyword-face 22181 . 22188) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22178) (22186 . 22197) (nil fontified t 22097 . 22098) (nil fontified t 22090 . 22097) (nil face font-lock-keyword-face 22090 . 22097) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22087) (22095 . 22106) (nil fontified t 22019 . 22020) (nil fontified t 22012 . 22019) (nil face font-lock-keyword-face 22012 . 22019) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22009) (22017 . 22028) (nil fontified t 21905 . 21906) (nil fontified t 21898 . 21905) (nil face font-lock-keyword-face 21898 . 21905) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21895) (21903 . 21914) (nil fontified t 21564 . 21565) (nil fontified t 21557 . 21564) (nil face font-lock-keyword-face 21557 . 21564) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21554) (21562 . 21573) (nil fontified t 21356 . 21357) (nil fontified t 21349 . 21356) (nil face font-lock-keyword-face 21349 . 21356) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21346) (21354 . 21365) (nil fontified t 21241 . 21242) (nil fontified t 21234 . 21241) (nil face font-lock-keyword-face 21234 . 21241) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21231) (21239 . 21250) (nil fontified t 21145 . 21146) (nil fontified t 21138 . 21145) (nil face font-lock-keyword-face 21138 . 21145) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21135) (21143 . 21154) (nil fontified t 20049 . 20050) (nil fontified t 20042 . 20049) (nil face font-lock-keyword-face 20042 . 20049) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 20039) (20047 . 20058) (nil fontified t 11315 . 11316) (nil fontified t 11308 . 11315) (nil face font-lock-keyword-face 11308 . 11315) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 11305) (11313 . 11324) (nil fontified t 5820 . 5821) (nil fontified t 5813 . 5820) (nil face font-lock-keyword-face 5813 . 5820) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 5810) (5818 . 5829) (nil fontified t 5654 . 5655) (nil fontified t 5647 . 5654) (nil face font-lock-keyword-face 5647 . 5654) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 5644) (5652 . 5663) (nil fontified t 3847 . 3848) (nil fontified t 3840 . 3847) (nil face font-lock-keyword-face 3840 . 3847) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3837) (3845 . 3856) (nil fontified t 3751 . 3752) (nil fontified t 3744 . 3751) (nil face font-lock-keyword-face 3744 . 3751) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3741) (3749 . 3760) (nil fontified t 3570 . 3571) (nil fontified t 3563 . 3570) (nil face font-lock-keyword-face 3563 . 3570) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3560) (3568 . 3579) (nil fontified t 2221 . 2222) (nil fontified t 2214 . 2221) (nil face font-lock-keyword-face 2214 . 2221) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2211) (2219 . 2230) (nil fontified t 2123 . 2124) (nil fontified t 2116 . 2123) (nil face font-lock-keyword-face 2116 . 2123) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2113) (2121 . 2132) (nil fontified t 1939 . 1940) (nil fontified t 1932 . 1939) (nil face font-lock-keyword-face 1932 . 1939) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1929) (1937 . 1948) (nil fontified t 264 . 265) (nil fontified t 257 . 264) (nil face font-lock-keyword-face 257 . 264) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 254) (262 . 273) (nil fontified t 139 . 140) (nil fontified t 132 . 139) (nil face font-lock-keyword-face 132 . 139) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 129) (137 . 148) (nil fontified t 66 . 67) (nil fontified t 59 . 66) (nil face font-lock-keyword-face 59 . 66) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 56) (64 . 75) (nil fontified t 11 . 12) (t 25752 31690 98622 313000) (nil fontified t 4 . 11) (t 25752 31690 98622 313000) (nil face font-lock-keyword-face 4 . 11) (t 25752 31690 98622 313000) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1) (t 25752 31690 98622 313000) (9 . 20) (t 25752 31690 98622 313000)) nil (25752 43436 587061 679000) 0 nil])
+([nil nil ((nil fontified t 36342 . 36343) (nil face (italic) 36342 . 36343) (nil fontified t 36335 . 36342) (nil face (font-lock-keyword-face italic) 36335 . 36342) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 36332) (36340 . 36351) (nil fontified t 35343 . 35344) (nil face (italic) 35343 . 35344) (nil fontified t 35336 . 35343) (nil face (font-lock-keyword-face italic) 35336 . 35343) (#("\\textbf{" 0 7 (fontified t face (font-lock-keyword-face italic)) 7 8 (fontified t face (italic))) . 35333) (35341 . 35352) (nil fontified t 32566 . 32567) (nil fontified t 32559 . 32566) (nil face font-lock-keyword-face 32559 . 32566) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 32556) (32564 . 32575) (nil fontified t 29369 . 29370) (nil fontified t 29362 . 29369) (nil face font-lock-keyword-face 29362 . 29369) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 29359) (29367 . 29378) (nil fontified t 28094 . 28095) (nil fontified t 28087 . 28094) (nil face font-lock-keyword-face 28087 . 28094) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 28084) (28092 . 28103) (nil fontified nil 23647 . 23648) (nil fontified nil 23640 . 23647) (nil face font-lock-keyword-face 23640 . 23647) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23637) (23645 . 23656) (nil fontified nil 23624 . 23625) (nil fontified nil 23617 . 23624) (nil face font-lock-keyword-face 23617 . 23624) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23614) (23622 . 23633) (nil fontified nil 23597 . 23598) (nil fontified nil 23590 . 23597) (nil face font-lock-keyword-face 23590 . 23597) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23587) (23595 . 23606) (nil fontified t 23576 . 23577) (nil fontified t 23569 . 23576) (nil face font-lock-keyword-face 23569 . 23576) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23566) (23574 . 23585) (nil fontified t 23338 . 23339) (nil fontified t 23331 . 23338) (nil face font-lock-keyword-face 23331 . 23338) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23328) (23336 . 23347) (nil fontified t 23312 . 23313) (nil fontified t 23305 . 23312) (nil face font-lock-keyword-face 23305 . 23312) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23302) (23310 . 23321) (nil fontified nil 23291 . 23292) (nil fontified nil 23284 . 23291) (nil face font-lock-keyword-face 23284 . 23291) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23281) (23289 . 23300) (nil fontified t 23267 . 23268) (nil fontified t 23260 . 23267) (nil face font-lock-keyword-face 23260 . 23267) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23257) (23265 . 23276) (nil fontified nil 23180 . 23181) (nil fontified nil 23173 . 23180) (nil face font-lock-keyword-face 23173 . 23180) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23170) (23178 . 23189) (nil fontified t 23163 . 23164) (nil fontified t 23156 . 23163) (nil face font-lock-keyword-face 23156 . 23163) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23153) (23161 . 23172) (nil fontified t 23142 . 23143) (nil fontified t 23135 . 23142) (nil face font-lock-keyword-face 23135 . 23142) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 23132) (23140 . 23151) (nil fontified nil 23018 . 23019) (nil fontified nil 23011 . 23018) (nil face font-lock-keyword-face 23011 . 23018) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 23008) (23016 . 23027) (nil fontified t 23000 . 23001) (nil fontified t 22993 . 23000) (nil face font-lock-keyword-face 22993 . 23000) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22990) (22998 . 23009) (nil fontified t 22973 . 22974) (nil fontified t 22966 . 22973) (nil face font-lock-keyword-face 22966 . 22973) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22963) (22971 . 22982) (nil fontified nil 22935 . 22936) (nil fontified nil 22928 . 22935) (nil face font-lock-keyword-face 22928 . 22935) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 22925) (22933 . 22944) (nil fontified t 22896 . 22897) (nil fontified t 22889 . 22896) (nil face font-lock-keyword-face 22889 . 22896) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22886) (22894 . 22905) (nil fontified nil 22832 . 22833) (nil fontified nil 22825 . 22832) (nil face font-lock-keyword-face 22825 . 22832) (#("\\textbf{" 0 7 (fontified nil face font-lock-keyword-face) 7 8 (fontified nil)) . 22822) (22830 . 22841) (nil fontified t 22816 . 22817) (nil fontified t 22809 . 22816) (nil face font-lock-keyword-face 22809 . 22816) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22806) (22814 . 22825) (nil fontified t 22714 . 22715) (nil fontified t 22707 . 22714) (nil face font-lock-keyword-face 22707 . 22714) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22704) (22712 . 22723) (nil fontified t 22620 . 22621) (nil fontified t 22613 . 22620) (nil face font-lock-keyword-face 22613 . 22620) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22610) (22618 . 22629) (nil fontified t 22419 . 22420) (nil fontified t 22412 . 22419) (nil face font-lock-keyword-face 22412 . 22419) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22409) (22417 . 22428) (nil fontified t 22299 . 22300) (nil fontified t 22292 . 22299) (nil face font-lock-keyword-face 22292 . 22299) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22289) (22297 . 22308) (nil fontified t 22188 . 22189) (nil fontified t 22181 . 22188) (nil face font-lock-keyword-face 22181 . 22188) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22178) (22186 . 22197) (nil fontified t 22097 . 22098) (nil fontified t 22090 . 22097) (nil face font-lock-keyword-face 22090 . 22097) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22087) (22095 . 22106) (nil fontified t 22019 . 22020) (nil fontified t 22012 . 22019) (nil face font-lock-keyword-face 22012 . 22019) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 22009) (22017 . 22028) (nil fontified t 21905 . 21906) (nil fontified t 21898 . 21905) (nil face font-lock-keyword-face 21898 . 21905) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21895) (21903 . 21914) (nil fontified t 21564 . 21565) (nil fontified t 21557 . 21564) (nil face font-lock-keyword-face 21557 . 21564) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21554) (21562 . 21573) (nil fontified t 21356 . 21357) (nil fontified t 21349 . 21356) (nil face font-lock-keyword-face 21349 . 21356) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21346) (21354 . 21365) (nil fontified t 21241 . 21242) (nil fontified t 21234 . 21241) (nil face font-lock-keyword-face 21234 . 21241) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21231) (21239 . 21250) (nil fontified t 21145 . 21146) (nil fontified t 21138 . 21145) (nil face font-lock-keyword-face 21138 . 21145) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 21135) (21143 . 21154) (nil fontified t 20049 . 20050) (nil fontified t 20042 . 20049) (nil face font-lock-keyword-face 20042 . 20049) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 20039) (20047 . 20058) (nil fontified t 11315 . 11316) (nil fontified t 11308 . 11315) (nil face font-lock-keyword-face 11308 . 11315) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 11305) (11313 . 11324) (nil fontified t 5820 . 5821) (nil fontified t 5813 . 5820) (nil face font-lock-keyword-face 5813 . 5820) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 5810) (5818 . 5829) (nil fontified t 5654 . 5655) (nil fontified t 5647 . 5654) (nil face font-lock-keyword-face 5647 . 5654) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 5644) (5652 . 5663) (nil fontified t 3847 . 3848) (nil fontified t 3840 . 3847) (nil face font-lock-keyword-face 3840 . 3847) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3837) (3845 . 3856) (nil fontified t 3751 . 3752) (nil fontified t 3744 . 3751) (nil face font-lock-keyword-face 3744 . 3751) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3741) (3749 . 3760) (nil fontified t 3570 . 3571) (nil fontified t 3563 . 3570) (nil face font-lock-keyword-face 3563 . 3570) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 3560) (3568 . 3579) (nil fontified t 2221 . 2222) (nil fontified t 2214 . 2221) (nil face font-lock-keyword-face 2214 . 2221) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2211) (2219 . 2230) (nil fontified t 2123 . 2124) (nil fontified t 2116 . 2123) (nil face font-lock-keyword-face 2116 . 2123) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 2113) (2121 . 2132) (nil fontified t 1939 . 1940) (nil fontified t 1932 . 1939) (nil face font-lock-keyword-face 1932 . 1939) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1929) (1937 . 1948) (nil fontified t 264 . 265) (nil fontified t 257 . 264) (nil face font-lock-keyword-face 257 . 264) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 254) (262 . 273) (nil fontified t 139 . 140) (nil fontified t 132 . 139) (nil face font-lock-keyword-face 132 . 139) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 129) (137 . 148) (nil fontified t 66 . 67) (nil fontified t 59 . 66) (nil face font-lock-keyword-face 59 . 66) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 56) (64 . 75) (nil fontified t 11 . 12) (t 25752 31690 98622 313000) (nil fontified t 4 . 11) (t 25752 31690 98622 313000) (nil face font-lock-keyword-face 4 . 11) (t 25752 31690 98622 313000) (#("\\textbf{" 0 7 (fontified t face font-lock-keyword-face) 7 8 (fontified t)) . 1) (t 25752 31690 98622 313000) (9 . 20) (t 25752 31690 98622 313000)) nil (25752 43436 587061 679000) 0 nil])
+([nil nil ((#("\\begin{quote}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (latex-env-pair t fontified t) 7 12 (face font-lock-function-name-face latex-env-pair t fontified t) 12 13 (latex-env-pair t fontified t) 13 14 (fontified t)) . 115) (undo-tree-id67 . -14) (undo-tree-id68 . -13) (t 25752 43436 590830 734000)) nil (25755 21370 367931 405000) 0 nil])
+([nil nil ((#("\\end{quote}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (latex-env-pair t fontified t) 5 10 (face font-lock-function-name-face latex-env-pair t fontified t) 10 11 (latex-env-pair t fontified t) 11 12 (fontified t)) . 227) (undo-tree-id65 . -11) (undo-tree-id66 . -12)) nil (25755 21370 367928 53000) 0 nil])
+([nil nil ((#("\\bfseries " 0 9 (face font-lock-keyword-face fontified t) 9 10 (face (bold) fontified t)) . 116) (undo-tree-id63 . -9) (undo-tree-id64 . -10)) nil (25755 21370 367923 722000) 0 nil])
+([nil nil ((120 . 123) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -120) (undo-tree-id62 . -1) (115 . 121)) nil (25755 21370 367920 929000) 0 nil])
+([nil nil ((226 . 570) (#("{\\bfseries С.Ж. Галиев\\textsuperscript{1*}, Е.Т.Утешов\\textsuperscript{1*},
+Д.А. Галиев\\textsuperscript{1}, Ж.С. Бексапин \\textsuperscript{2}}
+
+Институт горного дела им. Д.А.Кунаева РГП «НЦ КПМС» МИИР РК, г. Алматы,
+Казахстан,
+
+ТОО «Qazakstan smart technology», г. Алматы, Казахстан,
+
+email: seitgaligaliyev@mail.ru
+" 0 1 (fontified t) 1 10 (face font-lock-keyword-face fontified t) 10 22 (face (bold) fontified t) 22 38 (face (font-lock-keyword-face bold) fontified t) 38 54 (face (bold) fontified t) 54 70 (face (font-lock-keyword-face bold) fontified t) 70 87 (face (bold) fontified t) 87 103 (face (font-lock-keyword-face bold) fontified t) 103 122 (face (bold) fontified t) 122 138 (face (font-lock-keyword-face bold) fontified t) 138 141 (face (bold) fontified t) 141 186 (fontified t) 186 187 (face font-lock-keyword-face fontified t) 187 194 (face font-lock-string-face fontified t) 194 195 (face font-lock-keyword-face fontified t) 195 232 (fontified t) 232 233 (face font-lock-keyword-face fontified t) 233 259 (face font-lock-string-face fontified t) 259 260 (face font-lock-keyword-face fontified t) 260 316 (fontified t)) . -226) (undo-tree-id50 . -292) (undo-tree-id51 . -7) (undo-tree-id52 . -292) (undo-tree-id53 . -316) (undo-tree-id54 . -7) (undo-tree-id55 . -292) (undo-tree-id56 . -7) (undo-tree-id57 . -7) (undo-tree-id58 . -83) (undo-tree-id59 . -83) (undo-tree-id60 . -285) (undo-tree-id61 . -316) 542) nil (25755 21370 367917 576000) 0 nil])
+([nil nil ((2114 . 2120)) nil (25755 21370 367908 218000) 0 nil])
+([nil nil ((3748 . 3754)) nil (25755 21370 367905 913000) 0 nil])
+([nil nil ((3747 . 4286) (#("{\\large\\bfseries DIRECTIONS OF ENERGY EFFICIENCY IMPROVEMENT IN OPEN PIT MINING
+OF MINERAL DEPOSITS}
+
+{\\bfseries S.Zh. Galiev\\textsuperscript{1*}, E.T.
+Uteshov\\textsuperscript{1}, D.A. Galiev\\textsuperscript{1},Zh.S
+Beksapin\\textsuperscript{2}}
+
+Mining Institute after D.A. Kunayev of RSE \"NC KPMC\" MIIR RK, Almaty,
+Kazakhstan, Almaty, Kazakhstan, Qazakstan smart technology\" LLP, Almaty,
+Kazakhstan,
+
+е-mail:~\\href{https://e.mail.ru/compose/?mailto=mailto\\%3aseitgaligaliyev@mail.ru}{seitgaligaliyev@mail.ru}~
+" 0 1 (fontified t) 1 7 (face font-lock-keyword-face fontified t) 7 16 (face font-lock-keyword-face fontified t) 16 80 (face (bold) fontified t) 80 99 (face (bold) fontified t) 99 103 (fontified t) 103 112 (face font-lock-keyword-face fontified t) 112 125 (face (bold) fontified t) 125 141 (face (font-lock-keyword-face bold) fontified t) 141 159 (face (bold) fontified t) 159 175 (face (font-lock-keyword-face bold) fontified t) 175 183 (face (bold) fontified t) 183 191 (face (bold) fontified t) 191 207 (face (font-lock-keyword-face bold) fontified t) 207 216 (face (bold) fontified t) 216 224 (face (bold) fontified t) 224 240 (face (font-lock-keyword-face bold) fontified t) 240 243 (face (bold) fontified t) 243 410 (fontified t) 410 415 (face font-lock-keyword-face fontified t) 415 456 (fontified t) 456 458 (face font-lock-keyword-face fontified t) 458 511 (fontified t)) . -3747) (undo-tree-id29 . -86) (undo-tree-id30 . -408) (undo-tree-id31 . 504) (undo-tree-id32 . -6) (undo-tree-id33 . -408) (undo-tree-id34 . -6) (undo-tree-id35 . -6) (undo-tree-id36 . -6) (undo-tree-id37 . -6) (undo-tree-id38 . -511) (undo-tree-id39 . -6) (undo-tree-id40 . -408) (undo-tree-id41 . -6) (undo-tree-id42 . -6) (undo-tree-id43 . -6) (undo-tree-id44 . -6) (undo-tree-id45 . -6) (undo-tree-id46 . -6) (undo-tree-id47 . -86) (undo-tree-id48 . -402) (undo-tree-id49 . -511) 4258) nil (25755 21370 367902 561000) 0 nil])
+([nil nil ((2113 . 2655) (#("{\\large\\bfseries ПАЙДАЛЫ ҚАЗБАЛАР КЕН ОРЫНДАРЫН АШЫҚ ИГЕРУДЕГІ ЭНЕРГИЯ
+ТИІМДІЛІГІН АРТТЫРАУ БАҒЫТТАРЫ}
+
+{\\bfseries С.Ж. Ғалиев\\textsuperscript{1*}, Е.Т. Өтешов\\textsuperscript{1},
+Д.А. Ғалиев\\textsuperscript{1}, Ж. С. Бексапин\\textsuperscript{2}}
+
+Д. А. Қонаев атындағы Тау-кен институты. Д. А. Қонаева ҚР ИИДМ
+
+\"КПМС ҰО\" РМК, Алматы қ., Қазақстан, \"Qazakstan smart technology\" ЖШС,
+Алматы қ., Қазақстан,
+е-mail:~\\href{https://e.mail.ru/compose/?mailto=mailto\\%3aseitgaligaliyev@mail.ru}{seitgaligaliyev@mail.ru}~
+" 0 1 (fontified t) 1 7 (face font-lock-keyword-face fontified t) 7 8 (face font-lock-keyword-face fontified t) 8 16 (face font-lock-keyword-face fontified t) 16 71 (face (bold) fontified t) 71 101 (fontified t) 101 103 (fontified t) 103 105 (fontified t) 105 114 (face font-lock-keyword-face fontified t) 114 126 (face (bold) fontified t) 126 142 (face (font-lock-keyword-face bold) fontified t) 142 159 (face (bold) fontified t) 159 175 (face (font-lock-keyword-face bold) fontified t) 175 191 (face (bold) fontified t) 191 207 (face (font-lock-keyword-face bold) fontified t) 207 226 (face (bold) fontified t) 226 242 (face (font-lock-keyword-face bold) fontified t) 242 245 (face (bold) fontified t) 245 307 (fontified t) 307 311 (fontified t) 311 413 (fontified t) 413 418 (face font-lock-keyword-face fontified t) 418 459 (fontified t) 459 461 (face font-lock-keyword-face fontified t) 461 514 (fontified t)) . 2113) (undo-tree-id0 . -514) (undo-tree-id1 . -405) (undo-tree-id2 . -71) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -7) (undo-tree-id6 . -7) (undo-tree-id7 . -7) (undo-tree-id8 . -7) (undo-tree-id9 . -6) (undo-tree-id10 . -6) (undo-tree-id11 . -6) (undo-tree-id12 . -6) (undo-tree-id13 . -6) (undo-tree-id14 . -6) (undo-tree-id15 . -6) (undo-tree-id16 . -6) (undo-tree-id17 . -6) (undo-tree-id18 . -6) (undo-tree-id19 . -77) (undo-tree-id20 . -514) (undo-tree-id21 . -405) (undo-tree-id22 . -405) (undo-tree-id23 . -405) (undo-tree-id24 . -71) (undo-tree-id25 . 514) (undo-tree-id26 . -1) (undo-tree-id27 . 413) (undo-tree-id28 . -102)) nil (25755 21370 367885 868000) 0 nil])
+([nil nil ((2667 . 2676) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -2667) (undo-tree-id194 . -1) (2660 . 2668) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -2660) (undo-tree-id195 . -1) (2656 . 2661) (2655 . 2656) (t 25755 21370 373042 41000) 2655) nil (25755 21483 957616 928000) 0 nil])
+([nil nil ((#("\\begin{multicols}{2}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (latex-env-pair t fontified t) 7 16 (face font-lock-function-name-face latex-env-pair t fontified t) 16 20 (latex-env-pair t fontified t) 20 21 (fontified t)) . 2656) (undo-tree-id150 . -20) (undo-tree-id151 . 1) (undo-tree-id152 . -19) (undo-tree-id153 . -1) (undo-tree-id154 . -3) (undo-tree-id155 . -3) (undo-tree-id156 . -6) (undo-tree-id157 . -6) (undo-tree-id158 . -7) (undo-tree-id159 . -7) (undo-tree-id160 . -7) (undo-tree-id161 . -7) (undo-tree-id162 . -7) (undo-tree-id163 . -7) (undo-tree-id164 . -7) (undo-tree-id165 . -7) (undo-tree-id166 . -8) (undo-tree-id167 . -12) (undo-tree-id168 . -12) (undo-tree-id169 . -16) (undo-tree-id170 . -16) (undo-tree-id171 . -16) (undo-tree-id172 . -16) (undo-tree-id173 . -17) (undo-tree-id174 . -20) (undo-tree-id175 . -20) (undo-tree-id176 . -19) (undo-tree-id177 . -19) (undo-tree-id178 . -19) (undo-tree-id179 . -19) (undo-tree-id180 . -19) (undo-tree-id181 . -19) (undo-tree-id182 . -19) (undo-tree-id183 . -19) (undo-tree-id184 . -19) (undo-tree-id185 . -19) (undo-tree-id186 . 2) (undo-tree-id187 . -20) (undo-tree-id188 . 4) (undo-tree-id189 . -18) (undo-tree-id190 . -19) (undo-tree-id191 . -19) (undo-tree-id192 . -19) (undo-tree-id193 . -21) 2675) nil (25755 21483 957611 201000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5877 . 5878) (#("
+" 0 1 (fontified nil)) . -5898) (5877 . 5899)) nil (25755 21483 957513 563000) 0 nil])
+([nil nil ((#("{" 0 1 (latex-env-pair t fontified t)) . -15342) (undo-tree-id126 . -1) (undo-tree-id127 . -1) (undo-tree-id128 . -1) (undo-tree-id129 . -1) (undo-tree-id130 . -1) (undo-tree-id131 . -1) (undo-tree-id132 . -1) (undo-tree-id133 . -1) (undo-tree-id134 . -1) 15343 (15336 . 15343) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -15336) (undo-tree-id135 . -1) (15335 . 15337) (#("c" 0 1 (face font-lock-function-name-face fontified t)) . -15335) (undo-tree-id136 . -1) (undo-tree-id137 . -1) (undo-tree-id138 . -1) (undo-tree-id139 . -1) (undo-tree-id140 . -1) (undo-tree-id141 . -1) (#("t" 0 1 (face font-lock-function-name-face fontified t)) . -15336) (undo-tree-id142 . -1) (undo-tree-id143 . -1) (undo-tree-id144 . -1) (undo-tree-id145 . -1) (undo-tree-id146 . -1) (undo-tree-id147 . -1) 15337 (#("i" 0 1 (face font-lock-function-name-face fontified nil)) . -15337) (undo-tree-id148 . -1) 15338 (15337 . 15338) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -15337) (undo-tree-id149 . -1) (15327 . 15338) (15326 . 15327) 15317) nil (25755 21483 957508 813000) 0 nil])
+([nil nil ((15352 . 15361) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -15352) (undo-tree-id105 . -1) (15351 . 15353) (15349 . 15351) (#("r" 0 1 (face font-lock-keyword-face fontified t)) . -15349) (undo-tree-id106 . -1) (undo-tree-id107 . -1) (undo-tree-id108 . -1) (undo-tree-id109 . -1) 15350 (15348 . 15350) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15348) (undo-tree-id110 . -1) (15345 . 15349) (#("f" 0 1 (face font-lock-keyword-face fontified t)) . -15345) (undo-tree-id111 . -1) (undo-tree-id112 . -1) (undo-tree-id113 . -1) (undo-tree-id114 . -1) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15346) (undo-tree-id115 . -1) (undo-tree-id116 . -1) (undo-tree-id117 . -1) (undo-tree-id118 . -1) (#("g" 0 1 (face font-lock-keyword-face fontified t)) . -15347) (undo-tree-id119 . -1) (undo-tree-id120 . -1) (undo-tree-id121 . -1) (undo-tree-id122 . -1) (#("u" 0 1 (face font-lock-keyword-face fontified t)) . -15348) (undo-tree-id123 . -1) (undo-tree-id124 . -1) 15349 (15346 . 15349) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15346) (undo-tree-id125 . -1) (15344 . 15347) (15343 . 15344) 15343) nil (25755 21483 957244 604000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15408 . 15409) (#("
+" 0 1 (fontified nil)) . -15426) (15408 . 15427) 15378) nil (25755 21483 957229 658000) 0 nil])
+([nil nil ((15410 . 15413) (#("begin" 0 5 (face font-lock-keyword-face fontified t)) . 15410) (undo-tree-id102 . -4) (undo-tree-id103 . -5) (undo-tree-id104 . -5)) nil (25755 21483 957227 283000) 0 nil])
+([nil nil ((15437 . 15446) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -15437) (undo-tree-id100 . -1) 15438 (15430 . 15438) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15430) (undo-tree-id101 . -1) (15426 . 15431) (15425 . 15426) 15425) nil (25755 21483 957222 604000) 0 nil])
+([nil nil ((15417 . 15419) (#("s" 0 1 (face font-lock-keyword-face fontified t)) . -15417) (undo-tree-id81 . -1) (undo-tree-id82 . -1) (undo-tree-id83 . -1) (undo-tree-id84 . -1) (undo-tree-id85 . -1) (undo-tree-id86 . -1) (undo-tree-id87 . -1) (undo-tree-id88 . -1) (undo-tree-id89 . -1) 15418 (15414 . 15418) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15414) (undo-tree-id90 . -1) (undo-tree-id91 . -1) (15412 . 15415) (#("t" 0 1 (face font-lock-keyword-face fontified t)) . -15412) (undo-tree-id92 . -1) (undo-tree-id93 . -1) (undo-tree-id94 . -1) (undo-tree-id95 . -1) (#("p" 0 1 (face font-lock-keyword-face fontified t)) . -15413) (undo-tree-id96 . -1) (undo-tree-id97 . -1) (undo-tree-id98 . -1) (undo-tree-id99 . -1) 15414 (15409 . 15414) (15408 . 15409) 15381) nil (25755 21483 957217 366000) 0 nil])
+([nil nil ((15369 . 15372) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -15369) (undo-tree-id80 . -1) (15362 . 15370) (15361 . 15362) 15353) nil (25755 21483 957204 445000) 0 nil])
+([nil nil ((15428 . 15432) (15377 . 15381) (15362 . 15366) 15429) nil (25755 21483 957201 93000) 0 nil])
+([nil nil ((#("Рис. " 0 5 (fontified t)) . 15481) (undo-tree-id78 . -4) (undo-tree-id79 . -5)) nil (25755 21483 957198 718000) 0 nil])
+([nil nil ((#("1 " 0 2 (fontified t)) . 15481) (undo-tree-id76 . -1) (undo-tree-id77 . -2)) nil (25755 21483 957195 366000) 0 nil])
+([nil nil ((#("-- " 0 3 (fontified t)) . 15481) (undo-tree-id74 . -2) (undo-tree-id75 . -3)) nil (25755 21483 957192 13000) 0 nil])
+([nil nil ((#("Концепция энергосбережения на открытых разработках" 0 50 (fontified t)) . 15481) (undo-tree-id70 . -49) (undo-tree-id71 . -9) (undo-tree-id72 . -50) (undo-tree-id73 . -50)) nil (25755 21483 957188 312000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15490 . 15491) (nil fontified nil 15441 . 15491) (15441 . 15491) 15440) nil (25755 21483 957183 74000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 15531) (undo-tree-id69 . -1)) nil (25755 21483 957179 721000) 0 nil])
+([nil nil ((15326 . 15327) 15309) nil (25755 21498 238855 565000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 16472 . 16473) (#("
+" 0 1 (fontified nil)) . -16676) (16472 . 16677)) nil (25755 21520 215254 131000) 0 nil] [nil nil ((#("\\begin{multicols}{2}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 20 (fontified t latex-env-pair t) 20 21 (fontified t)) . 15511) (undo-tree-id196 . -20) (undo-tree-id197 . -21) (undo-tree-id198 . -21) (t 25755 21483 962418 726000)) ((15511 . 15532) (t 25755 21486 985735 469000)) (25755 21486 983150 363000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image49}
+" 0 16 (face font-lock-keyword-face fontified t) 16 26 (fontified t) 26 36 (face font-lock-keyword-face fontified t) 36 38 (fontified t) 38 45 (face font-lock-builtin-face fontified t) 45 47 (fontified t)) . 16677) (undo-tree-id228 . -46) (undo-tree-id229 . -47)) nil (25755 21520 215252 176000) 0 nil])
+nil
+([nil nil ((#("48" 0 2 (face font-lock-builtin-face fontified t)) . -16570) (16572 . 16574) 16571) nil (25755 21520 215248 893000) 0 nil])
+([nil nil ((#("Рис. " 0 5 (fontified t)) . 16678) (undo-tree-id226 . -4) (undo-tree-id227 . -5)) nil (25755 21520 215247 8000) 0 nil])
+([nil nil ((#("2 " 0 2 (fontified t)) . 16678) (undo-tree-id224 . -1) (undo-tree-id225 . -2)) nil (25755 21520 215243 236000) 0 nil])
+([nil nil ((#("- " 0 2 (fontified t)) . 16678) (undo-tree-id222 . -1) (undo-tree-id223 . -2)) nil (25755 21520 215240 373000) 0 nil])
+([nil nil ((#("Концепция энергосбережения на открытых разработках" 0 49 (fontified t) 49 50 (fontified t rear-nonsticky t)) . 16587) (undo-tree-id210 . -49) (undo-tree-id211 . -48) (undo-tree-id212 . -35) (undo-tree-id213 . -35) (undo-tree-id214 . -35) (undo-tree-id215 . -35) (undo-tree-id216 . -35) (undo-tree-id217 . -35) (undo-tree-id218 . -48) (undo-tree-id219 . -48) (undo-tree-id220 . -48) (undo-tree-id221 . -50) 16635) nil (25755 21520 215236 112000) 0 nil])
+([nil nil ((#("Зависимость КПД двигателя автосамосвала от срока эксплуатации" 0 61 (fontified t)) . 16628) (undo-tree-id201 . -60) (undo-tree-id202 . -13) (undo-tree-id203 . -13) (undo-tree-id204 . -13) (undo-tree-id205 . -13) (undo-tree-id206 . -13) (undo-tree-id207 . -13) (undo-tree-id208 . -61) (undo-tree-id209 . -61)) nil (25755 21520 215227 452000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 16647 . 16648) (nil fontified nil 16587 . 16648) (16587 . 16648) 16586) nil (25755 21520 215220 258000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 16689) (undo-tree-id200 . -1)) nil (25755 21520 215217 395000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 16689) (undo-tree-id199 . -1)) nil (25755 21520 215211 319000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 18113 . 18114) (#("
+" 0 1 (fontified nil)) . -18328) (18113 . 18329) (t 25755 21520 218886 437000)) nil (25755 21538 153134 411000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image50}
+" 0 2 (face font-lock-keyword-face fontified t) 2 8 (face font-lock-keyword-face fontified t) 8 16 (face font-lock-keyword-face fontified t) 16 26 (fontified t) 26 36 (face font-lock-keyword-face fontified t) 36 38 (fontified t) 38 45 (face font-lock-builtin-face fontified t) 45 47 (fontified t)) . 18329) (undo-tree-id283 . -46) (undo-tree-id284 . -47)) nil (25755 21538 153132 106000) 0 nil])
+([nil nil ((nil fontified t 18211 . 18213) (nil face font-lock-builtin-face 18211 . 18213) (#("49" 0 2 (face font-lock-builtin-face fontified t)) . -18211) (18213 . 18215) 18212) nil (25755 21538 153129 242000) 0 nil])
+([nil nil ((#("Зависимость КПД двигателя автосамосвала от срока эксплуатации" 0 60 (fontified t) 60 61 (fontified t rear-nonsticky t)) . 18228) (undo-tree-id268 . -60) (undo-tree-id269 . -35) (undo-tree-id270 . -35) (undo-tree-id271 . -35) (undo-tree-id272 . -35) (undo-tree-id273 . -35) (undo-tree-id274 . -35) (undo-tree-id275 . -35) (undo-tree-id276 . -35) (undo-tree-id277 . -35) (undo-tree-id278 . -35) (undo-tree-id279 . -35) (undo-tree-id280 . -35) (undo-tree-id281 . -35) (undo-tree-id282 . -61) 18263) nil (25755 21538 153125 960000) 0 nil])
+([nil nil ((#("Рис. " 0 5 (fontified t)) . 18269) (undo-tree-id266 . -4) (undo-tree-id267 . -5)) nil (25755 21538 153117 299000) 0 nil])
+([nil nil ((#("3. " 0 3 (fontified t)) . 18269) (undo-tree-id264 . -2) (undo-tree-id265 . -3)) nil (25755 21538 153114 366000) 0 nil])
+([nil nil ((#("- " 0 2 (fontified t)) . 18269) (undo-tree-id262 . -1) (undo-tree-id263 . -2)) nil (25755 21538 153111 572000) 0 nil])
+([nil nil ((#("Тяговые характеристики автосамосвалов БелАЗ-7540" 0 15 (fontified t) 15 16 (fontified t) 16 48 (fontified t)) . 18269) (undo-tree-id255 . -47) (undo-tree-id256 . -3) (undo-tree-id257 . -3) (undo-tree-id258 . -3) (undo-tree-id259 . -3) (undo-tree-id260 . -48) (undo-tree-id261 . -48)) nil (25755 21538 153108 150000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 18275 . 18276) (nil fontified nil 18228 . 18276) (18228 . 18276) 18227) nil (25755 21538 153102 4000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 18316) (undo-tree-id231 . -1) (undo-tree-id232 . -1) (undo-tree-id233 . -1) (undo-tree-id234 . -1) (undo-tree-id235 . -1) (undo-tree-id236 . -1) (undo-tree-id237 . -1) (undo-tree-id238 . -1) (undo-tree-id239 . -1) (undo-tree-id240 . -1) (undo-tree-id241 . -1) (undo-tree-id242 . -1) (undo-tree-id243 . -1) (undo-tree-id244 . -1) (undo-tree-id245 . -1) (undo-tree-id246 . -1) (undo-tree-id247 . -1) (undo-tree-id248 . -1) (undo-tree-id249 . -1) (undo-tree-id250 . -1) (undo-tree-id251 . -1) (undo-tree-id252 . -1) (undo-tree-id253 . -1) (undo-tree-id254 . -1)) nil (25755 21538 153098 303000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 18316) (undo-tree-id230 . -1)) nil (25755 21538 153080 493000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 19705 . 19706) (#("
+" 0 1 (fontified nil)) . -19907) (19705 . 19908) (t 25755 21538 158787 993000)) nil (25755 21559 499079 742000) 0 nil])
+([nil nil ((#("\\includegraphics[width=0.8\\textwidth]{image51}
+" 0 3 (face font-lock-keyword-face fontified t) 3 16 (face font-lock-keyword-face fontified t) 16 22 (fontified t) 22 26 (fontified t) 26 36 (face font-lock-keyword-face fontified t) 36 38 (fontified t) 38 45 (face font-lock-builtin-face fontified t) 45 47 (fontified t)) . 19908) (undo-tree-id358 . -46) (undo-tree-id359 . -47)) nil (25755 21559 499077 298000) 0 nil])
+([nil nil ((nil fontified t 19803 . 19805) (nil face font-lock-builtin-face 19803 . 19805) (#("50" 0 2 (face font-lock-builtin-face fontified t)) . -19803) (19805 . 19807) 19804) nil (25755 21559 499074 434000) 0 nil])
+([nil nil ((#("Тяговые характеристики автосамосвалов БелАЗ-7540" 0 47 (fontified t) 47 48 (fontified t rear-nonsticky t)) . 19820) (undo-tree-id343 . -47) (undo-tree-id344 . -35) (undo-tree-id345 . -35) (undo-tree-id346 . -35) (undo-tree-id347 . -35) (undo-tree-id348 . -35) (undo-tree-id349 . -35) (undo-tree-id350 . -35) (undo-tree-id351 . -35) (undo-tree-id352 . -35) (undo-tree-id353 . -35) (undo-tree-id354 . -35) (undo-tree-id355 . -35) (undo-tree-id356 . -35) (undo-tree-id357 . -48) 19855) nil (25755 21559 499071 501000) 0 nil])
+([nil nil ((#("Рис. " 0 2 (fontified t) 2 3 (fontified t) 3 5 (fontified t)) . 19861) (undo-tree-id341 . -4) (undo-tree-id342 . -5)) nil (25755 21559 499061 933000) 0 nil])
+([nil nil ((#("4 " 0 2 (fontified t)) . 19861) (undo-tree-id339 . -1) (undo-tree-id340 . -2)) nil (25755 21559 499058 650000) 0 nil])
+([nil nil ((#("- " 0 2 (fontified t)) . 19861) (undo-tree-id337 . -1) (undo-tree-id338 . -2)) nil (25755 21559 499055 856000) 0 nil])
+([nil nil ((19918 . 19919) (#("
+" 0 1 (fontified t)) . -19918) (undo-tree-id336 . -1) 19861) nil (25755 21559 499052 574000) 0 nil])
+([nil nil ((#("План разреза «Центральный» с встроенной структурой модели горнотранспортного комплекса" 0 13 (fontified t) 13 14 (face font-lock-keyword-face fontified t) 14 15 (face font-lock-string-face fontified t) 15 25 (face font-lock-string-face fontified t) 25 26 (face font-lock-keyword-face fontified t) 26 57 (fontified t) 57 58 (fontified t) 58 86 (fontified t)) . 19861) (undo-tree-id319 . -85) (undo-tree-id320 . -4) (undo-tree-id321 . -4) (undo-tree-id322 . -4) (undo-tree-id323 . -4) (undo-tree-id324 . -4) (undo-tree-id325 . -4) (undo-tree-id326 . -57) (undo-tree-id327 . -57) (undo-tree-id328 . -57) (undo-tree-id329 . -57) (undo-tree-id330 . -57) (undo-tree-id331 . -57) (undo-tree-id332 . -57) (undo-tree-id333 . -57) (undo-tree-id334 . -86) (undo-tree-id335 . -86)) nil (25755 21559 499048 733000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 19905 . 19906) (nil fontified nil 19820 . 19906) (19820 . 19906) 19819) nil (25755 21559 498962 828000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 19946) (undo-tree-id286 . -1) (undo-tree-id287 . -1) (undo-tree-id288 . -1) (undo-tree-id289 . -1) (undo-tree-id290 . -1) (undo-tree-id291 . -1) (undo-tree-id292 . -1) (undo-tree-id293 . -1) (undo-tree-id294 . -1) (undo-tree-id295 . -1) (undo-tree-id296 . -1) (undo-tree-id297 . -1) (undo-tree-id298 . -1) (undo-tree-id299 . -1) (undo-tree-id300 . -1) (undo-tree-id301 . -1) (undo-tree-id302 . -1) (undo-tree-id303 . -1) (undo-tree-id304 . -1) (undo-tree-id305 . -1) (undo-tree-id306 . -1) (undo-tree-id307 . -1) (undo-tree-id308 . -1) (undo-tree-id309 . -1) (undo-tree-id310 . -1) (undo-tree-id311 . -1) (undo-tree-id312 . -1) (undo-tree-id313 . -1) (undo-tree-id314 . -1) (undo-tree-id315 . -1) (undo-tree-id316 . -1) (undo-tree-id317 . -1) (undo-tree-id318 . -1)) nil (25755 21559 498958 149000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 19946) (undo-tree-id285 . -1)) nil (25755 21559 498936 568000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 21035 . 21036) (#("
+" 0 1 (fontified nil)) . -21051) (21035 . 21052) 21001 (t 25755 21559 505337 521000)) nil (25755 21568 627691 623000) 0 nil])
+([nil nil ((#("Таблица " 0 8 (fontified t)) . 21053) (undo-tree-id398 . -7) (undo-tree-id399 . -8) (t 25755 21568 635287 421000)) nil (25755 21599 295004 428000) 0 nil])
+([nil nil ((#("1. " 0 3 (fontified t)) . 21053) (undo-tree-id396 . -2) (undo-tree-id397 . -3)) nil (25755 21599 295001 145000) 0 nil])
+([nil nil ((21058 . 21062) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -21058) (undo-tree-id395 . -1) (21053 . 21059)) nil (25755 21599 294997 863000) 0 nil])
+([nil nil ((21111 . 21115)) nil (25755 21599 294995 69000) 0 nil])
+([nil nil ((#("\\caption{План энергосберегающих мероприятий по предприятию} \\\\
+" 0 8 (face font-lock-keyword-face fontified t) 8 9 (fontified t) 9 10 (fontified t) 10 60 (fontified t) 60 62 (face font-lock-warning-face fontified t) 62 63 (fontified t)) . 21053) (undo-tree-id360 . -62) (undo-tree-id361 . 1) (undo-tree-id362 . -61) (undo-tree-id363 . -61) (undo-tree-id364 . -7) (undo-tree-id365 . -7) (undo-tree-id366 . -9) (undo-tree-id367 . -9) (undo-tree-id368 . -9) (undo-tree-id369 . -9) (undo-tree-id370 . -9) (undo-tree-id371 . -9) (undo-tree-id372 . -8) (undo-tree-id373 . -8) (undo-tree-id374 . -8) (undo-tree-id375 . -8) (undo-tree-id376 . -58) (undo-tree-id377 . -58) (undo-tree-id378 . -59) (undo-tree-id379 . -61) (undo-tree-id380 . -61) (undo-tree-id381 . -61) (undo-tree-id382 . -61) (undo-tree-id383 . -61) (undo-tree-id384 . -61) (undo-tree-id385 . -61) (undo-tree-id386 . -61) (undo-tree-id387 . -61) (undo-tree-id388 . -61) (undo-tree-id389 . -61) (undo-tree-id390 . -61) (undo-tree-id391 . -61) (undo-tree-id392 . -61) (undo-tree-id393 . -61) (undo-tree-id394 . -63) 21114) nil (25755 21599 295150 47000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 21481 . 21482) (#("
+" 0 1 (fontified nil)) . -21544) (21481 . 21545) 21398) nil (25755 21600 126152 45000) 0 nil] [nil nil ((nil rear-nonsticky nil 21500 . 21501) (#("
+" 0 1 (fontified nil)) . -21563) (21500 . 21564) 21482) ((#("
+\\caption{План энергосберегающих мероприятий по предприятию} \\\\
+" 0 1 (fontified nil rear-nonsticky nil) 1 9 (face font-lock-keyword-face fontified nil) 9 10 (fontified nil) 10 11 (fontified nil) 11 61 (fontified nil) 61 63 (face font-lock-warning-face fontified nil) 63 64 (fontified nil)) . 21500) (undo-tree-id400 . -1) (undo-tree-id401 . -63) (undo-tree-id402 . -63) (undo-tree-id403 . -1) (undo-tree-id404 . -1) (undo-tree-id405 . -1) (undo-tree-id406 . -1) (21563 . 21564) (nil rear-nonsticky t 21500 . 21501)) (25755 21599 294960 707000) 0 nil])
+([nil nil ((#("8" 0 1 (fontified t)) . -16552) (t 25755 21600 131781 253000) (16553 . 16554) 16552 (t 25755 21600 131781 253000)) nil (25755 21633 102204 879000) 0 nil])
+nil
+([nil nil ((nil fontified t 16552 . 16553) (#("7" 0 1 (fontified t)) . -16552) (16553 . 16554) 16552) nil (25755 21633 102201 526000) 0 nil])
+([nil nil ((nil fontified t 16552 . 16553) (#("6" 0 1 (fontified t)) . -16552) (16553 . 16554) 16552) nil (25755 21633 102195 241000) 0 nil])
+([nil nil ((nil fontified t 16552 . 16553) (t 25755 21633 108266 963000) (#("5" 0 1 (fontified t)) . -16552) (t 25755 21633 108266 963000) (16553 . 16554) 16552 (t 25755 21633 108266 963000)) nil (25755 21687 554347 880000) 0 nil])
+([nil nil ((nil fontified t 16552 . 16553) (#("6" 0 1 (fontified t)) . -16552) (16553 . 16554) 16552) nil (25755 21687 554344 597000) 0 nil])
+([nil nil ((nil fontified t 16552 . 16553) (#("7" 0 1 (fontified t)) . -16552) (16553 . 16554) 16552) nil (25755 21687 554337 823000) 0 nil])
+([nil nil ((#("[H]" 0 3 (fontified t latex-env-pair t)) . 16662) (undo-tree-id428 . -2) (undo-tree-id429 . 3) (undo-tree-id430 . -1) (undo-tree-id431 . 1) (undo-tree-id432 . -3) (undo-tree-id433 . -3) (undo-tree-id434 . -3) (t 25755 21687 561301 488000)) nil (25755 21718 945439 617000) 0 nil])
+([nil nil ((#("[H]" 0 3 (fontified t latex-env-pair t)) . 15506) (undo-tree-id421 . -2) (undo-tree-id422 . 3) (undo-tree-id423 . -1) (undo-tree-id424 . 1) (undo-tree-id425 . -3) (undo-tree-id426 . -3) (undo-tree-id427 . -3)) nil (25755 21718 945433 52000) 0 nil])
+([nil nil ((#("[H]" 0 3 (fontified t latex-env-pair t)) . 18284) (undo-tree-id414 . -2) (undo-tree-id415 . 3) (undo-tree-id416 . -1) (undo-tree-id417 . 1) (undo-tree-id418 . -3) (undo-tree-id419 . -3) (undo-tree-id420 . -3)) nil (25755 21718 945427 46000) 0 nil])
+([nil nil ((#("[H]" 0 3 (fontified t latex-env-pair t)) . 19911) (undo-tree-id407 . -2) (undo-tree-id408 . 3) (undo-tree-id409 . -1) (undo-tree-id410 . 1) (undo-tree-id411 . -3) (undo-tree-id412 . -3) (undo-tree-id413 . -3)) nil (25755 21718 945415 33000) 0 nil])
+([nil nil ((18181 . 18185) (#("i" 0 1 (fontified t)) . -18181) (undo-tree-id435 . -1) (18179 . 18182) (#("width" 0 5 (fontified t)) . 18179) (undo-tree-id436 . -4) (undo-tree-id437 . -5) (undo-tree-id438 . -5) (t 25755 21718 951129 238000)) nil (25755 21820 754549 617000) 0 nil])
+([nil nil ((#("8" 0 1 (fontified t)) . -18188) (t 25755 21820 760570 564000) (18189 . 18190) 18188 (t 25755 21820 760570 564000)) nil (25755 21833 509699 101000) 0 nil])
+([nil nil ((nil fontified t 18188 . 18189) (#("7" 0 1 (fontified t)) . -18188) (18189 . 18190) 18188) nil (25755 21833 509695 748000) 0 nil])
+([nil nil ((nil fontified t 18188 . 18189) (#("6" 0 1 (fontified t)) . -18188) (18189 . 18190) 18188) nil (25755 21833 509689 44000) 0 nil])
+([nil nil ((nil fontified t 18188 . 18189) (t 25755 21833 510500 599000) (#("5" 0 1 (fontified t)) . -18188) (t 25755 21833 510500 599000) (18189 . 18190) 18188 (t 25755 21833 510500 599000)) nil (25755 21845 187830 588000) 0 nil])
+([nil nil ((21146 . 21147) (#("\\" 0 1 (fontified t)) . -21146) (undo-tree-id442 . -1) (undo-tree-id443 . -1) (undo-tree-id444 . -1) 21147 (21146 . 21147) (t 25755 21845 193769 821000)) nil (25755 21943 259809 308000) 0 nil])
+([nil nil ((21227 . 21228) (#("\\" 0 1 (fontified nil)) . -21227) (undo-tree-id441 . -1) 21228 (21227 . 21228)) nil (25755 21943 259804 978000) 0 nil])
+([nil nil ((21308 . 21309) (#("\\" 0 1 (fontified nil)) . -21308) (undo-tree-id440 . -1) 21309 (21308 . 21309)) nil (25755 21943 259801 136000) 0 nil])
+([nil nil ((21389 . 21390) (#("\\" 0 1 (fontified nil)) . -21389) (undo-tree-id439 . -1) 21390 (21389 . 21390)) nil (25755 21943 259794 920000) 0 nil])
+([nil nil ((23949 . 23951) (#("{" 0 1 (fontified t)) . -23949) (undo-tree-id452 . -1) (undo-tree-id453 . -1) (undo-tree-id454 . -1) (undo-tree-id455 . -1) (undo-tree-id456 . -1) (undo-tree-id457 . -1) (undo-tree-id458 . -1) (undo-tree-id459 . -1) (undo-tree-id460 . -1) (undo-tree-id461 . -1) (undo-tree-id462 . -1) (undo-tree-id463 . -1) (undo-tree-id464 . -1) (undo-tree-id465 . -1) (undo-tree-id466 . -1) (undo-tree-id467 . -1) (undo-tree-id468 . -1) (undo-tree-id469 . -1) (undo-tree-id470 . -1) (undo-tree-id471 . -1) (undo-tree-id472 . -1) (undo-tree-id473 . -1) (undo-tree-id474 . -1) (undo-tree-id475 . -1) (#("i" 0 1 (fontified t)) . -23950) (undo-tree-id476 . -1) (undo-tree-id477 . -1) (undo-tree-id478 . -1) (undo-tree-id479 . -1) (undo-tree-id480 . -1) (undo-tree-id481 . -1) (#("c" 0 1 (fontified t)) . -23951) (undo-tree-id482 . -1) (undo-tree-id483 . -1) (undo-tree-id484 . -1) (undo-tree-id485 . -1) (undo-tree-id486 . -1) 23952 (23950 . 23952) (#("i" 0 1 (fontified t)) . -23950) (undo-tree-id487 . -1) (undo-tree-id488 . -1) (undo-tree-id489 . -1) (23950 . 23951) (#("@{}>{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.4995} + 2\\tabcolsep}" 0 5 (fontified t) 5 17 (face font-lock-keyword-face fontified t) 17 32 (face font-lock-keyword-face fontified t) 32 36 (fontified t) 36 48 (face font-lock-keyword-face fontified t) 48 52 (fontified t) 52 62 (face font-lock-keyword-face fontified t) 62 66 (fontified t) 66 71 (face font-lock-keyword-face fontified t) 71 83 (fontified t) 83 93 (face font-lock-keyword-face fontified t) 93 94 (fontified t)) . 23950) (undo-tree-id490 . -93) (undo-tree-id491 . -94) (undo-tree-id492 . -94) (t 25755 21943 263231 670000)) nil (25755 22004 911045 161000) 0 nil])
+([nil nil ((#("%" 0 1 (face font-lock-comment-face fontified t)) . 23953) (undo-tree-id450 . -1) (undo-tree-id451 . -1)) nil (25755 22004 911021 136000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -23953) (undo-tree-id449 . -1) 23951) nil (25755 22004 911017 295000) 0 nil])
+([nil nil ((23971 . 23972) (#(" " 0 1 (fontified t)) . -23971) (undo-tree-id445 . -1) (undo-tree-id446 . -1) (undo-tree-id447 . -1) (undo-tree-id448 . -1) 23972) nil (25755 22004 911011 428000) 0 nil])
+([nil nil ((23933 . 23934) (t 25755 22004 916226 686000) 23883) nil (25755 22010 764346 864000) 0 nil])
+([nil nil ((23937 . 23940) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -23937) (undo-tree-id493 . -1) (undo-tree-id494 . -1) (23934 . 23938)) nil (25755 22010 764341 696000) 0 nil])
+([nil nil ((#("~" 0 1 (face (bold) fontified t)) . 23483) (undo-tree-id495 . -1) (undo-tree-id496 . -1) (t 25755 22010 769527 900000)) nil (25755 22053 486185 959000) 0 nil])
+([nil nil ((22494 . 22497) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -22494) (undo-tree-id497 . -1) (undo-tree-id498 . -1) (22491 . 22495) (22490 . 22491) (t 25755 22053 489293 478000) 22450) nil (25755 22108 177004 501000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 22575 . 22576) (#("
+" 0 1 (fontified nil)) . -22582) (22575 . 22583) 22570) nil (25755 22108 176993 466000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 22673 . 22674) (#("
+" 0 1 (fontified nil)) . -22680) (22673 . 22681) 22655) nil (25755 22108 176991 91000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 22791 . 22792) (#("
+" 0 1 (fontified nil)) . -22798) (22791 . 22799) 22754) nil (25755 22108 176988 647000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 22918 . 22919) (#("
+" 0 1 (fontified nil)) . -22925) (22918 . 22926) 22872) nil (25755 22108 176985 783000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23126 . 23127) (#("
+" 0 1 (fontified nil)) . -23133) (23126 . 23134) 23117) nil (25755 22108 176983 408000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23227 . 23228) (#("
+" 0 1 (fontified nil)) . -23234) (23227 . 23235) 23207) nil (25755 22108 176981 34000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23336 . 23337) (#("
+" 0 1 (fontified nil)) . -23343) (23336 . 23344) 23310) nil (25755 22108 176978 589000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23527 . 23528) (#("
+" 0 1 (fontified nil)) . -23534) (23527 . 23535) 23485) nil (25755 22108 176976 285000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23696 . 23697) (#("
+" 0 1 (fontified nil)) . -23703) (23696 . 23704) 23676) nil (25755 22108 176973 421000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 23878 . 23879) (#("
+" 0 1 (fontified nil)) . -23885) (23878 . 23886) 23853) nil (25755 22108 176966 367000) 0 nil])
+([nil nil ((23529 . 23530) (#("h" 0 1 (face font-lock-keyword-face fontified t)) . 23529) (undo-tree-id499 . -1) (t 25755 22108 182326 686000)) nil (25755 22176 206122 538000) 0 nil])
+([nil nil ((23534 . 23539)) nil (25755 22176 206109 687000) 0 nil])
+([nil nil ((23444 . 23445) (#(" " 0 1 (fontified t)) . -23444) (undo-tree-id505 . -1) (undo-tree-id506 . -1) (undo-tree-id507 . -1) (undo-tree-id508 . -1) 23445 (t 25755 22176 211953 377000)) nil (25755 22203 735672 478000) 0 nil])
+([nil nil ((23482 . 23483) (#(" " 0 1 (fontified t)) . -23482) (undo-tree-id501 . -1) (undo-tree-id502 . -1) (undo-tree-id503 . -1) (undo-tree-id504 . -1) 23483) nil (25755 22203 735666 193000) 0 nil])
+([nil nil ((23484 . 23485) (#("
+" 0 1 (fontified t)) . -23484) (undo-tree-id500 . -1) 23483) nil (25755 22203 735658 161000) 0 nil])
+([nil nil ((23698 . 23702) (t 25755 22203 741802 308000)) nil (25755 22234 427717 829000) 0 nil])
+([nil nil ((24172 . 24181) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -24172) (undo-tree-id603 . -1) (24168 . 24173) (#("u" 0 1 (face font-lock-function-name-face fontified t)) . -24168) (undo-tree-id604 . -1) (undo-tree-id605 . -1) 24169 (24168 . 24169) (#("m" 0 1 (face font-lock-function-name-face fontified t)) . -24168) (undo-tree-id606 . -1) (undo-tree-id607 . -1) (undo-tree-id608 . -1) (undo-tree-id609 . -1) (undo-tree-id610 . -1) (undo-tree-id611 . -1) (undo-tree-id612 . -1) (undo-tree-id613 . -1) (undo-tree-id614 . -1) (#("a" 0 1 (face font-lock-function-name-face fontified t)) . -24169) (undo-tree-id615 . -1) (undo-tree-id616 . -1) (undo-tree-id617 . -1) (undo-tree-id618 . -1) (undo-tree-id619 . -1) (#("u" 0 1 (face font-lock-function-name-face fontified t)) . -24170) (undo-tree-id620 . -1) (undo-tree-id621 . -1) 24171 (24165 . 24171) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -24165) (undo-tree-id622 . -1) (24161 . 24166) (24160 . 24161) (t 25755 22234 434967 215000) 24160) nil (25755 22366 150335 814000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 25457 . 25458) (#("
+" 0 1 (fontified nil)) . -25478) (25457 . 25479) 25431) nil (25755 22366 150322 824000) 0 nil])
+([nil nil ((25459 . 25462) (#("begin" 0 5 (face font-lock-keyword-face fontified t)) . 25459) (undo-tree-id600 . -4) (undo-tree-id601 . -5) (undo-tree-id602 . -5)) nil (25755 22366 150320 30000) 0 nil])
+([nil nil ((#("{2}" 0 3 (fontified t latex-env-pair t)) . 25473) (undo-tree-id592 . -2) (undo-tree-id593 . -3) (undo-tree-id594 . 3) (undo-tree-id595 . -1) (undo-tree-id596 . 1) (undo-tree-id597 . -3) (undo-tree-id598 . -3) (undo-tree-id599 . -3)) nil (25755 22366 150315 840000) 0 nil])
+([nil nil ((#("Таблица " 0 8 (fontified t)) . 25475) (undo-tree-id590 . -7) (undo-tree-id591 . -8)) nil (25755 22366 149980 811000) 0 nil])
+([nil nil ((#("2. " 0 3 (fontified t)) . 25475) (undo-tree-id588 . -2) (undo-tree-id589 . -3)) nil (25755 22366 149977 948000) 0 nil])
+([nil nil ((25480 . 25484) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -25480) (undo-tree-id587 . -1) (25475 . 25481)) nil (25755 22366 149975 14000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -25549) (undo-tree-id586 . -1)) nil (25755 22366 149972 151000) 0 nil])
+([nil nil ((25548 . 25549) (#("
+" 0 1 (fontified t)) . -25548) (undo-tree-id582 . -1) (undo-tree-id583 . -1) (undo-tree-id584 . -1) (undo-tree-id585 . -1) 25535) nil (25755 22366 149969 287000) 0 nil])
+([nil nil ((25607 . 25608)) nil (25755 22366 149964 957000) 0 nil])
+([nil nil ((25608 . 25611)) nil (25755 22366 149963 71000) 0 nil])
+([nil nil ((#("\\caption{Сравнение эффективности горнотранспортных систем с
+автомобильным и комбинированным автомобильно-железнодорожным транспортом} \\\\
+" 0 8 (face font-lock-keyword-face fontified t) 8 9 (fontified t) 9 10 (fontified t) 10 60 (fontified t) 60 73 (fontified t) 73 74 (fontified t) 74 85 (fontified t) 85 104 (fontified t) 104 123 (fontified t) 123 134 (fontified t) 134 136 (face font-lock-warning-face fontified t) 136 137 (fontified t)) . 25475) (undo-tree-id512 . -136) (undo-tree-id513 . 1) (undo-tree-id514 . -135) (undo-tree-id515 . -135) (undo-tree-id516 . -59) (undo-tree-id517 . -135) (undo-tree-id518 . -59) (undo-tree-id519 . -12) (undo-tree-id520 . -1) (undo-tree-id521 . -1) (undo-tree-id522 . -1) (undo-tree-id523 . -1) (undo-tree-id524 . -1) (undo-tree-id525 . -1) (undo-tree-id526 . -2) (undo-tree-id527 . -7) (undo-tree-id528 . -7) (undo-tree-id529 . -8) (undo-tree-id530 . -8) (undo-tree-id531 . -8) (undo-tree-id532 . -8) (undo-tree-id533 . -8) (undo-tree-id534 . -8) (undo-tree-id535 . -8) (undo-tree-id536 . -8) (undo-tree-id537 . -8) (undo-tree-id538 . -8) (undo-tree-id539 . -68) (undo-tree-id540 . -73) (undo-tree-id541 . -73) (undo-tree-id542 . -73) (undo-tree-id543 . -73) (undo-tree-id544 . -73) (undo-tree-id545 . -73) (undo-tree-id546 . -73) (undo-tree-id547 . -132) (undo-tree-id548 . -132) (undo-tree-id549 . -133) (undo-tree-id550 . -132) (undo-tree-id551 . -132) (undo-tree-id552 . -132) (undo-tree-id553 . -132) (undo-tree-id554 . -58) (undo-tree-id555 . -58) (undo-tree-id556 . -58) (undo-tree-id557 . -58) (undo-tree-id558 . -58) (undo-tree-id559 . -58) (undo-tree-id560 . -58) (undo-tree-id561 . -58) (undo-tree-id562 . -133) (undo-tree-id563 . -133) (undo-tree-id564 . -135) (undo-tree-id565 . -135) (undo-tree-id566 . -135) (undo-tree-id567 . -135) (undo-tree-id568 . -58) (undo-tree-id569 . -58) (undo-tree-id570 . -58) (undo-tree-id571 . -58) (undo-tree-id572 . -58) (undo-tree-id573 . -58) (undo-tree-id574 . -135) (undo-tree-id575 . -137) (undo-tree-id576 . -59) (undo-tree-id577 . -135) (undo-tree-id578 . -135) (undo-tree-id579 . -135) (undo-tree-id580 . -59) (undo-tree-id581 . -137) 25534) nil (25755 22366 149957 903000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 25989 . 25990) (#("
+" 0 1 (fontified nil)) . -26126) (25989 . 26127) 25905) nil (25755 22366 149921 236000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 25475) (undo-tree-id509 . 1) (undo-tree-id510 . 1) (undo-tree-id511 . -1)) nil (25755 22366 149915 929000) 0 nil])
+([nil nil ((#("\\begin{minipage}[b]{\\linewidth}\\raggedright
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 15 (face font-lock-function-name-face fontified t latex-env-pair t) 15 16 (fontified t latex-env-pair t) 16 20 (fontified t) 20 30 (face font-lock-keyword-face fontified t) 30 31 (fontified t) 31 43 (face font-lock-keyword-face fontified t) 43 44 (fontified t)) . 26145) (undo-tree-id709 . -43) (undo-tree-id710 . -44) (t 25755 22366 157577 727000)) nil (25755 22436 214567 875000) 0 nil])
+([nil nil ((#("\\end{minipage} " 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 15 (fontified t)) . 26150) (undo-tree-id707 . -14) (undo-tree-id708 . -15)) nil (25755 22436 214564 592000) 0 nil])
+([nil nil ((26149 . 26150) (#("
+" 0 1 (fontified t)) . -26149) (undo-tree-id686 . -1) (undo-tree-id687 . -1) (undo-tree-id688 . -1) (undo-tree-id689 . -1) (undo-tree-id690 . -1) (undo-tree-id691 . -1) (undo-tree-id692 . -1) (undo-tree-id693 . -1) (undo-tree-id694 . -1) (undo-tree-id695 . -1) (undo-tree-id696 . -1) (undo-tree-id697 . -1) (undo-tree-id698 . -1) (undo-tree-id699 . -1) (undo-tree-id700 . -1) (undo-tree-id701 . -1) (undo-tree-id702 . -1) (undo-tree-id703 . -1) (undo-tree-id704 . -1) (undo-tree-id705 . -1) (undo-tree-id706 . -1) 26145) nil (25755 22436 214560 332000) 0 nil])
+([nil nil ((#(" \\begin{minipage}[b]{\\linewidth}\\raggedright" 0 1 (fontified t) 1 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t latex-env-pair t) 8 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 21 (fontified t) 21 31 (face font-lock-keyword-face fontified t) 31 32 (fontified t) 32 44 (face font-lock-keyword-face fontified t)) . 26151) (undo-tree-id683 . -43) (undo-tree-id684 . -44) (undo-tree-id685 . -44)) nil (25755 22436 214549 88000) 0 nil])
+([nil nil ((26151 . 26152) (#("
+" 0 1 (fontified t)) . -26151) (undo-tree-id682 . -1) 26150) nil (25755 22436 214545 735000) 0 nil])
+([nil nil ((#("\\end{minipage} & \\begin{minipage}[b]{\\linewidth}\\raggedright
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 17 (fontified t) 17 23 (face font-lock-keyword-face fontified t) 23 24 (fontified t latex-env-pair t) 24 32 (face font-lock-function-name-face fontified t latex-env-pair t) 32 33 (fontified t latex-env-pair t) 33 37 (fontified t) 37 47 (face font-lock-keyword-face fontified t) 47 48 (fontified t) 48 60 (face font-lock-keyword-face fontified t) 60 61 (fontified t)) . 26161) (undo-tree-id674 . -60) (undo-tree-id675 . -6) (undo-tree-id676 . -6) (undo-tree-id677 . -6) (undo-tree-id678 . -6) (undo-tree-id679 . -6) (undo-tree-id680 . -6) (undo-tree-id681 . -61) 26167) nil (25755 22436 214542 383000) 0 nil])
+([nil nil ((26160 . 26162)) nil (25755 22436 214536 586000) 0 nil])
+([nil nil ((26162 . 26163) (#("
+" 0 1 (fontified t)) . -26162) (undo-tree-id666 . -1) (undo-tree-id667 . -1) (undo-tree-id668 . 1) (undo-tree-id669 . -1) (undo-tree-id670 . -1) (undo-tree-id671 . -1) (undo-tree-id672 . -1) (undo-tree-id673 . -1) 26161) nil (25755 22436 214534 630000) 0 nil])
+([nil nil ((#("\\end{minipage} " 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 15 (fontified t)) . 26213) (undo-tree-id664 . -14) (undo-tree-id665 . -15)) nil (25755 22436 214527 437000) 0 nil])
+([nil nil ((#(" \\begin{minipage}[b]{\\linewidth}\\raggedright" 0 1 (fontified t) 1 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t latex-env-pair t) 8 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 21 (fontified t) 21 31 (face font-lock-keyword-face fontified t) 31 32 (fontified t) 32 44 (face font-lock-keyword-face fontified t)) . 26214) (undo-tree-id660 . -43) (undo-tree-id661 . -1) (undo-tree-id662 . -44) (undo-tree-id663 . -44)) nil (25755 22436 214524 154000) 0 nil])
+([nil nil ((26212 . 26213) (#("
+" 0 1 (fontified t)) . -26212) (undo-tree-id648 . -1) (undo-tree-id649 . -1) (undo-tree-id650 . -1) (undo-tree-id651 . -1) (undo-tree-id652 . -1) (undo-tree-id653 . -1) (undo-tree-id654 . -1) (undo-tree-id655 . -1) (undo-tree-id656 . -1) (undo-tree-id657 . -1) (undo-tree-id658 . -1) (undo-tree-id659 . -1) 26145) nil (25755 22436 214518 986000) 0 nil])
+([nil nil ((#("\\end{minipage} & \\begin{minipage}[b]{\\linewidth}\\raggedright
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 17 (fontified t) 17 23 (face font-lock-keyword-face fontified t) 23 24 (fontified t latex-env-pair t) 24 32 (face font-lock-function-name-face fontified t latex-env-pair t) 32 33 (fontified t latex-env-pair t) 33 37 (fontified t) 37 47 (face font-lock-keyword-face fontified t) 47 48 (fontified t) 48 60 (face font-lock-keyword-face fontified t) 60 61 (fontified t)) . 26260) (undo-tree-id642 . -60) (undo-tree-id643 . -59) (undo-tree-id644 . -59) (undo-tree-id645 . -59) (undo-tree-id646 . -59) (undo-tree-id647 . -61) 26319) nil (25755 22436 214510 954000) 0 nil])
+([nil nil ((26259 . 26261)) nil (25755 22436 214506 554000) 0 nil])
+([nil nil ((#("\\end{minipage} & \\begin{minipage}[b]{\\linewidth}\\raggedright
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 7 (face font-lock-function-name-face fontified t latex-env-pair t) 7 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 17 (fontified t) 17 23 (face font-lock-keyword-face fontified t) 23 24 (fontified t latex-env-pair t) 24 32 (face font-lock-function-name-face fontified t latex-env-pair t) 32 33 (fontified t latex-env-pair t) 33 37 (fontified t) 37 47 (face font-lock-keyword-face fontified t) 47 48 (fontified t) 48 60 (face font-lock-keyword-face fontified t) 60 61 (fontified t)) . 26297) (undo-tree-id636 . -60) (undo-tree-id637 . -45) (undo-tree-id638 . -45) (undo-tree-id639 . -45) (undo-tree-id640 . -45) (undo-tree-id641 . -61) 26342) nil (25755 22436 214504 110000) 0 nil])
+([nil nil ((#("\\end{minipage} " 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 13 (face font-lock-function-name-face fontified t latex-env-pair t) 13 14 (fontified t latex-env-pair t) 14 15 (fontified t)) . 26308) (undo-tree-id632 . -14) (undo-tree-id633 . -9) (undo-tree-id634 . -9) (undo-tree-id635 . -15)) nil (25755 22436 214498 872000) 0 nil])
+([nil nil ((26307 . 26308) (#("
+" 0 1 (fontified t)) . -26307) (undo-tree-id623 . -1) (undo-tree-id624 . -1) (undo-tree-id625 . -1) (undo-tree-id626 . -1) (undo-tree-id627 . -1) (undo-tree-id628 . -1) (undo-tree-id629 . -1) (undo-tree-id630 . -1) (undo-tree-id631 . -1) 26297) nil (25755 22436 214493 145000) 0 nil])
+([nil nil ((26296 . 26298)) nil (25755 22436 214474 567000) 0 nil])
+([nil nil ((26398 . 26399) (#(">{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.9204} + 8\\tabcolsep}@{}" 0 2 (fontified t) 2 14 (face font-lock-keyword-face fontified t) 14 29 (face font-lock-keyword-face fontified t) 29 33 (fontified t) 33 43 (face font-lock-keyword-face fontified t) 43 45 (face font-lock-keyword-face fontified t) 45 50 (fontified t) 50 60 (face font-lock-keyword-face fontified t) 60 64 (fontified t) 64 69 (face font-lock-keyword-face fontified t) 69 81 (fontified t) 81 91 (face font-lock-keyword-face fontified t) 91 95 (fontified t)) . 26398) (undo-tree-id717 . -94) (undo-tree-id718 . -95) (undo-tree-id719 . -95) (t 25755 22436 217193 279000)) nil (25755 22457 336333 505000) 0 nil])
+([nil nil ((26641 . 26642) (#(">{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.9204} + 8\\tabcolsep}@{}" 0 2 (fontified t) 2 14 (face font-lock-keyword-face fontified t) 14 22 (face font-lock-keyword-face fontified t) 22 23 (face font-lock-keyword-face fontified t) 23 29 (face font-lock-keyword-face fontified t) 29 33 (fontified t) 33 45 (face font-lock-keyword-face fontified t) 45 50 (fontified t) 50 60 (face font-lock-keyword-face fontified t) 60 64 (fontified t) 64 69 (face font-lock-keyword-face fontified t) 69 81 (fontified t) 81 91 (face font-lock-keyword-face fontified t) 91 95 (fontified t)) . 26641) (undo-tree-id714 . -94) (undo-tree-id715 . -95) (undo-tree-id716 . -95)) nil (25755 22457 336329 175000) 0 nil])
+([nil nil ((26893 . 26894) (#(">{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.9204} + 8\\tabcolsep}@{}" 0 2 (fontified t) 2 14 (face font-lock-keyword-face fontified t) 14 29 (face font-lock-keyword-face fontified t) 29 33 (fontified t) 33 45 (face font-lock-keyword-face fontified t) 45 50 (fontified t) 50 60 (face font-lock-keyword-face fontified t) 60 64 (fontified t) 64 69 (face font-lock-keyword-face fontified t) 69 81 (fontified t) 81 91 (face font-lock-keyword-face fontified t) 91 95 (fontified t)) . 26893) (undo-tree-id711 . -94) (undo-tree-id712 . -95) (undo-tree-id713 . -95)) nil (25755 22457 336321 562000) 0 nil])
+([nil nil ((26493 . 26494) (#("*" 0 1 (fontified t)) . -26493) (undo-tree-id720 . -1) (undo-tree-id721 . -1) (undo-tree-id722 . -1) (undo-tree-id723 . -1) 26494 (t 25755 22457 340410 699000)) nil (25755 22488 980347 636000) 0 nil])
+([nil nil ((26736 . 26737) (#("*" 0 1 (fontified t)) . 26736) (undo-tree-id725 . -1) (t 25755 22488 986903 708000)) nil (25755 22497 373408 906000) 0 nil])
+([nil nil ((27021 . 27022) (#("*" 0 1 (fontified t)) . 27021) (undo-tree-id724 . -1)) nil (25755 22497 373402 620000) 0 nil])
+([nil nil ((27234 . 27237) (#("0" 0 1 (fontified t)) . -27234) (undo-tree-id726 . -1) (undo-tree-id727 . -1) (undo-tree-id728 . -1) (undo-tree-id729 . -1) (undo-tree-id730 . -1) (undo-tree-id731 . -1) (undo-tree-id732 . -1) (undo-tree-id733 . -1) (undo-tree-id734 . -1) 27235 (27227 . 27235) (#("s" 0 1 (face font-lock-keyword-face fontified t)) . -27227) (undo-tree-id735 . -1) (undo-tree-id736 . -1) (undo-tree-id737 . -1) (undo-tree-id738 . -1) (undo-tree-id739 . -1) (undo-tree-id740 . -1) (undo-tree-id741 . -1) (undo-tree-id742 . -1) (undo-tree-id743 . -1) (undo-tree-id744 . -1) (undo-tree-id745 . -1) (undo-tree-id746 . -1) (#("p" 0 1 (face font-lock-keyword-face fontified t)) . -27228) (undo-tree-id747 . -1) (undo-tree-id748 . -1) (undo-tree-id749 . -1) (undo-tree-id750 . -1) (undo-tree-id751 . -1) (undo-tree-id752 . -1) (undo-tree-id753 . -1) (undo-tree-id754 . -1) (undo-tree-id755 . -1) (undo-tree-id756 . -1) (#("a" 0 1 (face font-lock-keyword-face fontified t)) . -27229) (undo-tree-id757 . -1) (undo-tree-id758 . -1) (undo-tree-id759 . -1) (undo-tree-id760 . -1) (undo-tree-id761 . -1) (undo-tree-id762 . -1) (undo-tree-id763 . -1) (undo-tree-id764 . -1) (undo-tree-id765 . -1) (undo-tree-id766 . -1) (#("c" 0 1 (face font-lock-keyword-face fontified t)) . -27230) (undo-tree-id767 . -1) (undo-tree-id768 . -1) (undo-tree-id769 . -1) (undo-tree-id770 . -1) (undo-tree-id771 . -1) (undo-tree-id772 . -1) (undo-tree-id773 . -1) (undo-tree-id774 . -1) (undo-tree-id775 . -1) (undo-tree-id776 . -1) (#("e" 0 1 (face font-lock-keyword-face fontified t)) . -27231) (undo-tree-id777 . -1) (undo-tree-id778 . -1) (undo-tree-id779 . -1) (undo-tree-id780 . -1) (undo-tree-id781 . -1) (undo-tree-id782 . -1) (undo-tree-id783 . -1) (undo-tree-id784 . -1) (undo-tree-id785 . -1) 27232 (27225 . 27232) (27224 . 27225) (t 25755 22497 380190 983000) 27223) nil (25755 22541 950922 92000) 0 nil])
+([nil nil ((#("1" 0 1 (fontified t)) . -27233) (t 25755 22541 956613 39000) (27234 . 27235) 27233 (t 25755 22541 956613 39000)) nil (25755 22615 723013 203000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26375 . 26376) (#("
+" 0 1 (fontified nil)) . -26382) (26375 . 26383) 26371 (t 25755 22616 682869 650000)) nil (25755 22641 571629 87000) 0 nil] [nil nil ((26968 . 26971) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -26968) (undo-tree-id786 . -1) (undo-tree-id787 . -1) (26967 . 26969) (#("l" 0 1 (face font-lock-keyword-face fontified t)) . -26967) (undo-tree-id788 . -1) (undo-tree-id789 . -1) (undo-tree-id790 . -1) (undo-tree-id791 . -1) (undo-tree-id792 . -1) (undo-tree-id793 . -1) (undo-tree-id794 . -1) (undo-tree-id795 . -1) (undo-tree-id796 . -1) (undo-tree-id797 . -1) (undo-tree-id798 . -1) (undo-tree-id799 . -1) (undo-tree-id800 . -1) (undo-tree-id801 . -1) (undo-tree-id802 . -1) (undo-tree-id803 . -1) (undo-tree-id804 . -1) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -26968) (undo-tree-id805 . -1) (undo-tree-id806 . -1) (undo-tree-id807 . -1) (undo-tree-id808 . -1) (undo-tree-id809 . -1) (undo-tree-id810 . -1) (undo-tree-id811 . -1) (undo-tree-id812 . -1) (undo-tree-id813 . -1) (undo-tree-id814 . -1) (undo-tree-id815 . -1) (undo-tree-id816 . -1) (undo-tree-id817 . -1) (undo-tree-id818 . -1) (undo-tree-id819 . -1) (undo-tree-id820 . -1) (#("n" 0 1 (face font-lock-keyword-face fontified t)) . -26969) (undo-tree-id821 . -1) (undo-tree-id822 . -1) (undo-tree-id823 . -1) (undo-tree-id824 . -1) (undo-tree-id825 . -1) (undo-tree-id826 . -1) (undo-tree-id827 . -1) (undo-tree-id828 . -1) (undo-tree-id829 . -1) (undo-tree-id830 . -1) (undo-tree-id831 . -1) (undo-tree-id832 . -1) (undo-tree-id833 . -1) (undo-tree-id834 . -1) (undo-tree-id835 . -1) (undo-tree-id836 . -1) (#("e" 0 1 (face font-lock-keyword-face fontified t)) . -26970) (undo-tree-id837 . -1) (undo-tree-id838 . -1) (undo-tree-id839 . -1) (undo-tree-id840 . -1) (undo-tree-id841 . -1) (undo-tree-id842 . -1) (undo-tree-id843 . -1) (undo-tree-id844 . -1) (undo-tree-id845 . -1) (undo-tree-id846 . -1) (undo-tree-id847 . -1) (undo-tree-id848 . -1) (undo-tree-id849 . -1) 26971 (26968 . 26971) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -26968) (undo-tree-id850 . -1) (undo-tree-id851 . -1) (26965 . 26969) (26964 . 26965) (t 25755 22552 243223 259000) 26906) ((#("
+" 0 1 (fontified t)) . 26964) (undo-tree-id865 . -1) (undo-tree-id866 . -1) (undo-tree-id867 . -1) (undo-tree-id868 . -1) (undo-tree-id869 . -1) (undo-tree-id870 . -1) (undo-tree-id871 . -1) (undo-tree-id872 . -1) (undo-tree-id873 . -1) (undo-tree-id874 . -1) (undo-tree-id875 . -1) (undo-tree-id876 . -1) (undo-tree-id877 . -1) (undo-tree-id878 . -1) (undo-tree-id879 . -1) (#("\\hli" 0 2 (face font-lock-keyword-face fontified nil) 2 3 (face font-lock-keyword-face fontified nil) 3 4 (face font-lock-keyword-face fontified nil)) . 26965) (undo-tree-id880 . -4) (undo-tree-id881 . -3) (undo-tree-id882 . -3) (undo-tree-id883 . -3) (undo-tree-id884 . -3) (undo-tree-id885 . -3) (undo-tree-id886 . -3) (undo-tree-id887 . -3) (undo-tree-id888 . -3) (undo-tree-id889 . -3) (undo-tree-id890 . -3) (undo-tree-id891 . -3) (undo-tree-id892 . -3) (undo-tree-id893 . -3) (undo-tree-id894 . -2) (26968 . 26969) (#("ine" 0 1 (face font-lock-keyword-face fontified nil) 1 2 (face font-lock-keyword-face fontified nil) 2 3 (face font-lock-keyword-face fontified nil)) . 26968) (undo-tree-id895 . -2) (undo-tree-id896 . -2) (undo-tree-id897 . -3) (undo-tree-id898 . -3) (undo-tree-id899 . -3) (undo-tree-id900 . -3) (undo-tree-id901 . -3) (undo-tree-id902 . -3) (undo-tree-id903 . -3) (undo-tree-id904 . -3) (undo-tree-id905 . -3) (undo-tree-id906 . -3) (undo-tree-id907 . -2) (26967 . 26971) (#("li" 0 1 (face font-lock-keyword-face fontified nil) 1 2 (face font-lock-keyword-face fontified nil)) . 26967) (undo-tree-id908 . -2) (26968 . 26969) (#("ine" 0 3 (face font-lock-keyword-face fontified t)) . 26968)) (25755 22615 575982 910000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26452 . 26453) (#("
+" 0 1 (fontified nil)) . -26459) (26452 . 26460) 26410) nil (25755 22641 571621 963000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26876 . 26877) (#("
+" 0 1 (fontified nil)) . -26883) (26876 . 26884) 26874) ((#("
+\\hline
+" 0 1 (fontified nil rear-nonsticky nil) 1 7 (face font-lock-keyword-face fontified nil) 7 8 (fontified nil)) . 26876) (26883 . 26884) (nil rear-nonsticky t 26876 . 26877) (t 25755 22611 116233 529000)) (25755 22610 318594 364000) 0 nil])
+([nil nil ((#("I" 0 1 (fontified t)) . 26384) (undo-tree-id913 . -1) (undo-tree-id914 . -1) (t 25755 22641 576066 383000)) nil (25755 22708 667666 10000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26688 . 26689) (#("
+" 0 1 (fontified nil)) . -26695) (26688 . 26696) 26646) ((#("
+\\hline
+" 0 1 (fontified nil rear-nonsticky nil) 1 7 (face font-lock-keyword-face fontified nil) 7 8 (fontified nil)) . 26688) (26695 . 26696) (nil rear-nonsticky t 26688 . 26689)) (25755 22610 171862 293000) 0 nil])
+([nil nil ((#("I" 0 1 (fontified t)) . 26633) (undo-tree-id911 . -1) (undo-tree-id912 . -1)) nil (25755 22708 667661 191000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26624 . 26625) (#("
+" 0 1 (fontified nil)) . -26631) (26624 . 26632) 26618) ((#("
+\\hline
+" 0 1 (fontified nil rear-nonsticky nil) 1 7 (face font-lock-keyword-face fontified nil) 7 8 (fontified nil)) . 26624) (26631 . 26632) (nil rear-nonsticky t 26624 . 26625)) (25755 22609 701749 145000) 0 nil])
+([nil nil ((#("I" 0 1 (fontified t)) . 26883) (undo-tree-id909 . -1) (undo-tree-id910 . -1)) nil (25755 22708 667654 487000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26445 . 26446) (#("
+" 0 1 (fontified nil)) . -26452) (26445 . 26453) 26403) ((#("
+\\hline
+" 0 1 (fontified nil rear-nonsticky nil) 1 7 (face font-lock-keyword-face fontified nil) 7 8 (fontified nil)) . 26445) (26452 . 26453) (nil rear-nonsticky t 26445 . 26446)) (25755 22609 509306 930000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26880 . 26881) (#("
+" 0 1 (fontified nil)) . -26887) (26880 . 26888) 26843 (t 25755 22708 672364 862000)) nil (25755 22726 952674 800000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26381 . 26382) (#("
+" 0 1 (fontified nil)) . -26388) (26381 . 26389) 26376) ((#("
+\\hline
+" 0 1 (rear-nonsticky nil fontified nil) 1 7 (face font-lock-keyword-face fontified nil) 7 8 (fontified nil)) . 26381) (undo-tree-id852 . -1) (undo-tree-id853 . -7) (undo-tree-id854 . -7) (undo-tree-id855 . -1) (undo-tree-id856 . -1) (undo-tree-id857 . -1) (undo-tree-id858 . -1) (undo-tree-id859 . -1) (undo-tree-id860 . -1) (undo-tree-id861 . -1) (undo-tree-id862 . -1) (undo-tree-id863 . -1) (undo-tree-id864 . -1) (26388 . 26389) (nil rear-nonsticky t 26381 . 26382) (t 25755 22602 719612 939000)) (25755 22602 713797 814000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26982 . 26983) (#("
+" 0 1 (fontified nil)) . -26989) (26982 . 26990) 26916) nil (25755 22726 952671 936000) 0 nil])
+nil
+([nil nil ((nil rear-nonsticky nil 26630 . 26631) (#("
+" 0 1 (fontified nil)) . -26637) (26630 . 26638) 26596) nil (25755 22726 952669 73000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 26707 . 26708) (#("
+" 0 1 (fontified nil)) . -26714) (26707 . 26715) 26665) nil (25755 22726 952661 949000) 0 nil])
+([nil nil ((27345 . 27354) (#("i" 0 1 (face font-lock-function-name-face fontified t)) . -27345) (undo-tree-id926 . -1) (27338 . 27346) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -27338) (undo-tree-id927 . -1) (27334 . 27339) (27333 . 27334) (t 25755 22726 955597 867000) 27333) nil (25755 22754 748022 585000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 29310 . 29311) (#("
+" 0 1 (fontified nil)) . -29331) (29310 . 29332) 29265) nil (25755 22754 748017 208000) 0 nil])
+([nil nil ((29312 . 29315) (#("begin" 0 5 (face font-lock-keyword-face fontified t)) . 29312) (undo-tree-id923 . -4) (undo-tree-id924 . -5) (undo-tree-id925 . -5)) nil (25755 22754 748013 855000) 0 nil])
+([nil nil ((#("{2}" 0 3 (fontified t latex-env-pair t)) . 29326) (undo-tree-id915 . -2) (undo-tree-id916 . -3) (undo-tree-id917 . 3) (undo-tree-id918 . -1) (undo-tree-id919 . 1) (undo-tree-id920 . -3) (undo-tree-id921 . -3) (undo-tree-id922 . -3)) nil (25755 22754 748006 661000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 33 (fontified t)) . 29370) (undo-tree-id978 . -32) (undo-tree-id979 . -14) (undo-tree-id980 . -14) (undo-tree-id981 . -14) (undo-tree-id982 . -14) (undo-tree-id983 . -33) 29384 (t 25755 22754 752112 2000)) nil (25755 22814 800344 32000) 0 nil])
+([nil nil ((29369 . 29370) 29356) nil (25755 22814 800338 235000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 29456) (undo-tree-id975 . -15) (undo-tree-id976 . -16) (undo-tree-id977 . -16)) nil (25755 22814 800335 930000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 29456) (undo-tree-id974 . -1)) nil (25755 22814 800332 159000) 0 nil])
+([nil nil ((29455 . 29456) (#("
+" 0 1 (fontified t)) . -29455) (undo-tree-id953 . -1) (undo-tree-id954 . -1) (undo-tree-id955 . -1) (undo-tree-id956 . -1) (undo-tree-id957 . -1) (undo-tree-id958 . -1) (undo-tree-id959 . -1) (undo-tree-id960 . -1) (undo-tree-id961 . -1) (undo-tree-id962 . -1) (undo-tree-id963 . -1) (undo-tree-id964 . -1) (undo-tree-id965 . -1) (undo-tree-id966 . -1) (undo-tree-id967 . -1) (undo-tree-id968 . -1) (undo-tree-id969 . -1) (undo-tree-id970 . -1) (undo-tree-id971 . -1) (undo-tree-id972 . -1) (undo-tree-id973 . -1) 29449) nil (25755 22814 800328 876000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 29370) (undo-tree-id948 . 1) (undo-tree-id949 . -1) (undo-tree-id950 . -1) (undo-tree-id951 . -1) (undo-tree-id952 . -1)) nil (25755 22814 800316 793000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 29528) (undo-tree-id946 . -17) (undo-tree-id947 . -18)) nil (25755 22814 800312 44000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 29528) (undo-tree-id943 . -32) (undo-tree-id944 . -32) (undo-tree-id945 . -33)) nil (25755 22814 800309 251000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{1}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 29528) (undo-tree-id940 . -21) (undo-tree-id941 . -21) (undo-tree-id942 . -22)) nil (25755 22814 800305 898000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 29614) (undo-tree-id938 . -15) (undo-tree-id939 . -16)) nil (25755 22814 800302 57000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 29614) (undo-tree-id937 . -1)) nil (25755 22814 800298 774000) 0 nil])
+([nil nil ((29613 . 29614) (#("
+" 0 1 (fontified t)) . -29613) (undo-tree-id929 . -1) (undo-tree-id930 . -1) (undo-tree-id931 . -1) (undo-tree-id932 . -1) (undo-tree-id933 . -1) (undo-tree-id934 . -1) (undo-tree-id935 . -1) (undo-tree-id936 . -1) 29599) nil (25755 22814 800470 25000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 29626) (undo-tree-id1000 . -17) (undo-tree-id1001 . -18)) nil (25755 22820 801128 320000) 0 nil] [nil nil ((29625 . 29627) (#("
+" 0 1 (fontified t)) . -29625) (undo-tree-id928 . -1)) ((29625 . 29626) (#("  " 0 2 (fontified t)) . 29625) (undo-tree-id984 . -2) (undo-tree-id985 . -2) (undo-tree-id986 . -2)) (25755 22814 800284 387000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 29626) (undo-tree-id997 . -32) (undo-tree-id998 . -32) (undo-tree-id999 . -33)) nil (25755 22820 801124 968000) 0 nil])
+nil
+([nil nil ((#("\\setcounter{enumi}{2}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 29626) (undo-tree-id994 . -21) (undo-tree-id995 . -21) (undo-tree-id996 . -22)) nil (25755 22820 801228 263000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 29711) (undo-tree-id1004 . -15) (undo-tree-id1005 . -16)) nil (25755 22823 677500 465000) 0 nil] [nil nil ((#("  Издательство
+" 0 15 (fontified t)) . 29696) (undo-tree-id987 . -14) (undo-tree-id988 . -15) (undo-tree-id989 . -15) (undo-tree-id990 . -15) (undo-tree-id991 . -15) (undo-tree-id992 . -15) (undo-tree-id993 . -15) 29711) ((29696 . 29711)) (25755 22820 801113 95000) 0 nil])
+([nil nil ((29710 . 29711) (#("
+" 0 1 (fontified t)) . -29710) (undo-tree-id1116 . -1) (undo-tree-id1117 . -1) (undo-tree-id1118 . -1) (undo-tree-id1119 . -1) (undo-tree-id1120 . -1) (undo-tree-id1121 . -1) (undo-tree-id1122 . -1) (#("
+" 0 1 (fontified t)) . -29710) (undo-tree-id1123 . -1) (undo-tree-id1124 . -1) (undo-tree-id1125 . -1) (undo-tree-id1126 . -1) 29696) nil (25755 22840 668382 78000) 0 nil] [nil nil ((#("
+" 0 1 (fontified t)) . -29730) (undo-tree-id1002 . -1) (29711 . 29713) (#("
+" 0 1 (fontified t)) . -29711) (undo-tree-id1003 . -1)) ((29711 . 29712) (#("  " 0 2 (fontified nil)) . 29711) (29730 . 29731)) (25755 22823 677343 950000) 0 nil])
+nil
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 29730) (undo-tree-id1110 . -17) (undo-tree-id1111 . -14) (undo-tree-id1112 . -14) (undo-tree-id1113 . -14) (undo-tree-id1114 . -14) (undo-tree-id1115 . -18) 29744) nil (25755 22840 668374 954000) 0 nil])
+nil
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 29730) (undo-tree-id1101 . -32) (undo-tree-id1102 . -14) (undo-tree-id1103 . -32) (undo-tree-id1104 . -14) (undo-tree-id1105 . -14) (undo-tree-id1106 . -14) (undo-tree-id1107 . -14) (undo-tree-id1108 . -14) (undo-tree-id1109 . -33) 29744) nil (25755 22840 668369 297000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{3}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 29730) (undo-tree-id1092 . -21) (undo-tree-id1093 . -14) (undo-tree-id1094 . -21) (undo-tree-id1095 . -14) (undo-tree-id1096 . -14) (undo-tree-id1097 . -14) (undo-tree-id1098 . -14) (undo-tree-id1099 . -14) (undo-tree-id1100 . -22) 29744) nil (25755 22840 668361 684000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 29824) (undo-tree-id1082 . -15) (undo-tree-id1083 . -4) (undo-tree-id1084 . 12) (undo-tree-id1085 . -5) (undo-tree-id1086 . 2) (undo-tree-id1087 . -15) (undo-tree-id1088 . -4) (undo-tree-id1089 . -4) (undo-tree-id1090 . -4) (undo-tree-id1091 . -16) 29828) nil (25755 22840 668354 910000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 29824) (undo-tree-id1081 . -1)) nil (25755 22840 668346 808000) 0 nil])
+([nil nil ((29823 . 29824) (#("
+" 0 1 (fontified t)) . -29823) (undo-tree-id1069 . -1) (undo-tree-id1070 . -1) (undo-tree-id1071 . -1) (undo-tree-id1072 . -1) (undo-tree-id1073 . -1) (undo-tree-id1074 . -1) (undo-tree-id1075 . -1) (undo-tree-id1076 . -1) (undo-tree-id1077 . -1) (undo-tree-id1078 . -1) (undo-tree-id1079 . -1) (undo-tree-id1080 . -1) 29806) nil (25755 22840 668343 456000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 29913) (undo-tree-id1059 . -17) (undo-tree-id1060 . -16) (undo-tree-id1061 . 2) (undo-tree-id1062 . -17) (undo-tree-id1063 . 12) (undo-tree-id1064 . -7) (undo-tree-id1065 . -16) (undo-tree-id1066 . -16) (undo-tree-id1067 . -16) (undo-tree-id1068 . -18) 29929) nil (25755 22840 668335 424000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 29913) (undo-tree-id1050 . -32) (undo-tree-id1051 . -16) (undo-tree-id1052 . -32) (undo-tree-id1053 . -16) (undo-tree-id1054 . -16) (undo-tree-id1055 . -16) (undo-tree-id1056 . -16) (undo-tree-id1057 . -16) (undo-tree-id1058 . -33) 29929) nil (25755 22840 668327 253000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{4}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 29913) (undo-tree-id1041 . -21) (undo-tree-id1042 . -16) (undo-tree-id1043 . -21) (undo-tree-id1044 . -16) (undo-tree-id1045 . -16) (undo-tree-id1046 . -16) (undo-tree-id1047 . -16) (undo-tree-id1048 . -16) (undo-tree-id1049 . -22) 29929) nil (25755 22840 668320 548000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 29989) (undo-tree-id1029 . -15) (undo-tree-id1030 . -4) (undo-tree-id1031 . -4) (undo-tree-id1032 . -4) (undo-tree-id1033 . 12) (undo-tree-id1034 . -5) (undo-tree-id1035 . 2) (undo-tree-id1036 . -15) (undo-tree-id1037 . -4) (undo-tree-id1038 . -4) (undo-tree-id1039 . -4) (undo-tree-id1040 . -16) 29993) nil (25755 22840 668313 5000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 29989) (undo-tree-id1028 . -1)) nil (25755 22845 290613 158000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 30115) (undo-tree-id1137 . -17) (undo-tree-id1138 . -18)) nil (25755 22856 481529 812000) 0 nil] [nil nil ((29919 . 29921)) ((#("
+
+" 0 2 (fontified t)) . 29919) (undo-tree-id1127 . -2) (undo-tree-id1128 . -2) (undo-tree-id1129 . -2) (undo-tree-id1130 . -2)) (25755 22845 290528 22000) 0 nil] [nil nil ((29988 . 29989) (#("
+" 0 1 (fontified t)) . -29988) (undo-tree-id1006 . -1) (undo-tree-id1007 . -1) (undo-tree-id1008 . -1) (undo-tree-id1009 . -1) (undo-tree-id1010 . -1) (undo-tree-id1011 . -1) (undo-tree-id1012 . -1) (undo-tree-id1013 . -1) (undo-tree-id1014 . -1) (undo-tree-id1015 . -1) (undo-tree-id1016 . -1) (undo-tree-id1017 . -1) (undo-tree-id1018 . -1) (undo-tree-id1019 . -1) (undo-tree-id1020 . -1) (undo-tree-id1021 . -1) (undo-tree-id1022 . -1) (undo-tree-id1023 . -1) (undo-tree-id1024 . -1) (undo-tree-id1025 . -1) (undo-tree-id1026 . -1) (undo-tree-id1027 . -1) 29919) ((29988 . 29989) (#(" " 0 1 (fontified t)) . 29988)) (25755 22840 668297 221000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 30115) (undo-tree-id1134 . -32) (undo-tree-id1135 . -32) (undo-tree-id1136 . -33)) nil (25755 22856 481525 621000) 0 nil])
+nil
+nil
+([nil nil ((#("\\setcounter{enumi}{5}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 30115) (undo-tree-id1131 . -21) (undo-tree-id1132 . -21) (undo-tree-id1133 . -22)) nil (25755 22856 481518 497000) 0 nil])
+([nil nil ((29989 . 29993) (t 25755 22856 488220 397000)) nil (25755 22898 658009 945000) 0 nil])
+([nil nil ((#("    " 0 4 (fontified t)) . -29989)) nil (25755 22898 658007 990000) 0 nil])
+([nil nil ((29989 . 29991)) nil (25755 22898 658006 523000) 0 nil])
+([nil nil ((30053 . 30055)) nil (25755 22898 658004 637000) 0 nil])
+([nil nil ((29896 . 29898)) nil (25755 22898 658003 171000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 30207) (undo-tree-id1210 . -15) (undo-tree-id1211 . -1) (undo-tree-id1212 . -1) (undo-tree-id1213 . -1) (undo-tree-id1214 . -1) (undo-tree-id1215 . -16) 30208) nil (25755 22898 658000 726000) 0 nil])
+([nil nil ((30206 . 30207) (#("
+" 0 1 (fontified t)) . -30206) (undo-tree-id1202 . -1) (#("
+" 0 1 (fontified t)) . -30206) (undo-tree-id1203 . -1) (undo-tree-id1204 . -1) (undo-tree-id1205 . -1) (undo-tree-id1206 . -1) (undo-tree-id1207 . -1) (undo-tree-id1208 . -1) (undo-tree-id1209 . -1) 30197) nil (25755 22898 657994 580000) 0 nil])
+([nil nil ((30269 . 30271)) nil (25755 22898 657988 15000) 0 nil])
+([nil nil ((30343 . 30345)) nil (25755 22898 657986 548000) 0 nil])
+([nil nil ((30415 . 30417)) nil (25755 22898 657985 82000) 0 nil])
+([nil nil ((30481 . 30483)) nil (25755 22898 657983 196000) 0 nil])
+([nil nil ((30555 . 30557)) nil (25755 22898 657981 310000) 0 nil])
+([nil nil ((30629 . 30631)) nil (25755 22898 657979 425000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 30651) (undo-tree-id1194 . -17) (undo-tree-id1195 . -1) (undo-tree-id1196 . -1) (undo-tree-id1197 . -1) (undo-tree-id1198 . -1) (undo-tree-id1199 . -1) (undo-tree-id1200 . -1) (undo-tree-id1201 . -18) 30652) nil (25755 22898 657976 980000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 6 (face font-lock-function-name-face fontified t) 6 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 30651) (undo-tree-id1176 . -32) (undo-tree-id1177 . -1) (undo-tree-id1178 . -1) (undo-tree-id1179 . -32) (undo-tree-id1180 . -1) (undo-tree-id1181 . -1) (undo-tree-id1182 . -1) (undo-tree-id1183 . -1) (undo-tree-id1184 . -1) (undo-tree-id1185 . -1) (undo-tree-id1186 . -1) (undo-tree-id1187 . -1) (undo-tree-id1188 . -1) (undo-tree-id1189 . -1) (undo-tree-id1190 . -1) (undo-tree-id1191 . -1) (undo-tree-id1192 . -1) (undo-tree-id1193 . -33) 30652) nil (25755 22898 657832 339000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{6}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 30651) (undo-tree-id1158 . -21) (undo-tree-id1159 . -1) (undo-tree-id1160 . -1) (undo-tree-id1161 . -21) (undo-tree-id1162 . -1) (undo-tree-id1163 . -1) (undo-tree-id1164 . -1) (undo-tree-id1165 . -1) (undo-tree-id1166 . -1) (undo-tree-id1167 . -1) (undo-tree-id1168 . -1) (undo-tree-id1169 . -1) (undo-tree-id1170 . -1) (undo-tree-id1171 . -1) (undo-tree-id1172 . -1) (undo-tree-id1173 . -1) (undo-tree-id1174 . -1) (undo-tree-id1175 . -22) 30652) nil (25755 22898 657819 558000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 30741) (undo-tree-id1152 . -15) (undo-tree-id1153 . -1) (undo-tree-id1154 . -1) (undo-tree-id1155 . -1) (undo-tree-id1156 . -1) (undo-tree-id1157 . -16) 30742) nil (25755 22898 657808 942000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 30741) (undo-tree-id1151 . -1)) nil (25755 22898 657803 215000) 0 nil])
+([nil nil ((30740 . 30741) (#("
+" 0 1 (fontified t)) . -30740) (undo-tree-id1139 . -1) (undo-tree-id1140 . -1) (undo-tree-id1141 . -1) (undo-tree-id1142 . -1) (undo-tree-id1143 . -1) (undo-tree-id1144 . -1) (undo-tree-id1145 . -1) (undo-tree-id1146 . -1) (undo-tree-id1147 . -1) (undo-tree-id1148 . -1) (undo-tree-id1149 . -1) (undo-tree-id1150 . -1) 30725) nil (25755 22898 657799 444000) 0 nil])
+([nil nil ((30799 . 30803) 30814) nil (25755 22898 657783 310000) 0 nil])
+([nil nil ((#("    " 0 4 (fontified t)) . -30799) 30814) nil (25755 22898 657780 377000) 0 nil])
+([nil nil ((30799 . 30801)) nil (25755 22898 657774 580000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 30849) (undo-tree-id1254 . -17) (undo-tree-id1255 . -1) (undo-tree-id1256 . -1) (undo-tree-id1257 . -1) (undo-tree-id1258 . -1) (undo-tree-id1259 . -1) (undo-tree-id1260 . -18) 30850 (t 25755 22898 664655 623000)) nil (25755 22908 985304 110000) 0 nil])
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 2 (face font-lock-keyword-face fontified t) 2 3 (face font-lock-keyword-face fontified t) 3 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 22 (face font-lock-keyword-face fontified t) 22 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 30849) (undo-tree-id1245 . -32) (undo-tree-id1246 . -1) (undo-tree-id1247 . -32) (undo-tree-id1248 . -1) (undo-tree-id1249 . -1) (undo-tree-id1250 . -1) (undo-tree-id1251 . -1) (undo-tree-id1252 . -1) (undo-tree-id1253 . -33) 30850) nil (25755 22908 985296 847000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{7}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 30849) (undo-tree-id1236 . -21) (undo-tree-id1237 . -1) (undo-tree-id1238 . -21) (undo-tree-id1239 . -1) (undo-tree-id1240 . -1) (undo-tree-id1241 . -1) (undo-tree-id1242 . -1) (undo-tree-id1243 . -1) (undo-tree-id1244 . -22) 30850) nil (25755 22908 985289 164000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 30935) (undo-tree-id1230 . -15) (undo-tree-id1231 . -1) (undo-tree-id1232 . -1) (undo-tree-id1233 . -1) (undo-tree-id1234 . -1) (undo-tree-id1235 . -16) 30936) nil (25755 22908 985281 202000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 30935) (undo-tree-id1229 . -1)) nil (25755 22908 985276 453000) 0 nil])
+([nil nil ((30934 . 30935) (#("
+" 0 1 (fontified t)) . -30934) (undo-tree-id1217 . -1) (undo-tree-id1218 . -1) (undo-tree-id1219 . -1) (undo-tree-id1220 . -1) (undo-tree-id1221 . -1) (undo-tree-id1222 . -1) (undo-tree-id1223 . -1) (undo-tree-id1224 . -1) (undo-tree-id1225 . -1) (undo-tree-id1226 . -1) (undo-tree-id1227 . -1) (undo-tree-id1228 . -1) 30926) nil (25755 22908 985409 152000) 0 nil])
+([nil nil ((30998 . 31000)) nil (25755 22952 59428 448000) 0 nil] [nil nil ((#("
+" 0 1 (fontified t)) . -31031) (undo-tree-id1216 . -1) 30998) ((31031 . 31032)) (25755 22908 985249 704000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (fontified t latex-env-pair t) 7 16 (face font-lock-function-name-face fontified t latex-env-pair t) 16 17 (fontified t latex-env-pair t) 17 18 (fontified t)) . 31035) (undo-tree-id1374 . -17) (undo-tree-id1375 . -1) (undo-tree-id1376 . -1) (undo-tree-id1377 . -1) (undo-tree-id1378 . -1) (undo-tree-id1379 . -1) (undo-tree-id1380 . -1) (undo-tree-id1381 . -18) 31036) nil (25755 22952 59426 3000) 0 nil])
+nil
+([nil nil ((#("\\def\\labelenumi{\\arabic{enumi}.}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t) 5 15 (face font-lock-function-name-face fontified t) 15 16 (fontified t) 16 23 (face font-lock-keyword-face fontified t) 23 32 (fontified t) 32 33 (fontified t)) . 31035) (undo-tree-id1365 . -32) (undo-tree-id1366 . -1) (undo-tree-id1367 . -32) (undo-tree-id1368 . -1) (undo-tree-id1369 . -1) (undo-tree-id1370 . -1) (undo-tree-id1371 . -1) (undo-tree-id1372 . -1) (undo-tree-id1373 . -33) 31036) nil (25755 22952 59419 787000) 0 nil])
+([nil nil ((#("\\setcounter{enumi}{8}
+" 0 11 (face font-lock-keyword-face fontified t) 11 12 (fontified t) 12 17 (face font-lock-variable-name-face fontified t) 17 21 (fontified t) 21 22 (fontified t)) . 31035) (undo-tree-id1356 . -21) (undo-tree-id1357 . -1) (undo-tree-id1358 . -21) (undo-tree-id1359 . -1) (undo-tree-id1360 . -1) (undo-tree-id1361 . -1) (undo-tree-id1362 . -1) (undo-tree-id1363 . -1) (undo-tree-id1364 . -22) 31036) nil (25755 22952 59413 83000) 0 nil])
+([nil nil ((#("\\end{enumerate}
+" 0 4 (face font-lock-keyword-face fontified t) 4 5 (fontified t latex-env-pair t) 5 14 (face font-lock-function-name-face fontified t latex-env-pair t) 14 15 (fontified t latex-env-pair t) 15 16 (fontified t)) . 31123) (undo-tree-id1350 . -15) (undo-tree-id1351 . -1) (undo-tree-id1352 . -1) (undo-tree-id1353 . -1) (undo-tree-id1354 . -1) (undo-tree-id1355 . -16) 31124) nil (25755 22952 59406 29000) 0 nil])
+([nil nil ((31122 . 31123) (#("
+" 0 1 (fontified t)) . -31122) (undo-tree-id1335 . -1) (undo-tree-id1336 . -1) (#("
+" 0 1 (fontified t)) . -31122) (undo-tree-id1337 . -1) (undo-tree-id1338 . -1) (undo-tree-id1339 . -1) (undo-tree-id1340 . -1) (undo-tree-id1341 . -1) (undo-tree-id1342 . -1) (undo-tree-id1343 . -1) (undo-tree-id1344 . -1) (undo-tree-id1345 . -1) (undo-tree-id1346 . -1) (undo-tree-id1347 . -1) (undo-tree-id1348 . -1) (undo-tree-id1349 . -1) 31111) nil (25755 22952 59399 883000) 0 nil])
+([nil nil ((#("-" 0 1 (fontified t)) . 31121) (undo-tree-id1313 . -1) (undo-tree-id1314 . -1) (undo-tree-id1315 . -1) (undo-tree-id1316 . -1) (undo-tree-id1317 . -1) (undo-tree-id1318 . -1) (undo-tree-id1319 . -1) (undo-tree-id1320 . -1) (undo-tree-id1321 . -1) (undo-tree-id1322 . -1) (undo-tree-id1323 . -1) (undo-tree-id1324 . -1) (undo-tree-id1325 . -1) (undo-tree-id1326 . -1) (undo-tree-id1327 . -1) (undo-tree-id1328 . -1) (undo-tree-id1329 . -1) (undo-tree-id1330 . -1) (undo-tree-id1331 . -1) (undo-tree-id1332 . -1) (undo-tree-id1333 . -1) (undo-tree-id1334 . -1)) nil (25755 22952 59389 686000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 31121) (undo-tree-id1311 . -1) (undo-tree-id1312 . -1)) nil (25755 22952 59376 975000) 0 nil])
+([nil nil ((31181 . 31183)) nil (25755 22952 59374 530000) 0 nil])
+([nil nil ((31255 . 31257)) nil (25755 22952 59372 645000) 0 nil])
+([nil nil ((31284 . 31817) (#("10. Галиев С.Ж. Состояние и перспективные направления декарбонизации и
+повышения энергоэффективности горнодобывающих и горно-металлургических
+отраслей промышленности Казахстана/ Отраслевой журнал
+«Горно-металлургическая промыш-ленность».- Астана. - 2021.- № 9-10 (146)
+- С.43-49.
+
+11. Галиев С.Ж. Технологическая модернизация и промышленная политика в
+период модернизации Казахстана 3.0/ Журнал Казахского университета
+технологии и бизнеса «Вестник КазУТБ».- Астана, 2022.- № 3 (16) -
+С.65-75.
+" 0 4 (fontified t) 4 45 (fontified t) 45 67 (fontified t) 67 68 (fontified t) 68 71 (fontified t) 71 73 (fontified t) 73 74 (fontified t) 74 142 (fontified t) 142 170 (fontified t) 170 196 (fontified t) 196 197 (face font-lock-keyword-face fontified t) 197 233 (face font-lock-string-face fontified t) 233 235 (face font-lock-string-face fontified t) 235 236 (face font-lock-keyword-face fontified t) 236 269 (fontified t) 269 303 (fontified t) 303 352 (fontified t) 352 373 (fontified t) 373 419 (fontified t) 419 437 (fontified t) 437 440 (fontified t) 440 441 (face font-lock-keyword-face fontified t) 441 455 (face font-lock-string-face fontified t) 455 456 (face font-lock-keyword-face fontified t) 456 485 (fontified t) 485 494 (fontified t)) . -31284) (undo-tree-id1295 . -1) (undo-tree-id1296 . -486) (undo-tree-id1297 . -486) (undo-tree-id1298 . -486) (undo-tree-id1299 . -143) (undo-tree-id1300 . -1) (undo-tree-id1301 . -494) (undo-tree-id1302 . -1) (undo-tree-id1303 . -486) (undo-tree-id1304 . -1) (undo-tree-id1305 . -1) (undo-tree-id1306 . -485) (undo-tree-id1307 . -486) (undo-tree-id1308 . -486) (undo-tree-id1309 . -486) (undo-tree-id1310 . -494) 31778) nil (25755 22952 59370 270000) 0 nil])
+([nil nil ((#("\\begin{enumerate}
+" 0 6 (face font-lock-keyword-face fontified t) 6 7 (latex-env-pair t fontified t) 7 16 (face font-lock-function-name-face latex-env-pair t fontified t) 16 17 (latex-env-pair t fontified t) 17 18 (fontified t)) . 31285) (undo-tree-id1292 . -17) (undo-tree-id1293 . 18) (undo-tree-id1294 . -18)) nil (25755 22952 59359 724000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 31283) (undo-tree-id1274 . -1) (undo-tree-id1275 . -1) (undo-tree-id1276 . -1) (undo-tree-id1277 . -1) (undo-tree-id1278 . -1) (undo-tree-id1279 . -1) (undo-tree-id1280 . -1) (undo-tree-id1281 . -1) (undo-tree-id1282 . -1) (undo-tree-id1283 . -1) (undo-tree-id1284 . -1) (undo-tree-id1285 . -1) (undo-tree-id1286 . -1) (undo-tree-id1287 . -1) (undo-tree-id1288 . -1) (undo-tree-id1289 . -1) (undo-tree-id1290 . -1) (undo-tree-id1291 . -1)) nil (25755 22952 59354 905000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -31249) (undo-tree-id1267 . -1) (undo-tree-id1268 . -1) (#("  " 0 2 (fontified t)) . -31177) (undo-tree-id1269 . -1) (undo-tree-id1270 . -1) (undo-tree-id1271 . -1) (undo-tree-id1272 . -1) (#("  " 0 2 (fontified t)) . -31109) (#("  " 0 2 (fontified t)) . -31041) (undo-tree-id1273 . -1)) nil (25755 22952 59342 683000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -30994) (undo-tree-id1261 . -1) (undo-tree-id1262 . -1) (undo-tree-id1263 . -1) (undo-tree-id1264 . -1) (undo-tree-id1265 . -1) (undo-tree-id1266 . -1) (#("  " 0 2 (fontified t)) . -30924) (#("  " 0 2 (fontified t)) . -30855) 31034) nil (25755 22952 59335 140000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -30795) (#("  " 0 2 (fontified t)) . -30723) (#("  " 0 2 (fontified t)) . -30657) 30848) nil (25755 22952 59322 289000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -30337) (#("  " 0 2 (fontified t)) . -30265) (#("  " 0 2 (fontified t)) . -30195) (#("  " 0 2 (fontified t)) . -30127) 30343) nil (25755 22952 59319 425000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -30615) (#("  " 0 2 (fontified t)) . -30543) (#("  " 0 2 (fontified t)) . -30471) (#("  " 0 2 (fontified t)) . -30407) 30621) nil (25755 22952 59317 51000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -30051) (#("  " 0 2 (fontified t)) . -29989) (#("  " 0 2 (fontified t)) . -29921) 30120) nil (25755 22952 59314 257000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -29892) (#("  " 0 2 (fontified t)) . -29804) (#("  " 0 2 (fontified t)) . -29736) 29914) nil (25755 22952 59311 883000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -29694) (#("  " 0 2 (fontified t)) . -29632) 29730) nil (25755 22952 59308 600000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -29597) (#("  " 0 2 (fontified t)) . -29534) 29626) nil (25755 22952 59305 806000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -29446) (#("  " 0 2 (fontified t)) . -29376) 29528) nil (25755 22952 59299 171000) 0 nil])
+([nil nil ((31763 . 34575) (#("1. Strategies for achieving carbon neutrality of the Republic of
+Kazakhstan until 2060/Decree of the President of the Republic of
+Kazakhstan dated February 2.- 2023.- № 121.
+
+2.The Law of the Republic of Kazakhstan dated December 27.- 2021 No.
+86-VII -\"On Industrial Policy\".
+
+3. Mеtt Ridley Evolution of Everything. Translated into Russian by T.P.
+Mosolova-Publishing House \"E\". - 2017.- 390 p.
+
+4. Travin D. T65 European modernization: In 2 books. Book 1. D.Travin.
+O. Marganiya. - M.: LLC \"AST Publishing House\"; St. Petersburg: Tegga
+Fantastica.- 2004. - 665, {[}7{]} p. - (Philosophy).
+
+5. Decarbonization of extractive industries of the economy of the
+Republic of Kazakhstan// Monograph/Ed. Academician of the National
+Academy of Sciences of the Republic of Kazakhstan, Doctor of Medical
+Sciences S.Zh. Daukey. - Nursultan: Bi-PRINT.- 2021.- 295 p. ISBN
+978-601-358-000-5.
+
+6. Galiyev S.Zh. Uteshov E.T. Galiyev D.A. Tsifrovyye tekhnologii
+povysheniya energoeffektivnosti gornykh predpriyatiy// Tsifrovizatsiya v
+energetike: monografiya/ Yu.S. Valeyeva. R.S. Zaripova. K.A. Saryyev.
+N.A. Allanazarov. A.A. Matiakubov i dr.; pod nauch. red. I.G.
+Akhmetovoy. R.S. Zaripovoy. Yu.S. Valeyevoy. -- Kazan: Federalnoye
+gosudarstvennoye byudzhetnoye obrazovatelnoye uchrezhdeniye vysshego
+obrazovaniya Kazan. gos. energ. un-t Ministerstva nauki i vysshego
+obrazovaniya RF.- 2022. - S.153--160.- ISBN 978-5-89873-621-7.
+
+7. Otchet o provedenii kompleksnogo energoaudita effektivnosti raboty
+gornotransportnykh kompleksov razrezov «Tsentralnyy» i «Zapadnyy» AO
+«Shubarkol-komir». -- Karaganda. -2020.- 72 s.
+
+8. Otchet o provedenii kompleksa issledovaniy i
+tekhniko-tekhnologicheskogo audita effektivnosti raboty
+geotekhnologicheskogo kompleksa karyera TOO «Brendt». - Zhitikara.
+2021.- 91s.
+
+8. Otchyot o provedenii kompleksa issledovanij i
+tehniko-tehnologicheskogo audita effektivnosti raboty
+geotehnologicheskogo kompleksa karera TOO «Brendt», g. Zhitikara. -
+2021.- 91s.
+
+9. Provedeniye kompleksa issledovaniy i tekhniko-tekhnologicheskogo
+audita effektivnosti raboty geotekhnologicheskogo kompleksa karyera TOO
+«GOK «Saryarka-Komіr»/Otchet o provedenii nauchno-issledovatelskoy
+raboty. -- Karaganda.- 2023. -107 s.
+
+10. Galiyev S.Zh. Sostoyaniye i perspektivnyye napravleniya
+dekarbonizatsii i povysheniya energoeffektivnosti gornodobyvayushchikh i
+gorno-metallurgicheskikh otrasley promyshlennosti Kazakhstana/
+Otraslevoy zhurnal «Gorno-metallurgicheskaya promyshlennost».- Astana.-
+2021.- № 9-10 (146)- S.43-49.
+
+11. Galiyev S.Zh. Tekhnologicheskaya modernizatsiya i promyshlennaya
+politika v period modernizatsii Kazakhstana 3.0/ Zhurnal Kazakhskogo
+universiteta tekhnologii i biznesa «Vestnik KazUTB».- Astana. - 2022.- №
+3 (16) - S.65-75.
+" 0 62 (fontified t) 62 65 (fontified t) 65 83 (fontified t) 83 130 (fontified t) 130 134 (fontified t) 134 135 (fontified t) 135 163 (fontified t) 163 174 (fontified t) 174 263 (fontified t) 263 276 (fontified t) 276 321 (fontified t) 321 322 (fontified t) 322 349 (fontified t) 349 369 (fontified t) 369 396 (fontified t) 396 420 (fontified t) 420 449 (fontified t) 449 468 (fontified t) 468 545 (fontified t) 545 591 (fontified t) 591 608 (fontified t) 608 609 (fontified t) 609 643 (fontified t) 643 644 (fontified t) 644 658 (fontified t) 658 694 (fontified t) 694 719 (fontified t) 719 723 (fontified t) 723 725 (fontified t) 725 794 (fontified t) 794 821 (fontified t) 821 822 (fontified t) 822 860 (fontified t) 860 882 (fontified t) 882 946 (fontified t) 946 952 (fontified t) 952 960 (fontified t) 960 961 (fontified t) 961 967 (fontified t) 967 980 (fontified t) 980 1019 (fontified t) 1019 1476 (fontified t) 1476 1488 (fontified t) 1488 1527 (fontified t) 1527 1528 (face font-lock-keyword-face fontified t) 1528 1539 (face font-lock-string-face fontified t) 1539 1540 (face font-lock-keyword-face fontified t) 1540 1543 (fontified t) 1543 1544 (face font-lock-keyword-face fontified t) 1544 1552 (face font-lock-string-face fontified t) 1552 1553 (face font-lock-keyword-face fontified t) 1553 1557 (fontified t) 1557 1558 (face font-lock-keyword-face fontified t) 1558 1573 (face font-lock-string-face fontified t) 1573 1574 (face font-lock-keyword-face fontified t) 1574 1753 (fontified t) 1753 1754 (face font-lock-keyword-face fontified t) 1754 1760 (face font-lock-string-face fontified t) 1760 1761 (face font-lock-keyword-face fontified t) 1761 1934 (fontified t) 1934 1935 (face font-lock-keyword-face fontified t) 1935 1941 (face font-lock-string-face fontified t) 1941 1942 (face font-lock-keyword-face fontified t) 1942 2113 (fontified t) 2113 2114 (face font-lock-keyword-face fontified t) 2114 2133 (face font-lock-string-face fontified t) 2133 2134 (face font-lock-keyword-face fontified t) 2134 2294 (fontified t) 2294 2351 (fontified t) 2351 2433 (fontified t) 2433 2434 (face font-lock-keyword-face fontified t) 2434 2473 (face font-lock-string-face fontified t) 2473 2474 (face font-lock-keyword-face fontified t) 2474 2690 (fontified t) 2690 2691 (face font-lock-keyword-face fontified t) 2691 2705 (face font-lock-string-face fontified t) 2705 2706 (face font-lock-keyword-face fontified t) 2706 2746 (fontified t)) . 31763) (undo-tree-id1382 . -2746) (undo-tree-id1383 . -2728) (undo-tree-id1384 . -591) (undo-tree-id1385 . -1788) (undo-tree-id1386 . -2746) (undo-tree-id1387 . -2728) (undo-tree-id1388 . -2728) (undo-tree-id1389 . -2728) (undo-tree-id1390 . -591) (t 25755 22952 67695 910000)) nil (25755 22981 593447 34000) 0 nil])
+([nil nil ((#("2" 0 1 (fontified t)) . 31960) (undo-tree-id1403 . -1) (undo-tree-id1404 . -1) (t 25755 22981 600867 182000)) nil (25755 22997 5240 435000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t)) . 31960) (undo-tree-id1401 . -1) (undo-tree-id1402 . -1)) nil (25755 22997 5235 756000) 0 nil])
+([nil nil ((31961 . 31965) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -31961) (undo-tree-id1391 . -1) (31960 . 31962) (31959 . 31960) (#("o" 0 1 (fontified t)) . -31959) (undo-tree-id1392 . -1) (undo-tree-id1393 . -1) (undo-tree-id1394 . -1) (undo-tree-id1395 . -1) (undo-tree-id1396 . -1) (undo-tree-id1397 . -1) (undo-tree-id1398 . -1) (undo-tree-id1399 . -1) (undo-tree-id1400 . -1) 31960 (31959 . 31960)) nil (25755 22997 5229 610000) 0 nil])
+([nil nil ((34621 . 35639) (#("Галиев Сейтгали Жолдасович - д.т.н., профессор, член-корреспондент НАН
+РК, заведующий отделом горной системологии, филиал РГП «НЦ КПМС МИИР РК
+Институт горного дела им. Д.А.Кунаева, г. Алматы, Казахстан, e-mail:
+\\href{mailto:seitgaligaliyev@mail.ru}{\\nolinkurl{seitgaligaliyev@mail.ru}}
+
+Утешов Ержан Турсынович -- доктор (Ph.D), заместитель директора по
+проектным работам, филиал РГП «НЦ КПМС МИИР РК Институт горного дела им.
+Д.А.Кунаева,
+
+г. Алматы, Казахстан, e-mail:
+\\href{mailto:yuteshov@gmail.com}{\\nolinkurl{yuteshov@gmail.com}}
+
+Галиев Данияр Айткалиевич - доктор (Ph.D), заведующий лабораторией
+Автоматизации отдела горной системологии, филиал РГП «НЦ КПМС МИИР РК
+Институт горного дела им. Д.А.Кунаева, г. Алматы, Казахстан, e-mail:
+danijr.3012986@mail.ru
+
+Бексапин Жаслан Сержанович - инженер программист-исследователь, ТОО
+«Qazakstan smart technology», г. Алматы, Казахстан, e-mail:
+\\href{mailto:beksapin@mail.ru}{\\nolinkurl{beksapin@mail.ru}}
+" 0 126 (fontified t) 126 127 (face font-lock-keyword-face fontified t) 127 212 (fontified t) 212 217 (face font-lock-keyword-face fontified t) 217 250 (fontified t) 250 260 (face font-lock-keyword-face fontified t) 260 261 (fontified t) 261 284 (face tex-verbatim fontified t) 284 395 (fontified t) 395 428 (fontified t) 428 472 (fontified t) 472 477 (face font-lock-keyword-face fontified t) 477 505 (fontified t) 505 515 (face font-lock-keyword-face fontified t) 515 516 (fontified t) 516 534 (face tex-verbatim fontified t) 534 658 (fontified t) 658 659 (fontified t) 659 863 (fontified t) 863 864 (face font-lock-keyword-face fontified t) 864 896 (fontified t) 896 901 (face font-lock-keyword-face fontified t) 901 927 (fontified t) 927 937 (face font-lock-keyword-face fontified t) 937 938 (fontified t) 938 954 (face tex-verbatim fontified t) 954 957 (fontified t)) . -34621) (undo-tree-id1416 . -4) (undo-tree-id1417 . -900) (undo-tree-id1418 . -840) (undo-tree-id1419 . -900) (undo-tree-id1420 . -679) (undo-tree-id1421 . -679) (undo-tree-id1422 . -679) (undo-tree-id1423 . -679) (undo-tree-id1424 . -679) (undo-tree-id1425 . -679) (undo-tree-id1426 . -609) (undo-tree-id1427 . -957) (undo-tree-id1428 . -4) (undo-tree-id1429 . -900) (undo-tree-id1430 . -4) (undo-tree-id1431 . -4) (undo-tree-id1432 . -896) (undo-tree-id1433 . -957) 35578 (t 25755 22997 14115 935000)) nil (25755 23011 594207 389000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 34621) (undo-tree-id1413 . -1) (undo-tree-id1414 . -1) (undo-tree-id1415 . -1)) nil (25755 23011 594196 145000) 0 nil])
+([nil nil ((35685 . 36806) (#("Galiev Seitgali Zholdasovich - Doctor of Technical Sciences, Professor,
+Corresponding Member of the National Academy of Sciences of the Republic
+of Kazakhstan, head of the Mining Systemology Department, branch of RSE
+\"NC KPMS MIIR RK Institute of Mining named after D.A. Kunaev, Almaty,
+Kazakhstan, e-mail:
+\\href{mailto:seitgaligaliyev@mail.ru}{\\nolinkurl{seitgaligaliyev@mail.ru}}
+
+Uteshov Yerzhan Tursynovich -- doctor (Ph.D), deputy Director for
+Project Work, branch of RSE \"NC KPMS MIIR RK Institute of Mining named
+after D.A. Kunaev, Almaty, Kazakhstan, e-mail:
+\\href{mailto:yuteshov@gmail.com}{\\nolinkurl{yuteshov@gmail.com}}
+
+Galiev Daniyar Aitkalievich - doctor (Ph.D), head of the Automation
+Laboratory of the Mining Systemology Department, branch of RSE \"NC KPMS
+MIIR RK Institute of Mining named after D.A. Kunaev, Almaty, Kazakhstan,
+e-mail:
+\\href{mailto:danijr.3012986@mail.ru}{\\nolinkurl{danijr.3012986@mail.ru}}
+
+Beksapin Jaslan Serzhanovich - software engineer-researcher, Qazakstan
+smart technology LLP, Almaty, Kazakhstan, e-mail: beksapin@mail.ru
+" 0 59 (fontified t) 59 72 (fontified t) 72 307 (fontified t) 307 312 (face font-lock-keyword-face fontified t) 312 345 (fontified t) 345 355 (face font-lock-keyword-face fontified t) 355 356 (fontified t) 356 379 (face tex-verbatim fontified t) 379 567 (fontified t) 567 572 (face font-lock-keyword-face fontified t) 572 600 (fontified t) 600 610 (face font-lock-keyword-face fontified t) 610 611 (fontified t) 611 629 (face tex-verbatim fontified t) 629 854 (fontified t) 854 859 (face font-lock-keyword-face fontified t) 859 891 (fontified t) 891 892 (face font-lock-keyword-face fontified t) 892 901 (fontified t face font-lock-keyword-face) 901 902 (fontified t) 902 924 (fontified t face tex-verbatim) 924 927 (fontified t) 927 1066 (fontified t)) . -35685) (undo-tree-id1406 . -999) (undo-tree-id1407 . -999) (undo-tree-id1408 . -217) (undo-tree-id1409 . -1066) (undo-tree-id1410 . -999) (undo-tree-id1411 . -999) (undo-tree-id1412 . -1066) 36751) nil (25755 23011 594191 326000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 35685) (undo-tree-id1405 . -1)) nil (25755 23011 594180 710000) 0 nil])
+([nil nil ((#("\\item
+Otchyot o provedenii kompleksa issledovanij i
+tehniko-tehnologicheskogo audita effektivnosti raboty
+geotehnologicheskogo kompleksa karera TOO «Brendt», g. Zhitikara. -
+2021.- 91s.
+" 0 5 (face font-lock-keyword-face fontified t) 5 6 (fontified t) 6 148 (fontified t) 148 149 (face font-lock-keyword-face fontified t) 149 155 (face font-lock-string-face fontified t) 155 156 (face font-lock-keyword-face fontified t) 156 186 (fontified t)) . 33596) (undo-tree-id1436 . -185) (undo-tree-id1437 . -174) (undo-tree-id1438 . -174) (undo-tree-id1439 . -174) (undo-tree-id1440 . -186) (undo-tree-id1441 . -174) (undo-tree-id1442 . -174) (undo-tree-id1443 . -174) (undo-tree-id1444 . -186) 33770 (t 25755 23011 600702 559000)) nil (25755 23134 557726 67000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 33596) (undo-tree-id1434 . 1) (undo-tree-id1435 . -1)) nil (25755 23134 557714 753000) 0 nil])
+([nil nil ((12 . 19951) (#("Производственные и обрабатывающие отрасли}
+
+{\\bfseries МРНТИ: 52.13.17; 20.51.23; 87.15.15; 44.01.75}
+
+\\section{НАПРАВЛЕНИЯ ПОВЫШЕНИЯ ЭНЕРГОЭФФЕКТИВНОСТИ НА ОТКРЫТЫХ
+РАЗРАБОТКАХ МЕСТОРОЖДЕНИЙ ПОЛЕЗНЫХ ИСКОПАЕМЫХ}
+
+\\begin{center}
+{\\bfseries С.Ж. Галиев\\textsuperscript{1*}, Е.Т.Утешов\\textsuperscript{1*},
+Д.А. Галиев\\textsuperscript{1}, Ж.С. Бексапин \\textsuperscript{2}}
+
+Институт горного дела им. Д.А.Кунаева РГП «НЦ КПМС» МИИР РК, г. Алматы,
+Казахстан,
+
+ТОО «Qazakstan smart technology», г. Алматы, Казахстан,
+
+email: seitgaligaliyev@mail.ru
+\\end{center}
+
+Статья посвящена актуальной теме, в которой сочетаются проблемные
+вопросы энергоэффективности и низкоуглеродного развития горного
+производства. В ней раскрываются подходы и методические аспекты анализа
+и оценки энергоэффективности горных предприятий с открытым способом
+освоения месторождений твёрдых полезных ископаемых. В основе методологии
+лежит процессный подход, базирующийся на процессах цифровизации,
+развития информационных технологий и соответствующего
+программно-методического обеспечения с применением эффективного для
+решения данного рода задач метода имитационного моделирования. В статье
+раскрываются результаты проведения комплексных технико-технологических и
+энерго- аудитов, позволяющих выявлять реальный потенциал повышения
+энергоэффективности и направления его реализации с последующей
+выработкой комплекса конкретных мер в данном направлении. Одними из
+основных выводов является вывод о наличии существенно потенциала
+повышения энергоэффективности (10-15\\%) и обоснование необходимости
+формирования на горных предприятиях автоматизированных систем энерго- и
+экологического мониторинга, позволяющих, с одной стороны, своевременно и
+целенаправленно вырабатывать оперативные управленческие меры, а с
+другой, повысить эффективность реализации принципа экологичности и
+безопасности в процессе технологической модернизации горных производств.
+
+{\\bfseries Ключевые слова:} Открытые горные работы, геотехнологический
+комплекс,
+
+экологические выбросы, энергоэффективность, энергосбережение, экономика,
+оптимизация, автоматизация.
+
+\\begin{center}
+{\\large\\bfseries ПАЙДАЛЫ ҚАЗБАЛАР КЕН ОРЫНДАРЫН АШЫҚ ИГЕРУДЕГІ ЭНЕРГИЯ
+ТИІМДІЛІГІН АРТТЫРАУ БАҒЫТТАРЫ}
+
+{\\bfseries С.Ж. Ғалиев\\textsuperscript{1*}, Е.Т. Өтешов\\textsuperscript{1},
+Д.А. Ғалиев\\textsuperscript{1}, Ж. С. Бексапин\\textsuperscript{2}}
+
+Д. А. Қонаев атындағы Тау-кен институты. Д. А. Қонаева ҚР ИИДМ
+
+\"КПМС ҰО\" РМК, Алматы қ., Қазақстан, \"Qazakstan smart technology\" ЖШС,
+Алматы қ., Қазақстан,
+е-mail:~\\href{https://e.mail.ru/compose/?mailto=mailto\\%3aseitgaligaliyev@mail.ru}{seitgaligaliyev@mail.ru}~
+\\end{center}
+
+Мақала энергия тиімділігі мен тау-кен өндірісінің төмен көміртекті
+дамуының проблемалық мәселелерін біріктіретін өзекті тақырыпқа арналған.
+Онда қатты пайдалы қазбалар кен орындарын игерудің ашық тәсілімен
+тау-кен кәсіпорындарының энергия тиімділігін талдау мен бағалаудың
+тәсілдері мен әдістемелік аспектілері ашылады. Әдістеме цифрландыру,
+ақпараттық технологияларды дамыту және осы типтегі міндеттерді шешуде
+тиімді модельдеу әдісін қолдана отырып, тиісті бағдарламалық-әдістемелік
+қамтамасыз ету процестеріне негізделген процестік тәсілге негізделген.
+Мақалада энергия тиімділігін арттырудың нақты әлеуетін және оны іске
+асыру бағытын анықтауға мүмкіндік беретін кешенді
+техникалық-технологиялық және энергетикалық аудиттерді жүргізу
+нәтижелері, содан кейін осы бағытта нақты шаралар кешені әзірленеді.
+Негізгі тұжырымдардың бірі-энергия тиімділігін арттырудың айтарлықтай
+әлеуетінің болуы туралы қорытынды (10-15\\%) және негіздеме.
+
+{\\bfseries Түйінді сөздер:} Ашық тау-кен жұмыстары, геотехнологиялық кешен,
+экологиялық шығарындылар, энергия тиімділігі, энергия үнемдеу,
+экономика, оңтайландыру, автоматтандыру.
+
+\\begin{center}
+{\\large\\bfseries DIRECTIONS OF ENERGY EFFICIENCY IMPROVEMENT IN OPEN PIT MINING
+OF MINERAL DEPOSITS}
+
+{\\bfseries S.Zh. Galiev\\textsuperscript{1*}, E.T.
+Uteshov\\textsuperscript{1}, D.A. Galiev\\textsuperscript{1},Zh.S
+Beksapin\\textsuperscript{2}}
+
+Mining Institute after D.A. Kunayev of RSE \"NC KPMC\" MIIR RK, Almaty,
+Kazakhstan, Almaty, Kazakhstan, Qazakstan smart technology\" LLP, Almaty,
+Kazakhstan,
+
+е-mail:~\\href{https://e.mail.ru/compose/?mailto=mailto\\%3aseitgaligaliyev@mail.ru}{seitgaligaliyev@mail.ru}~
+\\end{center}
+
+The article is devoted to the actual topic, which combines the
+problematic issues of energy efficiency and low-carbon development of
+mining production. It reveals the approaches and methodological aspects
+of the analysis and assessment of energy efficiency of mining
+enterprises with the open-pit method of development of deposits of solid
+minerals. The methodology is based on the process approach based on the
+processes of digitalization, development of information technologies and
+corresponding software and methodological support with the use of
+simulation modeling method effective for solving this kind of problems.
+The article reveals the results of comprehensive technical and
+technological and energy audits, which allow to identify the real
+potential of energy efficiency and areas of its implementation with the
+subsequent development of a set of specific measures in this direction.
+One of the main conclusions is the conclusion that there is a
+significant potential to increase energy efficiency (10-15\\%) and the
+rationale for the need to form automated energy and environmental
+monitoring systems at mining enterprises, allowing, on the one hand,
+timely and targeted development of operational management measures, and
+on the other hand, to improve the effectiveness of the principle of
+environmental and safety in the process of technological modernization
+of mining production.
+
+{\\bfseries Keywords:} open-pit mining, geotechnological complex,
+environmental emissions, energy efficiency, energy conservation,
+economy, optimization, automation.
+
+\\begin{multicols}{2}
+{\\bfseries Введение.} Вопросы энергоэффективности традиционно имеют высокую
+актуальность, которая в последние десятилетия усиливается проблемами
+экологии и глобального потепления. Эти вопросы становятся центральной
+темой ежегодных глобальных форумов, проходящих с участием
+правительственных делегаций стран мира. Казахстан в этом плане
+присоединился к международным инициативам приняв Указом Президента
+Республики Казахстан от 2 февраля 2023 года за № 121 Стратегию
+достижения углеродной нейтральности Республики Казахстан до 2060 года.
+Для Казахстана проблема энергоэффективности актуальна и в связи с тем,
+что основным источником энергии в стране является уголь. Практически всё
+промышленное производство страны подпадает под экологические санкции,
+выдвигаемые международным сообществом, и проблема снижения экологических
+выбросов жёстко коррелирует с задачами повышения энергоэффективности.
+Особенно жёстко данный вопрос стоит перед горнодобывающей отраслью
+экономики, являющейся одной из самых энергозатратных, а также и одним из
+крупнейших загрязнителей окружающей среды.
+
+По результатам ряда проведённых исследований, очевиден существенный
+потенциал повышения энергоэффективности, реализация которого сопряжена
+со снижением себестоимости горнотранспортных работ в среднем на 10-15\\%.
+Для Казахстана это принципиально важно не только по экономическим
+аспектам, но также в связи с повышением рентабельности освоения
+отечественной минерально-сырьевой базы и выполнением принятых
+международных обязательств о снижении выбросов к 2030 г. на 15\\%
+относительно уровня выбросов 1990 г. (безусловная цель) и доведение
+сокращения на 25 \\% при условии получения международной поддержки на
+декарбонизацию экономики (условная цель) {[}1{]}.
+
+Для Казахстана достижение углеродной нейтральности является достаточно
+амбициозной задачей, которую планируется достичь через реализацию
+инициатив по трем ключевым направлениям, одно из которых -
+декарбонизация отраслей и процессов, связанных с ископаемым топливом
+{[}2{]}. При этом, выбросы парниковые газы, связанные с ископаемым
+топливом, будут сокращены посредством перехода от использования
+ископаемого топлива и его производных к альтернативным и возобновляемым
+источникам энергии, путём повышения энергоэффективности и
+энергосбережения, взятием курса на дальнейшую электрификацию (замещения
+установок, сжигающих топливо, на технологии, работающие на основе
+электроэнергии).
+
+\\emph{Потенциал повышения энергоэффективности и достижения углеродной
+нейтральности в горнодобывающей отрасли Казахстана:}
+
+По данным казахстанской статистики на современном этапе 86,6\\% выбросов
+в РК приходится на промышленность, в т.ч. на горнодобывающую - 53,45\\%
+(11, 2 млн. тонн в год). Энергоемкость продукции ГМК превышает
+аналогичный показатель ОЭСР более чем в 2 раза. Наибольшие выбросы и
+расход топлива приходятся на автотранспорт. В общем объеме
+производственных затрат ГМК, расходы на дизельное топливо и
+электроэнергию составляют около 50\\%.
+
+Если проанализировать возможные направления повышения
+энергоэффективности и снижения углеродоёмкости горного производства, то
+их можно сформулировать следующим образом:
+
+- за счёт оптимизации производственных и технологических процессов --
+потенциал до 15\\% с достижением экономических эффектов в виде снижения
+себестоимости горнотранспортных работ до 10-15\\%/год при попутном
+повышении технологической культуры;
+
+- перевод автотранспорта на газодизельные двигатели -- снижение до
+25-30\\% экологических выбросов, сопровождающееся аналогичным где-то
+снижением себестоимости горнотранспортных работ;
+
+- адаптация транспортной инфраструктуры и структуры энергосетей со
+структурой минерально-сырьевой базы Республики Казахстан -- потенциал
+снижения объёмов выбросов СО2 и снижения себестоимости около 5-10\\%;
+
+- разработка технологий снижения (декарбонизация) выбросов загрязняющих
+веществ (УХУ: улавливание до 90\\%, хранение и утилизация -- до 100\\%);
+
+- совершенствование технологий в рамках процесса технологической
+модернизации -- долгосрочная перспектива с потенциалом до 100\\%
+(экскаваторно-конвейерные комплексы, скиповые подъёмники и др.);
+
+- освоение технологий подземного скважинного выщелачивания (ПСВ) для
+освоения месторождений руд цветных и чёрных металлов -- до 100\\%;
+
+- комплексное освоение минерально-сырьевой базы Казахстана -- помимо
+значительного снижения углеродоёмкости, снижение затрат на извлечение
+сокращается в разы;
+
+- перевод системы энергообеспечения ГМК РК на альтернативные и
+возобновляемые источники (водород, солнечная и ветряная энергия, водные
+электростанции, урановое производство и атомные электростанции) -- до
+100\\% снижение углеродоёмкости;
+
+- разработка нанотехнологий освоения месторождений полезных ископаемых
+-- касается практически всей минерально-сырьевой базы -- потенциал до
+100\\%.
+
+В приведенном перечне, первые два направления могут быть
+первоочередными, так как не требуют каких-либо особых дополнительных
+вливаний. Тут достаточно поддержки развития программно-методического
+обеспечения на основе пооперационной цифровизации и углубленной
+аналитики в рамках широко применяемых сегодня инструментов
+финансирования науки. С этой целью необходимо привлечение таких
+инструментов инновационно-индустриального развития и стимулирования
+технологической модернизации, как проведение комплексных
+технико-технологических аудитов и совершенствование энергоаудитов, что
+позволит своевременно и точно определять имеющийся потенциал,
+направления и меры по его своевременной реализации.
+
+{\\bfseries Материалы и методы - методология оценки энергоэффективности.}
+Комплексный технико-технологический аудит проектных решений по
+формированию, а также эксплуатируемых геотехнологических комплексов
+осуществляется на основе системного подхода, при котором одним из
+ключевых факторов является адекватный учёт процессности в управлении
+горнотранспортными работами. В свою очередь, этот подход основывается и
+реализуется в рамках теории и методологии модернизации, индустриализации
+и технологической модернизации {[}3-4{]}.
+
+Рассматриваемый подход предполагает использование наиболее эффективного
+на данном направлении метода имитационного логико-статистического
+моделирования, обеспечивающего достоверное воспроизведение порядка и
+последовательности основных технологических и
+организационно-экономических операций в конкретных горнотехнических,
+горно-геологических, горно-геометрических, организационных и
+экономических условиях. В настоящее время данные подход и метод уже боле
+40 лет широко применяются для технико-экономического анализа
+эффективности функционирования геотехнологических комплексов на открытых
+разработках с использованием цикличных технологий с автомобильным,
+железнодорожным и комбинированным автомобильно-железнодорожным видами
+транспорта горной массы.
+
+Основной целью комплексного технико-технологического аудита является
+оценка эффективности, включая энергоэффективность, функционирования
+геотехнологического комплекса, выявление имеющегося потенциала,
+направлений и установления мер по его реализации.
+
+В случае рассмотрения геотехнологического комплекса с применением
+автотранспорта, основными элементами его, как системы, являются
+карьерная автотрасса, экскаваторный и автомобильный парки, геометрия
+карьерного пространства, принятые на предприятии организационные меры и
+нормативы. По автотрассе адекватно учитываются её структура со всеми
+технологическими особенностями и фактического расположения блок-участков
+в карьерном пространстве, их геометрия (уклон, протяжённость,
+криволинейность) и качество применяемого дорожного покрытия, а также
+затраты на их формирование и поддержание в рабочем состоянии. По
+экскаваторному и автомобильному парку достоверному учёту подлежат
+основные паспортные технико-технологические характеристики (ёмкость
+кузова и ковша, КПД трансмиссии и двигателей, их мощностные
+характеристики, сроки эксплуатации и принятые нормативы по
+эксплуатации), модели и число работающего и списочного парков, а также
+их стоимостные характеристики (остаточная стоимость, цены, нормы
+амортизации). Параметры принципиальных характеристик карьерного
+пространства учитываются благодаря использованию графических документов,
+полученных с использованием специализированной программы AutoCAD.
+
+Одним из важнейших направлений комплексного технико-технологического
+аудита является оценка его энергоэффективности. Энергоёмкость основных
+технологических процессов при освоении месторождений твёрдых полезных
+ископаемых открытым способом и с применением цикличных технологий добычи
+занимает в среднем 60-70 \\% в общей себестоимости горнотранспортных
+работ. При заданных технологиях освоения месторождений, когда определены
+направления и порядок ведения добычных и вскрышных работ, основные
+направления поиска потенциала снижения энергоёмкости технологических
+связаны с соответствующим выбором моделей основного горного и
+транспортного оборудования, режимом и условиями их эксплуатации
+{[}5-11{]}.
+
+В свою очередь, исследование режимов эксплуатации основного горного и
+транспортного оборудования требует соответствующих методов и подходов,
+позволяющих вести адекватный учёт основных влияющих на результативность
+работы горнотранспортного комплекса факторов, как это показано на
+рисунке 1. Это позволяет оценивать энергоэффективность исходя из
+адекватного учёта пооперационного расхода энергии и характера интеграции
+этих долей энергии в формирующиеся энергопотоки технологического
+процесса в целом.
+
+\\end{multicols}
+
+\\begin{figure}[H]
+    \\centering
+    \\includegraphics[width=0.8\\textwidth]{image48}
+    \\caption{Концепция энергосбережения на открытых разработках}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+Энергоэффективность предполагает не только простое снижение
+энергорасхода, а прежде всего в увязке с общей эффективностью
+функционирования геотехнологического комплекса, которая оценивается с
+применением комплекса технико-экономических критериев. В связи с этим,
+принципиально важным в процессе анализа и оценки энергоэффективности
+исследуемых технологических процессов основываться на адекватном учёте
+пооперационных затрат горнотранспортного процесса и технического
+состояния машин. Одним из принципиальных показателей в этом плане
+является КПД двигателя автосамосвала, который имеет зависимость своего
+значения от возраста эксплуатируемых машин (см. рис.2). Это позволяет
+достоверно оценивать экономическую эффективность энергорасхода,
+способность энергии к обеспечению повышенной производительности, а,
+следовательно, устанавливать уровень его целесообразности. Для этих
+целей применяется методология экономики процессного управления.
+
+\\end{multicols}
+
+\\begin{figure}[H]
+    \\centering
+    \\includegraphics[width=0.8\\textwidth]{image49}
+    \\caption{Зависимость КПД двигателя автосамосвала от срока эксплуатации}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+Другим важным моментом в применяемом подходе является адекватный
+динамический подход к учёту энергорасхода автосамосвалами в зависимости
+от паспортных тяговых характеристик двигателей и трансмиссии машин (см.
+рисунок 3), позволяющих воспроизводить реальную процессную взаимосвязь в
+динамике скорости движения автосамосвала и энергорасхода в зависимости
+от режима и условий их эксплуатации -- качества дорожного покрытия,
+геометрия по участкам автотрассы, техническое состояние и режим загрузки
+автосамосвалов (вровень, «с шапкой», «без шапки»).
+
+По специализированным карьерным автосамосвалам тяговые характеристики
+являются паспортными, полученные заводом изготовителем, а по
+автосамосвалам не специализированным они были получены путём перевода из
+имеющейся формы отражения тяговых характеристик (часто в место тяговых
+усилий указываются обороты двигателя). Данный способ учёта энергорасхода
+является наиболее достоверным и обеспечивает адекватную чувствительность
+к изменениям всех обозначенных принципиальных факторов, обуславливающих
+энергорасход. Тяговые характеристики вшиты в модели автосамосвалов и
+своевременно используются алгоритмом в процессе моделирования.
+
+По погрузочному оборудованию, учёт энергорасхода (электричество,
+дизельное топливо) осуществляется в зависимости от КПД двигателя,
+времени циклов, ёмкости ковша и плотности экскавируемых горных пород с
+учётом соответствующего коэффициента разрыхления.
+
+\\end{multicols}
+
+\\begin{figure}[H]
+    \\centering
+    \\includegraphics[height=0.6\\textwidth]{image50}
+    \\caption{Тяговые характеристики автосамосвалов БелАЗ-7540}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+Для адекватного учёта энергорасходов на участках транспортных
+коммуникаций необходимо достоверное воспроизведение их структуры и
+характеристик качественных и технологических, как это показано на
+рисунке 4. С этой целью используется план (фактический или проект)
+горных работ, выполненный в AutoCAD либо полученный с использованием
+широко ныне используемых летательных аппаратов дронов, которые позволяют
+с максимальной точностью воспроизводить на имитационных цифровых моделях
+в трёхмерном пространстве горно-геометрические параметры. С планов
+горных работ и из пояснительных записок по ним берутся необходимые
+организационные и технико-технологические характеристики по ним. Это
+позволяет точно позиционировать в карьерном пространстве все имеющиеся
+пункты погрузки-выгрузки и перегрузки горной массы, а следовательно,
+адекватно учитывать структуры формируемых рудо- и породо- потоков.
+
+Таким образом, проведение комплекса исследований предполагается на
+основе системного подхода с применением методологии имитационного
+моделирования исследуемых горнотранспортных процессов, обеспечивающих
+адекватный учёт порядка и последовательности операций основных
+технологических процессов с достоверным учётом конкретных
+горнотехнических, горно-геометрических, горно-геологических,
+организационных и экономических условий функционирования основного
+технологического комплекса разрезов {[}6-10{]}.
+
+\\end{multicols}
+
+\\begin{figure}[H]
+    \\centering
+    \\includegraphics[width=0.8\\textwidth]{image51}
+    \\caption{План разреза «Центральный» с встроенной структурой модели горнотранспортного комплекса}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+Применяемая в процессе имитационного моделирования и исследований
+методология формирования экономико-математических моделей обеспечивает
+адекватный учёт порядка и последовательности пооперационных затрат на
+поддержание работы горнотранспортного комплекса.
+
+Одно из достоинств применяемого подхода заключается в практически
+достоверном учёте общего режима и календаря эксплуатации
+горнотранспортных комплексов разрезов, что имеет принципиальное значение
+для обеспечения точности основных технико-экономических расчётов и
+эффективности комплекса предлагаемых мер.
+
+{\\bfseries Результаты и обсуждение -} направления повышения эффективности.
+
+Возможные в рамках данного направления повышения энергоэффективности под
+направления можно увидеть по таблице 1, где на примере одного из
+исследуемых объектов, среди с общепроизводственных мероприятий,
+наибольшую долю (до 90\\%) имеющегося потенциала имеют улучшение качества
+покрытия внутрикарьерных дорог, внедрение автоматизированной системы
+мониторинга энергорасхода, и оптимизации парка автосамосвалов, а также
+режимов и условий их эксплуатации.
+\\end{multicols}
+
+
+\\begin{longtable}[]{@{}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.0551}}|
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.4444}}|
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.1213}}|
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.1820}}|
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.1972}}@{}}
+\\caption{План энергосберегающих мероприятий по предприятию} \\\\
+\\toprule\\noalign{}
+\\multirow{2}{*}{\\begin{minipage}[b]{\\linewidth}\\raggedright
+{\\bfseries № п/п}
+\\end{minipage}} &
+\\multirow{2}{*}{\\begin{minipage}[b]{\\linewidth}\\raggedright
+{\\bfseries Наименование мероприятий}
+\\end{minipage}} &
+\\multirow{2}{*}{\\begin{minipage}[b]{\\linewidth}\\raggedright
+{\\bfseries Затраты, тыс. тенге}
+\\end{minipage}} &
+\\multicolumn{2}{>{\\raggedright\\arraybackslash}p{(\\columnwidth - 8\\tabcolsep) * \\real{0.3792} + 2\\tabcolsep}@{}}{%
+\\begin{minipage}[b]{\\linewidth}\\raggedright
+{\\bfseries Годовая экономия топливно-энергетических ресурсов}
+\\end{minipage}} \\\\
+& & & \\begin{minipage}[b]{\\linewidth}\\raggedright
+в натуральном выражении, т.у.т.
+\\end{minipage} & \\begin{minipage}[b]{\\linewidth}\\raggedright
+в стоимостном выражении, тыс. тенге
+\\end{minipage} \\\\
+\\midrule\\noalign{}
+\\endhead
+\\bottomrule\\noalign{}
+\\endlastfoot
+{\\bfseries 1} & Замена деревянных окон на металлопластиковые,
+энергосберегающие окна & 86954 & 114,17 & 539,52 \\\\
+\\hline
+{\\bfseries 2} & Установка ПВХ завес на воротах & 5401,1 & 319,27 &
+1508,69 \\\\
+\\hline
+{\\bfseries 3} & Применение низкоэмиссионных пленок на окнах & 16210,9 &
+219,62 & 889,72 \\\\
+\\hline
+{\\bfseries 4} & Установка теплоотражающих экранов на стенах за приборами
+отопления & 228,78 & 11,37 & 53,74 \\\\
+\\hline
+{\\bfseries 5} & Замена неизолированного провода типа А и АС ВЛ 0,4 кВ на
+провод типа СИП & 35811,43 & 30,37 & 6557,7 \\\\
+\\hline
+{\\bfseries 6} & Замена устаревших трансформаторов типа ТМ на
+энергоэффективные трансформаторы типа ТМГ-12 и переустановка
+существующих КТП с учетом загрузки трансформаторов & 2527,05 & 3,7 &
+511,63 \\\\
+\\hline
+{\\bfseries 7} & Замена освещения на светодиодное освещение & 70 956,92 &
+131,6 & 18 182,95 \\\\
+\\hline
+{\\bfseries 8} & Внедрение устройств компенсации реактивной мощности (УКРМ)
+& 4688 & 28,4 & 4034,39 \\\\
+\\hline
+{\\bfseries 9} & {\\bfseries Улучшение качества покрытия внутрикарьерных дорог}
+& {\\bfseries 8 420,00}
+& \\multirow{2}{*}{{\\bfseries 330,22}}
+& \\multirow{2}{*}{{\\bfseries 303 480,00}} \\\\
+\\cline{1-3}
+{\\bfseries 10} & {\\bfseries Внедрение системы мониторинга энергоэффективности
+внутрикарьерных автомобильных дорог на разрезах предприятия} &
+{\\bfseries 15000} & & \\\\
+\\hline
+{\\bfseries 11} & {\\bfseries Оптимизация парка автосамосвалов по разрезам
+«Центральный» и «Западный».} & {\\bfseries 5 477 000} & {\\bfseries 3760,9} &
+{\\bfseries 1832588,54} \\\\
+\\hline
+{\\bfseries 12} & Установка гозобалонного оборудования для автотранспорта
+бензиновым двигателем & 5 600 & 13,1 & 9 355,80 \\\\
+\\hline
+\\multicolumn{2}{c}{{\\bfseries Итого}}
+& {\\bfseries 5 728 798,18} & {\\bfseries 4 962,72} & {\\bfseries 2
+177 702,68} \\\\
+\\end{longtable}
+
+\\begin{multicols}{2}
+Основными направлениями повышения эффективности и снижения себестоимости
+горнотранспортных работ определены такие, как повышение эффективности
+мониторинга горнотранспортных работ, оптимизация парка автосамосвалов и
+мероприятия организационного характера. При этом потенциал снижения
+энергоёмкости горнотранспортного процесса за счёт улучшения качества
+внутрикарьерных дорог не рассматривался в связи с особенностями
+дальнейшей технологической переработки рудной массы и кратковременным
+характером ведения горных работ в карьерной зоне.
+
+По установленным направлениям комплекс предлагаемых мер позволяет
+снизить удельную себестоимость 1 м\\textsuperscript{3} извлекаемой горной
+массы с базового уровня в среднем на 15-20\\% и более. При этом общий
+экономический эффект максимально может достигать от 0,5 до 2,5 млн. в
+год.
+
+Другим, важным направлением Стратегии достижения низкоуглеродной
+нейтральности Казахстана, как и многих других горнодобывающих стран
+может и должна стать дальнейшая электрификация горнотранспортных работ.
+Одним из наглядных примеров реальной перспективности этого направления
+являются результаты исследования перспектив применения двух вариантов
+горнотранспортного комплекса на одном из железорудных карьеров
+Казахстана, как это представлено в таблице 2.
+\\end{multicols}
+
+\\begin{longtable}[]{@{}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.0796}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1483}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1872}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1417}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.1954}}
+  >{\\raggedright\\arraybackslash}p{(\\columnwidth - 10\\tabcolsep) * \\real{0.2477}}@{}}
+\\caption{Сравнение эффективности горнотранспортных систем с
+автомобильным и комбинированным автомобильно-железнодорожным транспортом} \\\\
+\\toprule\\noalign{}
+ПП/П & Варианты & Удельная себестоимость, тг/ м\\textsuperscript{3}. &
+Объёмы перевозок, тыс. м\\textsuperscript{3}. &
+Экономический эффект, млн. тг./год &
+Примечание \\\\
+\\midrule\\noalign{}
+\\endhead
+\\bottomrule\\noalign{}
+\\endlastfoot
+\\hline
+I. &
+\\multicolumn{5}{c}{%
+Существующая горнотранспортная система} \\\\
+\\hline
+11.1. & ЭАК & 227,84 & 5839 & - & \\multirow{3}{=}{7 и 9 а.с. и 10 из 12
+л.с. Не выполнение плана.} \\\\
+11.2. & ЭЖК & 180,01 & 7252 & - \\\\
+11.3. & ГТК & 356,80 & 7525 & - \\\\
+\\hline
+II. &
+\\multicolumn{5}{c}{%
+ГТСК с заменой Ж.Д.Т. на автомобильный} \\\\
+\\hline
+22.1. & ЭАК & 277,6 & 14828 & - & \\multirow{3}{=}{+16 БелАЗов.
+
+Ж.д. только на участке склад-фабрика.} \\\\
+22.2. & ЭЖК & 157,06 & 948 & - \\\\
+22.3. & ГТК & 287,64 & 14828 & +1025 \\\\
+\\hline
+III. &
+\\multicolumn{5}{c}{%
+ГТСК с принятыми мерами по организации авто- и ж.д. транспорта} \\\\
+\\hline
+33.1. & ЭАК
+
+(9 БелАЗ) & 186,30 & 7913 & & \\multirow{3}{=}{Устранение одно-полосных
+участков на дорогах.
+
+Увеличение затрат на поддержание ж.д. путей в 1,5 раза, строительство
+допол-нительных путей, перенос ПТО.} \\\\
+33.2. & ЭЖК
+
+(12 л.с.) & 97,85 & 12551 & \\\\
+\\vspace{2cm}
+33.3. & ГТК & 215,31 & 12551 & +1776 \\\\
+\\end{longtable}
+
+\\begin{multicols}{2}
+Из представленного в таблице 2 следует, что вариант горнотранспортного
+комплекса с комбинированным автомобильно-железнодорожным транспортом в
+более чем в 1,5 раза эффективнее по себестоимости горнотраспортных
+работ, более эффективен в плане производительности и в существенной мере
+экологичней по сравнению с вариантом, где единственным видом транспорта
+является автотранспорт.
+
+Наибольшие эффекты снижения себестоимости связаны с оптимизацией режимов
+загрузки и технического состояния автотранспорта.
+
+Из организационных моментов, целесообразно более обоснованно
+рассматривать на предприятиях вопрос предоставления на аутсорсинг
+горнотранспортных работ субподрядным организациям.
+
+{\\bfseries Выводы.} Результаты проведённых в ходе комплексного
+технико-технологического аудита исследований эффективности
+функционирования геотехнологических комплексов разрезов и карьеров,
+показали, что при достаточно качественно организованной инфраструктуре,
+включая структуру и качество второстепенных автомобильных дорог в
+отведённой промышленной зоне, на предприятии имеется существенный
+потенциал повышения эффективности и снижения себестоимости
+горнотранспортных работ.
+
+Эффективная реализация определённого комплекса мер, обеспечивающих
+повышение эффективности функционирования геотехнологических комплексов
+предприятия и снижения себестоимости горнотранспортных работ карьеров,
+может быть обеспечена посредством повышения эффективности углубленного
+(пооперационного) мониторинга горнотранспортных работ, повышением
+качества управления горнотранспортными работами посредством более
+качественной реализации таких функций, как учёт и контроль,
+стимулирование, регулирование, нормирование, планирование и организация.
+
+Одним из эффективных инструментов управления и повышения
+энегоэффективности горнотранспортных работ на открытых разработках
+является внедрение на предприятии единых автоматизированных
+корпоративных систем управления геотехнологическими комплексами.
+\\end{multicols}
+
+{\\bfseries Литература}
+
+\\begin{enumerate}
+\\item
+Стратегии достижения углеродной нейтральности Республики Казахстан до
+2060 года/Указ Президента Республики Казахстан от 2 февраля 2023 года № 121.
+
+\\item
+Закон Республики Казахстан от 27 декабря 2021 г. № 86-VII - «О
+промышленной политике».
+
+\\item
+Мэтт Ридли Эволюция всего. Перевод на русский Мосоловой Т.П.-
+Издательство «Э».2017.- 390 с.
+
+\\item
+Травин Д. Т65 Европейская модернизация: В 2 кн. Кн. 1. Д.Травин. О.
+Маргания. - М.: ООО \"Издательство АСТ\"; СПб: Тегга Fantastica.- 2004. - 665, {[}7{]} с.
+- (Philosophy).
+
+\\item
+Декарбонизация добывающих отраслей экономики Республики Казахстан//
+Монография/Под ред. Академика НАН РК, д.г-м.н. С.Ж. Даукей. -
+Нур-Султан: Bi-ПРИНТ.- 2021.- 295 с. - ISBN 978-601-358-000-5.
+
+\\item
+Галиев С.Ж., Утешов Е.Т., Галиев Д.А. Цифровые технологии повышения
+энерго- эффективности горных предприятий// Цифровизация в энергетике:
+монография/ Ю.С. Валеева, Р.С. Зарипова, К.А. Сарыев, Н.А. Алланазаров,
+А.А. Матьякубов и др.; под науч. ред. И.Г. Ахметовой, Р.С. Зариповой,
+Ю.С. Валеевой. -- Казань: Федеральное государственное бюджетное
+образовательное учреждение высшего образования Казань. гос. энерг. ун-т
+Министерства науки и высшего образования РФ - 2022. - С.153--160.- ISBN
+978-5-89873-621-7.
+
+\\item
+Отчёт о проведении комплексного энергоаудита эффективности работы
+горностранс - портных комплексов разрезов «Центральный» и «Западный» АО
+«Шубарколь-комир». -- Караганда.- 2020.- 72 с.
+
+\\item
+Отчёт о проведении комплекса исследований и технико-технологического
+аудита эффективности работы геотехнологического комплекса карьера ТОО
+«Брендт».- Житикара.- 2021.- 91с.
+
+\\item
+Проведение комплекса исследований и технико-технологического аудита
+эффективности работы геотехнологического комплекса карьера ТОО «ГОК
+«Сарыарка-Көмір»/Отчёт о проведении научно-исследовательской работы. --
+Караганда.- 2023. -107 с.
+
+\\item
+Галиев С.Ж. Состояние и перспективные направления декарбонизации и
+повышения энергоэффективности горнодобывающих и горно-металлургических
+отраслей промышленности Казахстана/ Отраслевой журнал
+«Горно-металлургическая промыш-ленность».- Астана. - 2021.- № 9-10 (146)
+- С.43-49.
+
+\\item
+Галиев С.Ж. Технологическая модернизация и промышленная политика в
+период модернизации Казахстана 3.0/ Журнал Казахского университета
+технологии и бизнеса «Вестник КазУТБ».- Астана, 2022.- № 3 (16) -
+С.65-75.
+\\end{enumerate}
+
+{\\bfseries References}
+
+
+\\begin{enumerate}
+\\item
+Strategies for achieving carbon neutrality of the Republic of
+Kazakhstan until 2060/Decree of the President of the Republic of
+Kazakhstan dated February 2.- 2023.- № 121.
+
+\\item
+The Law of the Republic of Kazakhstan dated December 27.- 2021 No.
+86-VII -\"On Industrial Policy\".
+
+\\item
+Mеtt Ridley Evolution of Everything. Translated into Russian by T.P.
+Mosolova-Publishing House \"E\". - 2017.- 390 p.
+
+\\item
+Travin D. T65 European modernization: In 2 books. Book 1. D.Travin.
+O. Marganiya. - M.: LLC \"AST Publishing House\"; St. Petersburg: Tegga
+Fantastica.- 2004. - 665, {[}7{]} p. - (Philosophy).
+
+\\item
+Decarbonization of extractive industries of the economy of the
+Republic of Kazakhstan// Monograph/Ed. Academician of the National
+Academy of Sciences of the Republic of Kazakhstan, Doctor of Medical
+Sciences S.Zh. Daukey. - Nursultan: Bi-PRINT.- 2021.- 295 p. ISBN
+978-601-358-000-5.
+
+\\item
+Galiyev S.Zh. Uteshov E.T. Galiyev D.A. Tsifrovyye tekhnologii
+povysheniya energoeffektivnosti gornykh predpriyatiy// Tsifrovizatsiya v
+energetike: monografiya/ Yu.S. Valeyeva. R.S. Zaripova. K.A. Saryyev.
+N.A. Allanazarov. A.A. Matiakubov i dr.; pod nauch. red. I.G.
+Akhmetovoy. R.S. Zaripovoy. Yu.S. Valeyevoy. -- Kazan: Federalnoye
+gosudarstvennoye byudzhetnoye obrazovatelnoye uchrezhdeniye vysshego
+obrazovaniya Kazan. gos. energ. un-t Ministerstva nauki i vysshego
+obrazovaniya RF.- 2022. - S.153--160.- ISBN 978-5-89873-621-7.
+
+\\item
+Otchet o provedenii kompleksnogo energoaudita effektivnosti raboty
+gornotransportnykh kompleksov razrezov «Tsentralnyy» i «Zapadnyy» AO
+«Shubarkol-komir». -- Karaganda. -2020.- 72 s.
+
+\\item
+Otchet o provedenii kompleksa issledovaniy i
+tekhniko-tekhnologicheskogo audita effektivnosti raboty
+geotekhnologicheskogo kompleksa karyera TOO «Brendt». - Zhitikara.
+2021.- 91s.
+
+\\item
+Provedeniye kompleksa issledovaniy i tekhniko-tekhnologicheskogo
+audita effektivnosti raboty geotekhnologicheskogo kompleksa karyera TOO
+«GOK «Saryarka-Komіr»/Otchet o provedenii nauchno-issledovatelskoy
+raboty. -- Karaganda.- 2023. -107 s.
+
+\\item
+Galiyev S.Zh. Sostoyaniye i perspektivnyye napravleniya
+dekarbonizatsii i povysheniya energoeffektivnosti gornodobyvayushchikh i
+gorno-metallurgicheskikh otrasley promyshlennosti Kazakhstana/
+Otraslevoy zhurnal «Gorno-metallurgicheskaya promyshlennost».- Astana.-
+2021.- № 9-10 (146)- S.43-49.
+
+\\item
+Galiyev S.Zh. Tekhnologicheskaya modernizatsiya i promyshlennaya
+politika v period modernizatsii Kazakhstana 3.0/ Zhurnal Kazakhskogo
+universiteta tekhnologii i biznesa «Vestnik KazUTB».- Astana. - 2022.- №
+3 (16) - S.65-75.
+\\end{enumerate}
+
+\\emph{{\\bfseries Сведения об авторах:}}
+
+\\begin{itemize}
+\\item
+Галиев Сейтгали Жолдасович - д.т.н., профессор, член-корреспондент НАН
+РК, заведующий отделом горной системологии, филиал РГП «НЦ КПМС МИИР РК
+Институт горного дела им. Д.А.Кунаева, г. Алматы, Казахстан, e-mail:
+\\href{mailto:seitgaligaliyev@mail.ru}{\\nolinkurl{seitgaligaliyev@mail.ru}}
+
+\\item
+Утешов Ержан Турсынович -- доктор (Ph.D), заместитель директора по
+проектным работам, филиал РГП «НЦ КПМС МИИР РК Институт горного дела им.
+Д.А.Кунаева,
+
+\\item
+г. Алматы, Казахстан, e-mail:
+\\href{mailto:yuteshov@gmail.com}{\\nolinkurl{yuteshov@gmail.com}}
+
+\\item
+Галиев Данияр Айткалиевич - доктор (Ph.D), заведующий лабораторией
+Автоматизации отдела горной системологии, филиал РГП «НЦ КПМС МИИР РК
+Институт горного дела им. Д.А.Кунаева, г. Алматы, Казахстан, e-mail:
+danijr.3012986@mail.ru
+
+\\item
+Бексапин Жаслан Сержанович - инженер программист-исследователь, ТОО
+«Qazakstan smart technology», г. Алматы, Казахстан, e-mail:
+\\href{mailto:beksapin@mail.ru}{\\nolinkurl{beksapin@mail.ru}}
+\\end{itemize}
+
+\\emph{{\\bfseries Information about authors}}
+
+\\begin{itemize}
+\\item
+Galiev Seitgali Zholdasovich - Doctor of Technical Sciences, Professor,
+Corresponding Member of the National Academy of Sciences of the Republic
+of Kazakhstan, head of the Mining Systemology Department, branch of RSE
+\"NC KPMS MIIR RK Institute of Mining named after D.A. Kunaev, Almaty,
+Kazakhstan, e-mail:
+\\href{mailto:seitgaligaliyev@mail.ru}{\\nolinkurl{seitgaligaliyev@mail.ru}}
+
+\\item
+Uteshov Yerzhan Tursynovich -- doctor (Ph.D), deputy Director for
+Project Work, branch of RSE \"NC KPMS MIIR RK Institute of Mining named
+after D.A. Kunaev, Almaty, Kazakhstan, e-mail:
+\\href{mailto:yuteshov@gmail.com}{\\nolinkurl{yuteshov@gmail.com}}
+
+\\item
+Galiev Daniyar Aitkalievich - doctor (Ph.D), head of the Automation
+Laboratory of the Mining Systemology Department, branch of RSE \"NC KPMS
+MIIR RK Institute of Mining named after D.A. Kunaev, Almaty, Kazakhstan,
+e-mail:
+\\href{mailto:danijr.3012986@mail.ru}{\\nolinkurl{danijr.3012986@mail.ru}}
+
+\\item
+Beksapin Jaslan Serzhanovich - software engineer-researcher, Qazakstan
+smart technology LLP, Almaty, Kazakhstan, e-mail: beksapin@mail.ru" 0 41 (fontified t face (bold)) 41 45 (fontified t) 45 54 (fontified t face font-lock-keyword-face) 54 100 (fontified t face (bold)) 100 103 (fontified t) 103 111 (fontified t face font-lock-keyword-face) 111 112 (fontified t) 112 211 (fontified t face font-lock-function-name-face) 211 214 (fontified t) 214 220 (fontified t face font-lock-keyword-face) 220 221 (fontified t latex-env-pair t) 221 227 (fontified t latex-env-pair t face font-lock-function-name-face) 227 228 (fontified t latex-env-pair t) 228 230 (fontified t) 230 239 (fontified t face font-lock-keyword-face) 239 251 (fontified t face (bold)) 251 267 (fontified t face (font-lock-keyword-face bold)) 267 283 (fontified t face (bold)) 283 299 (fontified t face (font-lock-keyword-face bold)) 299 316 (fontified t face (bold)) 316 332 (fontified t face (font-lock-keyword-face bold)) 332 351 (fontified t face (bold)) 351 367 (fontified t face (font-lock-keyword-face bold)) 367 370 (fontified t face (bold)) 370 415 (fontified t) 415 416 (fontified t face font-lock-keyword-face) 416 423 (fontified t face font-lock-string-face) 423 424 (fontified t face font-lock-keyword-face) 424 461 (fontified t) 461 462 (fontified t face font-lock-keyword-face) 462 488 (fontified t face font-lock-string-face) 488 489 (fontified t face font-lock-keyword-face) 489 545 (fontified t) 545 549 (fontified t face font-lock-keyword-face) 549 550 (fontified t latex-env-pair t) 550 556 (fontified t latex-env-pair t face font-lock-function-name-face) 556 557 (fontified t latex-env-pair t) 557 1489 (fontified t) 1489 1497 (fontified t) 1497 1533 (fontified t) 1533 1535 (fontified t face font-lock-keyword-face) 1535 1918 (fontified t) 1918 1927 (fontified t face font-lock-keyword-face) 1927 1943 (fontified t face (bold)) 1943 2101 (fontified t) 2101 2107 (fontified t face font-lock-keyword-face) 2107 2108 (fontified t latex-env-pair t) 2108 2114 (fontified t latex-env-pair t face font-lock-function-name-face) 2114 2115 (fontified t latex-env-pair t) 2115 2117 (fontified t) 2117 2123 (fontified t face font-lock-keyword-face) 2123 2132 (fontified t face font-lock-keyword-face) 2132 2217 (fontified t face (bold)) 2217 2221 (fontified t) 2221 2230 (fontified t face font-lock-keyword-face) 2230 2242 (fontified t face (bold)) 2242 2258 (fontified t face (font-lock-keyword-face bold)) 2258 2275 (fontified t face (bold)) 2275 2291 (fontified t face (font-lock-keyword-face bold)) 2291 2307 (fontified t face (bold)) 2307 2323 (fontified t face (font-lock-keyword-face bold)) 2323 2342 (fontified t face (bold)) 2342 2358 (fontified t face (font-lock-keyword-face bold)) 2358 2361 (fontified t face (bold)) 2361 2529 (fontified t) 2529 2534 (fontified t face font-lock-keyword-face) 2534 2575 (fontified t) 2575 2577 (fontified t face font-lock-keyword-face) 2577 2630 (fontified t) 2630 2634 (fontified t face font-lock-keyword-face) 2634 2635 (fontified t latex-env-pair t) 2635 2641 (fontified t latex-env-pair t face font-lock-function-name-face) 2641 2642 (fontified t latex-env-pair t) 2642 2997 (fontified t) 2997 3056 (fontified t) 3056 36591 (fontified nil)) . 12) (t 25755 23134 563361 141000)) nil (25756 24984 909973 94000) 0 nil])
+([nil nil ((1 . 54) (t 25756 4996 359934 928000)) nil (25756 25021 41420 85000) 0 nil] [nil nil ((#("
+" 0 1 (fontified t)) . -28) 1 (t 25756 4996 359934 928000)) ((28 . 29)) (25756 24984 909761 684000) 0 nil])
+([nil nil ((7 . 11) (#("k" 0 1 (fontified t face font-lock-keyword-face)) . -7) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) 8 (1 . 8) (1 . 2)) nil (25756 25021 41414 777000) 0 nil])
+nil
+([nil nil ((#("\\clearpage
+" 0 10 (fontified t face font-lock-warning-face) 10 11 (fontified t)) . 1) (undo-tree-id4 . -9) (undo-tree-id5 . -10) (undo-tree-id6 . 1) (undo-tree-id7 . -9) (undo-tree-id8 . -9) (undo-tree-id9 . -9) (undo-tree-id10 . -9) (undo-tree-id11 . -9) (undo-tree-id12 . -9) (undo-tree-id13 . -9) (undo-tree-id14 . -11) 10 (t 25756 25021 50050 512000)) nil (25756 25905 923445 772000) 0 nil])
+([nil nil ((1 . 32) 10 (t 25756 25905 928528 122000)) nil (25756 28996 444298 984000) 0 nil])
+([nil nil ((11341 . 11350) (#("i" 0 1 (fontified t face font-lock-function-name-face)) . -11341) (undo-tree-id15 . -1) (11338 . 11342) (#("u" 0 1 (fontified t face font-lock-function-name-face)) . -11338) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) 11339 (11334 . 11339) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -11334) (undo-tree-id20 . -1) (11330 . 11335) (11329 . 11330) (t 25756 28996 448235 728000) 11329) nil (25756 38054 450866 487000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 13004 . 13005) (#("
+" 0 1 (fontified nil)) . -13025) (13004 . 13026) 12990) nil (25756 38061 839673 484000) 0 nil] [nil nil ((nil rear-nonsticky nil 13025 . 13026) (nil fontified nil 13005 . 13026) (13005 . 13026)) ((#("}
+В опросе участвовал" 0 2 (fontified nil) 2 20 (fontified nil) 20 21 (fontified nil rear-nonsticky nil)) . 13005) (undo-tree-id21 . -20) (undo-tree-id22 . -20) (undo-tree-id23 . -2) (undo-tree-id24 . -20) (nil fontified t 13005 . 13007) (nil rear-nonsticky t 13025 . 13026)) (25756 38054 450711 300000) 0 nil])
+([nil nil ((13006 . 13009) (#("begin" 0 5 (fontified t face font-lock-keyword-face)) . 13006) (undo-tree-id33 . -4) (undo-tree-id34 . -5) (undo-tree-id35 . -5)) nil (25756 38061 839670 132000) 0 nil])
+nil
+([nil current ((#("{2}" 0 3 (latex-env-pair t fontified t)) . 13020) (undo-tree-id25 . -3) (undo-tree-id26 . -2) (undo-tree-id27 . 3) (undo-tree-id28 . -1) (undo-tree-id29 . 1) (undo-tree-id30 . -3) (undo-tree-id31 . -3) (undo-tree-id32 . -3)) nil (25756 38061 839662 938000) 0 nil])
 nil

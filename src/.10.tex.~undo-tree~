@@ -1,0 +1,13 @@
+(undo-tree-save-format-version . 1)
+"dc641ede455b353262266932d0f7eb38a6e7d49e"
+[nil nil nil nil (25756 25180 996116 755000) 0 nil]
+([nil nil ((#("\\bfseries " 0 9 (fontified t face font-lock-keyword-face) 9 10 (fontified t face (bold))) . 2) (undo-tree-id10 . -6) (undo-tree-id11 . -6) (undo-tree-id12 . -9) (t 25755 23134 563361 141000)) nil (25756 25180 996114 310000) 0 nil])
+([nil nil ((1 . 9)) nil (25756 25180 996111 377000) 0 nil])
+([nil nil ((#("\\chapter{Производственные и обрабатывающие отрасли}
+
+" 0 8 (fontified t face font-lock-keyword-face) 8 9 (fontified t) 9 50 (fontified t face font-lock-function-name-face) 50 52 (fontified t) 52 53 (fontified t)) . 1) (undo-tree-id2 . -52) (undo-tree-id3 . -7) (undo-tree-id4 . -52) (undo-tree-id5 . -52) (undo-tree-id6 . -52) (undo-tree-id7 . 45) (undo-tree-id8 . -7) (undo-tree-id9 . -52) 53) nil (25756 25180 996108 25000) 0 nil])
+([nil nil ((58 . 59) 1) nil (25756 25180 996101 320000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 59) (undo-tree-id0 . 1) (undo-tree-id1 . -1)) nil (25756 25180 996098 37000) 0 nil])
+([nil current ((1 . 11) (1 . 2)) nil (25756 25180 996075 130000) 0 nil])
+nil
