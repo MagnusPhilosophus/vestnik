@@ -13,7 +13,7 @@ Business,\textsuperscript{2}Moscow State University of Technology and
 Management named after K.G. Razumovsky, \textsuperscript{3}Nazarbayev
 Intellectual School
 
-e-mail:\href{mailto:Akmail04cx@mail.ru}{\nolinkurl{Akmail04cx@mail.ru}}
+e-mail: Akmail04cx@mail.ru
 \end{center}
 
 The article discusses the possibilities of using DataMining technology
@@ -43,6 +43,7 @@ quality criteria
 {\large\bfseries БЕТОН ҚОСПАЛАРЫНЫҢ РЕЦЕПТЕРІН КЛАСТЕРЛЕУГЕ АРНАЛҒАН DATA MINING
 МҮМКІНДІКТЕРІ}
 
+\vspace{1em}
 {\bfseries К.М.Акишев\textsuperscript{1*}, В.И.Карпов\textsuperscript{2},
 Л.Ақышева\textsuperscript{3}, А.Д.Тулеғулов\textsuperscript{1}}
 
@@ -52,7 +53,7 @@ quality criteria
 
 \textsuperscript{3} Назарбаев Зияткерлік мектебі,
 
-e-mail: \href{mailto:Akmail04cx@mail.ru}{\nolinkurl{Akmail04cx@mail.ru}}
+e-mail: Akmail04cx@mail.ru
 \end{center}
 
 Мақалада бетон қоспаларын кластерлеу үшін DataMining технологиясын
@@ -80,6 +81,7 @@ e-mail: \href{mailto:Akmail04cx@mail.ru}{\nolinkurl{Akmail04cx@mail.ru}}
 {\large\bfseries ВОЗМОЖНОСТИ DATAMINING ДЛЯ КЛАСТЕРИЗАЦИИ РЕЦЕПТУР БЕТОННЫХ
 СМЕСЕЙ}
 
+\vspace{1em}
 {\bfseries К.М.Акишев\textsuperscript{1*}, В.И.Карпов\textsuperscript{2},
 Л.Акишева\textsuperscript{1}, А.Д.Тулегулов\textsuperscript{1}}
 
@@ -89,8 +91,7 @@ e-mail: \href{mailto:Akmail04cx@mail.ru}{\nolinkurl{Akmail04cx@mail.ru}}
 технологии и управления им. К.Г. Разумовского,
 \textsuperscript{3}Назарбаев интеллектуальная школа,
 
-e-mail:
-\href{mailto:Akmail04cx@mail.ru}{\nolinkurl{Akmail04cx@mail.ru}},
+e-mail: Akmail04cx@mail.ru
 \end{center}
 
 В статье рассматривается возможности использования технологии DataMining
@@ -170,25 +171,25 @@ depend on the accuracy and in-depth data analysis.
 To date, there is a wide selection of programs on the market for solving
 Data Mining problems. Let\textquotesingle s look at the main ones:
 
-SAS EnterpriseMiner --- used mainly for fraud detection, financial risk
+SAS EnterpriseMiner - used mainly for fraud detection, financial risk
 assessment, market forecasting, etc. It has a fairly high performance
 when working with big data;
 
--MicrosoftAnalysisServices --- used to create analytical reports;
+-MicrosoftAnalysisServices - used to create analytical reports;
 
--SAS CustomerIntelligence 360 --- used as a tool for information
+-SAS CustomerIntelligence 360 - used as a tool for information
 business, evaluation of marketing campaigns, real-time data analysis;
 
--SAS CreditScoring --- used as a risk management tool for financial
+-SAS CreditScoring - used as a risk management tool for financial
 institutions;
 
--Board --- nothing remarkable, for business analytics, corporate
+-Board - nothing remarkable, for business analytics, corporate
 governance, evaluation of the effectiveness of projects.
 
--SAS RevenueOptimization --- a use case as an intellectual business
+-SAS RevenueOptimization - a use case as an intellectual business
 tool, mainly in retail;
 
--RapidMiner --- is used for text analysis, machine learning, and the
+-RapidMiner - is used for text analysis, machine learning, and the
 creation of analytical reports.
 
 {\bfseries The aim of the study} is to evaluate the DataMining technology
@@ -226,30 +227,98 @@ objects" in Russian was used. Data on the metrics of the recipe of
 concrete mixtures are presented in Table 1.
 \end{multicols}
 
+%% \begin{longtable}[]{@{}
+%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}
+%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1510}}
+%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}
+%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}
+%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}}
+%% \caption*{Table 1. Recipe of concrete mixtures} \\
+%% \toprule\noalign{}
+%% \multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
+%% № recipes
+%% \end{minipage}} &
+%% \multicolumn{4}{>{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.8303} + 6\tabcolsep}@{}}{%
+%% \begin{minipage}[b]{\linewidth}\raggedright
+%% Composition of the concrete mix
+%% \end{minipage}} \\
+%% & \begin{minipage}[b]{\linewidth}\raggedright
+%% Ravr. Compr.Mpa
+%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+%% ash
+
+%% g/\%
+%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+%% Metall. Slag g/\%
+%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+%% bauxite sludge
+
+%% g/\%
+%% \end{minipage} \\
+%% \midrule\noalign{}
+%% \endhead
+%% \bottomrule\noalign{}
+%% \endlastfoot
+%% 1 & 11\hfill\textsuperscript{3.} & & & 337/3 \\
+%% 2 & 7\hfill\textsuperscript{3.} & & & 505/4 \\
+%% 3 & 32\hfill\textsuperscript{8.} & & & 674/5 \\
+%% 4 & 5\hfill\textsuperscript{3.} & & & 842/7 \\
+%% 5 & 6\hfill\textsuperscript{3.} & & & 1011/8 \\
+%% 6 & 84\hfill\textsuperscript{2.} & & & 944/7 \\
+%% 7 & 56\hfill\textsuperscript{2.} & & & 910/7 \\
+%% 8 & 73\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+%% 9 & 3\hfill\textsuperscript{2.} & 46/2\hfill\textsuperscript{2.} & & 337/3 \\
+%% 10 & 4\hfill\textsuperscript{4.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+%% 11 & 5\hfill\textsuperscript{2.} & 56/5\hfill\textsuperscript{6.} & & \\
+%% 12 & 5\hfill\textsuperscript{4.} & 370/26\hfill\textsuperscript{3.} & & \\
+%% 13 & 51\hfill\textsuperscript{2.} & 92/4\hfill\textsuperscript{4.} & & \\
+%% 14 & 8\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
+%% 15 & 45\hfill\textsuperscript{3.} & & & 410/3.2 \\
+%% 16 & 54\hfill\textsuperscript{4.} & & & 410,3.2 \\
+%% 17 & 9\hfill\textsuperscript{3.} & 246/2\hfill\textsuperscript{2.} & 798/6 & \\
+%% 18 & 55\hfill\textsuperscript{2.} & 328/2.5\hfill\textsuperscript{2.} & 798/6\% & \\
+%% 19 & 5\hfill\textsuperscript{3.} & 328/2.5\hfill\textsuperscript{2.} & 640/5 & \\
+%% 20-\textsubscript{15} & 1.47\hfill\textsuperscript{4.} & 107/1.3\hfill\textsuperscript{2.} & 1066/13 & \\
+%% 21 & 74\hfill\textsuperscript{9.} & 28/2.5\hfill\textsuperscript{3.} & 798//6 & 246/2 \\
+%% 22 & 18\hfill\textsuperscript{3.} & & 399/3 & 328/2.5 \\
+%% 23 & 23\hfill\textsuperscript{3.} & 64/1.3\hfill\textsuperscript{1.} & 798/6 & 164/1.3 \\
+%% 24-\textsubscript{15} & 1.6\hfill\textsuperscript{4.} & & 1020/12 & 357/4.2 \\
+%% 25 & 77\hfill\textsuperscript{4.} & 28/2.5\hfill\textsuperscript{3.} & 399/3 & 337/2.5 \\
+%% 26 & 33\hfill\textsuperscript{4.} & 64/1.2\hfill\textsuperscript{1.} & 798/6 & 337/2.5 \\
+%% 27 & 3\hfill\textsuperscript{3.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 164/1.2 \\
+%% 28 & \hfill\textsuperscript{9.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 505/4 \\
+%% 29 & \hfill\textsuperscript{10.} & 37/2.5\hfill\textsuperscript{3.} & 1596/12 & \\
+%% 30 & 22\hfill\textsuperscript{3.} & 328/.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
+%% 31 & 62\hfill\textsuperscript{4.} & 46/2\hfill\textsuperscript{2.} & & 505/3.2 \\
+%% 32 & 3\hfill\textsuperscript{2.} & & & 1685/13 \\
+%% 33 & 1\hfill\textsuperscript{9.} & 64/1.3\hfill\textsuperscript{1.} & & 1685/13 \\
+%% 34 & 18\hfill\textsuperscript{8.} & 64/1.3\hfill\textsuperscript{1.} & & 2022/16 \\
+%% 35 & 37\hfill\textsuperscript{4.} & 011/8\hfill\textsuperscript{2.} & & \\
+%% 36 & 35\hfill\textsuperscript{1.} & 798/80\hfill\textsuperscript{7.} & & \\
+%% 37 & 43\hfill\textsuperscript{4.} & 37/1.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
+%% 38 & 13\hfill\textsuperscript{4.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 337/2.5 \\
+%% 39 & 3\hfill\textsuperscript{22.} & 05/4\hfill\textsuperscript{5.} & 1197/9. & 337/2.5 \\
+%% \end{longtable}
+
+
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1510}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1510}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}}
 \caption*{Table 1. Recipe of concrete mixtures} \\
 \toprule\noalign{}
-\multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
-№ recipes
-\end{minipage}} &
-\multicolumn{4}{>{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.8303} + 6\tabcolsep}@{}}{%
-\begin{minipage}[b]{\linewidth}\raggedright
-Composition of the concrete mix
-\end{minipage}} \\
-& \begin{minipage}[b]{\linewidth}\raggedright
+\multirow{2}{*}{№ recipes} &
+\multicolumn{4}{c}{Composition of the concrete mix} \\
+& \begin{minipage}[b]{\linewidth}\centering
 Ravr. Compr.Mpa
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 ash
-
 g/\%
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 Metall. Slag g/\%
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 bauxite sludge
 
 g/\%
@@ -258,63 +327,106 @@ g/\%
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-1 & 11\hfill\textsuperscript{3.} & & & 337/3 \\
-2 & 7\hfill\textsuperscript{3.} & & & 505/4 \\
-3 & 32\hfill\textsuperscript{8.} & & & 674/5 \\
-4 & 5\hfill\textsuperscript{3.} & & & 842/7 \\
-5 & 6\hfill\textsuperscript{3.} & & & 1011/8 \\
-6 & 84\hfill\textsuperscript{2.} & & & 944/7 \\
-7 & 56\hfill\textsuperscript{2.} & & & 910/7 \\
-8 & 73\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-9 & 3\hfill\textsuperscript{2.} & 46/2\hfill\textsuperscript{2.} & & 337/3 \\
-10 & 4\hfill\textsuperscript{4.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-11 & 5\hfill\textsuperscript{2.} & 56/5\hfill\textsuperscript{6.} & & \\
-12 & 5\hfill\textsuperscript{4.} & 370/26\hfill\textsuperscript{3.} & & \\
-13 & 51\hfill\textsuperscript{2.} & 92/4\hfill\textsuperscript{4.} & & \\
-14 & 8\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-15 & 45\hfill\textsuperscript{3.} & & & 410/3.2 \\
-16 & 54\hfill\textsuperscript{4.} & & & 410,3.2 \\
-17 & 9\hfill\textsuperscript{3.} & 246/2\hfill\textsuperscript{2.} & 798/6 & \\
-18 & 55\hfill\textsuperscript{2.} & 328/2.5\hfill\textsuperscript{2.} & 798/6\% & \\
-19 & 5\hfill\textsuperscript{3.} & 328/2.5\hfill\textsuperscript{2.} & 640/5 & \\
-20-\textsubscript{15} & 1.47\hfill\textsuperscript{4.} & 107/1.3\hfill\textsuperscript{2.} & 1066/13 & \\
-21 & 74\hfill\textsuperscript{9.} & 28/2.5\hfill\textsuperscript{3.} & 798//6 & 246/2 \\
-22 & 18\hfill\textsuperscript{3.} & & 399/3 & 328/2.5 \\
-23 & 23\hfill\textsuperscript{3.} & 64/1.3\hfill\textsuperscript{1.} & 798/6 & 164/1.3 \\
-24-\textsubscript{15} & 1.6\hfill\textsuperscript{4.} & & 1020/12 & 357/4.2 \\
-25 & 77\hfill\textsuperscript{4.} & 28/2.5\hfill\textsuperscript{3.} & 399/3 & 337/2.5 \\
-26 & 33\hfill\textsuperscript{4.} & 64/1.2\hfill\textsuperscript{1.} & 798/6 & 337/2.5 \\
-27 & 3\hfill\textsuperscript{3.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 164/1.2 \\
-28 & \hfill\textsuperscript{9.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 505/4 \\
-29 & \hfill\textsuperscript{10.} & 37/2.5\hfill\textsuperscript{3.} & 1596/12 & \\
-30 & 22\hfill\textsuperscript{3.} & 328/.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
-31 & 62\hfill\textsuperscript{4.} & 46/2\hfill\textsuperscript{2.} & & 505/3.2 \\
-32 & 3\hfill\textsuperscript{2.} & & & 1685/13 \\
-33 & 1\hfill\textsuperscript{9.} & 64/1.3\hfill\textsuperscript{1.} & & 1685/13 \\
-34 & 18\hfill\textsuperscript{8.} & 64/1.3\hfill\textsuperscript{1.} & & 2022/16 \\
-35 & 37\hfill\textsuperscript{4.} & 011/8\hfill\textsuperscript{2.} & & \\
-36 & 35\hfill\textsuperscript{1.} & 798/80\hfill\textsuperscript{7.} & & \\
-37 & 43\hfill\textsuperscript{4.} & 37/1.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
-38 & 13\hfill\textsuperscript{4.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 337/2.5 \\
-39 & 3\hfill\textsuperscript{22.} & 05/4\hfill\textsuperscript{5.} & 1197/9. & 337/2.5 \\
+
+g/\% & \\
+1 & 3.11 & & & 337/3 \\
+\hline
+2 & 3.7 & & & 505/4 \\
+\hline
+3 & 8.32 & & & 674/5 \\
+\hline
+4 & 3.5 & & & 842/7 \\
+\hline
+5 & 3.6 & & & 1011/8 \\
+\hline
+6 & 2.84 & & & 944/7 \\
+\hline
+7 & 2.56 & & & 910/7 \\
+\hline
+8 & 2.73 & 574/4.4 & & \\
+\hline
+9 & 2.3 & 246/2 & & 337/3 \\
+\hline
+10 & 4.4 & 574/4.4 & & \\
+\hline
+11 & 2.5 & 656/5 & & \\
+\hline
+12 & 4.5 & 3370/26 & & \\
+\hline
+13 & 2.51 & 492/4 & & \\
+\hline
+14 & 2.8 & 574/4.4 & & \\
+\hline
+15 & 3.45 & & & 410/3.2 \\
+\hline
+16 & 4.54 & & & 410,3.2 \\
+\hline
+17 & 3.9 & 246/2 & 798/6 & \\
+\hline
+18 & 2.55 & 328/2.5 & 798/6\% & \\
+\hline
+19 & 3.5 & 328/2.5 & 640/5 & \\
+\hline
+20-\textsubscript{15} & 1.47 & 107/1.3 & 1066/13 & \\
+\hline
+21 & 9.74 & 328/2.5 & 798//6 & 246/2 \\
+\hline
+22 & 3.18 & & 399/3 & 328/2.5 \\
+\hline
+23 & 3.23 & 164/1.3 & 798/6 & 164/1.3 \\
+\hline
+24-\textsubscript{15} & 1.6 & & 1020/12 & 357/4.2 \\
+\hline
+25 & 4.77 & 328/2.5 & 399/3 & 337/2.5 \\
+\hline
+26 & 4.33 & 164/1.2 & 798/6 & 337/2.5 \\
+\hline
+27 & 3.3 & 337/2.5 & 798/6 & 164/1.2 \\
+\hline
+28 & 9 & 337/2.5 & 798/6 & 505/4 \\
+\hline
+29 & 10 & 337/2.5 & 1596/12 & \\
+\hline
+30 & 3.22 & 328/.5 & 798/6 & 674/5.2 \\
+\hline
+31 & 4.62 & 246/2 & & 505/3.2 \\
+\hline
+32 & 2.3 & & & 1685/13 \\
+\hline
+33 & 9.1 & 164/1.3 & & 1685/13 \\
+\hline
+34 & 8.18 & 164/1.3 & & 2022/16 \\
+\hline
+35 & 4.37 & 1011/8 & & \\
+\hline
+36 & 1.35 & 7798/80 & & \\
+\hline
+37 & 4.43 & 337/1.5 & 798/6 & 674/5.2 \\
+\hline
+38 & 4.13 & 337/2.5 & 798/6 & 337/2.5 \\
+\hline
+39 & 22.3 & 505/4 & 1197/9. & 337/2.5 \\
 \end{longtable}
 
 \begin{figure}[H]
+\centering
+\begin{subfigure}[t]{0.45\textwidth}
   \centering
-  \includegraphics[width=0.8\textwidth]{image8}
+  \includegraphics[width=\textwidth]{image8}
   \caption*{Fig. 1- Program interface ""Comprehensive quality assessment and
 classification of multidimensional objects"}
+\end{subfigure}
+\hspace{0.05\textwidth}
+\begin{subfigure}[t]{0.45\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{image9}
+  \caption*{Fig. 2 - Shows the input of metrics for compounding concrete mixtures}
+\end{subfigure}
 \end{figure}
 
 Fig.1-Shows the interface of the program "Comprehensive quality
 assessment and classification of multidimensional objects". The data is
 entered directly from the keyboard{\bfseries .}
-
-\begin{figure}
-  \centering
-  \includegraphics[width=0.8\textwidth]{image9}
-  \caption*{Fig. 2 - Shows the input of metrics for compounding concrete mixtures}
-\end{figure}
 
 As a result of the program, the distribution of formulations of concrete
 mixtures of Table 1, Figure 3 was obtained. In each cluster there are
@@ -334,32 +446,30 @@ concrete mixtures with low strength indicators are located in clusters
 1-4. Table 2 shows the formulations, the composition of concrete
 mixtures with the highest strength indicators of 5 and 6 clusters.
 
-
-
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1486}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1629}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1812}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1449}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1631}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1486}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1629}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1812}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1449}}|
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1631}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1992}}@{}}
 \caption*{Table 2. Recipe of cluster 5-6} \\
 \toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
+\begin{minipage}[b]{\linewidth}\centering
 Cluster №
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 № recipes
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 Ravr.сompr.
 
 Mpa
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 ash
 
 g/\%
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 Metall. Slagg/\%
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 bauxite sludge
 
 g/\%
@@ -378,7 +488,6 @@ g/\%
 6 & RBS39 & 22.3 & 505/4 & 1197/9.2 & 337/2.5 \\
 \end{longtable}
 
-\begin{multicols}{2}
 {\bfseries Methods and materials}. As a software tool for clustering
 concrete mix formulations, we use the DBSCAN clustering algorithm
 {[}4-11{]}.
@@ -446,52 +555,21 @@ the distances between objects from the same class
 (cross-clusterdistance) will be greater than ϵ�.
 
 For our case, a table of distances between classes is formed in Figure 4.
-\end{multicols}
 
-\begin{lstlisting}[language=Python]
-library('reshape2')
-n <- dim(df.stand)[[1]] 
-euc.dist <- as.matrix(dist(df.stand))
-dist = melt(euc.dist)
-df.stand$cluster <- clus$cluster
-pairs <- data.frame(dist = dist, 
-                    ca = as.vector(outer(1:n, 1:n,
-                                         function(a, b) df.stand[a, 'cluster'])),
-                    cb = as.vector(outer(1:n, 1:n,
-                                         function(a, b) df.stand[b, 'cluster'])))
-dcast(pairs, ca ~ cb, value.var = 'dist.value', mean)
-\end{lstlisting}
-  
-\begin{lstlisting}
-##   ca         1        2        3        4        5
-## 1  1 0.8192236 3.740748 4.651124 2.865534 1.589380
-## 2  2 3.7407483 1.283606 2.556633 2.986930 3.136207
-## 3  3 4.6511236 2.556633 1.584229 2.777835 3.656428
-## 4  4 2.8655340 2.986930 2.777835 1.293573 1.822823
-## 5  5 1.5893797 3.136207 3.656428 1.822823 1.030227
-\end{lstlisting}
-\captionof*{listing}{Fig. 4 - Table of distances between classes}
+\begin{figure}
+  \centering
+  \includegraphics[width=0.6\textwidth]{image77}
+  \caption*{Fig. 4 - Table of distances between classes}
+\end{figure}
 
 From Figure 5, we see that the average intracluster distances are
 significantly smaller than the intercluster distances.
 
-\begin{lstlisting}[language=Python]
-c.pca <- prcomp(USArrests, center = TRUE, scale = TRUE) 
-d <- data.frame(x=c.pca$x[, 1], y=c.pca$x[, 2])
-d$cluster <- clus$cluster
-library('ggplot2')
-library('grDevices')
-h <- do.call(rbind, lapply(unique(clus$cluster),
-                           function(c) { f <- subset(d,cluster==c); f[chull(f),]}))
-ggplot() + geom_text(data = d, 
-                     aes(label = cluster, x = x, y = y, color = cluster), 
-                     size = 3) +
-    geom_polygon(data = h, 
-                 aes(x = x, y = y, group = cluster, fill = as.factor(cluster)),
-                 alpha = 0.4, linetype = 0) +
-    theme(legend.position = "none")
-\end{lstlisting}
-\captionof*{listing}{Fig. 5 - Dependencies of distances inside and outside clusters}
+\begin{figure}
+  \centering
+  \includegraphics[width=0.6\textwidth]{image78}
+  \caption*{Fig. 5 - Dependencies of distances inside and outside clusters}
+\end{figure}
 
 As a result, using the DBSCAN algorithm, the distribution of concrete
 mix formulations by class is obtained, as shown in Figure 6.
@@ -504,6 +582,7 @@ Figure 7 shows the clustering of concrete mix formulations.
   \includegraphics[width=\textwidth]{image13}
   \caption*{Fig. 6 - Results of the distribution of concrete mix recipe by class}
 \end{subfigure}
+\hspace{0.05\textwidth}
 \begin{subfigure}[b]{0.45\textwidth}
   \centering
   \includegraphics[width=\textwidth]{image14}
@@ -536,7 +615,9 @@ tools presented above for clustering man-made waste of the Pavlodar
 region.
 \end{multicols}
 
+\begin{center}
 {\bfseries Referenses}
+\end{center}
 
 \begin{enumerate}
 \item
@@ -546,15 +627,10 @@ waste waste and slags of metallurgical enterprises.-- Метаllurjia. -
 2022. - 61(1)213-216. Zagreb, p.321.
 
 \item
-Electronicresource
-:URL:\href{https://www.google.com/url?sa=t\&source=web\&rct=\%20j\&url=https://trends.rbc.ru}{https://www.google.com/url?sa=t\&source=web\&rct=
-j\&url=https://trends.rbc.ru}/trends/amp/news/61b359739a7947c7376ef7ce\&ved
-=2ahUKEwi8t6 uloOj-AhWPxosKHaboDG4QFnoECCAQAQ\&usg=
-AOvVaw2QeUcHkOYOZ3RdPy3Sttjx -Date of application 12.05.2023.
+Electronicresource URL: \href{https://trends.rbc.ru/trends/amp/news/61b359739a7947c7376ef7ce/}{https://trends.rbc.ru} -Date of application 12.05.2023.
 
 \item
-Electronic resource:URL: \url{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}
-- Date of application 12.05.2023.
+Electronic resource:URL: \href{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}{https://cyberleninka.ru} - Date of application 12.05.2023.
 
 \item
 Electronic resource: URL:\url{https://etu.ru/assets/files/nauka/}dissertacii /2009
@@ -565,22 +641,19 @@ Electronic resource: URL:\url{https://elibrary.ru/item.asp?id=45420956} - Date o
 12.05.2023.
 
 \item
-Electronic resource: URL:\url{https://habr.com/ru/articles/322034/}
--Date of application 12.05.2023.
+Electronic resource: URL:\url{https://habr.com/ru/articles/322034/} -Date of application 12.05.2023.
 
 \item
 Electronic resource:URL:
-\url{http://pzs.dstu.dp.ua/DataMining/cluster/bibl/\%25D0\%9A\%D0\%9B\%D0\%90\%D0\%A1\%D0\%A2\%D0\%95\%D0\%A0\%D0\%98\%D0\%97\%D0\%90\%D0\%A6\%D0\%98\%D0\%AF\%20\%D0\%9E\%D0\%91\%D0\%AA\%D0\%95\%D0\%9A\%D0\%A2\%D0\%9E\%D0\%92\%20\%D0\%A1\%20\%D0\%9F\%D0\%9E\%D0\%9C\%D0\%9E\%D0\%A9\%D0\%AC\%D0\%AE\%20\%D0\%90\%D0\%9B\%D0\%93\%D0\%9E\%D0\%A0\%D0\%98\%D0\%A2\%D0\%9C\%D0\%90\%20DBSCAN.pdf}
+\href{http://pzs.dstu.dp.ua/DataMining/cluster/bibl/\%25D0\%9A\%D0\%9B\%D0\%90\%D0\%A1\%D0\%A2\%D0\%95\%D0\%A0\%D0\%98\%D0\%97\%D0\%90\%D0\%A6\%D0\%98\%D0\%AF\%20\%D0\%9E\%D0\%91\%D0\%AA\%D0\%95\%D0\%9A\%D0\%A2\%D0\%9E\%D0\%92\%20\%D0\%A1\%20\%D0\%9F\%D0\%9E\%D0\%9C\%D0\%9E\%D0\%A9\%D0\%AC\%D0\%AE\%20\%D0\%90\%D0\%9B\%D0\%93\%D0\%9E\%D0\%A0\%D0\%98\%D0\%A2\%D0\%9C\%D0\%90\%20DBSCAN.pdf}{http://pzs.dstu.dp.ua/DataMining}
 - Date of application 12.05.2023.
 
 \item
-Electronicresource: URL:
-\url{https://www.math.spbu.ru/SD_AIS/documents/2014-05-341/2014-05-tw11.pdf}
+Electronicresource: URL: \href{https://www.math.spbu.ru/SD_AIS/documents/2014-05-341/2014-05-tw11.pdf}{https://www.math.spbu.ru}
 -Date of application 12.05.2023.
 
 \item
-Electronicresource:URL:
-\url{https://core.ac.uk/download/pdf/196226625.pdf} - date of
+Electronicresource:URL: \url{https://core.ac.uk/download/pdf/196226625.pdf} - date of
 application 12.05.2023.
 
 \item
@@ -590,11 +663,12 @@ Players in Social Networks // Computational Social Networks Analysis. --
 
 \item
 Electronic resource:URL:
-\href{https://kpfu.ru/portal/docs/F_1980845423/161_3\%20_phys\%20_mat_8.pdf}{https://kpfu.ru/portal/docs/F\_1980845423/161\_3
-\_phys \_mat\_8.pdf} - Date of application 12.05.2023.
+\href{https://kpfu.ru/portal/docs/F_1980845423/161_3\%20_phys\%20_mat_8.pdf}{https://kpfu.ru/portal/docs/F\_1980845423/161\_3\_phys\_mat\_8.pdf} - Date of application 12.05.2023.
 \end{enumerate}
 
+\begin{center}
 \emph{{\bfseries Information about the authors}}
+\end{center}
 
 \begin{itemize}
 \item
@@ -619,8 +693,9 @@ Department of "Information Technology", Kazakh University of Technology
 and Business, Astana, Republic of Kazakhstan email:tud62@yandex.ru
 \end{itemize}
 
+\begin{center}
 \emph{{\bfseries Сведения об авторах}}
-
+\end{center}
 
 \begin{itemize}
 \item

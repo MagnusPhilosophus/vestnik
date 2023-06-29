@@ -64,7 +64,9 @@
 % Redefine the format of the section title
 \titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
 \titleformat{\chapter}[display]
-  {\centering\normalfont\huge\bfseries}{}{20pt}{\Huge}
+  {\centering\normalfont\Large\bfseries}{}{3pt}{\huge}
+% Decrease the top margin for chapter titles
+\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
 % Additional packages
 % -------------------
 
@@ -105,3 +107,13 @@
 \renewcommand{\footrule}{\hbox to\headwidth{%
   \color{lightblue}\leaders\hrule height \footrulewidth\hfill}}
 \addto\captionsrussian{\renewcommand{\contentsname}{\large МАЗМҰНЫ – СОДЕРЖАНИЕ – CONTENTS}}
+
+\setlength{\parskip}{0.3em}
+\setlength{\parindent}{1em}
+\usepackage{enumitem}
+
+% Decrease padding in itemize
+\setlist[itemize]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
+
+% Decrease padding in enumerate
+\setlist[enumerate]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
