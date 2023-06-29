@@ -1,0 +1,123 @@
+% Document packages
+% -----------------
+
+% Font and language packages
+\usepackage{fontspec}                 % Kazakh and Russian fonts
+\setmainfont{FreeSerif}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+\usepackage{polyglossia}              % Multilingual support
+\setmainlanguage{russian}
+\setotherlanguages{english,kazakh}
+
+% Hyperlink and color packages
+\usepackage[hidelinks]{hyperref}      % Hyperlinks within the document
+\usepackage{xcolor}                   % Color support
+
+% Table packages
+\usepackage{booktabs}                 % Enhanced table formatting
+\usepackage{tabularx}                 % Enhanced table environments
+\usepackage{longtable}                % Tables spanning multiple pages
+\usepackage{multirow}                 % Multi-row cells in tables
+\usepackage{makecell}                 % Additional table commands
+\usepackage{chngcntr}                 % Customizing table and figure numbering
+
+% Graphics packages
+\usepackage{graphicx}                 % Including graphics in the document
+%\usepackage{wrapfig}                  % Wrapping text around figures
+
+% Mathematical packages
+\usepackage{amsmath}                  % Additional math symbols and environments
+\usepackage{amssymb}                  % Additional math symbols
+
+% Code listing package
+\usepackage{listings}                 % Code formatting and syntax highlighting
+\lstset{
+    language=C++,
+    basicstyle=\ttfamily,
+    keywordstyle=\color{blue}\ttfamily,
+    stringstyle=\color{red}\ttfamily,
+    commentstyle=\color{green}\ttfamily,
+    morecomment=[l][\color{magenta}]{\#},
+    numbers=left,
+    numberstyle=\color{gray},
+    breaklines=true,
+    breakatwhitespace=true,
+    tabsize=4
+}
+
+% Document settings
+% ----------------
+
+% Page layout package
+\usepackage[margin=3cm]{geometry}     % Customizing page layout and margins
+
+% Text formatting packages
+\usepackage[normalem]{ulem}           % Underlining and emphasis styles
+\usepackage{calc}                     % Mathematical calculations in LaTeX commands
+\usepackage{soul}                     % Additional text formatting options
+\usepackage{multicol}
+
+% Section formatting package
+\usepackage{sectsty}                  % Customizing section headings
+\usepackage{titlesec}
+% Redefine the format of the section title
+\titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
+\titleformat{\chapter}[display]
+  {\centering\normalfont\Large\bfseries}{}{3pt}{\huge}
+% Decrease the top margin for chapter titles
+\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
+% Additional packages
+% -------------------
+
+% Float and caption packages
+\usepackage{float}                    % Enhanced placement of figures and tables
+\usepackage{subcaption}               % Subfigures and subtables
+
+% Links and URL package
+\hypersetup{
+    colorlinks=true,                   % Color links instead of boxes
+    linkcolor=black,                    % Color of internal links
+    urlcolor=blue!80!black               % Color of external links
+}
+
+% Custom command
+%\newcommand{\addauthor}[1]{%
+%    \addtocontents{toc}{\hspace{15pt}\textbf{#1}} % Add author to table of contents
+%}
+
+% Graphics path
+\graphicspath{{assets}}
+
+% Colors
+\definecolor{lightblue}{RGB}{0,116,180}
+
+% Header packages
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+%\chead{\chaptermark}
+\usepackage{beamer}
+\fancyfoot[LE,RO]{\thepage}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{\secname}
+%\cfoot{\thepage}
+\renewcommand{\headrulewidth}{2pt}% 2pt header rule
+\renewcommand{\headrule}{\hbox to\headwidth{%
+  \color{lightblue}\leaders\hrule height \headrulewidth\hfill}}
+\setlength{\headheight}{22pt}
+\addtolength{\topmargin}{-10pt}
+\renewcommand{\footrulewidth}{2pt}
+\renewcommand{\footrule}{\hbox to\headwidth{%
+  \color{lightblue}\leaders\hrule height \footrulewidth\hfill}}
+\addto\captionsrussian{\renewcommand{\contentsname}{\large МАЗМҰНЫ – СОДЕРЖАНИЕ – CONTENTS}}
+
+\setlength{\parskip}{0.3em}
+\setlength{\parindent}{1em}
+\usepackage{enumitem}
+
+% Decrease padding in itemize
+\setlist[itemize]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
+
+% Decrease padding in enumerate
+\setlist[enumerate]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
