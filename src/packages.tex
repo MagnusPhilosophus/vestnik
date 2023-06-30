@@ -58,15 +58,6 @@
 \usepackage{soul}                     % Additional text formatting options
 \usepackage{multicol}
 
-% Section formatting package
-\usepackage{sectsty}                  % Customizing section headings
-\usepackage{titlesec}
-% Redefine the format of the section title
-\titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
-\titleformat{\chapter}[display]
-  {\centering\normalfont\Large\bfseries}{}{3pt}{\huge}
-% Decrease the top margin for chapter titles
-\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
 % Additional packages
 % -------------------
 
@@ -98,9 +89,9 @@
 \fancyhf{}
 \renewcommand{\sectionmark}[1]{ \markright{#1}{} }
 \renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
-\fancyfoot[LE,RO]{\thepage}
-\fancyhead[RE]{ҚазТБУ ХАБАРШЫСЫ - VESTNIK KazUTB - ВЕСТНИК КазУТБ}
-\fancyhead[LO]{\rightmark}
+\cfoot{\thepage}
+\fancyhead[CE]{\small ҚазТБУ ХАБАРШЫСЫ - VESTNIK KazUTB - ВЕСТНИК КазУТБ № 2 (19) - 2023}
+\fancyhead[CO]{\small \rightmark}
 \renewcommand{\headrulewidth}{2pt}% 2pt header rule
 \renewcommand{\headrule}{\hbox to\headwidth{%
   \color{lightblue}\leaders\hrule height \headrulewidth\hfill}}
@@ -120,3 +111,36 @@
 
 % Decrease padding in enumerate
 \setlist[enumerate]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
+
+
+% Section formatting package
+\usepackage{sectsty}                  % Customizing section headings
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{titletoc}
+% Redefine the format of the section title
+\titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
+\titleformat{\chapter}[display]
+  {\centering\normalfont\large\bfseries}{}{3pt}{\large}
+% Decrease the top margin for chapter titles
+\titlespacing*{\chapter}{0pt}{-80pt}{20pt}
+
+\makeatletter
+\let\latexl@chapter\l@chapter
+\def\l@chapter#1#2{\begingroup\let\numberline\@gobble\latexl@chapter{#1}{#2}\endgroup}
+\makeatother
+
+\makeatletter
+\let\latexl@section\l@section
+\def\l@section#1#2{\begingroup\let\numberline\@gobble\latexl@section{#1}{#2}\endgroup}
+\makeatother
+
+% Рис.1-
+\usepackage{caption}
+\renewcommand{\thefigure}{\arabic{figure}}
+\DeclareCaptionLabelFormat{custom}{#1 #2}
+\DeclareCaptionLabelSeparator{custom}{ - }
+\captionsetup{labelformat=custom, labelsep=custom}
+
+% Center table captions
+\captionsetup[table]{justification=centering}

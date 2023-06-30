@@ -77,6 +77,7 @@ e-mail: Akmail04cx@mail.ru
 {\bfseries Түйін сөздер}: кластерлеу, datamining, бетон қоспаларының
 формулалары, сапа критерийлері.
 
+\newpage
 \begin{center}
 {\large\bfseries ВОЗМОЖНОСТИ DATAMINING ДЛЯ КЛАСТЕРИЗАЦИИ РЕЦЕПТУР БЕТОННЫХ
 СМЕСЕЙ}
@@ -227,86 +228,12 @@ objects" in Russian was used. Data on the metrics of the recipe of
 concrete mixtures are presented in Table 1.
 \end{multicols}
 
-%% \begin{longtable}[]{@{}
-%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}
-%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1510}}
-%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}
-%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}
-%%   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}}
-%% \caption*{Table 1. Recipe of concrete mixtures} \\
-%% \toprule\noalign{}
-%% \multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
-%% № recipes
-%% \end{minipage}} &
-%% \multicolumn{4}{>{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.8303} + 6\tabcolsep}@{}}{%
-%% \begin{minipage}[b]{\linewidth}\raggedright
-%% Composition of the concrete mix
-%% \end{minipage}} \\
-%% & \begin{minipage}[b]{\linewidth}\raggedright
-%% Ravr. Compr.Mpa
-%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-%% ash
-
-%% g/\%
-%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-%% Metall. Slag g/\%
-%% \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-%% bauxite sludge
-
-%% g/\%
-%% \end{minipage} \\
-%% \midrule\noalign{}
-%% \endhead
-%% \bottomrule\noalign{}
-%% \endlastfoot
-%% 1 & 11\hfill\textsuperscript{3.} & & & 337/3 \\
-%% 2 & 7\hfill\textsuperscript{3.} & & & 505/4 \\
-%% 3 & 32\hfill\textsuperscript{8.} & & & 674/5 \\
-%% 4 & 5\hfill\textsuperscript{3.} & & & 842/7 \\
-%% 5 & 6\hfill\textsuperscript{3.} & & & 1011/8 \\
-%% 6 & 84\hfill\textsuperscript{2.} & & & 944/7 \\
-%% 7 & 56\hfill\textsuperscript{2.} & & & 910/7 \\
-%% 8 & 73\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-%% 9 & 3\hfill\textsuperscript{2.} & 46/2\hfill\textsuperscript{2.} & & 337/3 \\
-%% 10 & 4\hfill\textsuperscript{4.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-%% 11 & 5\hfill\textsuperscript{2.} & 56/5\hfill\textsuperscript{6.} & & \\
-%% 12 & 5\hfill\textsuperscript{4.} & 370/26\hfill\textsuperscript{3.} & & \\
-%% 13 & 51\hfill\textsuperscript{2.} & 92/4\hfill\textsuperscript{4.} & & \\
-%% 14 & 8\hfill\textsuperscript{2.} & 74/4.4\hfill\textsuperscript{5.} & & \\
-%% 15 & 45\hfill\textsuperscript{3.} & & & 410/3.2 \\
-%% 16 & 54\hfill\textsuperscript{4.} & & & 410,3.2 \\
-%% 17 & 9\hfill\textsuperscript{3.} & 246/2\hfill\textsuperscript{2.} & 798/6 & \\
-%% 18 & 55\hfill\textsuperscript{2.} & 328/2.5\hfill\textsuperscript{2.} & 798/6\% & \\
-%% 19 & 5\hfill\textsuperscript{3.} & 328/2.5\hfill\textsuperscript{2.} & 640/5 & \\
-%% 20-\textsubscript{15} & 1.47\hfill\textsuperscript{4.} & 107/1.3\hfill\textsuperscript{2.} & 1066/13 & \\
-%% 21 & 74\hfill\textsuperscript{9.} & 28/2.5\hfill\textsuperscript{3.} & 798//6 & 246/2 \\
-%% 22 & 18\hfill\textsuperscript{3.} & & 399/3 & 328/2.5 \\
-%% 23 & 23\hfill\textsuperscript{3.} & 64/1.3\hfill\textsuperscript{1.} & 798/6 & 164/1.3 \\
-%% 24-\textsubscript{15} & 1.6\hfill\textsuperscript{4.} & & 1020/12 & 357/4.2 \\
-%% 25 & 77\hfill\textsuperscript{4.} & 28/2.5\hfill\textsuperscript{3.} & 399/3 & 337/2.5 \\
-%% 26 & 33\hfill\textsuperscript{4.} & 64/1.2\hfill\textsuperscript{1.} & 798/6 & 337/2.5 \\
-%% 27 & 3\hfill\textsuperscript{3.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 164/1.2 \\
-%% 28 & \hfill\textsuperscript{9.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 505/4 \\
-%% 29 & \hfill\textsuperscript{10.} & 37/2.5\hfill\textsuperscript{3.} & 1596/12 & \\
-%% 30 & 22\hfill\textsuperscript{3.} & 328/.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
-%% 31 & 62\hfill\textsuperscript{4.} & 46/2\hfill\textsuperscript{2.} & & 505/3.2 \\
-%% 32 & 3\hfill\textsuperscript{2.} & & & 1685/13 \\
-%% 33 & 1\hfill\textsuperscript{9.} & 64/1.3\hfill\textsuperscript{1.} & & 1685/13 \\
-%% 34 & 18\hfill\textsuperscript{8.} & 64/1.3\hfill\textsuperscript{1.} & & 2022/16 \\
-%% 35 & 37\hfill\textsuperscript{4.} & 011/8\hfill\textsuperscript{2.} & & \\
-%% 36 & 35\hfill\textsuperscript{1.} & 798/80\hfill\textsuperscript{7.} & & \\
-%% 37 & 43\hfill\textsuperscript{4.} & 37/1.5\hfill\textsuperscript{3.} & 798/6 & 674/5.2 \\
-%% 38 & 13\hfill\textsuperscript{4.} & 37/2.5\hfill\textsuperscript{3.} & 798/6 & 337/2.5 \\
-%% 39 & 3\hfill\textsuperscript{22.} & 05/4\hfill\textsuperscript{5.} & 1197/9. & 337/2.5 \\
-%% \end{longtable}
-
-
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}|
+  |>{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1697}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1510}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1322}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1321}}|
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4151}}@{}|}
 \caption*{Table 1. Recipe of concrete mixtures} \\
 \toprule\noalign{}
 \multirow{2}{*}{№ recipes} &
@@ -324,6 +251,7 @@ bauxite sludge
 g/\%
 \end{minipage} \\
 \midrule\noalign{}
+\endfirsthead
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
@@ -556,20 +484,22 @@ the distances between objects from the same class
 
 For our case, a table of distances between classes is formed in Figure 4.
 
-\begin{figure}
+\begin{figure}[H]
+\begin{subfigure}[b]{0.5\linewidth}
   \centering
-  \includegraphics[width=0.6\textwidth]{image77}
+  \includegraphics[width=\linewidth]{image77}
   \caption*{Fig. 4 - Table of distances between classes}
+\end{subfigure}
+\begin{subfigure}[b]{0.5\linewidth}
+  \centering
+  \includegraphics[width=\linewidth]{image78}
+  \caption*{Fig. 5 - Dependencies of distances inside and outside clusters}
+\end{subfigure}
 \end{figure}
 
 From Figure 5, we see that the average intracluster distances are
 significantly smaller than the intercluster distances.
 
-\begin{figure}
-  \centering
-  \includegraphics[width=0.6\textwidth]{image78}
-  \caption*{Fig. 5 - Dependencies of distances inside and outside clusters}
-\end{figure}
 
 As a result, using the DBSCAN algorithm, the distribution of concrete
 mix formulations by class is obtained, as shown in Figure 6.
@@ -623,7 +553,7 @@ region.
 \item
 Akishev K and other. Mathematical formulation and the problem
 solution of clustering recipes of concrete mixtures using technogenic
-waste waste and slags of metallurgical enterprises.-- Метаllurjia. -
+waste waste and slags of metallurgical enterprises.- Метаllurjia. -
 2022. - 61(1)213-216. Zagreb, p.321.
 
 \item
@@ -633,15 +563,14 @@ Electronicresource URL: \href{https://trends.rbc.ru/trends/amp/news/61b359739a79
 Electronic resource:URL: \href{https://cyberleninka.ru/article/n/analiz-i-klassifikatsiya-algoritmov-klasterizatsii}{https://cyberleninka.ru} - Date of application 12.05.2023.
 
 \item
-Electronic resource: URL:\url{https://etu.ru/assets/files/nauka/}dissertacii /2009
-/SIElizarov.doc. -date of application 12.05.2023.
+Electronic resource: URL:\href{https://etu.ru/assets/files/nauka/dissertacii/2009/SIElizarov.doc}{https://etu.ru}. -date of application 12.05.2023.
 
 \item
-Electronic resource: URL:\url{https://elibrary.ru/item.asp?id=45420956} - Date of application
+Electronic resource: URL:\href{https://elibrary.ru/item.asp?id=45420956}{https://elibrary.ru} - Date of application
 12.05.2023.
 
 \item
-Electronic resource: URL:\url{https://habr.com/ru/articles/322034/} -Date of application 12.05.2023.
+Electronic resource: URL:\href{https://habr.com/ru/articles/322034/}{https://habr.com} -Date of application 12.05.2023.
 
 \item
 Electronic resource:URL:
@@ -653,22 +582,20 @@ Electronicresource: URL: \href{https://www.math.spbu.ru/SD_AIS/documents/2014-05
 -Date of application 12.05.2023.
 
 \item
-Electronicresource:URL: \url{https://core.ac.uk/download/pdf/196226625.pdf} - date of
+Electronicresource:URL: \href{https://core.ac.uk/download/pdf/196226625.pdf}{https://core.ac.uk} - date of
 application 12.05.2023.
 
 \item
 Electronic resource :URL: Ortiz-Arroyo D. Discovering Sets of Key
-Players in Social Networks // Computational Social Networks Analysis. --
-2010 -- C. 27-47 {[}Date of application 12.05.2023.
+Players in Social Networks // Computational Social Networks Analysis. -
+2010 - C. 27-47 {[}Date of application 12.05.2023.
 
 \item
 Electronic resource:URL:
 \href{https://kpfu.ru/portal/docs/F_1980845423/161_3\%20_phys\%20_mat_8.pdf}{https://kpfu.ru/portal/docs/F\_1980845423/161\_3\_phys\_mat\_8.pdf} - Date of application 12.05.2023.
 \end{enumerate}
 
-\begin{center}
 \emph{{\bfseries Information about the authors}}
-\end{center}
 
 \begin{itemize}
 \item
@@ -693,9 +620,7 @@ Department of "Information Technology", Kazakh University of Technology
 and Business, Astana, Republic of Kazakhstan email:tud62@yandex.ru
 \end{itemize}
 
-\begin{center}
 \emph{{\bfseries Сведения об авторах}}
-\end{center}
 
 \begin{itemize}
 \item

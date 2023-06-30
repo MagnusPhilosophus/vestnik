@@ -14,8 +14,8 @@
         %\input{src/5.tex}
         %\input{src/6.tex}
         %\input{src/7.tex}
-        \input{src/8.tex}
-        %\input{src/9.tex}
+        %\input{src/8.tex}
+        \input{src/9.tex}
         %\input{src/10.tex}
         %\input{src/11.tex}
         %\input{src/12.tex}
