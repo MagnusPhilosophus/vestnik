@@ -107,11 +107,12 @@
 \usepackage{enumitem}
 
 % Decrease padding in itemize
-\setlist[itemize]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
+\setlist[itemize]{itemsep=0pt, topsep=0pt, leftmargin=*}%, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
 
 % Decrease padding in enumerate
-\setlist[enumerate]{itemsep=0.3em, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
+\setlist[enumerate]{itemsep=0pt, topsep=0pt, leftmargin=*}%, partopsep=0pt, parsep=0pt, leftmargin=0.5em}
 
+\setlength\multicolsep{0pt}
 
 % Section formatting package
 \usepackage{sectsty}                  % Customizing section headings
@@ -140,7 +141,11 @@
 \renewcommand{\thefigure}{\arabic{figure}}
 \DeclareCaptionLabelFormat{custom}{#1 #2}
 \DeclareCaptionLabelSeparator{custom}{ - }
-\captionsetup{labelformat=custom, labelsep=custom}
+\captionsetup{labelformat=custom, labelsep=custom, justification=centering}
 
 % Center table captions
+\numberwithin{table}{section}
+\renewcommand{\thetable}{\arabic{table}}
 \captionsetup[table]{justification=centering}
+
+\renewcommand{\theequation}{\arabic{equation}}

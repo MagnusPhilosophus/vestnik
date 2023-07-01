@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"0bd9b8508041fb8b20576840a95163cb2b55c452"
+"72c90602d7d3b0be14d825df1af3708c6483824d"
 [nil nil nil nil (25752 31352 507026 675000) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 1 . 2) (#("
 " 0 1 (fontified nil)) . -50093) (1 . 50094) (t 25752 31343 730522 989000)) nil (25752 31352 507023 812000) 0 nil])
@@ -1594,6 +1594,106 @@ nil
 nil
 ([nil nil ((#("\\begin{center}
 " 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 13 (latex-env-pair t fontified t face font-lock-function-name-face) 13 14 (latex-env-pair t fontified t) 14 15 (fontified t)) . 49764) (undo-tree-id232 . -14) (undo-tree-id233 . -15)) nil (25758 45140 853701 259000) 0 nil])
-([nil current ((#("\\end{center}
+([nil nil ((#("\\end{center}
 " 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 11 (latex-env-pair t fontified t face font-lock-function-name-face) 11 12 (latex-env-pair t fontified t) 12 13 (fontified t)) . 49809) (undo-tree-id230 . -12) (undo-tree-id231 . -13)) nil (25758 45140 853694 945000) 0 nil])
+([nil nil ((apply -21 31808 32041 undo--wrap-and-run-primitive-undo 31808 32041 ((32016 . 32019) (31999 . 32002) (31916 . 31919) (31865 . 31868) (31849 . 31852) (31828 . 31831) (31808 . 31811))) (t 25758 45140 868312 883000)) nil (25759 54534 694195 851000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 32040 . 32041) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -32272) (32040 . 32273)) nil (25759 54534 694194 507000) 0 nil])
+([nil nil ((apply 21 32041 32252 undo--wrap-and-run-primitive-undo 32041 32252 ((#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32231) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32217) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32137) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32089) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32076) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32058) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -32041) 32273))) nil (25759 54534 694193 122000) 0 nil])
+([nil nil ((#("\\begin{multicols}{2}
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 16 (latex-env-pair t fontified t face font-lock-function-name-face) 16 17 (latex-env-pair t fontified t) 17 20 (fontified t) 20 21 (fontified t)) . 32231) (undo-tree-id287 . -20) (undo-tree-id288 . -20) (undo-tree-id289 . -21)) nil (25759 54534 694192 156000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 32230) (undo-tree-id276 . -1) (undo-tree-id277 . -1) (undo-tree-id278 . -1) (undo-tree-id279 . -1) (undo-tree-id280 . -1) (undo-tree-id281 . -1) (undo-tree-id282 . -1) (undo-tree-id283 . -1) (undo-tree-id284 . -1) (undo-tree-id285 . -1) (undo-tree-id286 . -1)) nil (25759 54534 694188 597000) 0 nil])
+([nil nil ((#("\\end{multicols}
+" 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 14 (latex-env-pair t fontified t face font-lock-function-name-face) 14 15 (latex-env-pair t fontified t) 15 16 (fontified t)) . 32041) (undo-tree-id274 . -15) (undo-tree-id275 . -16)) nil (25759 54534 694178 812000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 32041) (undo-tree-id273 . -1)) nil (25759 54534 694176 315000) 0 nil])
+([nil nil ((#("\\begin{figure}[H]
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 13 (latex-env-pair t fontified t face font-lock-function-name-face) 13 14 (latex-env-pair t fontified t) 14 17 (fontified t) 17 18 (fontified t)) . 32041) (undo-tree-id270 . -17) (undo-tree-id271 . -17) (undo-tree-id272 . -18)) nil (25759 54534 694174 339000) 0 nil])
+([nil nil ((#("\\end{figure}
+" 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 11 (latex-env-pair t fontified t face font-lock-function-name-face) 11 12 (latex-env-pair t fontified t) 12 13 (fontified t)) . 32182) (undo-tree-id255 . -13) (undo-tree-id256 . -12) (undo-tree-id257 . -13) (undo-tree-id258 . -13) (undo-tree-id259 . -13) (undo-tree-id260 . -13) (undo-tree-id261 . -13) (undo-tree-id262 . -13) (undo-tree-id263 . -13) (undo-tree-id264 . -13) (undo-tree-id265 . -13) (undo-tree-id266 . -13) (undo-tree-id267 . -13) (undo-tree-id268 . -13) (undo-tree-id269 . -13)) nil (25759 54534 694170 183000) 0 nil])
+([nil nil ((32041 . 32042)) nil (25759 54534 694287 936000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 32042) (undo-tree-id333 . 1) (undo-tree-id334 . -1) (undo-tree-id335 . -1)) nil (25759 54555 866002 448000) 0 nil] [nil nil ((32054 . 32055) (#("  " 0 2 (fontified nil)) . 32054) (#("
+" 0 1 (fontified t)) . -32054) (undo-tree-id254 . -1) 32041) ((32054 . 32055) (32054 . 32056) (#(" " 0 1 (fontified t)) . 32054)) (25759 54534 694151 407000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 32042) (undo-tree-id330 . 1) (undo-tree-id331 . -1) (undo-tree-id332 . -1)) nil (25759 54555 865999 146000) 0 nil])
+nil
+([nil nil ((32180 . 32181)) nil (25759 54555 865995 930000) 0 nil])
+([nil nil ((32115 . 32121) (#("i" 0 1 (fontified t)) . -32115) (undo-tree-id329 . -1) (32111 . 32116)) nil (25759 54570 107510 399000) 0 nil])
+([nil nil ((#("0.8\\textwidth" 0 3 (fontified t) 3 13 (fontified t face font-lock-keyword-face)) . 32078) (undo-tree-id358 . -12) (undo-tree-id359 . -13)) nil (25759 54575 145810 110000) 0 nil] [nil nil ((#("0.8\\textwidth]{image4" 0 3 (fontified t) 3 13 (fontified t face font-lock-keyword-face) 13 15 (fontified t) 15 21 (fontified t face font-lock-builtin-face)) . 32078) (undo-tree-id336 . -20) (undo-tree-id337 . -21) (undo-tree-id338 . -21)) ((32078 . 32099)) (25759 54569 707109 376000) 0 nil] [nil nil ((32078 . 32079) (#("0.8\\textwidth]{image4}
+  \\captionof{figure}{Стандартная архитектура системы пожарной безопасности на основе IoT}}
+Системы оповещения и эвакуации граждан являются важной частью общей
+системы пожарной безопасности. Они предназначены для предупреждения
+людей о возможной опасности и организации эвакуации в случае пожара.
+Существуют различные типы систем оповещения и эвакуации граждан, которые
+могут быть использованы в зависимости от конкретной ситуации." 0 3 (fontified t) 3 13 (fontified t face font-lock-keyword-face) 13 15 (fontified t) 15 21 (fontified t face font-lock-builtin-face) 21 23 (fontified t) 23 25 (fontified t) 25 35 (fontified t face font-lock-keyword-face) 35 43 (fontified t) 43 114 (fontified t) 114 181 (fontified t) 181 182 (fontified t) 182 453 (fontified t)) . 32078) (undo-tree-id290 . 410) (undo-tree-id291 . 339) (undo-tree-id292 . -114) (undo-tree-id293 . -452) (undo-tree-id294 . -114) (undo-tree-id295 . -114) (undo-tree-id296 . -114) (undo-tree-id297 . -114) (undo-tree-id298 . -114) (undo-tree-id299 . -114) (undo-tree-id300 . -114) (undo-tree-id301 . -114) (undo-tree-id302 . -114) (undo-tree-id303 . -114) (undo-tree-id304 . -114) (undo-tree-id305 . -114) (undo-tree-id306 . -112) (undo-tree-id307 . -112) (undo-tree-id308 . -113) (undo-tree-id309 . -112) (undo-tree-id310 . -112) (undo-tree-id311 . -112) (undo-tree-id312 . -112) (undo-tree-id313 . -33) (undo-tree-id314 . -33) (undo-tree-id315 . -35) (undo-tree-id316 . -35) (undo-tree-id317 . -35) (undo-tree-id318 . -35) (undo-tree-id319 . -39) (undo-tree-id320 . -39) (undo-tree-id321 . -43) (undo-tree-id322 . -43) (undo-tree-id323 . -42) (undo-tree-id324 . -42) (undo-tree-id325 . -42) (undo-tree-id326 . -42) (undo-tree-id327 . -453) (undo-tree-id328 . -453)) ((32078 . 32531) (#("u" 0 1 (fontified t)) . 32078)) (25759 54555 865986 10000) 0 nil])
+([nil nil ((32078 . 32085)) nil (25759 54575 145799 430000) 0 nil])
+([nil nil ((32078 . 32085)) ((#("\\column" 0 7 (fontified t face font-lock-keyword-face)) . 32078) (undo-tree-id348 . -7) (undo-tree-id349 . -7) (undo-tree-id350 . -7) (undo-tree-id351 . -7) (undo-tree-id352 . -7) (undo-tree-id353 . -7) (undo-tree-id354 . -7) (undo-tree-id355 . -7) (undo-tree-id356 . -7) (undo-tree-id357 . -7)) (25759 54569 323921 846000) 0 nil])
+nil
+([nil nil ((32085 . 32090)) nil (25759 54575 145794 410000) 0 nil])
+([nil nil ((32085 . 32090)) ((#("width" 0 5 (fontified t face font-lock-keyword-face)) . 32085) (undo-tree-id339 . -5) (undo-tree-id340 . -4) (undo-tree-id341 . -5) (undo-tree-id342 . -5) (undo-tree-id343 . -4) (undo-tree-id344 . -4) (undo-tree-id345 . -4) (undo-tree-id346 . -4) (undo-tree-id347 . -4) (t 25759 54560 35339 617000)) (25759 54560 21750 569000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t)) . -32191) (undo-tree-id369 . -2) (undo-tree-id370 . -2) (undo-tree-id371 . -2) (undo-tree-id372 . -2) 32193 (32190 . 32193) (t 25759 54575 162006 358000) 32136) nil (25759 54618 922924 336000) 0 nil])
+nil
+([nil nil ((#("%% \\end{multicols}
+
+%% \\begin{figure}[H]
+%%   \\centering
+%%   \\includegraphics[width=0.8\\textwidth]{image4}
+%%   \\caption{Стандартная архитектура системы пожарной безопасности на основе IoT}
+%% \\end{figure}
+
+%% \\begin{multicols}{2}
+
+" 0 3 (fontified t face font-lock-comment-delimiter-face) 3 7 (fontified t face font-lock-comment-face) 7 8 (latex-env-pair t fontified t face font-lock-comment-face) 8 17 (latex-env-pair t fontified t face font-lock-comment-face) 17 18 (latex-env-pair t fontified t face font-lock-comment-face) 18 19 (fontified t face font-lock-comment-face) 19 20 (fontified t) 20 23 (fontified t face font-lock-comment-delimiter-face) 23 29 (fontified t face font-lock-comment-face) 29 30 (latex-env-pair t fontified t face font-lock-comment-face) 30 36 (latex-env-pair t fontified t face font-lock-comment-face) 36 37 (latex-env-pair t fontified t face font-lock-comment-face) 37 41 (fontified t face font-lock-comment-face) 41 44 (fontified t face font-lock-comment-delimiter-face) 44 46 (fontified t face font-lock-comment-delimiter-face) 46 56 (fontified t face font-lock-comment-face) 56 57 (fontified t face font-lock-comment-face) 57 60 (fontified t face font-lock-comment-delimiter-face) 60 62 (fontified t face font-lock-comment-delimiter-face) 62 63 (fontified t face font-lock-comment-face) 63 78 (fontified t face font-lock-comment-face) 78 88 (fontified t face font-lock-comment-face) 88 98 (fontified t face font-lock-comment-face) 98 100 (fontified t face font-lock-comment-face) 100 106 (fontified t face font-lock-comment-face) 106 108 (fontified t face font-lock-comment-face) 108 111 (fontified t face font-lock-comment-delimiter-face) 111 113 (fontified t face font-lock-comment-delimiter-face) 113 121 (fontified t face font-lock-comment-face) 121 191 (fontified t face font-lock-comment-face) 191 194 (fontified t face font-lock-comment-delimiter-face) 194 198 (fontified t face font-lock-comment-face) 198 199 (latex-env-pair t fontified t face font-lock-comment-face) 199 205 (latex-env-pair t fontified t face font-lock-comment-face) 205 206 (latex-env-pair t fontified t face font-lock-comment-face) 206 207 (fontified t face font-lock-comment-face) 207 208 (fontified t) 208 211 (fontified t face font-lock-comment-delimiter-face) 211 217 (fontified t face font-lock-comment-face) 217 218 (latex-env-pair t fontified t face font-lock-comment-face) 218 227 (latex-env-pair t fontified t face font-lock-comment-face) 227 228 (latex-env-pair t fontified t face font-lock-comment-face) 228 231 (fontified t face font-lock-comment-face) 231 232 (fontified t face font-lock-comment-face) 232 233 (fontified t rear-nonsticky t)) . 31808) (undo-tree-id360 . -232) (undo-tree-id361 . -232) (undo-tree-id362 . -232) (undo-tree-id363 . -233) (undo-tree-id364 . -233) (undo-tree-id365 . -232) (undo-tree-id366 . -232) (undo-tree-id367 . -232) (undo-tree-id368 . -233)) nil (25759 54618 922914 847000) 0 nil])
+([nil nil ((#("\\end{multicols}
+
+\\begin{figure}[H]
+  \\centering
+  \\includegraphics[width=0.8\\textwidth]{image5}
+  \\caption{Система речевого оповещения о пожаре серии Альфа}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+" 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 14 (latex-env-pair t fontified t face font-lock-function-name-face) 14 15 (latex-env-pair t fontified t) 15 17 (fontified t) 17 23 (fontified t face font-lock-keyword-face) 23 24 (latex-env-pair t fontified t) 24 30 (latex-env-pair t fontified t face font-lock-function-name-face) 30 31 (latex-env-pair t fontified t) 31 37 (fontified t) 37 47 (fontified t face font-lock-keyword-face) 47 48 (fontified t) 48 50 (fontified t) 50 51 (face font-lock-keyword-face fontified t) 51 66 (fontified t face font-lock-keyword-face) 66 76 (fontified t) 76 86 (fontified t face font-lock-keyword-face) 86 88 (fontified t) 88 94 (fontified t face font-lock-builtin-face) 94 98 (fontified t) 98 106 (fontified t face font-lock-keyword-face) 106 157 (fontified t) 157 161 (fontified t face font-lock-keyword-face) 161 162 (latex-env-pair t fontified t) 162 168 (latex-env-pair t fontified t face font-lock-function-name-face) 168 169 (latex-env-pair t fontified t) 169 171 (fontified t) 171 177 (fontified t face font-lock-keyword-face) 177 178 (latex-env-pair t fontified t) 178 187 (latex-env-pair t fontified t face font-lock-function-name-face) 187 188 (latex-env-pair t fontified t) 188 193 (fontified t)) . 39944) (undo-tree-id373 . -192) (undo-tree-id374 . -192) (undo-tree-id375 . -192) (undo-tree-id376 . -170) (undo-tree-id377 . -51) (undo-tree-id378 . -48) (undo-tree-id379 . -51) (undo-tree-id380 . -51) (undo-tree-id381 . -170) (undo-tree-id382 . -170) (undo-tree-id383 . -170) (undo-tree-id384 . -170) (undo-tree-id385 . -170) (undo-tree-id386 . -170) (undo-tree-id387 . -170) (undo-tree-id388 . -170) (undo-tree-id389 . -193) (undo-tree-id390 . -192) (undo-tree-id391 . -192) (undo-tree-id392 . -192) (undo-tree-id393 . -193) (t 25759 54618 938673 227000)) nil (25759 54728 74946 34000) 0 nil])
+([nil current ((nil rear-nonsticky nil 41093 . 41094) (#("
+" 0 1 (fontified nil)) . -41286) (41093 . 41287)) nil (25759 54729 126615 462000) 0 nil] [nil nil ((nil rear-nonsticky nil 41092 . 41093) (#("
+" 0 1 (fontified nil)) . -41285) (41092 . 41286) 41040) ((#("
+\\end{multicols}
+
+\\begin{figure}[H]
+  \\centering
+  \\includegraphics[width=0.8\\textwidth]{image5}
+  \\caption{Система речевого оповещения о пожаре серии Альфа}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 5 (fontified nil face font-lock-keyword-face) 5 6 (latex-env-pair t fontified nil) 6 15 (latex-env-pair t fontified nil face font-lock-function-name-face) 15 16 (latex-env-pair t fontified nil) 16 17 (fontified nil) 17 18 (fontified t) 18 24 (fontified t face font-lock-keyword-face) 24 25 (latex-env-pair t fontified t) 25 31 (latex-env-pair t fontified t face font-lock-function-name-face) 31 32 (latex-env-pair t fontified t) 32 38 (fontified t) 38 48 (fontified t face font-lock-keyword-face) 48 49 (fontified t) 49 51 (fontified t) 51 52 (fontified t face font-lock-keyword-face) 52 67 (fontified t face font-lock-keyword-face) 67 77 (fontified t) 77 87 (fontified t face font-lock-keyword-face) 87 89 (fontified t) 89 95 (fontified t face font-lock-builtin-face) 95 99 (fontified t) 99 107 (fontified t face font-lock-keyword-face) 107 158 (fontified t) 158 162 (fontified t face font-lock-keyword-face) 162 163 (latex-env-pair t fontified t) 163 169 (latex-env-pair t fontified t face font-lock-function-name-face) 169 170 (latex-env-pair t fontified t) 170 172 (fontified t) 172 178 (fontified t face font-lock-keyword-face) 178 179 (latex-env-pair t fontified t) 179 188 (latex-env-pair t fontified t face font-lock-function-name-face) 188 189 (latex-env-pair t fontified t) 189 193 (fontified t) 193 194 (fontified nil)) . 41092) (undo-tree-id406 . -193) (undo-tree-id407 . -1) (undo-tree-id408 . -193) (undo-tree-id409 . -1) (undo-tree-id410 . -1) (undo-tree-id411 . -1) (41285 . 41286) (nil rear-nonsticky t 41092 . 41093)) (25759 54728 74834 858000) 0 nil] [nil nil ((nil rear-nonsticky nil 41306 . 41307) (#("
+" 0 1 (fontified nil)) . -41499) (41306 . 41500)) ((#("
+\\end{multicols}
+
+\\begin{figure}[H]
+  \\centering
+  \\includegraphics[width=0.8\\textwidth]{image5}
+  \\caption{Система речевого оповещения о пожаре серии Альфа}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 5 (fontified nil face font-lock-keyword-face) 5 6 (latex-env-pair t fontified nil) 6 15 (latex-env-pair t fontified nil face font-lock-function-name-face) 15 16 (latex-env-pair t fontified nil) 16 17 (fontified nil) 17 18 (fontified t) 18 24 (fontified t face font-lock-keyword-face) 24 25 (latex-env-pair t fontified t) 25 31 (latex-env-pair t fontified t face font-lock-function-name-face) 31 32 (latex-env-pair t fontified t) 32 38 (fontified t) 38 48 (fontified t face font-lock-keyword-face) 48 49 (fontified t) 49 51 (fontified t) 51 52 (fontified t face font-lock-keyword-face) 52 67 (fontified t face font-lock-keyword-face) 67 77 (fontified t) 77 87 (fontified t face font-lock-keyword-face) 87 89 (fontified t) 89 95 (fontified t face font-lock-builtin-face) 95 99 (fontified t) 99 107 (fontified t face font-lock-keyword-face) 107 158 (fontified t) 158 162 (fontified t face font-lock-keyword-face) 162 163 (latex-env-pair t fontified t) 163 169 (latex-env-pair t fontified t face font-lock-function-name-face) 169 170 (latex-env-pair t fontified t) 170 172 (fontified t) 172 178 (fontified t face font-lock-keyword-face) 178 179 (latex-env-pair t fontified t) 179 188 (latex-env-pair t fontified t face font-lock-function-name-face) 188 189 (latex-env-pair t fontified t) 189 193 (fontified t) 193 194 (fontified nil)) . 41306) (undo-tree-id397 . -193) (undo-tree-id398 . -1) (undo-tree-id399 . -193) (undo-tree-id400 . -1) (undo-tree-id401 . -1) (undo-tree-id402 . -1) (undo-tree-id403 . -1) (undo-tree-id404 . -1) (undo-tree-id405 . -1) (41499 . 41500) (nil rear-nonsticky t 41306 . 41307) (t 25759 54686 2006 874000)) (25759 54685 987334 691000) 0 nil] [nil nil ((nil rear-nonsticky nil 41305 . 41306) (#("
+" 0 1 (fontified nil)) . -41498) (41305 . 41499) 41292) ((#("
+\\end{multicols}
+
+\\begin{figure}[H]
+  \\centering
+  \\includegraphics[width=0.8\\textwidth]{image5}
+  \\caption{Система речевого оповещения о пожаре серии Альфа}
+\\end{figure}
+
+\\begin{multicols}{2}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 5 (fontified nil face font-lock-keyword-face) 5 6 (latex-env-pair t fontified nil) 6 15 (latex-env-pair t fontified nil face font-lock-function-name-face) 15 16 (latex-env-pair t fontified nil) 16 17 (fontified nil) 17 18 (fontified t) 18 24 (fontified t face font-lock-keyword-face) 24 25 (latex-env-pair t fontified t) 25 31 (latex-env-pair t fontified t face font-lock-function-name-face) 31 32 (latex-env-pair t fontified t) 32 38 (fontified t) 38 48 (fontified t face font-lock-keyword-face) 48 49 (fontified t) 49 51 (fontified t) 51 52 (fontified t face font-lock-keyword-face) 52 67 (fontified t face font-lock-keyword-face) 67 77 (fontified t) 77 87 (fontified t face font-lock-keyword-face) 87 89 (fontified t) 89 95 (fontified t face font-lock-builtin-face) 95 99 (fontified t) 99 107 (fontified t face font-lock-keyword-face) 107 158 (fontified t) 158 162 (fontified t face font-lock-keyword-face) 162 163 (latex-env-pair t fontified t) 163 169 (latex-env-pair t fontified t face font-lock-function-name-face) 169 170 (latex-env-pair t fontified t) 170 172 (fontified t) 172 178 (fontified t face font-lock-keyword-face) 178 179 (latex-env-pair t fontified t) 179 188 (latex-env-pair t fontified t face font-lock-function-name-face) 188 189 (latex-env-pair t fontified t) 189 193 (fontified t) 193 194 (fontified nil)) . 41305) (undo-tree-id394 . -193) (undo-tree-id395 . -1) (undo-tree-id396 . -193) (41498 . 41499) (nil rear-nonsticky t 41305 . 41306)) (25759 54684 508737 146000) 0 nil])
+nil
+nil
+nil
 nil

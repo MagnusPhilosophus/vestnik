@@ -9,8 +9,12 @@ FORMULATIONS}
 L.A. Akisheva\textsuperscript{3}, A.D.Tulegulov\textsuperscript{1}}
 
 \textsuperscript{1}Kazhach University of Technology and
-Business,\textsuperscript{2}Moscow State University of Technology and
-Management named after K.G. Razumovsky, \textsuperscript{3}Nazarbayev
+Business,
+
+\textsuperscript{2}Moscow State University of Technology and
+Management named after K.G. Razumovsky,
+
+\textsuperscript{3}Nazarbayev
 Intellectual School
 
 e-mail: Akmail04cx@mail.ru
@@ -48,6 +52,7 @@ quality criteria
 Л.Ақышева\textsuperscript{3}, А.Д.Тулеғулов\textsuperscript{1}}
 
 \textsuperscript{1}Қазақ технология және бизнес университеті,
+
 \textsuperscript{2} К. Г. Разумовский атындағы Москеу мемлекеттік
 технология және басқару университеті
 
@@ -87,9 +92,10 @@ e-mail: Akmail04cx@mail.ru
 Л.Акишева\textsuperscript{1}, А.Д.Тулегулов\textsuperscript{1}}
 
 \textsuperscript{1}Казахский университет технологии и бизнеса,
-\textsuperscript{2}Московский Государственный университет
 
+\textsuperscript{2}Московский Государственный университет
 технологии и управления им. К.Г. Разумовского,
+
 \textsuperscript{3}Назарбаев интеллектуальная школа,
 
 e-mail: Akmail04cx@mail.ru
@@ -116,6 +122,8 @@ e-mail: Akmail04cx@mail.ru
 
 {\bfseries Ключевые слова}: кластеризация, datamining, рецептуры бетонных
 смесей, критерии качества
+
+\vspace{0.5em}
 
 \begin{multicols}{2}
 {\bfseries Introduction.}To date, the active promotion of information
@@ -215,7 +223,9 @@ As a result of the solution {[}1{]}, a mathematical formulation of the
 problem of clustering concrete mixtures using technogenic waste formula
 1 was obtained.
 
-\[F(C_k, C_l) = \frac{1}{{N_k \cdot N_l}} \sum\limits_{SiCk} \sum\limits_{SjCl} f(S_j, S_j) \quad (1)\]
+\begin{equation}
+F(C_k, C_l) = \frac{1}{{N_k \cdot N_l}} \sum\limits_{SiCk} \sum\limits_{SjCl} f(S_j, S_j)
+\end{equation}
 
 That is, each cluster contains formulations of concrete mixtures that
 are closest in their characteristics and the formulations of each class
@@ -247,7 +257,6 @@ g/\%
 Metall. Slag g/\%
 \end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 bauxite sludge
-
 g/\%
 \end{minipage} \\
 \midrule\noalign{}
@@ -256,7 +265,6 @@ g/\%
 \bottomrule\noalign{}
 \endlastfoot
 
-g/\% & \\
 1 & 3.11 & & & 337/3 \\
 \hline
 2 & 3.7 & & & 505/4 \\
@@ -352,6 +360,7 @@ classification of multidimensional objects"}
 \end{subfigure}
 \end{figure}
 
+\begin{multicols}{2}
 Fig.1-Shows the interface of the program "Comprehensive quality
 assessment and classification of multidimensional objects". The data is
 entered directly from the keyboard{\bfseries .}
@@ -360,12 +369,6 @@ As a result of the program, the distribution of formulations of concrete
 mixtures of Table 1, Figure 3 was obtained. In each cluster there are
 recipes that are closest in terms of metrics.
 
-\begin{figure}
-  \centering
-  \includegraphics[width=0.8\textwidth]{image10}
-  \caption*{Fig. 3- Clustering of concrete mix formulations}
-\end{figure}
-
 From the clustering result obtained, it can be seen that the
 formulations of concrete mixtures are distributed in 6 clusters. In each
 cluster there are formulations of concrete mixtures with the closest
@@ -373,14 +376,21 @@ characteristics in composition and strength. The formulations of
 concrete mixtures with low strength indicators are located in clusters
 1-4. Table 2 shows the formulations, the composition of concrete
 mixtures with the highest strength indicators of 5 and 6 clusters.
+\end{multicols}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.8\textwidth]{image10}
+  \caption*{Fig. 3- Clustering of concrete mix formulations}
+\end{figure}
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1486}}|
+  |>{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1486}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1629}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1812}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1449}}|
   >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1631}}|
-  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1992}}@{}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1992}}|@{}}
 \caption*{Table 2. Recipe of cluster 5-6} \\
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\centering
@@ -446,17 +456,24 @@ for cluster organization.
 
 The algorithm is formed in this way:
 
-1. All points are marked as core, boundary or noise;
+\begin{enumerate}
+\item
+All points are marked as core, boundary or noise;
 
-2. Interference will be eliminated;
+\item
+Interference will be eliminated;
 
-3. The face between all the main points located inside at the distance
+\item
+The face between all the main points located inside at the distance
 of the Eps parameter from each other is marked;
 
-4. Each group is placed in a separate cluster;
+\item
+Each group is placed in a separate cluster;
 
-5. The boundary points of one of the clusters associated with this
+\item
+The boundary points of one of the clusters associated with this
 boundary point are specified.
+\end{enumerate}
 
 At the same time, the base sample is part of a cluster, a sample that is
 not a core sample, and exists, at a distance of eps from any core

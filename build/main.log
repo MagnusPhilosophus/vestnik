@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.2)  30 JUN 2023 17:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.2)  1 JUL 2023 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1257,26 +1257,939 @@ Package hyperref Info: Link coloring ON on input line 4.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(./src/8.tex
+(./src/first_pages.tex
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
+Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
+ [1
+
+]
+Overfull \hbox (15.5508pt too wide) in paragraph at lines 126--129
+[]\TU/FreeSerif(1)/b/n/10 Редакцияның мекенжайы: \TU/FreeSerif(1)/m/n/10 010000
+, Қазақстан, Астана қ., Қайым Мұхамедханов к-сі, 37 «А», тел.:+7(7172)
+ []
+
+[2]
+Overfull \hbox (0.28491pt too wide) in paragraph at lines 208--213
+[]\TU/FreeSerif(1)/b/n/10 Тематическая направленность: \TU/FreeSerif(1)/m/n/10 
+Информационно-коммуникационные и химические технологии, Про-
+ []
+
+[3]
+Font mapping `tex-text.tec' for font `FreeSerif Italic' not found.
+
+Overfull \hbox (22.3116pt too wide) in paragraph at lines 312--316
+[]\TU/FreeSerif(1)/b/n/10 Thematic direction: \TU/FreeSerif(1)/m/n/10 Informati
+on and communication and chemical technologies, Manufacturing and manufacturing
+
+ []
+
+) [4]
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
+ (build/main.toc
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (28.5742pt too wide) in paragraph at lines 15--15
+ [][] [][]\TU/FreeSerif(1)/m/n/10 THE INFLUENCE OF TECHNOGENIC FACTORS ON THE E
+FFECTIVE COMBINED DEVELOPMENT 
+ []
+
+
+Overfull \hbox (26.28502pt too wide) in paragraph at lines 17--17
+ [][] [][]\TU/FreeSerif(1)/m/n/10 MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKH
+STAN: ASSESSMENT AND PROSPECTS 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [5] (./src/1.tex
+Глава 1.
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
- [1
 
+Overfull \hbox (2.28242pt too wide) in paragraph at lines 21--30
+\TU/FreeSerif(1)/m/n/10 рассматривает различные системы пожаротушения, системы 
+управления пожаром на основе IoT-технологий,
+ []
+
+[6
+
+
+]
+Font mapping `tex-text.tec' for font `FreeSerif Bold Italic' not found.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+[]\TU/FreeSerif(1)/m/n/10 Возможно использование алгоритмов искус-
+ []
+
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
+[]\TU/FreeSerif(1)/m/n/10 Возможно использование алгоритмов искус-
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 335--341
+[]\TU/FreeSerif(1)/m/n/10 Система детектирования пожаров в Лос-
+ []
+
+File: assets/image1.png Graphic file (type bmp)
+<assets/image1.png>
+[9]
+File: assets/image2.jpeg Graphic file (type bmp)
+<assets/image2.jpeg>
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 486--488
+[]\TU/FreeSerif(1)/m/n/10 Пена обладает дополнительными свойствами
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 501--502
+[]\TU/FreeSerif(1)/m/n/10 Система автоматического пожаротушения по-
+ []
+
+[11]
+File: assets/image3.jpeg Graphic file (type bmp)
+<assets/image3.jpeg>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 645.
+See the caption package documentation for explanation.
+
+[12]
+Underfull \hbox (badness 5403) in paragraph at lines 667--670
+[]\TU/FreeSerif(1)/m/n/10 Можно использовать в любом масштабе: от
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 670--673
+\TU/FreeSerif(1)/m/n/10 жара и отправить сообщения на мобильные
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 685--688
+[]\TU/FreeSerif(1)/m/n/10 Неэффективна в случаях, когда необходимо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--762
+[]\TU/FreeSerif(1)/m/n/10 Высокая стоимость оборудования и инфра-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--771
+[]\TU/FreeSerif(1)/m/n/10 Защита конфиденциальности и безопасности
+ []
+
+[13]
+File: assets/image4.jpeg Graphic file (type bmp)
+<assets/image4.jpeg>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 832.
+See the caption package documentation for explanation.
+
+[14] [15]
+Underfull \hbox (badness 5578) in paragraph at lines 1062--1063
+[]\TU/FreeSerif(1)/m/n/10 Преимущества: быстрое оповещение, возмож-
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 1069--1071
+[]\TU/FreeSerif(1)/m/n/10 Преимущества: быстрое обнаружение пожара,
+ []
+
+[16]
+File: assets/image5.jpeg Graphic file (type bmp)
+<assets/image5.jpeg>
+
+Underfull \hbox (badness 5832) in paragraph at lines 1120--1123
+\TU/FreeSerif(1)/m/n/10 опасности должен основываться на конкретных
+ []
+
+[17]
+File: assets/image6.jpeg Graphic file (type bmp)
+<assets/image6.jpeg>
+ [18] [19]
+Overfull \hbox (13.3308pt too wide) in paragraph at lines 1327--1329
+[]\TU/FreeSerif(1)/m/n/10 Burgegulov A. D. - doctoral student at Al-Farabi Kaza
+kh National University, Almaty, Kazakhstan, dizel_kz@bk.ru 
+ []
+
+
+Overfull \hbox (1.27328pt too wide) in paragraph at lines 1351--1353
+[]\TU/FreeSerif(1)/m/n/10 Joldassova Bagila Ummetovna - graduate student at Al-
+Farabi Kazakh National University, Almaty, Kazakhstan,
+ []
+
+) (./src/2.tex [20]
+Overfull \hbox (1.5741pt too wide) in paragraph at lines 23--42
+\TU/FreeSerif(1)/m/n/10 composition of the ingredients of the concrete mixture.
+ Earlier in work [1], clustering of concrete mix formulations
+ []
+
+
+Overfull \hbox (18.74158pt too wide) in paragraph at lines 23--42
+\TU/FreeSerif(1)/m/n/10 was carried out with the help of the program "Comprehen
+sive quality assessment and classification of multidimensional
+ []
+
+
+Overfull \hbox (9.5266pt too wide) in paragraph at lines 23--42
+\TU/FreeSerif(1)/m/n/10 the highest quality concrete mix formulations into the 
+appropriate classes. The result of using DataMining technology
+ []
+
+[21
+
+]
+Underfull \hbox (badness 5446) in paragraph at lines 129--133
+\TU/FreeSerif(1)/m/n/10 information technology (datamining) provides the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+\TU/FreeSerif(1)/m/n/10 detection, financial risk assessment, market
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+[]\TU/FreeSerif(1)/m/n/10 -MicrosoftAnalysisServices - used to create
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
+[]\TU/FreeSerif(1)/m/n/10 That is, each cluster contains formulations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
+\TU/FreeSerif(1)/m/n/10 of concrete mixtures that are closest in their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--239
+[]\TU/FreeSerif(1)/m/n/10 For the software implementation of the
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 234--239
+\TU/FreeSerif(1)/m/n/10 mathematical formulation of the solution of the
+ []
+
+
+Overfull \hbox (8.43613pt too wide) in alignment at lines 246--263
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (8.43613pt too wide) in alignment at lines 263--264
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (8.43613pt too wide) in alignment at lines 264--266
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (8.43613pt too wide) in alignment at lines 266--345
+ [] [] [] [] [] 
+ []
+
+[23]
+File: assets/image8.png Graphic file (type bmp)
+<assets/image8.png>
+File: assets/image9.png Graphic file (type bmp)
+<assets/image9.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--367
+[]\TU/FreeSerif(1)/m/n/10 Fig.1-Shows the interface of the program
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 372--379
+\TU/FreeSerif(1)/m/n/10 characteristics in composition and strength. The
+ []
+
+
+Overfull \vbox (1.27953pt too high) has occurred while \output is active []
+
+
+[24]
+File: assets/image10.png Graphic file (type bmp)
+<assets/image10.png>
+
+Overfull \hbox (14.7648pt too wide) in alignment at lines 393--416
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (14.7648pt too wide) in alignment at lines 416--418
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (14.7648pt too wide) in alignment at lines 418--427
+ [] [] [] [] [] [] 
+ []
+
+[25]
+File: assets/image77.png Graphic file (type bmp)
+<assets/image77.png>
+File: assets/image78.png Graphic file (type bmp)
+<assets/image78.png>
+
+Overfull \hbox (1.66666pt too wide) in paragraph at lines 505--515
+[][] [] 
+ []
+
+[26]
+File: assets/image13.png Graphic file (type bmp)
+<assets/image13.png>
+File: assets/image14.png Graphic file (type bmp)
+<assets/image14.png>
+
+Underfull \hbox (badness 8038) in paragraph at lines 548--551
+\TU/FreeSerif(1)/m/n/10 complex, the difficulty lies in the uncontrolled
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 552--554
+\TU/FreeSerif(1)/m/n/10 at classification, but clustering is still an open
+ []
+
+
+Overfull \hbox (7.17496pt too wide) in paragraph at lines 606--609
+[]\TU/FreeSerif(1)/m/n/10 Electronic resource :URL: Ortiz-Arroyo D. Discovering
+ Sets of Key Players in Social Networks // Computational
+ []
+
+[27]
+Overfull \hbox (18.66156pt too wide) in paragraph at lines 611--613
+[]\TU/FreeSerif(1)/m/n/10 Electronic resource:URL: [][]https://kpfu.ru/portal/d
+ocs/F_1980845423/161_3_phys_mat_8.pdf[][] - Date of application
+ []
+
+
+Overfull \hbox (43.22076pt too wide) in paragraph at lines 619--623
+\TU/FreeSerif(1)/m/n/10 Technology", Kazakh University of Technology and Busine
+ss, Astana, Republic of Kazakhstan:email:akmail04cx@mail.ru 
+ []
+
+) (./src/3.tex [28]
+Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
+ [29
+
+]
+Underfull \hbox (badness 6542) in paragraph at lines 129--142
+\TU/FreeSerif(1)/m/n/10 "ambulance". In recent years, not only has the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+[]\TU/FreeSerif(1)/m/n/10 structuring and standardization of medical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+[]\TU/FreeSerif(1)/m/n/10 According to electronic medical records
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+\TU/FreeSerif(1)/m/n/10 management, when developing new rules, they
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
+[]\TU/FreeSerif(1)/m/n/10 To collect and store electronically as much
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
+\TU/FreeSerif(1)/m/n/10 technical means used, combined with carefully
+ []
+
+File: assets/image15.png Graphic file (type bmp)
+<assets/image15.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
+[]\TU/FreeSerif(1)/m/n/10 Patients must be able to provide complete
+ []
+
+
+Overfull \vbox (7.3793pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (8.37936pt too high) has occurred while \output is active []
+
+
+[31]
+File: assets/image16.jpg Graphic file (type bmp)
+<assets/image16.jpg>
+
+Underfull \hbox (badness 5460) in paragraph at lines 284--292
+[]\TU/FreeSerif(1)/m/n/10 The web-based patient application contains an
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 284--292
+\TU/FreeSerif(1)/m/n/10 and laboratory, certificates issued by the doctor
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 284--292
+\TU/FreeSerif(1)/m/n/10 are indicated. The service and medical research
+ []
+
+File: assets/image17.png Graphic file (type bmp)
+<assets/image17.png>
+[32]
+File: assets/image18.png Graphic file (type bmp)
+<assets/image18.png>
+File: assets/image19.png Graphic file (type bmp)
+<assets/image19.png>
+File: assets/image20.png Graphic file (type bmp)
+<assets/image20.png>
+File: assets/image21.png Graphic file (type bmp)
+<assets/image21.png>
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [33]
+File: assets/image20.png Graphic file (type bmp)
+<assets/image20.png>
+
+Underfull \hbox (badness 6332) in paragraph at lines 428--431
+[]\TU/FreeSerif(1)/m/n/10 The results of the study show that the web
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 437--438
+[]\TU/FreeSerif(1)/m/n/10 - definition of requirements to the developed
+ []
+
+[34]
+Overfull \hbox (5.75906pt too wide) in paragraph at lines 502--506
+[]\TU/FreeSerif(1)/m/n/10 Boris Kobrinksy. Intelligent systems for medicine: Re
+trospective and perspective // Sixth International Scientific
+ []
+
+
+Overfull \hbox (10.0808pt too wide) in paragraph at lines 521--526
+[]\TU/FreeSerif(1)/m/n/10 Ziyatbekova Gulzat Ziyatbekkyzy - PhD, Acting Associa
+te Professor NAO Al-Farabi Kazakh National University;
+ []
+
+
+Overfull \hbox (3.79411pt too wide) in paragraph at lines 521--526
+\TU/FreeSerif(1)/m/n/10 Senior Researcher at the RSE Institute of Information a
+nd Computational Technologies of the National Academy
+ []
+
+
+Overfull \hbox (5.53741pt too wide) in paragraph at lines 546--548
+[]\TU/FreeSerif(1)/m/n/10 Өмірзақ Мерей Қайратқызы - магистрант НАО Казахского 
+национального университета имени аль-Фараби,
+ []
+
+) (./src/4.tex [35] [36
+
+]
+Overfull \hbox (0.63498pt too wide) in paragraph at lines 126--145
+[]\TU/FreeSerif(1)/m/n/10 The article presents the results of a study on the pr
+eparation of a encapsulated form of fat-soluble cholecalciferol
+ []
+
+
+Overfull \hbox (13.83495pt too wide) in paragraph at lines 126--145
+\TU/FreeSerif(1)/m/n/10 technological methods for obtaining water-soluble forms
+ of vitamin cholecalciferol with improved biopharmaceutical
+ []
+
+[37]
+File: assets/image22.png Graphic file (type bmp)
+<assets/image22.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--216
+[]\TU/FreeSerif(1)/b/n/10 Материалдар мен әдістемелер. \TU/FreeSerif(1)/m/n/10 
+Жұмыста
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 194--216
+\TU/FreeSerif(1)/m/n/10 келесі реагенттер қолданылды: олигосахарид β-
+ []
+
+File: assets/image23.png Graphic file (type bmp)
+<assets/image23.png>
+File: assets/image24.png Graphic file (type bmp)
+<assets/image24.png>
+[38]
+File: assets/image25.png Graphic file (type bmp)
+<assets/image25.png>
+File: assets/image26.png Graphic file (type bmp)
+<assets/image26.png>
+File: assets/image27.png Graphic file (type bmp)
+<assets/image27.png>
+File: assets/image28.png Graphic file (type bmp)
+<assets/image28.png>
+ [39]
+File: assets/image29.png Graphic file (type bmp)
+<assets/image29.png>
+File: assets/image30.png Graphic file (type bmp)
+<assets/image30.png>
+File: assets/image31.png Graphic file (type bmp)
+<assets/image31.png>
+File: assets/image32.png Graphic file (type bmp)
+<assets/image32.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+[41]
+File: assets/image33.png Graphic file (type bmp)
+<assets/image33.png>
+File: assets/image34.png Graphic file (type bmp)
+<assets/image34.png>
+File: assets/image35.png Graphic file (type bmp)
+<assets/image35.png>
+File: assets/image36.png Graphic file (type bmp)
+<assets/image36.png>
+File: assets/image37.png Graphic file (type bmp)
+<assets/image37.png>
+File: assets/image38.png Graphic file (type bmp)
+<assets/image38.png>
+File: assets/image39.jpg Graphic file (type bmp)
+<assets/image39.jpg>
+File: assets/image40.jpg Graphic file (type bmp)
+<assets/image40.jpg>
+File: assets/image41.jpg Graphic file (type bmp)
+<assets/image41.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \hbox (badness 7522) in paragraph at lines 491--501
+\TU/FreeSerif(1)/m/n/10 Термогравиметриялық β-ТД қисықтары мен β-
+ []
+
+File: assets/image42.jpg Graphic file (type bmp)
+<assets/image42.jpg>
+[43]
+Overfull \hbox (16.94165pt too wide) in paragraph at lines 584--587
+[]\TU/FreeSerif(1)/m/n/10 Mauryaa V.K., Bashirb K., Aggarwala M. Vitamin D micr
+oencapsulation and fortification: Trends and technologies
+ []
+
+[44]
+Overfull \hbox (7.37407pt too wide) in paragraph at lines 647--651
+\TU/FreeSerif(1)/m/n/10 Inclusion complex of ellagic acid with β-cyclodextrin: 
+Characterization and in vitro anti-inflammatory evaluation
+ []
+
+
+Overfull \hbox (0.70581pt too wide) in paragraph at lines 665--669
+[]\TU/FreeSerif(1)/m/n/10 Zou A., Zhao X., Handge U.A., Garamus V.M., Willumeit
+-Römer R., Yin P. Folate receptor targeted bufalin/\TU/FreeSerif(1)/m/it/10 β\T
+U/FreeSerif(1)/m/n/10 -
+ []
+
+
+Overfull \hbox (16.94165pt too wide) in paragraph at lines 682--685
+[]\TU/FreeSerif(1)/m/n/10 Mauryaa V.K., Bashirb K., Aggarwala M. Vitamin D micr
+oencapsulation and fortification: Trends and technologies
+ []
+
+[45]
+Overfull \hbox (7.37407pt too wide) in paragraph at lines 746--750
+\TU/FreeSerif(1)/m/n/10 Inclusion complex of ellagic acid with β-cyclodextrin: 
+Characterization and in vitro anti-inflammatory evaluation
+ []
+
+
+Overfull \hbox (0.70581pt too wide) in paragraph at lines 764--768
+[]\TU/FreeSerif(1)/m/n/10 Zou A., Zhao X., Handge U.A., Garamus V.M., Willumeit
+-Römer R., Yin P. Folate receptor targeted bufalin/\TU/FreeSerif(1)/m/it/10 β\T
+U/FreeSerif(1)/m/n/10 -
+ []
+
+
+Overfull \hbox (7.57411pt too wide) in paragraph at lines 779--786
+\TU/FreeSerif(1)/m/n/10 Sciences, Full Professor, Institute of Organic Synthesi
+s and Coal Chemistry, Alikhanov str. 1, 100008, Karaganda,
+ []
+
+
+Overfull \hbox (26.43578pt too wide) in paragraph at lines 788--793
+\TU/FreeSerif(1)/m/n/10 Chemistry, Alikhanov str. 1, 100008, Karaganda, Kazakhs
+tan; е-mail: nurkenov_oral@mail.ru; [][]https://orcid.org/0000-
+ []
+
+
+Overfull \hbox (46.05664pt too wide) in paragraph at lines 806--811
+\TU/FreeSerif(1)/m/n/10 academician E.A. Buketov, Universitetskaya street, 28, 
+100024, Karaganda, Kazakhstan; e-mail: ipustolaikina@gmail.com,
+ []
+
+
+Overfull \hbox (10.27077pt too wide) in paragraph at lines 813--818
+[]\TU/FreeSerif(1)/m/n/10 Akmaral Sarsenbekova - PhD, Assoc. Professor,, Karaga
+ndy University of the name of academician E.A. Buketov,
+ []
+
+
+Overfull \hbox (23.47331pt too wide) in paragraph at lines 813--818
+\TU/FreeSerif(1)/m/n/10 Universitetskaya street, 28, 100024, Karaganda, Kazakhs
+tan; e-mail: chem_akmaral@mail.ru, [][]https://orcid.org/0000-
+ []
+
+) (./src/5.tex [46] [47
+
+]
+Overfull \hbox (15.66414pt too wide) in paragraph at lines 98--101
+[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 thermogravimetric a
+nalysis, coal, thermal degradation, DTG curves, kinetic parameters, decompositi
+on
+ []
+
+Font mapping `tex-text.tec' for font `FreeSerif Italic' not found.
+[48]
+
+LaTeX Font Warning: Font shape `TU/FreeSerif(1)/m/scit' undefined
+(Font)              using `TU/FreeSerif(1)/m/sc' instead on input line 217.
+
+
+LaTeX Font Warning: Font shape `TU/FreeSerif(1)/m/sc' undefined
+(Font)              using `TU/FreeSerif(1)/m/n' instead on input line 217.
+
+Missing character: There is no в ("432) in font cmmi7!
+Missing character: There is no н ("43D) in font cmmi7!
+[49] [50]
+File: assets/image66.png Graphic file (type bmp)
+<assets/image66.png>
+ [51]
+Overfull \hbox (5.55495pt too wide) in paragraph at lines 569--573
+\TU/FreeSerif(1)/m/n/10 kinetic analysis of co-combustion of waste biomass/low 
+rank coal blends // Energy Conversion and Management,
+ []
+
+
+Overfull \hbox (26.5816pt too wide) in paragraph at lines 597--601
+\TU/FreeSerif(1)/m/n/10 Kinetics Committee recommendations for performing kinet
+ic computations on thermal analysis data // Thermocimica
+ []
+
+[52]
+Overfull \hbox (5.55495pt too wide) in paragraph at lines 647--651
+\TU/FreeSerif(1)/m/n/10 kinetic analysis of co-combustion of waste biomass/low 
+rank coal blends // Energy Conversion and Management,
+ []
+
+
+Overfull \hbox (26.5816pt too wide) in paragraph at lines 675--679
+\TU/FreeSerif(1)/m/n/10 Kinetics Committee recommendations for performing kinet
+ic computations on thermal analysis data // Thermocimica
+ []
+
+
+Overfull \hbox (4.83328pt too wide) in paragraph at lines 731--736
+[]\TU/FreeSerif(1)/m/n/10 Nurgaliyev Nurken Uteuovich − Candidate of Chemical S
+cience, Associate Professor, Department of Chemistry,
+ []
+
+[53]
+Overfull \hbox (11.43413pt too wide) in paragraph at lines 738--743
+[]\TU/FreeSerif(1)/m/n/10 Takirova Aygerim Khasenovna - Master[]s degree, senio
+r lecturer, Department of Chemistry, Chemical Technology
+ []
+
+
+Overfull \hbox (50.34413pt too wide) in paragraph at lines 738--743
+\TU/FreeSerif(1)/m/n/10 and Ecology, Kazakh University of Technology and Busine
+ss, Republic of Kazakhstan, Astana, e-mail: adem_1996@mail.ru. 
+ []
+
+
+Overfull \hbox (10.6483pt too wide) in paragraph at lines 745--750
+[]\TU/FreeSerif(1)/m/n/10 Khamit Aitolkyn Zhumabaevna, Master[]s degree, senior
+ lecturer, Department of Chemistry, Chemical Technology
+ []
+
+
+Overfull \hbox (32.07413pt too wide) in paragraph at lines 745--750
+\TU/FreeSerif(1)/m/n/10 and Ecology, Kazakh University of Technology and Busine
+ss, Republic of Kazakhstan, Astana, e-mail: aytolkyn.khamit-
+ []
+
+
+Overfull \hbox (11.79747pt too wide) in paragraph at lines 752--757
+[]\TU/FreeSerif(1)/m/n/10 Zhunussova Elvira Baktygalievna, Candidate of technic
+al sciences, Associate Professor, Department of Chemistry,
+ []
+
+
+Overfull \hbox (9.38828pt too wide) in paragraph at lines 759--763
+[]\TU/FreeSerif(1)/m/n/10 Akhaeva Ainur Akimkhanovna, Master[]s degree, senior 
+lecturer, Department of Chemistry, Chemical Technology
+ []
+
+
+Overfull \hbox (61.42413pt too wide) in paragraph at lines 759--763
+\TU/FreeSerif(1)/m/n/10 and Ecology, Kazakh University of Technology and Busine
+ss, Republic of Kazakhstan, Astana, e-mail: ainur_akhaeva@mail.ru. 
+ []
+
+) (./src/6.tex [54]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 116--125
+[]\TU/FreeSerif(1)/m/n/10 For the development of electromembrane
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 133--139
+\TU/FreeSerif(1)/m/n/10 auxiliary (graphite) and non-polarizable reference
+ []
+
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+[56]
+File: assets/image44.jpg Graphic file (type bmp)
+<assets/image44.jpg>
+File: assets/image45.jpg Graphic file (type bmp)
+<assets/image45.jpg>
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+File: assets/image46.jpg Graphic file (type bmp)
+<assets/image46.jpg>
+File: assets/image47.jpg Graphic file (type bmp)
+<assets/image47.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[57] [58]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[59]
+Overfull \hbox (3.04343pt too wide) in paragraph at lines 461--461
+[]\TU/FreeSerif(1)/m/n/10 Glycine$[]$  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--513
+[]\TU/FreeSerif(1)/b/n/10 Conclusions. \TU/FreeSerif(1)/m/n/10 Thus, if complex
+ing reagents -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--513
+\TU/FreeSerif(1)/m/n/10 with the formation of homogeneous complexes.
+ []
+
+[60]
+Overfull \hbox (15.1516pt too wide) in paragraph at lines 587--590
+[]\TU/FreeSerif(1)/m/n/10 Zanganeh A.R. and Amini M.K. Polypyrrole-modified ele
+ctrodes with induced recognition sites for potentiometric
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[61]
+Overfull \hbox (12.72742pt too wide) in paragraph at lines 651--654
+[]\TU/FreeSerif(1)/m/n/10 Zharmenov A.A. Electrodializnaya pererabotka rastvoro
+v electrolititheskogo rafinirovaniya medi: avtoref…kand.
+ []
+
+
+Overfull \hbox (15.1516pt too wide) in paragraph at lines 678--681
+[]\TU/FreeSerif(1)/m/n/10 Zanganeh A.R. and Amini M.K. Polypyrrole-modified ele
+ctrodes with induced recognition sites for potentiometric
+ []
+
+
+Overfull \hbox (14.3408pt too wide) in paragraph at lines 700--705
+[]\TU/FreeSerif(1)/m/n/10 Omarov Khylysh Beisenovich, Doctor of Technical Scien
+ces, Professor, Professor of the Department of Chemistry,
+ []
+
+
+Overfull \hbox (8.04329pt too wide) in paragraph at lines 707--711
+[]\TU/FreeSerif(1)/m/n/10 Nurtai Zhadyra Tastenbekovna, PhD, Associate Professo
+r of the Department of Chemistry, Chemical Technology
+ []
+
+
+Overfull \hbox (58.54413pt too wide) in paragraph at lines 707--711
+\TU/FreeSerif(1)/m/n/10 and Ecology, Kazakh University of Technology and Busine
+ss, Republic of Kazakhstan, Astana, e-mail: zhadira_nurtai@mail.ru 
+ []
+
+
+Overfull \hbox (16.7708pt too wide) in paragraph at lines 713--718
+\TU/FreeSerif(1)/m/n/10 State Chemistry and Mechanochemistry, Siberian Branch o
+f the Russian Academy of Sciences, Russia, Novosibirsk,
+ []
+
+[62]) (./src/7.tex
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[63]
+Глава 2.
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+File: assets/image52.jpeg Graphic file (type bmp)
+<assets/image52.jpeg>
+[64
+
+]
+File: assets/image53.png Graphic file (type bmp)
+<assets/image53.png>
+File: assets/image54.png Graphic file (type bmp)
+<assets/image54.png>
+File: assets/image55.png Graphic file (type bmp)
+<assets/image55.png>
+File: assets/image56.png Graphic file (type bmp)
+<assets/image56.png>
+ [65]
+File: assets/image57.png Graphic file (type bmp)
+<assets/image57.png>
+File: assets/image58.png Graphic file (type bmp)
+<assets/image58.png>
+File: assets/image59.png Graphic file (type bmp)
+<assets/image59.png>
+File: assets/image60.png Graphic file (type bmp)
+<assets/image60.png>
+File: assets/image61.png Graphic file (type bmp)
+<assets/image61.png>
+File: assets/image62.png Graphic file (type bmp)
+<assets/image62.png>
+
+Underfull \vbox (badness 6236) has occurred while \output is active []
+
+ [66]
+File: assets/image63.png Graphic file (type bmp)
+<assets/image63.png>
+File: assets/image64.png Graphic file (type bmp)
+<assets/image64.png>
+File: assets/image65.png Graphic file (type bmp)
+<assets/image65.png>
+
+[67] [68]
+Overfull \hbox (6.81738pt too wide) in paragraph at lines 334--338
+\TU/FreeSerif(1)/m/n/10 Будько // Бизнес пищевых ингредиентов. Апрель-май 2016 
+[Текст]. - Режим доступа: [][]https://novaprodukt.ru[][]. 
+ []
+
+
+Overfull \hbox (9.23817pt too wide) in paragraph at lines 340--344
+\TU/FreeSerif(1)/m/n/10 Sundaram // Food and Nutrition Sci-ences. - 2012. - V. 
+3. - No. 12.- P. 1644-1650, doi: 10.4236/fns.2012.312215. 
+ []
+
+
+Overfull \hbox (6.25249pt too wide) in paragraph at lines 366--370
+[]\TU/FreeSerif(1)/m/n/10 Gouw, V.P.; Jung, J.; Zhao, Y. Functional properties,
+ bioactive compounds, and in vitro gastrointestinal digestion
+ []
+
+
+Overfull \hbox (9.23817pt too wide) in paragraph at lines 415--419
+\TU/FreeSerif(1)/m/n/10 Sundaram // Food and Nutrition Sci-ences. - 2012. - V. 
+3. - No. 12.- P. 1644-1650, doi: 10.4236/fns.2012.312215. 
+ []
+
+
+Overfull \hbox (6.25249pt too wide) in paragraph at lines 441--445
+[]\TU/FreeSerif(1)/m/n/10 Gouw, V.P.; Jung, J.; Zhao, Y. Functional properties,
+ bioactive compounds, and in vitro gastrointestinal digestion
+ []
+
+[69]
+Overfull \hbox (19.11911pt too wide) in paragraph at lines 472--475
+[]\TU/FreeSerif(1)/m/n/10 Kak razvivaetsya rynok rastitel[]nyh analogov moloka?
+ [How is the market for vegetable milk analogues developing?.
+ []
+
+
+Overfull \hbox (1.02658pt too wide) in paragraph at lines 511--517
+\TU/FreeSerif(1)/m/n/10 Bekturganova Almira Anuarbekovna - PhD, assistant profe
+ssor. Kazakh University of Technology and Business,
+ []
+
+) (./src/8.tex [70] [71
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 132--139
@@ -1289,20 +2202,18 @@ Underfull \hbox (badness 6016) in paragraph at lines 167--174
 \TU/FreeSerif(1)/m/n/10 determination of toxic elements: lead, cadmium,
  []
 
-[2]
+[72]
 Underfull \hbox (badness 5175) in paragraph at lines 208--212
 []\TU/FreeSerif(1)/m/n/10 The fresh meat of some sea and ocean fish
  []
 
-[3]
-Font mapping `tex-text.tec' for font `FreeSerif Italic' not found.
- [4]
+[73] [74]
 Overfull \hbox (14.34326pt too wide) in paragraph at lines 449--453
 \TU/FreeSerif(1)/m/n/10 pesticides and herbicides, antibiotics and phytohormone
 s used in agriculture, radioactive substances and radionuclides
  []
 
-[5]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 514--522
 \TU/FreeSerif(1)/m/n/10 salt-soluble proteins such as globulins (myosin,
  []
@@ -1322,7 +2233,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--589
 []\TU/FreeSerif(1)/m/n/10 Also, studies were carried out to determine
  []
 
-[6]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 609--612
 []\TU/FreeSerif(1)/m/n/10 Freshwater fish habitats can be sources of
  []
@@ -1332,8 +2243,887 @@ Underfull \hbox (badness 10000) in paragraph at lines 609--612
 \TU/FreeSerif(1)/m/n/10 radioactive substances, pesticides, herbicides,
  []
 
+[77]
+Overfull \hbox (1.69745pt too wide) in paragraph at lines 694--696
+[]\TU/FreeSerif(1)/m/n/10 Pulatov I.B. University of Veterinary Medicine, Anima
+l Husbandry and Biotechnology, Samarkand, Uzbekistan,
+ []
+
+) (./src/9.tex [78]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 30.785pt, for example:
+(fancyhdr)                \setlength{\headheight}{30.785pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.785pt}.
+
+[79
+
+]
+Underfull \hbox (badness 5417) in paragraph at lines 140--151
+[]\TU/FreeSerif(1)/m/n/10 Пepвoнaчaльнo пpoвeдeны иccлeдoвaния вли-
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 140--151
+\TU/FreeSerif(1)/m/n/10 яния кoличecтвa внocимых инкaпcулиpoвaнных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+[]\TU/FreeSerif(1)/m/n/10 Нa ocнoвaнии вышeизлoжeннoгo пocтaвлeнa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+[]\TU/FreeSerif(1)/b/n/10 Стpуктуpнo-мeхaничecкиe хapaктepиcтики
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+\TU/FreeSerif(1)/b/n/10 пpoдукта. Определение вязкости. \TU/FreeSerif(1)/m/n/10
+ Методика
+ []
+
+[80]
+File: assets/image67.png Graphic file (type bmp)
+<assets/image67.png>
+File: assets/image68.png Graphic file (type bmp)
+<assets/image68.png>
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 30.785pt, for example:
+(fancyhdr)                \setlength{\headheight}{30.785pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.785pt}.
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 305--310
+[]\TU/FreeSerif(1)/m/n/10 В пpoцecce иccлeдoвaния oпpeдeляли
+ []
+
+
+Overfull \hbox (11.32658pt too wide) in paragraph at lines 362--366
+[]\TU/FreeSerif(1)/m/n/10 А.К. Какимов, А.М. Муратбаев. Өнімнің сапасын QFD әді
+сі арқылы жоғарлату// Семей қаласының Шәкәрім
+ []
+
+[82]
+Overfull \hbox (11.74245pt too wide) in paragraph at lines 392--395
+[]\TU/FreeSerif(1)/m/n/10 A.K. Kakimov,A.A. Majorov, Zh.H. Kakimova, A.M. Murat
+bayev, A.M. Bajkadamova. Bezopasnost[] i kachestvo
+ []
+
+
+Overfull \hbox (19.37827pt too wide) in paragraph at lines 397--401
+[]\TU/FreeSerif(1)/m/n/10 Bepeeva A.E. Iccledovanie i pazpabotka tehnologii ppo
+izvodctva kiclomolochnogo ppodukta c inkapculipovannymi
+ []
+
+
+Overfull \hbox (12.62158pt too wide) in paragraph at lines 403--407
+[]\TU/FreeSerif(1)/m/n/10 Dzhumazhanova M.M. Razrabotka tehnologii pit[]evogo j
+ogurta s inkapsulirovannymi probioticheskimi kul[]turami
+ []
+
+
+Overfull \hbox (17.73657pt too wide) in paragraph at lines 443--447
+[]\TU/FreeSerif(1)/m/n/10 Kakimov A.K.,Ecimbekov Zh.C., Kabulov B.B., Bepeeva A
+.E. Potacionnye vickozimetpy bpukfil[]da v iccledovanii
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 30.785pt, for example:
+(fancyhdr)                \setlength{\headheight}{30.785pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.785pt}.
+
+[83]) (./src/10.tex [84]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[85
+
+]
+Overfull \hbox (12.75414pt too wide) in paragraph at lines 92--113
+\TU/FreeSerif(1)/m/n/10 systems at mining enterprises, allowing, on the one han
+d, timely and targeted development of operational management
+ []
+
+[86]
+Underfull \hbox (badness 5970) in paragraph at lines 183--186
+[]\TU/FreeSerif(1)/m/n/10 - адаптация транспортной инфраструктуры и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--193
+\TU/FreeSerif(1)/m/n/10 цесса технологической модернизации - долго-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--193
+\TU/FreeSerif(1)/m/n/10 срочная перспектива с потенциалом до 100%
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 190--193
+\TU/FreeSerif(1)/m/n/10 (экскаваторно-конвейерные комплексы, скиповые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--243
+[]\TU/FreeSerif(1)/m/n/10 Рассматриваемый подход предполагает ис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--243
+\TU/FreeSerif(1)/m/n/10 пользование наиболее эффективного на дан-
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 231--243
+\TU/FreeSerif(1)/m/n/10 статистического моделирования, обеспечивающе-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--243
+\TU/FreeSerif(1)/m/n/10 следовательности основных технологических и
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 231--243
+\TU/FreeSerif(1)/m/n/10 кретных горнотехнических, горно-геологических,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--248
+[]\TU/FreeSerif(1)/m/n/10 Основной целью комплексного технико-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[87]
+File: assets/image48.png Graphic file (type bmp)
+<assets/image48.png>
+
+Underfull \hbox (badness 5490) in paragraph at lines 299--313
+[]\TU/FreeSerif(1)/m/n/10 Энергоэффективность предполагает не только
+ []
+
+[88]
+File: assets/image49.jpg Graphic file (type bmp)
+<assets/image49.jpg>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 316.
+See the caption package documentation for explanation.
+
+File: assets/image50.png Graphic file (type bmp)
+<assets/image50.png>
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 344.
+See the caption package documentation for explanation.
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[89]
+File: assets/image51.jpeg Graphic file (type bmp)
+<assets/image51.jpeg>
+
+Overfull \hbox (1.60597pt too wide) in alignment at lines 405--427
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.60597pt too wide) in alignment at lines 427--429
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.60597pt too wide) in alignment at lines 429--475
+ [] [] [] [] [] 
+ []
+
+[90]
+Underfull \hbox (badness 6526) in paragraph at lines 478--486
+\TU/FreeSerif(1)/m/n/10 потенциал снижения энергоёмкости горнотранс-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[91]
+Overfull \vbox (72.0pt too high) detected at line 550
+ []
+
+[92]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[93]
+Overfull \hbox (2.85156pt too wide) in paragraph at lines 705--708
+[]\TU/FreeSerif(1)/m/n/10 Otchet o provedenii kompleksnogo energoaudita effekti
+vnosti raboty gornotransportnykh kompleksov razrezov
+ []
+
+
+Overfull \hbox (11.38321pt too wide) in paragraph at lines 732--736
+[]\TU/FreeSerif(1)/m/n/10 Galiyev S.Zh. Tekhnologicheskaya modernizatsiya i pro
+myshlennaya politika v period modernizatsii Kazakhstana
+ []
+
+
+Overfull \hbox (23.0366pt too wide) in paragraph at lines 797--799
+[]\TU/FreeSerif(1)/m/n/10 Beksapin Jaslan Serzhanovich - software engineer-rese
+archer, Qazakstan smart technology LLP, Almaty, Kazakhstan,
+ []
+
+) (./src/11.tex [94]
+Overfull \hbox (20.34988pt too wide) in paragraph at lines 52--60
+\TU/FreeSerif(1)/m/n/10 ленности. Целью экспериментальных исследований является
+ разработка методологии применения диспетчерско-
+ []
+
+[95
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
+[]\TU/FreeSerif(1)/b/n/10 Кіріспе. \TU/FreeSerif(1)/m/n/10 Тау-кен өндірісін ав
+томаттандыру-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
+\TU/FreeSerif(1)/m/n/10 автоматтандыру-консервативті салалардың бірі.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--111
+[]\TU/FreeSerif(1)/m/n/10 Тау-кен өнеркәсібінің технологиялық проце-
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 155--157
+[]\TU/FreeSerif(1)/m/n/10 - "Депрессия және ауа жылдамдығы ПДС-1
+ []
+
+File: assets/image69.png Graphic file (type bmp)
+<assets/image69.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+[97]
+File: assets/image70.png Graphic file (type bmp)
+<assets/image70.png>
+
+Overfull \hbox (21.9741pt too wide) in paragraph at lines 240--246
+\TU/FreeSerif(1)/m/n/10 сызбасы көрсетілген. Бұл схемада жұмыс жиынтығы ретінде
+ УС1 жұптастыру құрылғысы, қабылдау-командалық
+ []
+
+
+Overfull \hbox (4.0874pt too wide) in paragraph at lines 240--246
+\TU/FreeSerif(1)/m/n/10 upc1 құрылғысы қолданылады. Резервтік жинақ ретінде УС2
+ жұптастыру құрылғысы, қабылдау-командалық
+ []
+
+File: assets/image71.png Graphic file (type bmp)
+<assets/image71.png>
+[98]
+Underfull \hbox (badness 5847) in paragraph at lines 329--331
+[]\TU/FreeSerif(1)/m/n/10 Жүргізілген есептеулер нәтижесінде №2, №5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
+\TU/FreeSerif(1)/m/n/10 учаскелерде ақпаратты іріктеу және қабылдау
+ []
+
+File: assets/image72.png Graphic file (type bmp)
+<assets/image72.png>
+File: assets/image73.png Graphic file (type bmp)
+<assets/image73.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+[100]
+Overfull \hbox (6.77245pt too wide) in paragraph at lines 450--453
+\TU/FreeSerif(1)/m/n/10 фессор, кафедра меңгерушісі, Қазақ технология және бизн
+ес университеті, Астана, Қазақстан, tad62@ya.ru; 
+ []
+
+
+Package fontspec Info: Font family 'FreeMono(1)' created for font 'FreeMono'
+(fontspec)             with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FreeMono/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"FreeMono/B/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"FreeMono/I/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"FreeMono/BI/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+) (./src/12.tex [101]
+Overfull \hbox (11.32745pt too wide) in paragraph at lines 29--31
+[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 combined geotechnol
+ogy, technogenic space, mountain range, deformation, geomechanical processes. 
+ []
+
+
+Overfull \hbox (1.37659pt too wide) in paragraph at lines 78--85
+\TU/FreeSerif(1)/m/n/10 сива. Сложность решения геомеханических задач определяе
+т основные факторы выбора открыто-подземной
+ []
+
+[102
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--118
+[]\TU/FreeSerif(1)/b/n/10 Introduction. \TU/FreeSerif(1)/m/n/10 A characteristi
+c feature of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--118
+\TU/FreeSerif(1)/m/n/10 determining rational technological parameters of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--153
+[]\TU/FreeSerif(1)/m/n/10 The factors determining the use of open-
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 170--173
+\TU/FreeSerif(1)/m/n/10 underground and open-pit work requires special
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[103]
+Underfull \hbox (badness 8056) in paragraph at lines 196--201
+[]\TU/FreeSerif(1)/m/n/10 Further development of the open method of
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 196--201
+\TU/FreeSerif(1)/m/n/10 regions of the country, will be associated with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--208
+\TU/FreeSerif(1)/m/n/10 mineral extraction, which allows to reduce the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--240
+[]\TU/FreeSerif(1)/m/n/10 The complex open-underground method is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--240
+\TU/FreeSerif(1)/m/n/10 also applicable in existing quarries, where the
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 241--244
+[]\TU/FreeSerif(1)/m/n/10 The technology in question has a number of
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 245--264
+\TU/FreeSerif(1)/m/n/10 are characterized by significant heterogeneity of
+ []
+
+[104]
+File: assets/image74.png Graphic file (type bmp)
+<assets/image74.png>
+
+Underfull \hbox (badness 5036) in paragraph at lines 282--289
+[]\TU/FreeSerif(1)/m/n/10 With an increase in the height of the open-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[105]
+File: assets/image75.jpeg Graphic file (type bmp)
+<assets/image75.jpeg>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 327.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 322--327
+  [][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--370
+[]\TU/FreeSerif(1)/b/n/10 Results and discussion. \TU/FreeSerif(1)/m/n/10 The r
+esults of the
+ []
+
+[106]
+File: assets/image76.jpeg Graphic file (type bmp)
+<assets/image76.jpeg>
+
+Underfull \hbox (badness 7540) in paragraph at lines 452--458
+[]\TU/FreeSerif(1)/m/n/10 The disadvantages of the location of drilling
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 459--465
+[]\TU/FreeSerif(1)/m/n/10 The main feature of the rebound in open-
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 489--495
+[]\TU/FreeSerif(1)/m/n/10 Studies were devoted to the problem of the
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 496--503
+\TU/FreeSerif(1)/m/n/10 within the open-underground tier is the rate of
+ []
+
+[108]
+Underfull \hbox (badness 6110) in paragraph at lines 578--592
+[]\TU/FreeSerif(1)/m/n/10 Combined geotechnology makes it possible to
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 578--592
+\TU/FreeSerif(1)/m/n/10 in the field of open-underground mining. These
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 578--592
+\TU/FreeSerif(1)/m/n/10 stage of treatment excavation, the joint use of
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 578--592
+\TU/FreeSerif(1)/m/n/10 of open and underground mining operations to
+ []
+
+
+Overfull \hbox (25.7124pt too wide) in paragraph at lines 605--608
+[]\TU/FreeSerif(1)/m/n/10 Lazchenko K.N., Terentyev B.D. Geotekhnologicheskie s
+posoby razrabotki mestorozhdenii poleznykh iskopaemykh.
+ []
+
+
+Overfull \hbox (1.2541pt too wide) in paragraph at lines 610--612
+[]\TU/FreeSerif(1)/m/n/10 Demidov YU.V. O klassifikatsii sistem kombinirovannoi
+ razrabotki rudnykh mestorozhdenii // Gornyi zhurnal.
+ []
+
+
+Overfull \hbox (4.85411pt too wide) in paragraph at lines 651--654
+[]\TU/FreeSerif(1)/m/n/10 Karzhauova E. K. - Kazakh University of Technology an
+d Business, Astana, Kazakhstan, karzhauova.81@mail.ru 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[109]) (./src/13.tex [110]
+Глава 3.
 Font mapping `tex-text.tec' for font `FreeSerif Bold Italic' not found.
-[7])
+[111
+
+]
+Overfull \hbox (15.46823pt too wide) in paragraph at lines 137--141
+\TU/FreeSerif(1)/m/n/10 Республикасында жетілдіру жолдарын қарастыру бұл зертте
+удің негізгі бағыты өзекті және ғылыми-тәжірибелік
+ []
+
+[112]
+Underfull \hbox (badness 5548) in paragraph at lines 183--187
+\TU/FreeSerif(1)/m/n/10 toolkit to motivate the professional activities of
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 188--199
+\TU/FreeSerif(1)/m/n/10 and logical approaches, systemic and situational,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--217
+\TU/FreeSerif(1)/m/n/10 approach to the system of motivation for the
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[113]
+Underfull \hbox (badness 5147) in paragraph at lines 284--291
+[]\TU/FreeSerif(1)/m/n/10 The main objective of the study is to study
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--291
+\TU/FreeSerif(1)/m/n/10 those samples of foreign experience that force
+ []
+
+[114]
+Underfull \hbox (badness 5345) in paragraph at lines 359--369
+\TU/FreeSerif(1)/m/n/10 term, the further vector of development of the
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 359--369
+\TU/FreeSerif(1)/m/n/10 of excessive bureaucracy of the state apparatus,
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 370--382
+\TU/FreeSerif(1)/m/n/10 In terms of the level of education, respondents
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[115]
+Overfull \vbox (48.0pt too high) detected at line 524
+ []
+
+
+Overfull \vbox (36.0pt too high) detected at line 533
+ []
+
+
+Overfull \vbox (60.0pt too high) detected at line 544
+ []
+
+
+Overfull \hbox (9.71057pt too wide) in paragraph at lines 547--547
+[]|\TU/FreeSerif(1)/m/n/10 Underestimation 
+ []
+
+
+Overfull \hbox (6.08057pt too wide) in paragraph at lines 547--547
+\TU/FreeSerif(1)/m/n/10 professionalism|  
+ []
+
+
+Overfull \vbox (24.0pt too high) detected at line 553
+ []
+
+
+Overfull \hbox (3.98961pt too wide) in paragraph at lines 555--555
+[]|\TU/FreeSerif(1)/m/n/10 Careerprospect|  
+ []
+
+
+Overfull \hbox (7.48035pt too wide) in paragraph at lines 555--557
+[]|\TU/FreeSerif(1)/m/n/10 Encouragement 
+ []
+
+
+Overfull \vbox (36.0pt too high) detected at line 559
+ []
+
+
+Overfull \vbox (36.0pt too high) detected at line 565
+ []
+
+
+Overfull \vbox (48.0pt too high) detected at line 574
+ []
+
+
+Overfull \hbox (4.24931pt too wide) in paragraph at lines 574--574
+[]|\TU/FreeSerif(1)/m/n/10 Ratheryesthanno|  
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 580.
+
+[116]
+Underfull \hbox (badness 5245) in paragraph at lines 590--596
+\TU/FreeSerif(1)/m/n/10 to sacrifice the amount of wages indicates that
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 682--687
+\TU/FreeSerif(1)/m/n/10 bodies who completed retraining and advanced
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 697--704
+\TU/FreeSerif(1)/m/n/10 compliance with the legislation on civil service
+ []
+
+[118]
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[119]
+Underfull \hbox (badness 5519) in paragraph at lines 843--850
+[]\TU/FreeSerif(1)/m/n/10 The survey involved 234 respondents. To the
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 857--862
+\TU/FreeSerif(1)/m/n/10 ... answered 8.5% of respondents, ``Difficult to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--890
+\TU/FreeSerif(1)/m/n/10 guarantees, gaining professional experience, the
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 896--897
+[]\TU/FreeSerif(1)/m/n/10 - the predominance of material needs among
+ []
+
+[120]
+Underfull \hbox (badness 7522) in paragraph at lines 930--940
+\TU/FreeSerif(1)/m/n/10 of traditional concepts and the development of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--959
+\TU/FreeSerif(1)/m/n/10 system includes both material and non-material
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--971
+\TU/FreeSerif(1)/m/n/10 standard managerial, integrated approaches, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--971
+\TU/FreeSerif(1)/m/n/10 management model with the corresponding
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--992
+[]\TU/FreeSerif(1)/m/n/10 In recent years, the civil service system of
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 993--1005
+\TU/FreeSerif(1)/m/n/10 by civil servants can be built on the basis of
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 1006--1017
+[]\TU/FreeSerif(1)/m/n/10 For the corresponding analytical study of the
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1006--1017
+\TU/FreeSerif(1)/m/n/10 motivation factors of civil servants that are of
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 1006--1017
+\TU/FreeSerif(1)/m/n/10 characteristics of the personnel composition and
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[121]
+Underfull \hbox (badness 5563) in paragraph at lines 1038--1043
+\TU/FreeSerif(1)/m/n/10 initiative of employees in raising their level of
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 1053--1069
+\TU/FreeSerif(1)/m/n/10 motivation, such as: the possibility of the most
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 1084--1094
+[]\TU/FreeSerif(1)/m/n/10 It should be emphasized once again that the
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 1084--1094
+\TU/FreeSerif(1)/m/n/10 development of a system of motivation for the
+ []
+
+[122]
+Overfull \hbox (2.28491pt too wide) in paragraph at lines 1162--1169
+[]\TU/FreeSerif(1)/m/n/10 The integrated system of motivation and performance a
+ssessment that we have considered allows for continuous
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[123]
+Overfull \hbox (11.96161pt too wide) in paragraph at lines 1230--1234
+[]\TU/FreeSerif(1)/m/n/10 The plan of the nation "100 concrete steps to impleme
+nt five institutional reforms" / ed. ed. A. M. Rakhimzhanova,
+ []
+
+
+Overfull \hbox (4.55493pt too wide) in paragraph at lines 1253--1257
+[]\TU/FreeSerif(1)/m/n/10 Methodology for studying the motivation of profession
+al activity (methodology of K. Zamfir in the modification
+ []
+
+
+Overfull \hbox (2.07909pt too wide) in paragraph at lines 1269--1272
+[]\TU/FreeSerif(1)/m/n/10 Belova N.P., Miroshnichenko O.N. Foreign experience o
+f motivating the professional activities of civil servants
+ []
+
+
+Overfull \hbox (0.5633pt too wide) in paragraph at lines 1290--1293
+[]\TU/FreeSerif(1)/m/n/10 Karbetova Zatira Rakhimovna - Ph.D., Professorof Econ
+omics, Kazakh University of Technology and Business,
+ []
+
+
+Overfull \hbox (24.33662pt too wide) in paragraph at lines 1300--1304
+[]\TU/FreeSerif(1)/m/n/10 Karbetova Sholpan Rakhimovna - Ph.D. in Economics, As
+sociateProfessor, International Transport and Humanitarian
+ []
+
+[124]) (./src/last_page.tex
+
+Package fancyhdr Warning: \headheight is too small (22.0pt): 
+(fancyhdr)                Make it at least 29.084pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.084pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.084pt}.
+
+[125])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1445,17 +3235,24 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/variant}  =>  {newzealand}
 >  {newzealand/options}  =>  {variant=newzealand}
 >  {kazakh/target}  =>  {kazakh}.
- [8] (build/main.aux)
+
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[126] (build/main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 53D29ED65929BA16F85598EF6C67BFA0;392.
+(rerunfilecheck)             Checksum: 8F9E419227B51FCACB96B6AFD9D81A99;7934.
  ) 
 Here is how much of TeX's memory you used:
- 19998 strings out of 476683
- 382221 string characters out of 5809791
- 1888018 words of memory out of 5000000
- 39891 multiletter control sequences out of 15000+600000
- 515197 words of font info for 97 fonts, out of 8000000 for 9000
+ 21721 strings out of 476683
+ 414086 string characters out of 5809791
+ 1902018 words of memory out of 5000000
+ 41455 multiletter control sequences out of 15000+600000
+ 518475 words of font info for 131 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,11n,134p,426b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,13n,134p,890b,731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.pdf (8 pages).
+Output written on build/main.pdf (126 pages).
