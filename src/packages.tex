@@ -72,11 +72,6 @@
     urlcolor=blue!80!black               % Color of external links
 }
 
-% Custom command
-%\newcommand{\addauthor}[1]{%
-%    \addtocontents{toc}{\hspace{15pt}\textbf{#1}} % Add author to table of contents
-%}
-
 % Graphics path
 \graphicspath{{assets}}
 
@@ -100,7 +95,6 @@
 \renewcommand{\footrulewidth}{2pt}
 \renewcommand{\footrule}{\hbox to\headwidth{%
   \color{lightblue}\leaders\hrule height \footrulewidth\hfill}}
-\addto\captionsrussian{\renewcommand{\contentsname}{\large МАЗМҰНЫ – СОДЕРЖАНИЕ – CONTENTS}}
 
 \setlength{\parskip}{0.3em}
 \setlength{\parindent}{1em}
@@ -121,8 +115,7 @@
 \usepackage{titletoc}
 % Redefine the format of the section title
 \titleformat{\section}[block]{\centering\bfseries\large}{}{0pt}{}[]
-\titleformat{\chapter}[display]
-  {\centering\normalfont\large\bfseries}{}{3pt}{\large}
+\titleformat{\chapter}[display]{\centering\normalfont\large\bfseries}{}{3pt}{\large}
 % Decrease the top margin for chapter titles
 \titlespacing*{\chapter}{0pt}{-80pt}{20pt}
 
@@ -149,3 +142,33 @@
 \captionsetup[table]{justification=centering}
 
 \renewcommand{\theequation}{\arabic{equation}}
+\addto\captionsrussian{\renewcommand{\contentsname}{\hfill\bfseries\Large МАЗМҰНЫ – СОДЕРЖАНИЕ – CONTENTS\hfill}}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\titlecontents{chapter}
+  [0pt]
+  {\addvspace{1em}}
+  {\bfseries\large\centering\hspace{1em}}
+  {}
+  {\hspace{1em}\titlerule*[0.5pc]{.}\contentspage}
+\titlecontents{section}
+  [0pt]
+  {\addvspace{0.5em}}
+  {}
+  {}
+  {\hspace{1em}\titlerule*[0.5pc]{.}\contentspage}
+
+%% \newcommand{\sectionwithauthors}[2]{%
+%%   \addtocontents{toc}{\protect\contentsline{section}{#1}{}{}}%
+%%   \section{#2}%
+%% }
+\newcommand{\sectionwithauthors}[2]{%
+  \addcontentsline{toc}{section}{#1 \\ #2}%
+  \section*{#2}%
+  \setcounter{figure}{0}
+}
+
+\makeatletter
+\renewcommand{\@dotsep}{10000}
+\makeatother
+
+\renewcommand{\cfttoctitlefont}{\vspace*{-5em}\Huge}
