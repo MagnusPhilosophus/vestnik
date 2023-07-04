@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"a5fe9145a1fa9b5a538d434c4c09c6b480f2cde3"
+"738e39a6c279c912ba0e0982205d132ba17f5351"
 [nil nil nil nil (25756 19618 743227 345000) 0 nil]
 ([nil nil ((#("\\begin{quote}
 " 0 6 (face font-lock-keyword-face fontified t) 6 7 (latex-env-pair t fontified t) 7 12 (face font-lock-function-name-face latex-env-pair t fontified t) 12 13 (latex-env-pair t fontified t) 13 14 (fontified t)) . 18544) (undo-tree-id8 . -8) (undo-tree-id9 . -13) 18552 (t 25756 18639 461735 803000)) nil (25756 19618 743224 62000) 0 nil])
@@ -2269,6 +2269,216 @@ nil
 ([nil nil ((#("|" 0 1 (fontified t)) . -10985) (undo-tree-id10 . -1) (undo-tree-id11 . -1) 10986 (10985 . 10986) (#("\\" 0 1 (fontified t face font-lock-keyword-face)) . -10985) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) 10986 (10985 . 10986) (t 25762 38718 542874 783000)) nil (25762 42371 743010 221000) 0 nil])
 ([nil nil ((11062 . 11063) (#("L" 0 1 (fontified t)) . -11062) (undo-tree-id6 . -1) (undo-tree-id7 . -1) 11063 (11062 . 11063) (#("\\" 0 1 (fontified t)) . -11062) (undo-tree-id8 . -1) (undo-tree-id9 . -1) 11063 (11062 . 11063)) nil (25762 42371 743003 404000) 0 nil])
 ([nil nil ((11143 . 11144) (#("L" 0 1 (fontified nil)) . -11143) (undo-tree-id4 . -1) 11144 (11143 . 11144) (#("\\" 0 1 (fontified nil)) . -11143) (undo-tree-id5 . -1) 11144 (11143 . 11144)) nil (25762 42371 742997 136000) 0 nil])
-([nil current ((11224 . 11225) (#("L" 0 1 (fontified nil)) . -11224) (undo-tree-id2 . -1) 11225 (11224 . 11225) (#("\\" 0 1 (fontified nil)) . -11224) (undo-tree-id3 . -1) 11225 (11224 . 11225)) nil (25762 42371 743100 579000) 0 nil])
-([nil nil ((11309 . 11310) (#("L" 0 1 (fontified nil)) . -11309) (undo-tree-id0 . -1) 11310 (11309 . 11310) (#("\\" 0 1 (fontified nil)) . -11309) (undo-tree-id1 . -1) 11310 (11309 . 11310)) ((#("\\" 0 1 (fontified nil)) . 11309) (11309 . 11310) (#("L" 0 1 (fontified nil)) . 11309) (11309 . 11310) (#("|" 0 1 (fontified t)) . 11309)) (25762 42371 742984 465000) 0 nil])
+([nil nil ((11224 . 11225) (#("L" 0 1 (fontified nil)) . -11224) (undo-tree-id2 . -1) 11225 (11224 . 11225) (#("\\" 0 1 (fontified nil)) . -11224) (undo-tree-id3 . -1) 11225 (11224 . 11225)) nil (25762 42371 743100 579000) 0 nil])
+([nil nil ((601 . 607) (#("0" 0 1 (fontified t)) . -601) (undo-tree-id0 . -1) (undo-tree-id1 . -1) 602 (594 . 602) (#("s" 0 1 (face font-lock-keyword-face fontified t)) . -594) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (#("p" 0 1 (face font-lock-keyword-face fontified t)) . -595) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (#("a" 0 1 (face font-lock-keyword-face fontified t)) . -596) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (#("c" 0 1 (face font-lock-keyword-face fontified t)) . -597) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (#("e" 0 1 (face font-lock-keyword-face fontified t)) . -598) (undo-tree-id10 . -1) (undo-tree-id11 . -1) 599 (593 . 599) (t 25762 42378 882892 274000)) nil (25763 61284 674325 730000) 0 nil] [nil nil ((11309 . 11310) (#("L" 0 1 (fontified nil)) . -11309) (undo-tree-id0 . -1) 11310 (11309 . 11310) (#("\\" 0 1 (fontified nil)) . -11309) (undo-tree-id1 . -1) 11310 (11309 . 11310)) ((#("\\" 0 1 (fontified nil)) . 11309) (11309 . 11310) (#("L" 0 1 (fontified nil)) . 11309) (11309 . 11310) (#("|" 0 1 (fontified t)) . 11309)) (25762 42371 742984 465000) 0 nil])
+([nil nil ((607 . 608)) nil (25763 61284 674296 34000) 0 nil])
+nil
+([nil nil ((nil rear-nonsticky nil 1119 . 1120) (nil fontified nil 1105 . 1120) (1105 . 1120)) nil (25763 61284 674294 750000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1810 . 1811) (nil fontified nil 1796 . 1811) (1796 . 1811)) nil (25763 61284 674293 355000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 2335 . 2336) (nil fontified nil 2321 . 2336) (2321 . 2336)) nil (25763 61284 674291 843000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 3008 . 3009) (nil fontified nil 2994 . 3009) (2994 . 3009)) nil (25763 61284 674290 201000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 3531 . 3532) (nil fontified nil 3517 . 3532) (3517 . 3532)) nil (25763 61284 674287 859000) 0 nil])
+([nil nil ((3705 . 3717) (3704 . 3705) (3703 . 3704) 3691) nil (25763 61284 674282 245000) 0 nil])
+([nil nil ((#("ЦДП - орталық диспетчерлік пункт; СПИ 1 - \"Метан\" кешенінің тірегі;
+УПК1, УПК2-қабылдау-командалық құрылғы; УС1, УС2-түйісу құрылғысы; ЭЕМ1,
+ЭЕМ2 - IBM типті дербес микро ЭЕМ; РГО\", РГТ - топтық дистрибьютор;
+ПТИ1, ПТИ2-телеөлшеу түрлендіргіші; В1, В2 - депрессия және ауа
+жылдамдығын түрлендіргіш ПДС - 1; ДМ1, ДМ2-метан датчигі ДМТ; АС1 -
+\"Метан\" кешенінің дабыл аппараты; ПУПП-жылжымалы учаскелік жерасты
+қосалқы станциясы; КК1-бөлу шкафы; КК2, ККЗ - кабельдік қорап
+
+Жүйенің техникалық құралдарының құрамы:
+
+1. Беттік есептеу кешені IBM класындағы екі компьютерден тұрады (біреуі
+сауалнама режимінде, екіншісі ақпаратты жинақтау және өңдеу режимінде),
+екі УС, екі УПК және кабельді сымдарға арналған шкафтар (кросс).
+Кешеннің барлық құралдары шахтаның ЦДП үй-жайында АГК операторының
+арнайы ұйымдастырылған жұмыс орнында орналасады. Оператордың үй-жайының
+өлшемдеріне байланысты есептеу кешенінің құралдары ұзындығы бойынша
+немесе ұтымды конфигурацияның бірнеше кестесінде орналасуы мүмкін.
+" 0 599 (fontified t) 599 656 (fontified t) 656 995 (fontified t)) . 7696) (undo-tree-id12 . -928) (undo-tree-id13 . -928) (undo-tree-id14 . -928) (undo-tree-id15 . -994) (undo-tree-id16 . -68) (undo-tree-id17 . -209) (undo-tree-id18 . -408) (undo-tree-id19 . -512) (undo-tree-id20 . -860) (undo-tree-id21 . -408) (undo-tree-id22 . -995) (undo-tree-id23 . -928) (undo-tree-id24 . -928) (undo-tree-id25 . -928) (undo-tree-id26 . -995) 8624 (t 25763 61284 686631 982000)) nil (25763 61360 255343 665000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 7453 . 7454) (#("
+" 0 1 (fontified nil)) . -8448) (7453 . 8449) 7386) nil (25763 61360 255320 705000) 0 nil])
+([nil nil ((7453 . 7454) 7386) nil (25763 61360 255315 192000) 0 nil])
+([nil nil ((#("Төменде 2-суретте \"Қазақстан\" шахтасының кабельдік байланыс желілерінің
+құрылымдық сызбасы көрсетілген.
+" 0 60 (fontified t) 60 72 (fontified t) 72 104 (fontified t)) . 10133) (undo-tree-id36 . -72) (undo-tree-id37 . -72) (undo-tree-id38 . -72) (undo-tree-id39 . -103) (undo-tree-id40 . -104) (undo-tree-id41 . -72) (undo-tree-id42 . -72) (undo-tree-id43 . -72) (undo-tree-id44 . -104) 10205 (t 25763 61360 266632 356000)) nil (25763 61407 903938 878000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 10343 . 10344) (#("
+" 0 1 (fontified nil)) . -10447) (10343 . 10448) 10331) nil (25763 61407 903928 2000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10132) (undo-tree-id27 . -1) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) (undo-tree-id34 . -1) (undo-tree-id35 . -1)) nil (25763 61407 903922 491000) 0 nil])
+([nil nil ((10342 . 10343) (t 25763 61407 913299 245000) 10330) nil (25763 61410 734699 410000) 0 nil])
+([nil nil ((8461 . 8462) (8458 . 8461) (#("i" 0 1 (face font-lock-keyword-face fontified t)) . -8458) (undo-tree-id63 . -1) (8450 . 8459) (8449 . 8450) (t 25763 61410 743299 261000) 8390) nil (25763 61535 216428 667000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 8465 . 8466) (#("
+" 0 1 (fontified nil)) . -8618) (8461 . 8619) 8450) nil (25763 61554 719813 635000) 0 nil] [nil nil ((#("    \\includegraphics[width=0.6\\textwidth]{image69}
+    \\caption*{Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы}
+" 0 4 (fontified t) 4 20 (face font-lock-keyword-face fontified t) 20 30 (fontified t) 30 40 (face font-lock-keyword-face fontified t) 40 42 (fontified t) 42 49 (face font-lock-builtin-face fontified t) 49 55 (fontified t) 55 64 (face font-lock-keyword-face fontified t) 64 157 (fontified t)) . 8513) (undo-tree-id45 . -51) (undo-tree-id46 . -51) (undo-tree-id47 . -156) (undo-tree-id48 . -29) (undo-tree-id49 . -29) (undo-tree-id50 . -29) (undo-tree-id51 . -29) (undo-tree-id52 . -29) (undo-tree-id53 . -29) (undo-tree-id54 . -29) (undo-tree-id55 . -51) (undo-tree-id56 . -29) (undo-tree-id57 . -29) (undo-tree-id58 . -157) (undo-tree-id59 . -51) (undo-tree-id60 . -51) (undo-tree-id61 . -51) (undo-tree-id62 . -157) 8564) ((8513 . 8670)) (25763 61535 216336 399000) 0 nil])
+([nil nil ((#("    " 0 4 (fontified t)) . -8509) (undo-tree-id83 . -4) (undo-tree-id84 . -4) (undo-tree-id85 . -4) (undo-tree-id86 . -4) (undo-tree-id87 . -4) (#("    " 0 3 (fontified t) 3 4 (rear-nonsticky t fontified t)) . -8462) (undo-tree-id88 . -4) (undo-tree-id89 . -4) (undo-tree-id90 . -4) (undo-tree-id91 . -4) (undo-tree-id92 . -4) 8517) nil (25763 61554 719811 367000) 0 nil])
+nil
+([nil nil ((8517 . 8519)) nil (25763 61554 719801 172000) 0 nil])
+([nil nil ((8522 . 8528) (#("i" 0 1 (fontified t)) . -8522) (undo-tree-id82 . -1) (8520 . 8523)) nil (25763 61554 719799 631000) 0 nil])
+([nil nil ((8620 . 8621)) nil (25763 61554 719797 477000) 0 nil])
+([nil nil ((apply -21 8623 8887 undo--wrap-and-run-primitive-undo 8623 8887 ((8862 . 8865) (8845 . 8848) (8736 . 8739) (8682 . 8685) (8664 . 8667) (8643 . 8646) (8623 . 8626) 8865))) nil (25763 61554 719796 605000) 0 nil])
+([nil nil ((#("0" 0 1 (fontified t)) . 8485) (undo-tree-id80 . -1) (undo-tree-id81 . -1)) nil (25763 61554 719795 369000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t)) . 8485) (undo-tree-id78 . -1) (undo-tree-id79 . -1)) nil (25763 61554 719792 200000) 0 nil])
+([nil nil ((#("6" 0 1 (fontified t)) . 8485) (undo-tree-id76 . -1) (undo-tree-id77 . -1)) nil (25763 61554 719789 551000) 0 nil])
+([nil nil ((#("\\" 0 1 (face font-lock-keyword-face fontified t)) . 8485) (undo-tree-id74 . -1) (undo-tree-id75 . -1)) nil (25763 61554 719787 39000) 0 nil])
+([nil nil ((#("t" 0 1 (fontified t)) . 8485) (undo-tree-id72 . -1) (undo-tree-id73 . -1)) nil (25763 61554 719783 908000) 0 nil])
+([nil nil ((#("e" 0 1 (fontified t)) . 8485) (undo-tree-id70 . -1) (undo-tree-id71 . -1)) nil (25763 61554 719781 222000) 0 nil])
+([nil nil ((#("x" 0 1 (fontified t)) . 8485) (undo-tree-id68 . -1) (undo-tree-id69 . -1)) nil (25763 61554 719778 557000) 0 nil])
+([nil nil ((#("t" 0 1 (fontified t)) . 8485) (undo-tree-id66 . -1) (undo-tree-id67 . -1)) nil (25763 61554 719774 949000) 0 nil])
+([nil nil ((8485 . 8492) (#("\\" 0 1 (face font-lock-keyword-face fontified t)) . -8485) (undo-tree-id64 . -1) (undo-tree-id65 . -1) 8486 (8485 . 8486)) nil (25763 61554 719768 607000) 0 nil])
+([nil nil ((8449 . 8450) (t 25763 61554 726633 285000) 8383) nil (25763 61769 864396 698000) 0 nil])
+([nil nil ((#("{\\centering
+\\includegraphics[width=\\columnwidth]{image69}
+\\captionof*{figure}{Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы}}
+
+" 0 1 (fontified t) 1 11 (fontified t face font-lock-keyword-face) 11 12 (fontified t) 12 28 (fontified t face font-lock-keyword-face) 28 35 (fontified t) 35 47 (fontified t face font-lock-keyword-face) 47 49 (fontified t) 49 56 (fontified t face font-lock-builtin-face) 56 58 (fontified t) 58 69 (fontified t face font-lock-keyword-face) 69 171 (fontified t) 171 172 (fontified t)) . 8451) (undo-tree-id29 . -171) (undo-tree-id30 . -171) (undo-tree-id31 . -5) (undo-tree-id32 . -5) (undo-tree-id33 . -5) (undo-tree-id34 . -5) (undo-tree-id35 . -5) (undo-tree-id36 . -171) (undo-tree-id37 . -5) (undo-tree-id38 . -5) (undo-tree-id39 . -171) (undo-tree-id40 . -171) (undo-tree-id41 . -171) (undo-tree-id42 . -171) (undo-tree-id43 . -171) (undo-tree-id44 . -171) (undo-tree-id45 . -171) (undo-tree-id46 . -171) (t 25763 61596 683300 153000)) ((8451 . 8623)) (25763 61775 708167 529000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 7454 . 7455) (#("
+" 0 1 (fontified nil)) . -7626) (7454 . 7627)) nil (25763 61776 909807 482000) 0 nil] [nil nil ((nil rear-nonsticky nil 7522 . 7523) (#("
+" 0 1 (fontified nil)) . -7694) (7522 . 7695) 7455) ((#("
+{\\centering
+\\includegraphics[width=\\columnwidth]{image69}
+\\captionof*{figure}{Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы}}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 2 (fontified nil) 2 12 (fontified nil face font-lock-keyword-face) 12 13 (fontified nil) 13 29 (fontified t face font-lock-keyword-face) 29 36 (fontified t) 36 48 (fontified t face font-lock-keyword-face) 48 50 (fontified t) 50 57 (fontified t face font-lock-builtin-face) 57 59 (fontified t) 59 70 (fontified t face font-lock-keyword-face) 70 172 (fontified t) 172 173 (fontified nil)) . 7522) (undo-tree-id47 . -1) (undo-tree-id48 . -1) (undo-tree-id49 . -172) (undo-tree-id50 . -1) (undo-tree-id51 . -172) (undo-tree-id52 . -1) (undo-tree-id53 . 172) (undo-tree-id54 . -2) (undo-tree-id55 . 3) (undo-tree-id56 . -171) (undo-tree-id57 . -1) (7694 . 7695) (nil rear-nonsticky t 7522 . 7523)) (25763 61775 707980 929000) 0 nil] [nil nil ((nil rear-nonsticky nil 7522 . 7523) (#("
+" 0 1 (fontified nil)) . -7694) (7522 . 7695) 7455) ((#("
+{\\centering
+\\includegraphics[width=\\columnwidth]{image69}
+\\captionof*{figure}{Сурет 1 - \"Қазақстан\" шахтасының автоматика және телемеханика жүйесінің құрылымдық схемасы}}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 2 (fontified nil) 2 12 (fontified nil face font-lock-keyword-face) 12 13 (fontified nil) 13 29 (fontified t face font-lock-keyword-face) 29 36 (fontified t) 36 48 (fontified t face font-lock-keyword-face) 48 50 (fontified t) 50 57 (fontified t face font-lock-builtin-face) 57 59 (fontified t) 59 70 (fontified t face font-lock-keyword-face) 70 172 (fontified t) 172 173 (fontified nil)) . 7522) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -172) (undo-tree-id21 . -1) (undo-tree-id22 . -172) (undo-tree-id23 . -1) (undo-tree-id24 . 172) (undo-tree-id25 . -2) (undo-tree-id26 . 3) (undo-tree-id27 . -171) (undo-tree-id28 . -1) (7694 . 7695) (nil rear-nonsticky t 7522 . 7523)) (25763 61768 966161 899000) 0 nil])
+([nil nil ((#("Төменде 2-суретте \"Қазақстан\" шахтасының кабельдік байланыс желілерінің
+құрылымдық сызбасы көрсетілген.
+
+" 0 105 (fontified t)) . 10538) (undo-tree-id59 . -104) (undo-tree-id60 . -104) (undo-tree-id61 . -104) (undo-tree-id62 . -104) (undo-tree-id63 . -105) (undo-tree-id64 . -104) (undo-tree-id65 . -104) (undo-tree-id66 . -104) (undo-tree-id67 . -105) 10642 (t 25763 61776 923301 11000)) nil (25763 61856 193570 396000) 0 nil])
+nil
+nil
+([nil nil ((nil rear-nonsticky nil 10325 . 10326) (#("
+" 0 1 (fontified nil)) . -10430) (10325 . 10431) 10305) nil (25763 61856 193560 450000) 0 nil])
+([nil nil ((10325 . 10326) 10305) nil (25763 61856 193558 326000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 10431) (undo-tree-id58 . -1)) nil (25763 61856 193553 132000) 0 nil])
+([nil nil ((#("7" 0 1 (fontified t)) . -10510) (t 25763 61856 199968 69000) (10511 . 10512) 10510 (t 25763 61856 199968 69000)) nil (25763 61910 92995 532000) 0 nil])
+([nil nil ((nil fontified t 10510 . 10511) (#("8" 0 1 (fontified t)) . -10510) (10511 . 10512) 10510) nil (25763 61910 92993 780000) 0 nil])
+([nil nil ((nil fontified t 10511 . 10512) (#("9" 0 1 (fontified t)) . -10510) (10511 . 10513) 10510) nil (25763 61910 92992 103000) 0 nil])
+([nil nil ((#("0" 0 1 (fontified t)) . 10508) (undo-tree-id96 . -1) (undo-tree-id97 . -1) (undo-tree-id98 . -1) (undo-tree-id99 . -1) (undo-tree-id100 . -1) (undo-tree-id101 . -1) (undo-tree-id102 . -1) (undo-tree-id103 . -1) (undo-tree-id104 . -1) (undo-tree-id105 . -1) (undo-tree-id106 . -1) (undo-tree-id107 . -1)) nil (25763 61910 92989 860000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t)) . 10508) (undo-tree-id85 . -1) (undo-tree-id86 . -1) (undo-tree-id87 . -1) (undo-tree-id88 . -1) (undo-tree-id89 . -1) (undo-tree-id90 . -1) (undo-tree-id91 . -1) (undo-tree-id92 . -1) (undo-tree-id93 . -1) (undo-tree-id94 . -1) (undo-tree-id95 . -1)) nil (25763 61910 92977 492000) 0 nil])
+([nil nil ((#("1" 0 1 (fontified t)) . 10508) (undo-tree-id71 . -1) (undo-tree-id72 . 1) (undo-tree-id73 . -1) (undo-tree-id74 . -1) (undo-tree-id75 . -1) (undo-tree-id76 . -1) (undo-tree-id77 . -1) (undo-tree-id78 . -1) (undo-tree-id79 . -1) (undo-tree-id80 . -1) (undo-tree-id81 . -1) (undo-tree-id82 . -1) (undo-tree-id83 . -1) (undo-tree-id84 . -1)) nil (25763 61958 120523 935000) 0 nil])
+([nil nil ((#("0" 0 1 (fontified t)) . 10508) (undo-tree-id108 . 1)) ((10508 . 10509) (t 25763 61910 99968 329000)) (25763 61959 288538 551000) 0 nil])
+([nil nil ((#("\\href" 0 5 (fontified t face font-lock-keyword-face)) . 19386) (undo-tree-id154 . -4) (undo-tree-id155 . -5) (t 25763 61910 99968 329000)) nil (25763 61977 614188 690000) 0 nil])
+([nil nil ((#("{mailto:akmail04@gmail.com}" 0 27 (fontified t)) . 19386) (undo-tree-id148 . -26) (undo-tree-id149 . 27) (undo-tree-id150 . -1) (undo-tree-id151 . 1) (undo-tree-id152 . -27) (undo-tree-id153 . -27)) nil (25763 61977 614185 748000) 0 nil])
+([nil nil ((#("{\\nolinkurl" 0 1 (fontified t) 1 11 (fontified t face font-lock-keyword-face)) . 19386) (undo-tree-id144 . -10) (undo-tree-id145 . 11) (undo-tree-id146 . -1) (undo-tree-id147 . -11)) nil (25763 61977 614179 996000) 0 nil])
+([nil nil ((#("{" 0 1 (fontified t)) . 19386) (undo-tree-id140 . 1) (undo-tree-id141 . -1) (undo-tree-id142 . -1) (undo-tree-id143 . -1)) nil (25763 61977 614176 108000) 0 nil])
+([nil nil ((#("}}" 0 2 (fontified t)) . 19404) (undo-tree-id133 . -1) (undo-tree-id134 . -1) (undo-tree-id135 . -1) (undo-tree-id136 . 2) (undo-tree-id137 . -1) (undo-tree-id138 . -2) (undo-tree-id139 . -2)) nil (25763 61977 614171 608000) 0 nil])
+([nil nil ((#("\\href" 0 5 (fontified t face font-lock-keyword-face)) . 18884) (undo-tree-id131 . -4) (undo-tree-id132 . -5)) nil (25763 61977 614165 525000) 0 nil])
+([nil nil ((#("{mailto:tub14@mail.ru}" 0 22 (fontified t)) . 18884) (undo-tree-id125 . -21) (undo-tree-id126 . 22) (undo-tree-id127 . -1) (undo-tree-id128 . 1) (undo-tree-id129 . -22) (undo-tree-id130 . -22)) nil (25763 61977 614162 764000) 0 nil])
+([nil nil ((#("{\\nolinkurl" 0 1 (fontified t) 1 11 (fontified t face font-lock-keyword-face)) . 18884) (undo-tree-id121 . -10) (undo-tree-id122 . 11) (undo-tree-id123 . -1) (undo-tree-id124 . -11)) nil (25763 61977 614157 83000) 0 nil])
+([nil nil ((#("{" 0 1 (fontified t)) . 18884) (undo-tree-id117 . 1) (undo-tree-id118 . -1) (undo-tree-id119 . -1) (undo-tree-id120 . -1)) nil (25763 61977 614152 825000) 0 nil])
+([nil nil ((#("}}" 0 2 (fontified t)) . 18897) (undo-tree-id112 . -1) (undo-tree-id113 . 2) (undo-tree-id114 . -1) (undo-tree-id115 . -2) (undo-tree-id116 . -2)) nil (25763 61977 614282 546000) 0 nil])
+([nil nil ((#("\\href" 0 5 (fontified t face font-lock-keyword-face)) . 18735) (undo-tree-id204 . -4) (undo-tree-id205 . -5)) nil (25763 61989 310485 65000) 0 nil] [nil nil ((#("\\href{mailto:nk49@mail.ru}{\\nolinkurl{nk49@mail.ru}}" 0 5 (fontified t face font-lock-keyword-face) 5 27 (fontified t) 27 37 (fontified t face font-lock-keyword-face) 37 38 (fontified t) 38 50 (fontified t face tex-verbatim) 50 52 (fontified t)) . 18735) (undo-tree-id109 . -51) (undo-tree-id110 . -52) (undo-tree-id111 . -52)) ((18735 . 18787)) (25763 61977 614139 34000) 0 nil])
+([nil nil ((#("{mailto:nk49@mail.ru}" 0 21 (fontified t)) . 18735) (undo-tree-id198 . -20) (undo-tree-id199 . 21) (undo-tree-id200 . -1) (undo-tree-id201 . 1) (undo-tree-id202 . -21) (undo-tree-id203 . -21)) nil (25763 61989 310481 877000) 0 nil])
+nil
+([nil nil ((#("{\\nolinkurl" 0 1 (fontified t) 1 11 (fontified t face font-lock-keyword-face)) . 18735) (undo-tree-id194 . -10) (undo-tree-id195 . 11) (undo-tree-id196 . -1) (undo-tree-id197 . -11)) nil (25763 61989 310476 708000) 0 nil])
+([nil nil ((#("{" 0 1 (fontified t)) . 18735) (undo-tree-id190 . 1) (undo-tree-id191 . -1) (undo-tree-id192 . -1) (undo-tree-id193 . -1)) nil (25763 61989 310472 542000) 0 nil])
+([nil nil ((#("}}" 0 2 (fontified t)) . 18747) (undo-tree-id185 . -1) (undo-tree-id186 . 2) (undo-tree-id187 . -1) (undo-tree-id188 . -2) (undo-tree-id189 . -2)) nil (25763 61989 310468 411000) 0 nil])
+([nil nil ((#("\\href" 0 5 (fontified t face font-lock-keyword-face)) . 18548) (undo-tree-id183 . -4) (undo-tree-id184 . -5)) nil (25763 61989 310463 670000) 0 nil])
+([nil nil ((#("{mailto:akmail04@gmail.com}" 0 27 (fontified t)) . 18548) (undo-tree-id175 . -26) (undo-tree-id176 . -6) (undo-tree-id177 . -6) (undo-tree-id178 . 27) (undo-tree-id179 . -1) (undo-tree-id180 . 1) (undo-tree-id181 . -27) (undo-tree-id182 . -27)) nil (25763 61989 310460 509000) 0 nil])
+([nil nil ((#("{\\nolinkurl" 0 1 (fontified t) 1 11 (fontified t face font-lock-keyword-face)) . 18548) (undo-tree-id171 . -10) (undo-tree-id172 . 11) (undo-tree-id173 . -1) (undo-tree-id174 . -11)) nil (25763 61989 310437 403000) 0 nil])
+([nil nil ((#("{" 0 1 (fontified t)) . 18548) (undo-tree-id167 . 1) (undo-tree-id168 . -1) (undo-tree-id169 . -1) (undo-tree-id170 . -1)) nil (25763 61989 310432 107000) 0 nil])
+([nil nil ((#("}}" 0 2 (fontified t)) . 18566) (undo-tree-id156 . -1) (undo-tree-id157 . -1) (undo-tree-id158 . -1) (undo-tree-id159 . 2) (undo-tree-id160 . -1) (undo-tree-id161 . -1) (undo-tree-id162 . -1) (undo-tree-id163 . -1) (undo-tree-id164 . -1) (undo-tree-id165 . -2) (undo-tree-id166 . -2)) nil (25763 61989 310388 279000) 0 nil])
+([nil nil ((1397 . 1411) (1396 . 1397) (1395 . 1396) (t 25763 61989 316635 364000) 1309) nil (25763 62239 761144 636000) 0 nil])
+([nil nil ((#("0" 0 1 (fontified t)) . 1405) (undo-tree-id209 . -1) (undo-tree-id210 . -1) (undo-tree-id211 . -1) (undo-tree-id212 . -1) (undo-tree-id213 . -1) (undo-tree-id214 . -1) (undo-tree-id215 . -1) (undo-tree-id216 . -1) (t 25763 62239 769969 866000)) nil (25763 62278 659626 545000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t)) . 1405) (undo-tree-id207 . -1) (undo-tree-id208 . -1)) nil (25763 62278 659617 843000) 0 nil])
+([nil nil ((1405 . 1406) (#("5" 0 1 (fontified t)) . 1405) (undo-tree-id206 . -1)) nil (25763 62278 659613 543000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 2629 . 2630) (#("
+" 0 1 (fontified nil)) . -2642) (2629 . 2643) 2565) nil (25763 62278 659543 124000) 0 nil])
+([nil nil ((2629 . 2630) 2557) nil (25763 62278 659536 928000) 0 nil])
+([nil nil ((#("ПТИ түрлендіргіштері, РГ бөлгіш және ҚҚЗ кабельдік қорабы жеке қалқанға
+орнатылады, ол учаскенің жалпы кабельдік байланыс қорабының жанында
+Д9-Д11 желдету фершлагында арнайы тауашада орналасады. ДМ1-И, ДМ2-И, ДМ3
+датчиктерін қоректендіретін АС аппараты конвейер промындағы жылжымалы
+тарату пунктінде (энергия пойызында) орналасады. стреке 233-Д11-в.
+
+№5 өндіру учаскесінде (5-сурет) датчиктер мынадай орындарда орналасады:
+
+ДМ 1 - ші-244-Д6-1В монтаждау камерасындағы өндіру учаскесінің жалпы
+ағынында 10-20 м қашықтықта оны іске қосу нүктесі бар жалпы шахталық
+ағынмен біріктіру орнынан 1,3 м қашықтықта\\%;
+
+ДМ2-И - тазарту кенжарында одан шығу жолынан 15 м аспайтын қашықтықта
+1,3 іске қосу нүктесімен\\%;
+
+ДМ3 - тазарту кенжарына түсетін ағыста (конваға. пром. штреке 224-Д6-1В)
+одан 5 м аспайтын қашықтықта, іске қосу нүктесі 0,5 \\%;
+
+ДМ4-қазба учаскесінің кіріс ағынында кіріс ағынының учаскеге кіру
+орнынан 10-20 м қашықтықта 0,5\\% іске қосу нүктесімен.
+4 және 5-суреттерде мынадай қысқартулар қабылданды: ДМ - метан датчигі,
+ДВ - ауа датчигі, ас - дабыл аппараты, РГ - газ бөлгіш, ПТИ -
+телеөлшеу түрлендіргіші, КК-кабельдік қорап.
+
+" 0 604 (fontified t) 604 606 (fontified t face font-lock-keyword-face) 606 703 (fontified t) 703 705 (fontified t face font-lock-keyword-face) 705 833 (fontified t) 833 835 (fontified t face font-lock-keyword-face) 835 934 (fontified t) 934 936 (fontified t face font-lock-keyword-face) 936 1139 (fontified t)) . 15102) (undo-tree-id217 . -1138) (undo-tree-id218 . -1138) (undo-tree-id219 . -1138) (undo-tree-id220 . -1138) (undo-tree-id221 . -1138) (undo-tree-id222 . -72) (undo-tree-id223 . -424) (undo-tree-id224 . -424) (undo-tree-id225 . -424) (undo-tree-id226 . -424) (undo-tree-id227 . -423) (undo-tree-id228 . -350) (undo-tree-id229 . -140) (undo-tree-id230 . -1138) (undo-tree-id231 . -1139) (undo-tree-id232 . -1138) (undo-tree-id233 . -1138) (undo-tree-id234 . -1139) 16240 (t 25763 62278 669970 50000)) nil (25763 62608 419780 771000) 0 nil])
+([nil nil ((14727 . 14728) 14716) nil (25763 62611 982568 653000) 0 nil] [nil nil ((nil rear-nonsticky nil 15855 . 15856) (nil fontified nil 14717 . 15856) (14717 . 15856) 14716) ((#("ПТИ түрлендіргіштері, РГ бөлгіш және ҚҚЗ кабельдік қорабы жеке қалқанға
+орнатылады, ол учаскенің жалпы кабельдік байланыс қорабының жанында
+Д9-Д11 желдету фершлагында арнайы тауашада орналасады. ДМ1-И, ДМ2-И, ДМ3
+датчиктерін қоректендіретін АС аппараты конвейер промындағы жылжымалы
+тарату пунктінде (энергия пойызында) орналасады. стреке 233-Д11-в.
+
+№5 өндіру учаскесінде (5-сурет) датчиктер мынадай орындарда орналасады:
+
+ДМ 1 - ші-244-Д6-1В монтаждау камерасындағы өндіру учаскесінің жалпы
+ағынында 10-20 м қашықтықта оны іске қосу нүктесі бар жалпы шахталық
+ағынмен біріктіру орнынан 1,3 м қашықтықта\\%;
+
+ДМ2-И - тазарту кенжарында одан шығу жолынан 15 м аспайтын қашықтықта
+1,3 іске қосу нүктесімен\\%;
+
+ДМ3 - тазарту кенжарына түсетін ағыста (конваға. пром. штреке 224-Д6-1В)
+одан 5 м аспайтын қашықтықта, іске қосу нүктесі 0,5 \\%;
+
+ДМ4-қазба учаскесінің кіріс ағынында кіріс ағынының учаскеге кіру
+орнынан 10-20 м қашықтықта 0,5\\% іске қосу нүктесімен.
+4 және 5-суреттерде мынадай қысқартулар қабылданды: ДМ - метан датчигі,
+ДВ - ауа датчигі, ас - дабыл аппараты, РГ - газ бөлгіш, ПТИ -
+телеөлшеу түрлендіргіші, КК-кабельдік қорап.
+
+" 0 604 (fontified nil) 604 606 (fontified nil face font-lock-keyword-face) 606 703 (fontified nil) 703 705 (fontified nil face font-lock-keyword-face) 705 833 (fontified nil) 833 835 (fontified nil face font-lock-keyword-face) 835 934 (fontified nil) 934 936 (fontified nil face font-lock-keyword-face) 936 1138 (fontified nil) 1138 1139 (fontified nil rear-nonsticky nil)) . 14717) (undo-tree-id235 . -1138) (undo-tree-id236 . -72) (undo-tree-id237 . -72) (undo-tree-id238 . -72) (nil fontified t 15653 . 15855) (nil fontified t 15651 . 15653) (nil fontified t 15552 . 15651) (nil fontified t 15550 . 15552) (nil fontified t 15422 . 15550) (nil fontified t 15420 . 15422) (nil fontified t 15323 . 15420) (nil fontified t 15321 . 15323) (nil fontified t 14717 . 15321) (nil rear-nonsticky t 15855 . 15856)) (25763 62608 419376 432000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 15866 . 15867) (nil fontified nil 14728 . 15867) (14728 . 15867)) nil (25763 62621 94752 727000) 0 nil] [nil nil ((nil rear-nonsticky nil 15868 . 15869) (nil fontified nil 14730 . 15869) (14730 . 15869) 14729) ((#("ПТИ түрлендіргіштері, РГ бөлгіш және ҚҚЗ кабельдік қорабы жеке қалқанға
+орнатылады, ол учаскенің жалпы кабельдік байланыс қорабының жанында
+Д9-Д11 желдету фершлагында арнайы тауашада орналасады. ДМ1-И, ДМ2-И, ДМ3
+датчиктерін қоректендіретін АС аппараты конвейер промындағы жылжымалы
+тарату пунктінде (энергия пойызында) орналасады. стреке 233-Д11-в.
+
+№5 өндіру учаскесінде (5-сурет) датчиктер мынадай орындарда орналасады:
+
+ДМ 1 - ші-244-Д6-1В монтаждау камерасындағы өндіру учаскесінің жалпы
+ағынында 10-20 м қашықтықта оны іске қосу нүктесі бар жалпы шахталық
+ағынмен біріктіру орнынан 1,3 м қашықтықта\\%;
+
+ДМ2-И - тазарту кенжарында одан шығу жолынан 15 м аспайтын қашықтықта
+1,3 іске қосу нүктесімен\\%;
+
+ДМ3 - тазарту кенжарына түсетін ағыста (конваға. пром. штреке 224-Д6-1В)
+одан 5 м аспайтын қашықтықта, іске қосу нүктесі 0,5 \\%;
+
+ДМ4-қазба учаскесінің кіріс ағынында кіріс ағынының учаскеге кіру
+орнынан 10-20 м қашықтықта 0,5\\% іске қосу нүктесімен.
+4 және 5-суреттерде мынадай қысқартулар қабылданды: ДМ - метан датчигі,
+ДВ - ауа датчигі, ас - дабыл аппараты, РГ - газ бөлгіш, ПТИ -
+телеөлшеу түрлендіргіші, КК-кабельдік қорап.
+
+" 0 1 (fontified nil face font-lock-keyword-face) 1 604 (fontified nil) 604 606 (fontified nil face font-lock-keyword-face) 606 703 (fontified nil) 703 705 (fontified nil face font-lock-keyword-face) 705 833 (fontified nil) 833 835 (fontified nil face font-lock-keyword-face) 835 934 (fontified nil) 934 936 (fontified nil face font-lock-keyword-face) 936 1138 (fontified nil) 1138 1139 (fontified nil rear-nonsticky nil)) . 14730) (undo-tree-id239 . -1138) (undo-tree-id240 . -1139) (undo-tree-id241 . -283) (undo-tree-id242 . -1139) (undo-tree-id243 . -1139) (nil fontified t 15666 . 15868) (nil fontified t 15664 . 15666) (nil fontified t 15565 . 15664) (nil fontified t 15563 . 15565) (nil fontified t 15435 . 15563) (nil fontified t 15433 . 15435) (nil fontified t 15336 . 15433) (nil fontified t 15334 . 15336) (nil fontified t 14731 . 15334) (nil fontified t 14730 . 14731) (nil rear-nonsticky t 15868 . 15869)) (25763 62611 982371 619000) 0 nil])
+nil
+([nil nil ((14727 . 14728) 14716) nil (25763 62621 94750 208000) 0 nil])
+nil
+([nil nil ((#("
+" 0 1 (rear-nonsticky t fontified t)) . 15867) (undo-tree-id245 . -1) (undo-tree-id246 . -1)) nil (25763 62621 94746 828000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 15867) (undo-tree-id244 . -1)) nil (25763 62621 94737 695000) 0 nil])
+([nil nil ((#("7" 0 1 (fontified t)) . -15946) (t 25763 62621 106638 331000) (15947 . 15948) 15946 (t 25763 62621 106638 331000)) nil (25763 62638 684684 842000) 0 nil])
+([nil nil ((#("7" 0 1 (fontified t)) . -16113) (16114 . 16115) 16113) nil (25763 62794 459352 655000) 0 nil])
+([nil current ((15687 . 15688) (t 25763 62638 693305 91000) 15633) nil (25763 62795 742570 487000) 0 nil] [nil nil ((15759 . 15760) (t 25763 62638 693305 91000) 15688) ((#("
+" 0 1 (fontified t)) . 15759) (undo-tree-id247 . -1) (undo-tree-id248 . -1) (undo-tree-id249 . -1)) (25763 62794 459116 374000) 0 nil])
+nil
 nil

@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"2faf9f11711da7bdfe0ce071257790d86a03ba61"
+"0028d89f81863f81283875d24d4eb07dd68e5e15"
 [nil nil nil nil (25752 31644 486502 180000) 0 nil]
 ([nil nil ((1 . 30914) (t 25752 31639 612232 687000)) nil (25752 31644 486496 523000) 0 nil])
 ([nil nil ((nil face (italic) 30187 . 30188) (nil face (font-lock-keyword-face italic) 30180 . 30187) (#("\\textbf{" 0 7 (face (font-lock-keyword-face italic)) 7 8 (face (italic))) . 30177) (30185 . 30196) (nil face (italic) 29295 . 29296) (nil face (font-lock-keyword-face italic) 29288 . 29295) (#("\\textbf{" 0 7 (face (font-lock-keyword-face italic)) 7 8 (face (italic))) . 29285) (29293 . 29304) (nil face font-lock-keyword-face 26225 . 26232) (#("\\textbf{" 0 7 (face font-lock-keyword-face)) . 26222) (26230 . 26241) (nil face font-lock-keyword-face 23238 . 23245) (#("\\textbf{" 0 7 (face font-lock-keyword-face)) . 23235) (23243 . 23254) (nil face font-lock-keyword-face 22498 . 22505) (#("\\textbf{" 0 7 (face font-lock-keyword-face)) . 22495) (22503 . 22514) (nil fontified t 7147 . 7148) (nil fontified t 7140 . 7147) (nil face font-lock-keyword-face 7140 . 7147) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 7137) (7145 . 7156) (nil fontified t 5811 . 5812) (nil fontified t 5804 . 5811) (nil face font-lock-keyword-face 5804 . 5811) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 5801) (5809 . 5820) (nil fontified t 4523 . 4524) (nil fontified t 4516 . 4523) (nil face font-lock-keyword-face 4516 . 4523) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 4513) (4521 . 4532) (nil fontified t 4416 . 4417) (nil fontified t 4409 . 4416) (nil face font-lock-keyword-face 4409 . 4416) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 4406) (4414 . 4425) (nil fontified t 3187 . 3188) (nil fontified t 3185 . 3187) (nil face font-lock-keyword-face 3185 . 3187) (nil fontified t 3180 . 3185) (nil face font-lock-keyword-face 3180 . 3185) (#("\\textbf{" 0 5 (face font-lock-keyword-face fontified t) 5 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 3177) (3185 . 3196) (nil fontified t 3069 . 3070) (nil fontified t 3062 . 3069) (nil face font-lock-keyword-face 3062 . 3069) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 3059) (3067 . 3078) (nil fontified t 2970 . 2971) (nil fontified t 2963 . 2970) (nil face font-lock-keyword-face 2963 . 2970) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 2960) (2968 . 2979) (nil fontified t 1761 . 1762) (nil fontified t 1754 . 1761) (nil face font-lock-keyword-face 1754 . 1761) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1751) (1759 . 1770) (nil fontified t 1740 . 1741) (nil fontified t 1733 . 1740) (nil face font-lock-keyword-face 1733 . 1740) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1730) (1738 . 1749) (nil fontified t 1678 . 1679) (nil fontified t 1671 . 1678) (nil face font-lock-keyword-face 1671 . 1678) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1668) (1676 . 1687) (nil fontified t 1617 . 1618) (nil fontified t 1610 . 1617) (nil face font-lock-keyword-face 1610 . 1617) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1607) (1615 . 1626) (nil fontified t 1520 . 1521) (nil fontified t 1516 . 1520) (nil face font-lock-keyword-face 1516 . 1520) (nil fontified t 1513 . 1516) (nil face font-lock-keyword-face 1513 . 1516) (#("\\textbf{" 0 3 (face font-lock-keyword-face fontified t) 3 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1510) (1518 . 1529) (nil fontified t 217 . 218) (nil fontified t 210 . 217) (nil face font-lock-keyword-face 210 . 217) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 207) (215 . 226) (nil fontified t 107 . 108) (nil fontified t 100 . 107) (nil face font-lock-keyword-face 100 . 107) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 97) (105 . 116) (nil fontified t 79 . 80) (nil fontified t 72 . 79) (nil face font-lock-keyword-face 72 . 79) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 69) (77 . 88) (nil fontified t 11 . 12) (t 25752 31644 488872 594000) (nil fontified t 4 . 11) (t 25752 31644 488872 594000) (nil face font-lock-keyword-face 4 . 11) (t 25752 31644 488872 594000) (#("\\textbf{" 0 7 (face font-lock-keyword-face fontified t) 7 8 (fontified t)) . 1) (t 25752 31644 488872 594000) (9 . 20) (t 25752 31644 488872 594000)) nil (25754 59743 857401 46000) 0 nil])
@@ -891,7 +891,7 @@ nil
 nil
 ([nil nil ((#("
 " 0 1 (fontified t)) . 11546) (undo-tree-id76 . -1) (undo-tree-id77 . -1) (undo-tree-id78 . -1) (undo-tree-id79 . -1) (undo-tree-id80 . -1) (undo-tree-id81 . -1) (undo-tree-id82 . -1)) ((11546 . 11547)) (25762 42024 782806 756000) 0 nil])
-([nil current ((29652 . 29653) 29619) nil (25762 42148 804531 151000) 0 nil])
+([nil nil ((29652 . 29653) 29619) nil (25762 42148 804531 151000) 0 nil])
 ([nil nil ((#("\\centering
 \\includegraphics[width=0.5\\textwidth]{image44}
 \\caption*{Figure 1 - Dependence of the limiting reduction current of
@@ -900,7 +900,7 @@ electrode on the concentration of ions in solution. Ion concentrations,
 mol/l: 0,0001; 0,001; 0,01; 0,1}
 \\end{figure}
 " 0 10 (fontified t face font-lock-keyword-face) 10 11 (fontified t) 11 27 (fontified t face font-lock-keyword-face) 27 37 (fontified t) 37 47 (fontified t face font-lock-keyword-face) 47 49 (fontified t) 49 56 (fontified t face font-lock-builtin-face) 56 58 (fontified t) 58 67 (fontified t face font-lock-keyword-face) 67 129 (fontified t) 129 145 (fontified t face font-lock-keyword-face) 145 159 (fontified t) 159 175 (fontified t face font-lock-keyword-face) 175 300 (fontified t) 300 304 (fontified t face font-lock-keyword-face) 304 305 (fontified t latex-env-pair t) 305 311 (fontified t latex-env-pair t face font-lock-function-name-face) 311 312 (fontified t latex-env-pair t) 312 313 (fontified t)) . 11233) (undo-tree-id29 . -300) (undo-tree-id30 . -127) (undo-tree-id31 . -313) (undo-tree-id32 . -12) (undo-tree-id33 . -16) (undo-tree-id34 . -16) (undo-tree-id35 . -16) (undo-tree-id36 . -16) (undo-tree-id37 . -17) (undo-tree-id38 . -17) (undo-tree-id39 . -17) (undo-tree-id40 . -17) (undo-tree-id41 . -18) (undo-tree-id42 . -18) (undo-tree-id43 . -18) (undo-tree-id44 . -18) (undo-tree-id45 . -19) (undo-tree-id46 . -19) (undo-tree-id47 . -19) (undo-tree-id48 . -19) (undo-tree-id49 . -12) (undo-tree-id50 . -12) (undo-tree-id51 . -12) (undo-tree-id52 . -12) (undo-tree-id53 . -12) (undo-tree-id54 . -12) (undo-tree-id55 . -12) (undo-tree-id56 . -58) (undo-tree-id57 . -313) (undo-tree-id58 . -312) (undo-tree-id59 . -10) (undo-tree-id60 . -313) (undo-tree-id61 . -313) (undo-tree-id62 . -313) (undo-tree-id63 . -313) (undo-tree-id64 . -313) (undo-tree-id65 . -313) (undo-tree-id66 . -313) (undo-tree-id67 . -313) (undo-tree-id68 . -313) (undo-tree-id69 . -313) (undo-tree-id70 . -300) (undo-tree-id71 . -313) (undo-tree-id72 . -300) (undo-tree-id73 . -300) (undo-tree-id74 . -300) (undo-tree-id75 . -313)) ((11233 . 11546)) (25762 42024 415431 929000) 0 nil])
-nil
+([nil nil ((9808 . 9809) (t 25762 42148 812891 143000) 9807) nil (25763 59645 611448 341000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 11982 . 11983) (#("
 " 0 1 (fontified nil)) . -12295) (11982 . 12296) 11968) ((#("
 \\centering
@@ -911,23 +911,76 @@ electrode on the concentration of ions in solution. Ion concentrations,
 mol/l: 0,0001; 0,001; 0,01; 0,1}
 \\end{figure}
 " 0 1 (fontified nil rear-nonsticky nil) 1 11 (fontified nil face font-lock-keyword-face) 11 12 (fontified nil) 12 28 (fontified t face font-lock-keyword-face) 28 35 (fontified t) 35 36 (fontified t) 36 37 (fontified t) 37 38 (fontified t) 38 48 (fontified t face font-lock-keyword-face) 48 50 (fontified t) 50 57 (fontified t face font-lock-builtin-face) 57 59 (fontified t) 59 68 (fontified t face font-lock-keyword-face) 68 128 (fontified t) 128 130 (fontified t) 130 146 (fontified t face font-lock-keyword-face) 146 160 (fontified t) 160 176 (fontified t face font-lock-keyword-face) 176 196 (fontified t) 196 268 (fontified t) 268 300 (fontified t) 300 301 (fontified t) 301 305 (fontified nil face font-lock-keyword-face) 305 306 (latex-env-pair t fontified nil) 306 312 (latex-env-pair t fontified nil face font-lock-function-name-face) 312 313 (latex-env-pair t fontified nil) 313 314 (fontified nil)) . 11982) (undo-tree-id113 . 314) (undo-tree-id114 . -300) (undo-tree-id115 . -35) (undo-tree-id116 . -35) (undo-tree-id117 . -35) (undo-tree-id118 . -1) (undo-tree-id119 . -1) (undo-tree-id120 . -301) (undo-tree-id121 . -35) (undo-tree-id122 . -35) (undo-tree-id123 . -35) (12295 . 12296) (nil rear-nonsticky t 11982 . 11983)) (25762 42024 95252 638000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 9809 . 9810) (#("
+" 0 1 (fontified nil)) . -9818) (9809 . 9819)) nil (25763 59645 611446 307000) 0 nil])
 ([nil nil ((#("\\" 0 1 (fontified t)) . -11987) (undo-tree-id27 . -1) (undo-tree-id28 . -1) 11988 (11987 . 11988) (11982 . 11987) 11968) ((#("
     " 0 1 (fontified t) 1 5 (fontified nil)) . 11982) (undo-tree-id102 . -4) (undo-tree-id103 . -5) (undo-tree-id104 . -5) (undo-tree-id105 . -4) (undo-tree-id106 . -4) (undo-tree-id107 . -4) (undo-tree-id108 . -4) (undo-tree-id109 . -4) (undo-tree-id110 . -4) (undo-tree-id111 . -1) (undo-tree-id112 . -4) (#("\\" 0 1 (fontified nil)) . 11987) (11987 . 11988)) (25762 42023 742721 295000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t rear-nonsticky t)) . 9809) (undo-tree-id139 . -1)) nil (25763 59645 611443 775000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 11991 . 11992) (#("
 " 0 1 (fontified nil)) . -12028) (11987 . 12029) 11986) ((#("
     \\begin{subfigure}[b]{0.45\\textwidth}
 " 0 1 (fontified t) 1 4 (fontified nil) 4 5 (fontified nil rear-nonsticky nil) 5 11 (fontified nil face font-lock-keyword-face) 11 12 (latex-env-pair t fontified nil) 12 21 (latex-env-pair t fontified nil face font-lock-function-name-face) 21 22 (latex-env-pair t fontified nil) 22 30 (fontified nil) 30 40 (fontified nil face font-lock-keyword-face) 40 41 (fontified nil) 41 42 (fontified nil)) . 11987) (12028 . 12029) (nil rear-nonsticky t 11991 . 11992)) (25762 42023 407209 766000) 0 nil])
+([nil nil ((9814 . 9818) (#("i" 0 1 (fontified t face font-lock-keyword-face)) . -9814) (undo-tree-id138 . -1) (9813 . 9815)) nil (25763 59645 611437 122000) 0 nil])
 ([nil nil ((#("    
 " 0 4 (fontified t) 4 5 (fontified t)) . 11983) (undo-tree-id15 . -3) (undo-tree-id16 . -4) (undo-tree-id17 . -4) (undo-tree-id18 . -4) (undo-tree-id19 . -3) (undo-tree-id20 . -3) (undo-tree-id21 . -3) (undo-tree-id22 . -3) (undo-tree-id23 . -3) (undo-tree-id24 . -3) (undo-tree-id25 . -3) (undo-tree-id26 . -5) 11986) ((11983 . 11988)) (25762 42023 60565 402000) 0 nil])
+([nil nil ((apply -24 11264 11620 undo--wrap-and-run-primitive-undo 11264 11620 ((11603 . 11606) (11567 . 11570) (11492 . 11495) (11421 . 11424) (11349 . 11352) (11299 . 11302) (11285 . 11288) (11264 . 11267) 11595)) (t 25763 59645 623290 720000)) nil (25763 59729 691794 77000) 0 nil])
 ([nil nil ((12348 . 12352) (12311 . 12315) (12235 . 12239) (12163 . 12167) (12090 . 12094) (12039 . 12043) (12024 . 12028) 12327) ((#("    " 0 4 (fontified t)) . 12024) (undo-tree-id101 . -3) (#("    " 0 4 (fontified t)) . 12039) (#("    " 0 4 (fontified t)) . 12090) (#("    " 0 4 (fontified t)) . 12163) (#("    " 0 4 (fontified t)) . 12235) (#("    " 0 4 (fontified t)) . 12311) (#("    " 0 4 (fontified t)) . 12348)) (25762 42022 911715 508000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 12390 . 12391) (#("
+" 0 1 (face font-lock-comment-face fontified nil)) . -12708) (12390 . 12709) 12382) nil (25763 59729 691792 783000) 0 nil])
 ([nil nil ((#("    " 0 4 (fontified nil)) . -12380) (12372 . 12380) (#("    " 0 4 (fontified nil)) . -12339) (12331 . 12339) (#("    " 0 4 (fontified nil)) . -12259) (12251 . 12259) (#("    " 0 4 (fontified nil)) . -12183) (12175 . 12183) (#("    " 0 4 (fontified nil)) . -12106) (12098 . 12106) (#("    " 0 4 (fontified nil)) . -12051) (12043 . 12051) (#("    " 0 4 (fontified nil)) . -12032) (undo-tree-id10 . -3) (undo-tree-id11 . -3) (undo-tree-id13 . -3) (12024 . 12032) 12348) ((#("        " 0 8 (fontified nil)) . 12024) (12032 . 12036) (#("        " 0 8 (fontified nil)) . 12043) (12051 . 12055) (#("        " 0 8 (fontified nil)) . 12098) (12106 . 12110) (#("        " 0 8 (fontified nil)) . 12175) (12183 . 12187) (#("        " 0 8 (fontified nil)) . 12251) (12259 . 12263) (#("        " 0 8 (fontified nil)) . 12331) (12339 . 12343) (#("        " 0 8 (fontified nil)) . 12372) (12380 . 12384)) (25762 42022 750597 391000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 12394 . 12395) (#("
+" 0 1 (fontified nil)) . -12431) (12390 . 12432) 12376) nil (25763 59729 691791 221000) 0 nil])
 ([nil nil ((#("        \\end{figure}
 " 0 8 (fontified t) 8 12 (fontified t face font-lock-keyword-face) 12 13 (latex-env-pair t fontified t) 13 19 (latex-env-pair t fontified t face font-lock-function-name-face) 19 20 (latex-env-pair t fontified t) 20 21 (fontified t)) . 12372) (undo-tree-id6 . -20) (undo-tree-id8 . -21)) ((12372 . 12393)) (25762 42022 607130 192000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 12753 . 12754) (#("
+" 0 1 (fontified nil)) . -12769) (12749 . 12770) 12718) nil (25763 59729 691789 305000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 12375 . 12376) (#("
 " 0 1 (fontified nil)) . -12391) (12371 . 12392) 12331) ((#("
     \\end{subfigure}
 " 0 1 (fontified t) 1 4 (fontified nil) 4 5 (rear-nonsticky nil fontified nil) 5 9 (fontified nil face font-lock-keyword-face) 9 10 (latex-env-pair t fontified nil) 10 19 (latex-env-pair t fontified nil face font-lock-function-name-face) 19 20 (latex-env-pair t fontified nil) 20 21 (fontified nil)) . 12371) (undo-tree-id100 . -20) (12391 . 12392) (nil rear-nonsticky t 12375 . 12376)) (25762 42022 447048 259000) 0 nil])
+([nil nil ((apply 18 12432 12732 undo--wrap-and-run-primitive-undo 12432 12732 ((#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12699) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12627) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12559) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12490) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12443) (#("%% " 0 3 (fontified t face font-lock-comment-delimiter-face)) . -12432)))) nil (25763 59729 691787 693000) 0 nil])
 ([nil nil ((#("0" 0 1 (fontified t)) . 12074) (undo-tree-id98 . -1) (undo-tree-id99 . -1) (t 25762 41970 722890 295000)) ((12074 . 12075)) (25762 42022 271056 353000) 0 nil])
+([nil nil ((12719 . 12723) (12643 . 12647) (12571 . 12575) (12498 . 12502) (12447 . 12451) (12432 . 12436) 12700) nil (25763 59729 691785 803000) 0 nil])
 ([nil nil ((#("." 0 1 (fontified t)) . 12074) (undo-tree-id96 . -1) (undo-tree-id97 . -1)) ((12074 . 12075)) (25762 42022 79625 751000) 0 nil])
+([nil nil ((#("    " 0 4 (fontified nil)) . -12747) (12739 . 12747) (#("    " 0 4 (fontified nil)) . -12667) (12659 . 12667) (#("    " 0 4 (fontified nil)) . -12591) (12583 . 12591) (#("    " 0 4 (fontified nil)) . -12514) (12506 . 12514) (#("    " 0 4 (fontified nil)) . -12459) (12451 . 12459) (#("    " 0 4 (fontified nil)) . -12440) (undo-tree-id140 . -1) (undo-tree-id141 . -1) (undo-tree-id142 . -1) (undo-tree-id143 . -1) (undo-tree-id144 . -1) (12432 . 12440) 12719) nil (25763 59729 691779 115000) 0 nil])
 ([nil nil ((#("5" 0 1 (fontified t)) . 12074) (undo-tree-id94 . -1) (undo-tree-id95 . -1)) ((12074 . 12075) (t 25762 41985 72890 363000)) (25762 41985 63291 945000) 0 nil])
+([nil nil ((#("0" 0 1 (fontified t)) . 12482) (undo-tree-id149 . -1) (undo-tree-id150 . -1) (t 25763 59729 703291 125000)) nil (25763 59744 6309 640000) 0 nil])
+nil
+([nil nil ((#("." 0 1 (fontified t)) . 12482) (undo-tree-id147 . -1) (undo-tree-id148 . -1)) nil (25763 59744 6304 791000) 0 nil])
+([nil nil ((#("5" 0 1 (fontified t)) . 12482) (undo-tree-id145 . -1) (undo-tree-id146 . -1)) nil (25763 59744 6297 705000) 0 nil])
+([nil nil ((#("\\begin{multicols}{2}
+The reduction of copper, nickel and zinc on a titanium electrode occurs
+in a more negative potential range compared to copper (Table 2),
+although the nature of the electrode does not significantly affect the
+shape of the polarograms. The value of the half-wave potential on a
+titanium electrode shifts to a less negative region with an increase in
+the concentration of ions in the solution, whereas on a copper electrode
+it remains at the same level. So, for example, when the copper
+concentration changes from 10\\textsuperscript{-4} to
+10\\textsuperscript{-1} M on a titanium electrode, the half-wave
+potential changes from -0,68 V to -0,54 V, on a copper electrode it
+remains at -0,54 V to -0,52 V.
+\\end{multicols}
+
+" 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 16 (latex-env-pair t fontified t face font-lock-function-name-face) 16 17 (latex-env-pair t fontified t) 17 21 (fontified t) 21 92 (fontified t) 92 93 (fontified t) 93 534 (fontified t) 534 550 (fontified t face font-lock-keyword-face) 550 560 (fontified t) 560 576 (fontified t face font-lock-keyword-face) 576 721 (fontified t) 721 725 (fontified t face font-lock-keyword-face) 725 726 (latex-env-pair t fontified t) 726 735 (latex-env-pair t fontified t face font-lock-function-name-face) 735 736 (latex-env-pair t fontified t) 736 738 (fontified t)) . 11620) (undo-tree-id151 . -737) (undo-tree-id152 . -737) (undo-tree-id153 . -19) (undo-tree-id154 . -737) (undo-tree-id155 . -737) (undo-tree-id156 . -738) (undo-tree-id157 . -19) (undo-tree-id158 . -737) (undo-tree-id159 . -19) (undo-tree-id160 . -19) (undo-tree-id161 . -737) (undo-tree-id162 . -737) (undo-tree-id163 . -738) 12357 (t 25763 59744 19957 863000)) nil (25763 59775 105397 277000) 0 nil])
+([nil current ((nil rear-nonsticky nil 13284 . 13285) (#("
+" 0 1 (fontified nil)) . -14022) (13284 . 14023)) nil (25763 59776 221659 747000) 0 nil] [nil nil ((nil rear-nonsticky nil 13308 . 13309) (#("
+" 0 1 (fontified nil)) . -14046) (13308 . 14047) 13285) ((#("
+\\begin{multicols}{2}
+The reduction of copper, nickel and zinc on a titanium electrode occurs
+in a more negative potential range compared to copper (Table 2),
+although the nature of the electrode does not significantly affect the
+shape of the polarograms. The value of the half-wave potential on a
+titanium electrode shifts to a less negative region with an increase in
+the concentration of ions in the solution, whereas on a copper electrode
+it remains at the same level. So, for example, when the copper
+concentration changes from 10\\textsuperscript{-4} to
+10\\textsuperscript{-1} M on a titanium electrode, the half-wave
+potential changes from -0,68 V to -0,54 V, on a copper electrode it
+remains at -0,54 V to -0,52 V.
+\\end{multicols}
+
+" 0 1 (fontified nil rear-nonsticky nil) 1 7 (fontified nil face font-lock-keyword-face) 7 8 (latex-env-pair t fontified nil) 8 17 (latex-env-pair t fontified nil face font-lock-function-name-face) 17 18 (latex-env-pair t fontified nil) 18 22 (fontified nil) 22 93 (fontified t) 93 94 (fontified t) 94 535 (fontified t) 535 551 (fontified t face font-lock-keyword-face) 551 561 (fontified t) 561 577 (fontified t face font-lock-keyword-face) 577 722 (fontified t) 722 726 (fontified t face font-lock-keyword-face) 726 727 (latex-env-pair t fontified t) 727 736 (latex-env-pair t fontified t face font-lock-function-name-face) 736 737 (latex-env-pair t fontified t) 737 738 (fontified t) 738 739 (fontified nil)) . 13308) (undo-tree-id164 . -738) (undo-tree-id165 . -1) (undo-tree-id166 . -738) (undo-tree-id167 . -1) (undo-tree-id168 . -1) (undo-tree-id169 . -1) (14046 . 14047) (nil rear-nonsticky t 13308 . 13309)) (25763 59775 105282 990000) 0 nil])
+nil
 nil

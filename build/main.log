@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.2)  3 JUL 2023 18:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.2)  4 JUL 2023 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1058,7 +1058,33 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 (/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen287
-)) (build/main.aux)
+)) (build/main.aux
+
+Package fontspec Info: Font family 'FreeSerif(1)' created for font 'FreeSerif'
+(fontspec)             with options [Ligatures=TeX,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FreeSerif/OT:script=cyrl;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"FreeSerif/B/OT:script=cyrl;language=dflt;mapping=tex
+-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"FreeSerif/I/OT:script=cyrl;language=dflt;mapping=tex
+-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"FreeSerif/BI/OT:script=cyrl;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -1193,25 +1219,22 @@ Package hyperref Info: Link coloring ON on input line 4.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \c@lstlisting=\count348
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=443.57848pt
-* \textheight=624.25346pt
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
 * \topmargin=-26.97922pt
@@ -1219,7 +1242,7 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 * \headsep=18.06749pt
 * \topskip=10.0pt
 * \footskip=25.29494pt
-* \marginparwidth=125.0pt
+* \marginparwidth=115.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -1234,31 +1257,6 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-
-Package fontspec Info: Font family 'FreeSerif(1)' created for font 'FreeSerif'
-(fontspec)             with options [Ligatures=TeX,Script=Cyrillic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FreeSerif/OT:script=cyrl;language=dflt;mapping=tex-t
-ext;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"FreeSerif/B/OT:script=cyrl;language=dflt;mapping=tex
--text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"FreeSerif/I/OT:script=cyrl;language=dflt;mapping=tex
--text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"FreeSerif/BI/OT:script=cyrl;language=dflt;mapping=te
-x-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
 (./src/first_pages.tex
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
@@ -1266,44 +1264,27 @@ Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
  [1
 
 ]
-Overfull \hbox (15.5508pt too wide) in paragraph at lines 126--129
-[]\TU/FreeSerif(1)/b/n/10 Редакцияның мекенжайы: \TU/FreeSerif(1)/m/n/10 010000
-, Қазақстан, Астана қ., Қайым Мұхамедханов к-сі, 37 «А», тел.:+7(7172)
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[2]
-Overfull \hbox (0.28491pt too wide) in paragraph at lines 208--213
-[]\TU/FreeSerif(1)/b/n/10 Тематическая направленность: \TU/FreeSerif(1)/m/n/10 
-Информационно-коммуникационные и химические технологии, Про-
- []
-
+ [2]
 [3]
 Font mapping `tex-text.tec' for font `FreeSerif Italic' not found.
+)
+Underfull \vbox (badness 1735) has occurred while \output is active []
 
-Overfull \hbox (22.3116pt too wide) in paragraph at lines 312--316
-[]\TU/FreeSerif(1)/b/n/10 Thematic direction: \TU/FreeSerif(1)/m/n/10 Informati
-on and communication and chemical technologies, Manufacturing and manufacturing
-
- []
-
-) [4]
+ [4]
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
- (build/main.toc
-Overfull \hbox (11.4825pt too wide) in paragraph at lines 12--12
-\TU/FreeSerif(1)/m/n/10 OПPEДEЛEНИE OПТИМAЛЬНOЙ ДOЗЫ ВНOCИМЫХ ИНКAПCУЛИPOВAННЫХ
- БАД В КИCЛO- 
- []
 
-
-Overfull \hbox (13.5742pt too wide) in paragraph at lines 15--15
+(build/main.toc
+Overfull \hbox (30.36133pt too wide) in paragraph at lines 15--15
 \TU/FreeSerif(1)/m/n/10 THE INFLUENCE OF TECHNOGENIC FACTORS ON THE EFFECTIVE C
 OMBINED DEVELOPMENT 
  []
 
 
-Overfull \hbox (11.28502pt too wide) in paragraph at lines 17--17
+Overfull \hbox (28.07214pt too wide) in paragraph at lines 17--17
 \TU/FreeSerif(1)/m/n/10 MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKHSTAN: ASSE
 SSMENT AND PROSPECTS 
  []
@@ -1337,18 +1318,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
 
-Overfull \hbox (2.28242pt too wide) in paragraph at lines 21--30
-\TU/FreeSerif(1)/m/n/10 рассматривает различные системы пожаротушения, системы 
-управления пожаром на основе IoT-технологий,
+Overfull \hbox (3.47455pt too wide) in paragraph at lines 89--100
+\TU/FreeSerif(1)/m/n/10 evacuation systems for citizens. In this article, the a
+dvantages and disadvantages of each system were discussed,
  []
 
+
+Overfull \hbox (0.8304pt too wide) in paragraph at lines 89--100
+\TU/FreeSerif(1)/m/n/10 as well as examples of their implementation in real sma
+rt cities. Discusses the applicability of smart technology
+ []
+
+Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
 [6
 
 
 ]
+Overfull \hbox (2.0679pt too wide) in paragraph at lines 101--105
+[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 IoT technology, sma
+rt city, fire safety, artificial intelligence, controller, microprocessor syste
+m,
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 126--132
+\TU/FreeSerif(1)/m/n/10 ких как повышение безопасности, улучшение
+ []
+
 Font mapping `tex-text.tec' for font `FreeSerif Bold Italic' not found.
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
- [7] [8]
+[7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 301--306
 []\TU/FreeSerif(1)/m/n/10 Система детектирования пожаров в Лос-
  []
@@ -1358,17 +1357,7 @@ File: assets/image1.png Graphic file (type bmp)
 [9]
 File: assets/image2.jpeg Graphic file (type bmp)
 <assets/image2.jpeg>
- [10]
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
-[]\TU/FreeSerif(1)/m/n/10 Пена обладает дополнительными свойствами
- []
-
-
-Underfull \hbox (badness 7238) in paragraph at lines 439--440
-[]\TU/FreeSerif(1)/m/n/10 Система автоматического пожаротушения по-
- []
-
-[11]
+ [10] [11]
 File: assets/image3.jpeg Graphic file (type bmp)
 <assets/image3.jpeg>
 
@@ -1378,11 +1367,21 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 580--582
-[]\TU/FreeSerif(1)/m/n/10 Можно использовать в любом масштабе: от
+Underfull \hbox (badness 10000) in paragraph at lines 583--585
+\TU/FreeSerif(1)/m/n/10 жара и отправить сообщения на мобильные
  []
 
-[12] [13]
+[12]
+Underfull \hbox (badness 5091) in paragraph at lines 668--676
+\TU/FreeSerif(1)/m/n/10 систему управления пожаром на основе IoT-
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 677--684
+\TU/FreeSerif(1)/m/n/10 система управления пожаром на основе IoT-
+ []
+
+[13]
 File: assets/image4.jpeg Graphic file (type bmp)
 <assets/image4.jpeg>
 
@@ -1391,70 +1390,79 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 727.
 See the caption package documentation for explanation.
 
-[14] [15]
+[14]
+Underfull \hbox (badness 7168) in paragraph at lines 827--829
+[]\TU/FreeSerif(1)/m/n/10 Увеличивает эффективность эвакуации, по-
+ []
+
 File: assets/image5.jpeg Graphic file (type bmp)
 <assets/image5.jpeg>
- [16]
-Underfull \hbox (badness 5578) in paragraph at lines 923--924
-[]\TU/FreeSerif(1)/m/n/10 Преимущества: быстрое оповещение, возмож-
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 930--932
-[]\TU/FreeSerif(1)/m/n/10 Преимущества: быстрое обнаружение пожара,
- []
-
-
-Underfull \hbox (badness 5832) in paragraph at lines 971--974
-\TU/FreeSerif(1)/m/n/10 опасности должен основываться на конкретных
- []
-
-File: assets/image6.jpeg Graphic file (type bmp)
-<assets/image6.jpeg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
+[]\TU/FreeSerif(1)/m/n/10 Преимущества: эффективность, автоматиче-
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 918--920
+[]\TU/FreeSerif(1)/m/n/10 Недостатки: возможно повреждение имуще-
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 933--935
+[]\TU/FreeSerif(1)/m/n/10 Недостатки: ложные срабатывания, высокая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--939
+[]\TU/FreeSerif(1)/m/n/10 Преимущества: надежность, эффективность,
+ []
+
+[16]
+File: assets/image6.jpeg Graphic file (type bmp)
+<assets/image6.jpeg>
  [17]
+Overfull \hbox (0.88954pt too wide) in paragraph at lines 1119--1123
+[]\TU/FreeSerif(1)/m/n/10 G.Z. Ziyatbekova, A.T. Mazakova, A.D. Burgegulov, E.B
+. Muratov. Development of energy-saving system
+ []
+
 [18]
-Overfull \hbox (13.3308pt too wide) in paragraph at lines 1178--1180
+Overfull \hbox (30.11792pt too wide) in paragraph at lines 1178--1180
 []\TU/FreeSerif(1)/m/n/10 Burgegulov A. D. - doctoral student at Al-Farabi Kaza
 kh National University, Almaty, Kazakhstan, dizel_kz@bk.ru 
  []
 
-[19]
-Overfull \hbox (1.27328pt too wide) in paragraph at lines 1202--1204
+
+Overfull \hbox (5.47705pt too wide) in paragraph at lines 1182--1188
+[]\TU/FreeSerif(1)/m/n/10 Mazakov T. Zh. - NAO Al-Farabi Kazakh National Univer
+sity, doctor of physical and mathematical sciences,
+ []
+
+
+Overfull \hbox (13.9104pt too wide) in paragraph at lines 1197--1200
+[]\TU/FreeSerif(1)/m/n/10 Sametova Aigerim Aidarkyzy - doctoral student at Al-F
+arabi Kazakh National University, Almaty, Kazakhstan,
+ []
+
+
+Overfull \hbox (18.06041pt too wide) in paragraph at lines 1202--1204
 []\TU/FreeSerif(1)/m/n/10 Joldassova Bagila Ummetovna - graduate student at Al-
 Farabi Kazakh National University, Almaty, Kazakhstan,
  []
 
-) (./src/2.tex [20]
+) (./src/2.tex [19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 5.
 
-
-Overfull \hbox (1.5741pt too wide) in paragraph at lines 23--42
-\TU/FreeSerif(1)/m/n/10 composition of the ingredients of the concrete mixture.
- Earlier in work [1], clustering of concrete mix formulations
- []
-
-
-Overfull \hbox (18.74158pt too wide) in paragraph at lines 23--42
-\TU/FreeSerif(1)/m/n/10 was carried out with the help of the program "Comprehen
-sive quality assessment and classification of multidimensional
- []
-
-
-Overfull \hbox (9.5266pt too wide) in paragraph at lines 23--42
-\TU/FreeSerif(1)/m/n/10 the highest quality concrete mix formulations into the 
-appropriate classes. The result of using DataMining technology
- []
-
-[21
+[20
 
 ]
-Underfull \hbox (badness 5446) in paragraph at lines 129--133
-\TU/FreeSerif(1)/m/n/10 information technology (datamining) provides the
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+[]\TU/FreeSerif(1)/m/n/10 At the same time, the main criterion for
  []
 
 
@@ -1467,13 +1475,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
 []\TU/FreeSerif(1)/m/n/10 -MicrosoftAnalysisServices - used to create
  []
 
-[22]
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+[]\TU/FreeSerif(1)/m/n/10 -Board - nothing remarkable, for business
+ []
+
+[21]
+Underfull \hbox (badness 6876) in paragraph at lines 204--210
+[]\TU/FreeSerif(1)/b/n/10 The aim of the study \TU/FreeSerif(1)/m/n/10 is to ev
+aluate the
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 230--233
 []\TU/FreeSerif(1)/m/n/10 That is, each cluster contains formulations
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--233
+Underfull \hbox (badness 5756) in paragraph at lines 230--233
 \TU/FreeSerif(1)/m/n/10 of concrete mixtures that are closest in their
  []
 
@@ -1483,31 +1502,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--239
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 234--239
-\TU/FreeSerif(1)/m/n/10 mathematical formulation of the solution of the
+Underfull \hbox (badness 10000) in paragraph at lines 234--239
+\TU/FreeSerif(1)/m/n/10 problem of clustering concrete mixtures, the
  []
 
 
-Overfull \hbox (8.43613pt too wide) in alignment at lines 246--263
+Underfull \hbox (badness 10000) in paragraph at lines 234--239
+\TU/FreeSerif(1)/m/n/10 classification of multidimensional objects" in
+ []
+
+
+Overfull \hbox (8.4346pt too wide) in alignment at lines 246--263
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (8.43613pt too wide) in alignment at lines 263--264
+Overfull \hbox (8.4346pt too wide) in alignment at lines 263--264
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (8.43613pt too wide) in alignment at lines 264--266
+Overfull \hbox (8.4346pt too wide) in alignment at lines 264--266
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (8.43613pt too wide) in alignment at lines 266--345
+Overfull \hbox (8.4346pt too wide) in alignment at lines 266--345
  [] [] [] [] [] 
  []
 
-[23]
+[22]
 File: assets/image8.png Graphic file (type bmp)
 <assets/image8.png>
 File: assets/image9.png Graphic file (type bmp)
@@ -1518,86 +1542,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 364--367
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 372--379
-\TU/FreeSerif(1)/m/n/10 characteristics in composition and strength. The
+Underfull \hbox (badness 10000) in paragraph at lines 364--367
+\TU/FreeSerif(1)/m/n/10 "Comprehensive quality assessment and
  []
 
-
-Overfull \vbox (1.27953pt too high) has occurred while \output is active []
-
-
-[24]
 File: assets/image10.png Graphic file (type bmp)
 <assets/image10.png>
 
-Overfull \hbox (14.7648pt too wide) in alignment at lines 393--416
+Overfull \hbox (14.76633pt too wide) in alignment at lines 393--416
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (14.7648pt too wide) in alignment at lines 416--418
+Overfull \hbox (14.76633pt too wide) in alignment at lines 416--418
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (14.7648pt too wide) in alignment at lines 418--427
+Overfull \hbox (14.76633pt too wide) in alignment at lines 418--427
  [] [] [] [] [] [] 
  []
 
-[25]
+[23]
 File: assets/image77.png Graphic file (type bmp)
 <assets/image77.png>
 File: assets/image78.png Graphic file (type bmp)
 <assets/image78.png>
 
-Overfull \hbox (1.66666pt too wide) in paragraph at lines 505--515
+Overfull \hbox (1.66667pt too wide) in paragraph at lines 505--515
 [][] [] 
  []
 
-[26]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Overfull \hbox (1.70627pt too wide) in paragraph at lines 521--523
+[]\TU/FreeSerif(1)/m/n/10 As a result, using the DBSCAN algorithm, the distribu
+tion of concrete mix formulations by class is obtained,
+ []
+
 File: assets/image13.png Graphic file (type bmp)
 <assets/image13.png>
 File: assets/image14.png Graphic file (type bmp)
 <assets/image14.png>
 
-Underfull \hbox (badness 8038) in paragraph at lines 548--551
-\TU/FreeSerif(1)/m/n/10 complex, the difficulty lies in the uncontrolled
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 7344) in paragraph at lines 552--554
-\TU/FreeSerif(1)/m/n/10 at classification, but clustering is still an open
- []
-
-
-Overfull \hbox (7.17496pt too wide) in paragraph at lines 606--609
+ [25]
+Overfull \hbox (23.96208pt too wide) in paragraph at lines 606--609
 []\TU/FreeSerif(1)/m/n/10 Electronic resource :URL: Ortiz-Arroyo D. Discovering
  Sets of Key Players in Social Networks // Computational
  []
 
-[27]
-Overfull \hbox (18.66156pt too wide) in paragraph at lines 611--613
-[]\TU/FreeSerif(1)/m/n/10 Electronic resource:URL: [][]https://kpfu.ru/portal/d
-ocs/F_1980845423/161_3_phys_mat_8.pdf[][] - Date of application
+
+Overfull \hbox (14.68956pt too wide) in paragraph at lines 619--623
+[]\TU/FreeSerif(1)/m/n/10 Akishev Karshyga Maksutovich, Candidate of Technical 
+Sciences, Ass. Professor, Department of "Information
  []
 
 
-Overfull \hbox (43.22076pt too wide) in paragraph at lines 619--623
+Overfull \hbox (60.00789pt too wide) in paragraph at lines 619--623
 \TU/FreeSerif(1)/m/n/10 Technology", Kazakh University of Technology and Busine
 ss, Astana, Republic of Kazakhstan:email:akmail04cx@mail.ru 
  []
 
-) (./src/3.tex [28]
+
+Overfull \hbox (3.49457pt too wide) in paragraph at lines 625--629
+[]\TU/FreeSerif(1)/m/n/10 Karpov Valery Ivanovich, Doctor of Technical Sciences
+, Professor, Department of Information Technology,
+ []
+
+[26]
+Overfull \hbox (14.47623pt too wide) in paragraph at lines 635--638
+[]\TU/FreeSerif(1)/m/n/10 Tulegulov Amandos Dabysovich, Ph.D., Ass. Professor, 
+Head of the Department of "Information Technology",
+ []
+
+
+Overfull \hbox (4.37787pt too wide) in paragraph at lines 644--647
+\TU/FreeSerif(1)/m/n/10 захский университет технологии и бизнеса, г. Астана, Ре
+спублика Казахстан: email:akmail04cx@mail.ru 
+ []
+
+
+Overfull \hbox (1.23537pt too wide) in paragraph at lines 659--662
+\TU/FreeSerif(1)/m/n/10 гии», Казахский университет технологии и бизнеса, г. Ас
+тана, Республика Казахстан: tud62@yandex.ru 
+ []
+
+) (./src/3.tex [27]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
-Font mapping `tex-text.tec' for font `FreeSerif Bold' not found.
-[29
+[28
 
 ]
-Underfull \hbox (badness 6542) in paragraph at lines 129--142
-\TU/FreeSerif(1)/m/n/10 "ambulance". In recent years, not only has the
+Underfull \hbox (badness 6157) in paragraph at lines 129--142
+\TU/FreeSerif(1)/m/n/10 stations and departments, but they are mostly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--142
+\TU/FreeSerif(1)/m/n/10 institutions increased, but also the quality of
  []
 
 
@@ -1611,18 +1659,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--177
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--177
+Underfull \hbox (badness 5490) in paragraph at lines 174--177
 \TU/FreeSerif(1)/m/n/10 management, when developing new rules, they
  []
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+[]\TU/FreeSerif(1)/m/n/10 Development of a web application for the
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 196--199
 []\TU/FreeSerif(1)/m/n/10 To collect and store electronically as much
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 217--231
+\TU/FreeSerif(1)/m/n/10 is an interpreted, interactive, object-oriented
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 232--236
-\TU/FreeSerif(1)/m/n/10 technical means used, combined with carefully
+\TU/FreeSerif(1)/m/n/10 medical records, when new regulations are
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 232--236
+\TU/FreeSerif(1)/m/n/10 for the technical means used, combined with
  []
 
 File: assets/image15.png Graphic file (type bmp)
@@ -1632,34 +1695,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--258
 []\TU/FreeSerif(1)/m/n/10 Patients must be able to provide complete
  []
 
-
-Overfull \vbox (7.3793pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (8.37936pt too high) has occurred while \output is active []
-
-
-[31]
 File: assets/image16.jpg Graphic file (type bmp)
 <assets/image16.jpg>
 
-Underfull \hbox (badness 5460) in paragraph at lines 284--292
-[]\TU/FreeSerif(1)/m/n/10 The web-based patient application contains an
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 5417) in paragraph at lines 284--292
-\TU/FreeSerif(1)/m/n/10 and laboratory, certificates issued by the doctor
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 284--292
-\TU/FreeSerif(1)/m/n/10 are indicated. The service and medical research
- []
-
+ [30]
 File: assets/image17.png Graphic file (type bmp)
 <assets/image17.png>
-[32]
+
+[31]
 File: assets/image18.png Graphic file (type bmp)
 <assets/image18.png>
 File: assets/image19.png Graphic file (type bmp)
@@ -1669,92 +1714,91 @@ File: assets/image20.png Graphic file (type bmp)
 File: assets/image21.png Graphic file (type bmp)
 <assets/image21.png>
 
-Underfull \vbox (badness 1400) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
+ [32]
 File: assets/image20.png Graphic file (type bmp)
 <assets/image20.png>
 
-Underfull \hbox (badness 6332) in paragraph at lines 428--431
-[]\TU/FreeSerif(1)/m/n/10 The results of the study show that the web
+Underfull \hbox (badness 5217) in paragraph at lines 457--464
+\TU/FreeSerif(1)/m/n/10 by a person since childhood and are updated
  []
 
-
-Underfull \hbox (badness 5345) in paragraph at lines 437--438
-[]\TU/FreeSerif(1)/m/n/10 - definition of requirements to the developed
+[33]
+Overfull \hbox (15.49374pt too wide) in paragraph at lines 530--532
+[]\TU/FreeSerif(1)/m/n/10 Omirzak Merey Kairatkyzy - graduate student at Al-Far
+abi Kazakh National University; kayratovnam@mail.ru. 
  []
 
-[34]
-Overfull \hbox (5.75906pt too wide) in paragraph at lines 502--506
-[]\TU/FreeSerif(1)/m/n/10 Boris Kobrinksy. Intelligent systems for medicine: Re
-trospective and perspective // Sixth International Scientific
- []
-
-
-Overfull \hbox (10.0808pt too wide) in paragraph at lines 521--526
-[]\TU/FreeSerif(1)/m/n/10 Ziyatbekova Gulzat Ziyatbekkyzy - PhD, Acting Associa
-te Professor NAO Al-Farabi Kazakh National University;
- []
-
-
-Overfull \hbox (3.79411pt too wide) in paragraph at lines 521--526
-\TU/FreeSerif(1)/m/n/10 Senior Researcher at the RSE Institute of Information a
-nd Computational Technologies of the National Academy
- []
-
-
-Overfull \hbox (5.53741pt too wide) in paragraph at lines 546--548
-[]\TU/FreeSerif(1)/m/n/10 Өмірзақ Мерей Қайратқызы - магистрант НАО Казахского 
-национального университета имени аль-Фараби,
- []
-
-) (./src/4.tex [35]
+) (./src/4.tex [34]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
-[36
+[35
 
 ]
-Overfull \hbox (0.63498pt too wide) in paragraph at lines 126--145
+Overfull \hbox (17.4221pt too wide) in paragraph at lines 125--144
 []\TU/FreeSerif(1)/m/n/10 The article presents the results of a study on the pr
 eparation of a encapsulated form of fat-soluble cholecalciferol
  []
 
 
-Overfull \hbox (13.83495pt too wide) in paragraph at lines 126--145
-\TU/FreeSerif(1)/m/n/10 technological methods for obtaining water-soluble forms
- of vitamin cholecalciferol with improved biopharmaceutical
+Overfull \hbox (23.12788pt too wide) in paragraph at lines 125--144
+\TU/FreeSerif(1)/m/n/10 biopharmaceutical and nutritional properties. As a resu
+lt of the performed studies, a water-soluble of cholecalciferol
  []
 
-[37]
+
+Overfull \hbox (25.35873pt too wide) in paragraph at lines 125--144
+\TU/FreeSerif(1)/m/n/10 of the crystal surface during clathrate formation are e
+stimated by electron microscope data at various magnifications.
+ []
+
+
+Overfull \hbox (4.97044pt too wide) in paragraph at lines 125--144
+\TU/FreeSerif(1)/m/n/10 The results of thermographic measurements, as well as c
+omparative $[]$H and $[]$C NMR spectroscopic parameters
+ []
+
+
+Overfull \hbox (7.44875pt too wide) in paragraph at lines 145--147
+[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 cholecalciferol, fu
+nctional food, oligosaccharide, β-cyclodextrin, inclusion complexes, clathrate.
+ 
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 165--175
+\TU/FreeSerif(1)/m/n/10 тін түрлерін алудың технологиялық әдістерін
+ []
+
 File: assets/image22.png Graphic file (type bmp)
 <assets/image22.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--216
-[]\TU/FreeSerif(1)/b/n/10 Материалдар мен әдістемелер. \TU/FreeSerif(1)/m/n/10 
-Жұмыста
+[36]
+Underfull \hbox (badness 5504) in paragraph at lines 191--213
+\TU/FreeSerif(1)/m/n/10 алынған, 99,5%), ХД (250 мкг (10.000 ХБ),
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 194--216
-\TU/FreeSerif(1)/m/n/10 келесі реагенттер қолданылды: олигосахарид β-
+Underfull \hbox (badness 5231) in paragraph at lines 191--213
+\TU/FreeSerif(1)/m/n/10 фикаторлары ретінде 444041 (циклодекстрин),
  []
 
 File: assets/image23.png Graphic file (type bmp)
 <assets/image23.png>
 File: assets/image24.png Graphic file (type bmp)
 <assets/image24.png>
-[38]
 File: assets/image25.png Graphic file (type bmp)
 <assets/image25.png>
+[37]
 File: assets/image26.png Graphic file (type bmp)
 <assets/image26.png>
 File: assets/image27.png Graphic file (type bmp)
 <assets/image27.png>
- [39]
 File: assets/image28.png Graphic file (type bmp)
 <assets/image28.png>
+ [38]
 File: assets/image29.png Graphic file (type bmp)
 <assets/image29.png>
 File: assets/image30.png Graphic file (type bmp)
@@ -1763,7 +1807,12 @@ File: assets/image31.png Graphic file (type bmp)
 <assets/image31.png>
 File: assets/image32.png Graphic file (type bmp)
 <assets/image32.png>
- [40]
+
+
+Package caption Warning: \setcaptiontype
+(caption)                outside box or environment on input line 418.
+See the caption package documentation for explanation.
+
 File: assets/image33.png Graphic file (type bmp)
 <assets/image33.png>
 File: assets/image34.png Graphic file (type bmp)
@@ -1776,6 +1825,7 @@ File: assets/image37.png Graphic file (type bmp)
 <assets/image37.png>
 File: assets/image38.png Graphic file (type bmp)
 <assets/image38.png>
+[39]
 File: assets/image39.jpg Graphic file (type bmp)
 <assets/image39.jpg>
 File: assets/image40.jpg Graphic file (type bmp)
@@ -1783,259 +1833,219 @@ File: assets/image40.jpg Graphic file (type bmp)
 File: assets/image41.jpg Graphic file (type bmp)
 <assets/image41.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-Underfull \hbox (badness 7522) in paragraph at lines 514--524
-\TU/FreeSerif(1)/m/n/10 Термогравиметриялық β-ТД қисықтары мен β-
+Underfull \hbox (badness 10000) in paragraph at lines 508--512
+\TU/FreeSerif(1)/m/n/10 талдау термогравиметриялық талдау әдісімен
  []
 
+[40]
 File: assets/image42.jpg Graphic file (type bmp)
 <assets/image42.jpg>
+ [41]
+Underfull \hbox (badness 1565) in paragraph at lines 675--680
+[]\TU/FreeSerif(1)/m/n/10 Bakirova R., Nukhuly A., Iskineyeva A., Fazylov S., B
+urkeev M., Mustafaeva A., Minaeva E.,
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 687--691
+[]\TU/FreeSerif(1)/m/n/10 Zou A., Zhao X., Handge U.A., Garamus V.M., Willumeit
+-Römer R., Yin P. Folate receptor
+ []
+
 [42]
-Overfull \hbox (16.94165pt too wide) in paragraph at lines 607--610
-[]\TU/FreeSerif(1)/m/n/10 Mauryaa V.K., Bashirb K., Aggarwala M. Vitamin D micr
-oencapsulation and fortification: Trends and technologies
- []
-
-[43]
-Overfull \hbox (7.37407pt too wide) in paragraph at lines 670--674
-\TU/FreeSerif(1)/m/n/10 Inclusion complex of ellagic acid with β-cyclodextrin: 
-Characterization and in vitro anti-inflammatory evaluation
+Underfull \hbox (badness 1515) in paragraph at lines 749--753
+[]\TU/FreeSerif(1)/m/n/10 Morris G. M., Huey R., Lindstrom W., Sanner M. F., Be
+lew R. K., Goodsell D.S. and Olson
  []
 
 
-Overfull \hbox (0.70581pt too wide) in paragraph at lines 688--692
+Underfull \hbox (badness 1565) in paragraph at lines 774--779
+[]\TU/FreeSerif(1)/m/n/10 Bakirova R., Nukhuly A., Iskineyeva A., Fazylov S., B
+urkeev M., Mustafaeva A., Minaeva E.,
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 786--790
 []\TU/FreeSerif(1)/m/n/10 Zou A., Zhao X., Handge U.A., Garamus V.M., Willumeit
--Römer R., Yin P. Folate receptor targeted bufalin/\TU/FreeSerif(1)/m/it/10 β\T
-U/FreeSerif(1)/m/n/10 -
+-Römer R., Yin P. Folate receptor
  []
 
 
-Overfull \hbox (16.94165pt too wide) in paragraph at lines 705--708
-[]\TU/FreeSerif(1)/m/n/10 Mauryaa V.K., Bashirb K., Aggarwala M. Vitamin D micr
-oencapsulation and fortification: Trends and technologies
- []
-
-[44]
-Overfull \hbox (7.37407pt too wide) in paragraph at lines 769--773
-\TU/FreeSerif(1)/m/n/10 Inclusion complex of ellagic acid with β-cyclodextrin: 
-Characterization and in vitro anti-inflammatory evaluation
+Underfull \hbox (badness 1436) in paragraph at lines 822--826
+[]\TU/FreeSerif(1)/m/n/10 Ayaulim Mustafayeva - Candidate of Thechnical Science
+s, Saken Seifullin Kazakh Agrotechnical
  []
 
 
-Overfull \hbox (0.70581pt too wide) in paragraph at lines 787--791
-[]\TU/FreeSerif(1)/m/n/10 Zou A., Zhao X., Handge U.A., Garamus V.M., Willumeit
--Römer R., Yin P. Folate receptor targeted bufalin/\TU/FreeSerif(1)/m/it/10 β\T
-U/FreeSerif(1)/m/n/10 -
+Underfull \hbox (badness 2591) in paragraph at lines 822--826
+\TU/FreeSerif(1)/m/n/10 University, Nur-Sultan, Kazakhstan, e-mail: ayaulym.mus
+tafa@mail.ru, [][]https://orcid.org/0000-0003-
  []
 
 
-Overfull \hbox (7.57411pt too wide) in paragraph at lines 802--809
-\TU/FreeSerif(1)/m/n/10 Sciences, Full Professor, Institute of Organic Synthesi
-s and Coal Chemistry, Alikhanov str. 1, 100008, Karaganda,
- []
-
-
-Overfull \hbox (26.43578pt too wide) in paragraph at lines 811--816
-\TU/FreeSerif(1)/m/n/10 Chemistry, Alikhanov str. 1, 100008, Karaganda, Kazakhs
-tan; е-mail: nurkenov_oral@mail.ru; [][]https://orcid.org/0000-
- []
-
-
-Overfull \hbox (46.05664pt too wide) in paragraph at lines 829--834
-\TU/FreeSerif(1)/m/n/10 academician E.A. Buketov, Universitetskaya street, 28, 
-100024, Karaganda, Kazakhstan; e-mail: ipustolaikina@gmail.com,
- []
-
-
-Overfull \hbox (10.27077pt too wide) in paragraph at lines 836--841
+Underfull \hbox (badness 10000) in paragraph at lines 835--840
 []\TU/FreeSerif(1)/m/n/10 Akmaral Sarsenbekova - PhD, Assoc. Professor,, Karaga
-ndy University of the name of academician E.A. Buketov,
+ndy University of the name of
  []
 
 
-Overfull \hbox (23.47331pt too wide) in paragraph at lines 836--841
-\TU/FreeSerif(1)/m/n/10 Universitetskaya street, 28, 100024, Karaganda, Kazakhs
-tan; e-mail: chem_akmaral@mail.ru, [][]https://orcid.org/0000-
+Underfull \hbox (badness 3058) in paragraph at lines 835--840
+\TU/FreeSerif(1)/m/n/10 academician E.A. Buketov, Universitetskaya street, 28, 
+100024, Karaganda, Kazakhstan; e-mail:
  []
 
-) (./src/5.tex [45]
+[43]) (./src/5.tex [44]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
-[46
+[45
 
 ]
-Overfull \hbox (15.66414pt too wide) in paragraph at lines 98--101
-[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 thermogravimetric a
-nalysis, coal, thermal degradation, DTG curves, kinetic parameters, decompositi
-on
+Underfull \hbox (badness 10000) in paragraph at lines 105--114
+\TU/FreeSerif(1)/m/n/10 фективности использования твердого топлива
  []
 
 Font mapping `tex-text.tec' for font `FreeSerif Italic' not found.
-[47]
+[46]
 
 LaTeX Font Warning: Font shape `TU/FreeSerif(1)/m/scit' undefined
-(Font)              using `TU/FreeSerif(1)/m/sc' instead on input line 217.
+(Font)              using `TU/FreeSerif(1)/m/sc' instead on input line 219.
 
 
 LaTeX Font Warning: Font shape `TU/FreeSerif(1)/m/sc' undefined
-(Font)              using `TU/FreeSerif(1)/m/n' instead on input line 217.
+(Font)              using `TU/FreeSerif(1)/m/n' instead on input line 219.
 
 Missing character: There is no в ("432) in font cmmi7!
 Missing character: There is no н ("43D) in font cmmi7!
-[48] [49]
+[47]
 File: assets/image66.png Graphic file (type bmp)
 <assets/image66.png>
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 496.
+(caption)                particular \caption on input line 498.
 See the caption package documentation for explanation.
 
-[50]
-Overfull \hbox (5.55495pt too wide) in paragraph at lines 575--579
-\TU/FreeSerif(1)/m/n/10 kinetic analysis of co-combustion of waste biomass/low 
-rank coal blends // Energy Conversion and Management,
- []
-
-
-Overfull \hbox (26.5816pt too wide) in paragraph at lines 603--607
-\TU/FreeSerif(1)/m/n/10 Kinetics Committee recommendations for performing kinet
-ic computations on thermal analysis data // Thermocimica
- []
-
-[51]
-Overfull \hbox (5.55495pt too wide) in paragraph at lines 653--657
-\TU/FreeSerif(1)/m/n/10 kinetic analysis of co-combustion of waste biomass/low 
-rank coal blends // Energy Conversion and Management,
- []
-
-
-Overfull \hbox (26.5816pt too wide) in paragraph at lines 681--685
-\TU/FreeSerif(1)/m/n/10 Kinetics Committee recommendations for performing kinet
-ic computations on thermal analysis data // Thermocimica
- []
-
-
-Overfull \hbox (4.83328pt too wide) in paragraph at lines 737--740
-[]\TU/FreeSerif(1)/m/n/10 Nurgaliyev Nurken Uteuovich − Candidate of Chemical S
-cience, Associate Professor, Department of Chemistry,
- []
-
-
-Overfull \hbox (11.43413pt too wide) in paragraph at lines 744--747
-[]\TU/FreeSerif(1)/m/n/10 Takirova Aygerim Khasenovna - Master[]s degree, senio
-r lecturer, Department of Chemistry, Chemical Technology
- []
-
-
-Overfull \hbox (10.6483pt too wide) in paragraph at lines 751--754
-[]\TU/FreeSerif(1)/m/n/10 Khamit Aitolkyn Zhumabaevna, Master[]s degree, senior
- lecturer, Department of Chemistry, Chemical Technology
- []
-
-[52]
-Overfull \hbox (11.79747pt too wide) in paragraph at lines 758--762
-[]\TU/FreeSerif(1)/m/n/10 Zhunussova Elvira Baktygalievna, Candidate of technic
-al sciences, Associate Professor, Department of Chemistry,
- []
-
-
-Overfull \hbox (9.38828pt too wide) in paragraph at lines 764--767
-[]\TU/FreeSerif(1)/m/n/10 Akhaeva Ainur Akimkhanovna, Master[]s degree, senior 
-lecturer, Department of Chemistry, Chemical Technology
- []
-
-) (./src/6.tex [53]
+[48] [49] [50]) (./src/6.tex [51]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 5.
 
-[54
+[52
 
 ]
+Underfull \hbox (badness 5607) in paragraph at lines 105--115
+\TU/FreeSerif(1)/m/n/10 from the electrolytic refining cycle of copper
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 105--115
+\TU/FreeSerif(1)/m/n/10 The existing technologies in this area do not
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 105--115
+\TU/FreeSerif(1)/m/n/10 meet modern requirements either in terms of
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 116--125
 []\TU/FreeSerif(1)/m/n/10 For the development of electromembrane
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 133--139
-\TU/FreeSerif(1)/m/n/10 auxiliary (graphite) and non-polarizable reference
+Underfull \hbox (badness 8151) in paragraph at lines 116--125
+\TU/FreeSerif(1)/m/n/10 technologies [4-10], information is needed on
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 126--132
+\TU/FreeSerif(1)/m/n/10 removal of polarograms was performed on a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--139
+\TU/FreeSerif(1)/m/n/10 electrode (silver chloride) were used for
  []
 
 Font mapping `tex-text.tec' for font `FreeSerif' not found.
-[55]
+[53]
+Underfull \hbox (badness 7685) in paragraph at lines 227--233
+\TU/FreeSerif(1)/m/n/10 titanium stationary electrodes. The polarization
+ []
+
 File: assets/image44.jpg Graphic file (type bmp)
 <assets/image44.jpg>
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
+Font mapping `tex-text.tec' for font `FreeSerif' not found.
 File: assets/image45.jpg Graphic file (type bmp)
 <assets/image45.jpg>
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
-Font mapping `tex-text.tec' for font `FreeSerif' not found.
 File: assets/image46.jpg Graphic file (type bmp)
 <assets/image46.jpg>
 File: assets/image47.jpg Graphic file (type bmp)
 <assets/image47.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-[57] [58]
-Overfull \hbox (3.04343pt too wide) in paragraph at lines 463--463
+[54] [55]
+Overfull \hbox (5.4054pt too wide) in paragraph at lines 472--472
 []\TU/FreeSerif(1)/m/n/10 Glycine$[]$  
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--515
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 513--524
 []\TU/FreeSerif(1)/b/n/10 Conclusions. \TU/FreeSerif(1)/m/n/10 Thus, if complex
 ing reagents -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--515
-\TU/FreeSerif(1)/m/n/10 with the formation of homogeneous complexes.
+Underfull \hbox (badness 1590) in paragraph at lines 542--545
+[]\TU/FreeSerif(1)/m/n/10 Cumbal L. Sen Gupta A.K. Arsenic removal using polyme
+r-supported hydrated lron (III) oxide
  []
 
-[59]
-Overfull \hbox (15.1516pt too wide) in paragraph at lines 589--592
-[]\TU/FreeSerif(1)/m/n/10 Zanganeh A.R. and Amini M.K. Polypyrrole-modified ele
-ctrodes with induced recognition sites for potentiometric
+
+Underfull \hbox (badness 2229) in paragraph at lines 581--584
+[]\TU/FreeSerif(1)/m/n/10 Agraz R., Sevilla M.T. and Hernandez L. Chemically mo
+dified electrode for the simultaneous
  []
 
-[60]
-Overfull \hbox (12.72742pt too wide) in paragraph at lines 653--656
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--630
+\TU/FreeSerif(1)/m/n/10 technologii pererabotki mednogo electrolita na AO «Zhez
+kazgancvetmet» // Promyshlennost
+ []
+
+[57]
+Underfull \hbox (badness 1590) in paragraph at lines 632--635
+[]\TU/FreeSerif(1)/m/n/10 Cumbal L. Sen Gupta A.K. Arsenic removal using polyme
+r-supported hydrated lron (III) oxide
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 642--645
+[]\TU/FreeSerif(1)/m/n/10 Todorov S.A., Lainer Ua.A., Medvedev A.S. Utilizaciya
+ nizkoconcenrirovannykh rastvorov s
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 662--665
 []\TU/FreeSerif(1)/m/n/10 Zharmenov A.A. Electrodializnaya pererabotka rastvoro
-v electrolititheskogo rafinirovaniya medi: avtoref…kand.
+v electrolititheskogo rafinirovaniya medi:
  []
 
 
-Overfull \hbox (15.1516pt too wide) in paragraph at lines 680--683
-[]\TU/FreeSerif(1)/m/n/10 Zanganeh A.R. and Amini M.K. Polypyrrole-modified ele
-ctrodes with induced recognition sites for potentiometric
+Underfull \hbox (badness 2229) in paragraph at lines 672--675
+[]\TU/FreeSerif(1)/m/n/10 Agraz R., Sevilla M.T. and Hernandez L. Chemically mo
+dified electrode for the simultaneous
  []
 
 
-Overfull \hbox (14.3408pt too wide) in paragraph at lines 702--707
-[]\TU/FreeSerif(1)/m/n/10 Omarov Khylysh Beisenovich, Doctor of Technical Scien
-ces, Professor, Professor of the Department of Chemistry,
+Underfull \hbox (badness 2005) in paragraph at lines 677--681
+[]\TU/FreeSerif(1)/m/n/10 Bagcheri A., Marand M.Ch. Voltamperometritheskoe i po
+tenciometritheskoe opredelenie Cu$[]$ s
  []
 
-
-Overfull \hbox (8.04329pt too wide) in paragraph at lines 709--712
-[]\TU/FreeSerif(1)/m/n/10 Nurtai Zhadyra Tastenbekovna, PhD, Associate Professo
-r of the Department of Chemistry, Chemical Technology
- []
-
-
-Overfull \hbox (16.7708pt too wide) in paragraph at lines 716--721
-\TU/FreeSerif(1)/m/n/10 State Chemistry and Mechanochemistry, Siberian Branch o
-f the Russian Academy of Sciences, Russia, Novosibirsk,
- []
-
-[61]) (./src/7.tex [62]
+[58]) (./src/7.tex [59]
 Глава 2.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
@@ -2069,7 +2079,12 @@ File: assets/image52.jpeg Graphic file (type bmp)
 <assets/image52.jpeg>
 File: assets/image52.jpeg Graphic file (type bmp)
 <assets/image52.jpeg>
-[63
+
+Underfull \hbox (badness 5563) in paragraph at lines 81--86
+\TU/FreeSerif(1)/m/n/10 тительного молока связано с индивидуальной
+ []
+
+[60
 
 ]
 File: assets/image53.png Graphic file (type bmp)
@@ -2080,11 +2095,11 @@ File: assets/image55.png Graphic file (type bmp)
 <assets/image55.png>
 File: assets/image56.png Graphic file (type bmp)
 <assets/image56.png>
- [64]
 File: assets/image57.png Graphic file (type bmp)
 <assets/image57.png>
 File: assets/image58.png Graphic file (type bmp)
 <assets/image58.png>
+ [61]
 File: assets/image59.png Graphic file (type bmp)
 <assets/image59.png>
 File: assets/image60.png Graphic file (type bmp)
@@ -2094,9 +2109,9 @@ File: assets/image61.png Graphic file (type bmp)
 File: assets/image62.png Graphic file (type bmp)
 <assets/image62.png>
 
-Underfull \vbox (badness 6236) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
+ [62]
 File: assets/image63.png Graphic file (type bmp)
 <assets/image63.png>
 File: assets/image64.png Graphic file (type bmp)
@@ -2104,516 +2119,400 @@ File: assets/image64.png Graphic file (type bmp)
 File: assets/image65.png Graphic file (type bmp)
 <assets/image65.png>
 
-[66] [67]
-Overfull \hbox (6.81738pt too wide) in paragraph at lines 334--338
-\TU/FreeSerif(1)/m/n/10 Будько // Бизнес пищевых ингредиентов. Апрель-май 2016 
-[Текст]. - Режим доступа: [][]https://novaprodukt.ru[][]. 
+[63]
+Underfull \hbox (badness 2753) in paragraph at lines 334--338
+[]\TU/FreeSerif(1)/m/n/10 Будько, Д. Мировой рынок альтернативных молочных прод
+уктов: ожидается стремительный
+ []
+
+[64] [65]
+Underfull \hbox (badness 2134) in paragraph at lines 516--518
+[]\TU/FreeSerif(1)/m/n/10 Omaralieva Aigul Makhmudovna - Ph. Kazakh University 
+of Technology and Business, Astana,
  []
 
 
-Overfull \hbox (9.23817pt too wide) in paragraph at lines 340--344
-\TU/FreeSerif(1)/m/n/10 Sundaram // Food and Nutrition Sci-ences. - 2012. - V. 
-3. - No. 12.- P. 1644-1650, doi: 10.4236/fns.2012.312215. 
+Underfull \hbox (badness 1845) in paragraph at lines 520--522
+[]\TU/FreeSerif(1)/m/n/10 Serikov Almas Zhanuzakovich - M.Sc., Kazakh Universit
+y of Technology and Business, Astana,
  []
 
-
-Overfull \hbox (6.25249pt too wide) in paragraph at lines 366--370
-[]\TU/FreeSerif(1)/m/n/10 Gouw, V.P.; Jung, J.; Zhao, Y. Functional properties,
- bioactive compounds, and in vitro gastrointestinal digestion
- []
-
-
-Overfull \hbox (9.23817pt too wide) in paragraph at lines 415--419
-\TU/FreeSerif(1)/m/n/10 Sundaram // Food and Nutrition Sci-ences. - 2012. - V. 
-3. - No. 12.- P. 1644-1650, doi: 10.4236/fns.2012.312215. 
- []
-
-
-Overfull \hbox (6.25249pt too wide) in paragraph at lines 441--445
-[]\TU/FreeSerif(1)/m/n/10 Gouw, V.P.; Jung, J.; Zhao, Y. Functional properties,
- bioactive compounds, and in vitro gastrointestinal digestion
- []
-
-[68]
-Overfull \hbox (19.11911pt too wide) in paragraph at lines 472--475
-[]\TU/FreeSerif(1)/m/n/10 Kak razvivaetsya rynok rastitel[]nyh analogov moloka?
- [How is the market for vegetable milk analogues developing?.
- []
-
-
-Overfull \hbox (1.02658pt too wide) in paragraph at lines 511--517
-\TU/FreeSerif(1)/m/n/10 Bekturganova Almira Anuarbekovna - PhD, assistant profe
-ssor. Kazakh University of Technology and Business,
- []
-
-) (./src/8.tex [69]
+) (./src/8.tex [66]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
-[70
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 132--139
-[]\TU/FreeSerif(1)/b/n/10 Introduction. \TU/FreeSerif(1)/m/n/10 The work is dev
-oted to the
+Underfull \hbox (badness 6927) in paragraph at lines 136--143
+\TU/FreeSerif(1)/m/n/10 of fish feed from raw materials available in
  []
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 167--174
-\TU/FreeSerif(1)/m/n/10 determination of toxic elements: lead, cadmium,
+Underfull \hbox (badness 10000) in paragraph at lines 144--151
+[]\TU/FreeSerif(1)/m/n/10 The conservation of presswater fish has its
  []
 
-[71]
-Underfull \hbox (badness 5175) in paragraph at lines 208--212
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--151
+\TU/FreeSerif(1)/m/n/10 own specific problems. Fish in press water
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 144--151
+\TU/FreeSerif(1)/m/n/10 is contaminated with various toxic substances,
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 152--156
+\TU/FreeSerif(1)/m/n/10 reservoirs of the Republic of Uzbekistan, the
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 171--178
+\TU/FreeSerif(1)/m/n/10 of Medical Sciences, introduced by the State
+ []
+
+[68]
+Underfull \hbox (badness 5878) in paragraph at lines 212--216
 []\TU/FreeSerif(1)/m/n/10 The fresh meat of some sea and ocean fish
  []
 
-[72] [73]
-Overfull \hbox (14.34326pt too wide) in paragraph at lines 450--454
-\TU/FreeSerif(1)/m/n/10 pesticides and herbicides, antibiotics and phytohormone
-s used in agriculture, radioactive substances and radionuclides
- []
-
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 515--523
-\TU/FreeSerif(1)/m/n/10 salt-soluble proteins such as globulins (myosin,
+[69]
+Overfull \hbox (2.11206pt too wide) in paragraph at lines 369--370
+[]|[]|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--541
+Overfull \hbox (2.11206pt too wide) in paragraph at lines 386--387
+[]|[]|  
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 518--526
+\TU/FreeSerif(1)/m/n/10 actomyosin, tropoliosin), water-soluble proteins
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--526
+\TU/FreeSerif(1)/m/n/10 (histones, deoxyribose, purine and pyrimidine
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 536--544
 []\TU/FreeSerif(1)/m/n/10 Non-protein nitrogenous extractive substances
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--541
+Underfull \hbox (badness 10000) in paragraph at lines 536--544
 \TU/FreeSerif(1)/m/n/10 (nitrogenous bases, amino acids, acid amides,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--590
-[]\TU/FreeSerif(1)/m/n/10 Also, studies were carried out to determine
+Underfull \hbox (badness 10000) in paragraph at lines 586--593
+\TU/FreeSerif(1)/m/n/10 amount of heavy metals and their salts, the
  []
 
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 610--613
-[]\TU/FreeSerif(1)/m/n/10 Freshwater fish habitats can be sources of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 610--613
-\TU/FreeSerif(1)/m/n/10 radioactive substances, pesticides, herbicides,
- []
-
-[76]
-Overfull \hbox (1.69745pt too wide) in paragraph at lines 695--697
-[]\TU/FreeSerif(1)/m/n/10 Pulatov I.B. University of Veterinary Medicine, Anima
-l Husbandry and Biotechnology, Samarkand, Uzbekistan,
- []
-
-) (./src/9.tex [77]
+[72]) (./src/9.tex [73]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 5.
 
-[78
+[74
 
 ]
-Underfull \hbox (badness 5417) in paragraph at lines 140--151
-[]\TU/FreeSerif(1)/m/n/10 Пepвoнaчaльнo пpoвeдeны иccлeдoвaния вли-
+Underfull \hbox (badness 5681) in paragraph at lines 144--155
+\TU/FreeSerif(1)/m/n/10 нa измeнeниe opгaнoлeптичecких пoкaзaтeлeй
  []
 
 
-Underfull \hbox (badness 7133) in paragraph at lines 140--151
-\TU/FreeSerif(1)/m/n/10 яния кoличecтвa внocимых инкaпcулиpoвaнных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
 []\TU/FreeSerif(1)/m/n/10 Нa ocнoвaнии вышeизлoжeннoгo пocтaвлeнa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 []\TU/FreeSerif(1)/b/n/10 Стpуктуpнo-мeхaничecкиe хapaктepиcтики
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
-\TU/FreeSerif(1)/b/n/10 пpoдукта. Определение вязкости. \TU/FreeSerif(1)/m/n/10
- Методика
- []
-
-[79]
+[75]
 File: assets/image67.png Graphic file (type bmp)
 <assets/image67.png>
 File: assets/image68.png Graphic file (type bmp)
 <assets/image68.png>
- [80]
-Underfull \hbox (badness 10000) in paragraph at lines 305--310
-[]\TU/FreeSerif(1)/m/n/10 В пpoцecce иccлeдoвaния oпpeдeляли
+ [76]
+Underfull \hbox (badness 1158) in paragraph at lines 375--382
+[]\TU/FreeSerif(1)/m/n/10 Kakimov A., Muratbayev A., Zharykbasova K., Zharykbas
+ov Y., Kassymov S., Zhumadilova G.,
  []
 
-
-Overfull \hbox (11.32658pt too wide) in paragraph at lines 362--366
-[]\TU/FreeSerif(1)/m/n/10 А.К. Какимов, А.М. Муратбаев. Өнімнің сапасын QFD әді
-сі арқылы жоғарлату// Семей қаласының Шәкәрім
- []
-
-[81]
-Overfull \hbox (11.74245pt too wide) in paragraph at lines 392--395
-[]\TU/FreeSerif(1)/m/n/10 A.K. Kakimov,A.A. Majorov, Zh.H. Kakimova, A.M. Murat
-bayev, A.M. Bajkadamova. Bezopasnost[] i kachestvo
- []
-
-
-Overfull \hbox (19.37827pt too wide) in paragraph at lines 397--401
+[77]
+Underfull \hbox (badness 4108) in paragraph at lines 401--405
 []\TU/FreeSerif(1)/m/n/10 Bepeeva A.E. Iccledovanie i pazpabotka tehnologii ppo
-izvodctva kiclomolochnogo ppodukta c inkapculipovannymi
+izvodctva kiclomolochnogo ppodukta c
  []
 
 
-Overfull \hbox (12.62158pt too wide) in paragraph at lines 403--407
-[]\TU/FreeSerif(1)/m/n/10 Dzhumazhanova M.M. Razrabotka tehnologii pit[]evogo j
-ogurta s inkapsulirovannymi probioticheskimi kul[]turami
+Underfull \hbox (badness 10000) in paragraph at lines 413--417
+[]\TU/FreeSerif(1)/m/n/10 Zhumadilova G.A. Issledovanie processa inkapsulirovan
+ija probiotikov s cel[]ju sozdanija
  []
 
 
-Overfull \hbox (17.73657pt too wide) in paragraph at lines 443--447
-[]\TU/FreeSerif(1)/m/n/10 Kakimov A.K.,Ecimbekov Zh.C., Kabulov B.B., Bepeeva A
-.E. Potacionnye vickozimetpy bpukfil[]da v iccledovanii
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
+[]\TU/FreeSerif(1)/m/n/10 Kakimov А.K., Mayorov А.A., Zhumadilova G.A., Muratba
+yev А.M., Tashybayeva M.M.
  []
 
-[82]) (./src/10.tex [83]
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
+\TU/FreeSerif(1)/m/n/10 Food encapsulation plant. The Journal of Almaty Technol
+ogical University. 2023;(1):48-54.
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 436--441
+[]\TU/FreeSerif(1)/m/n/10 Kakimov A., Muratbayev A., Zharykbasova K., Zharykbas
+ov Y., Kassymov S., Zhumadilova G.,
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 443--445
+[]\TU/FreeSerif(1)/m/n/10 GOST R ISO 22935-3-2011. Moloko i molochnye produkty.
+ Organolepticheskij analiz. M.:
+ []
+
+) (./src/10.tex [78]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 5.
 
-[84
+[79
 
 ]
-Overfull \hbox (12.75414pt too wide) in paragraph at lines 92--113
-\TU/FreeSerif(1)/m/n/10 systems at mining enterprises, allowing, on the one han
-d, timely and targeted development of operational management
- []
-
-[85]
-Underfull \hbox (badness 5970) in paragraph at lines 183--186
+Underfull \hbox (badness 7576) in paragraph at lines 185--188
 []\TU/FreeSerif(1)/m/n/10 - адаптация транспортной инфраструктуры и
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--193
-\TU/FreeSerif(1)/m/n/10 цесса технологической модернизации - долго-
+[80]
+Underfull \hbox (badness 5726) in paragraph at lines 212--223
+[]\TU/FreeSerif(1)/m/n/10 В приведенном перечне, первые два направ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--193
-\TU/FreeSerif(1)/m/n/10 срочная перспектива с потенциалом до 100%
+Underfull \hbox (badness 5008) in paragraph at lines 212--223
+\TU/FreeSerif(1)/m/n/10 ления могут быть первоочередными, так как
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 190--193
-\TU/FreeSerif(1)/m/n/10 (экскаваторно-конвейерные комплексы, скиповые
+Underfull \hbox (badness 10000) in paragraph at lines 233--245
+\TU/FreeSerif(1)/m/n/10 зование наиболее эффективного на данном
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--243
-[]\TU/FreeSerif(1)/m/n/10 Рассматриваемый подход предполагает ис-
+Underfull \hbox (badness 10000) in paragraph at lines 233--245
+\TU/FreeSerif(1)/m/n/10 направлении метода имитационного логико-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--243
-\TU/FreeSerif(1)/m/n/10 пользование наиболее эффективного на дан-
- []
-
-
-Underfull \hbox (badness 5862) in paragraph at lines 231--243
-\TU/FreeSerif(1)/m/n/10 статистического моделирования, обеспечивающе-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--243
-\TU/FreeSerif(1)/m/n/10 следовательности основных технологических и
- []
-
-
-Underfull \hbox (badness 5460) in paragraph at lines 231--243
-\TU/FreeSerif(1)/m/n/10 кретных горнотехнических, горно-геологических,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 244--248
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
 []\TU/FreeSerif(1)/m/n/10 Основной целью комплексного технико-
  []
 
-[86]
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
+\TU/FreeSerif(1)/m/n/10 ционирования геотехнологического комплекса,
+ []
+
+[81]
 File: assets/image48.png Graphic file (type bmp)
 <assets/image48.png>
 
-Underfull \hbox (badness 5490) in paragraph at lines 299--313
+Underfull \hbox (badness 7558) in paragraph at lines 301--315
 []\TU/FreeSerif(1)/m/n/10 Энергоэффективность предполагает не только
  []
 
-[87]
 File: assets/image49.jpg Graphic file (type bmp)
 <assets/image49.jpg>
 
-
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 316.
+(caption)                particular \caption on input line 318.
 See the caption package documentation for explanation.
 
+[82]
 File: assets/image50.png Graphic file (type bmp)
 <assets/image50.png>
 
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 344.
+(caption)                particular \caption on input line 333.
 See the caption package documentation for explanation.
 
-[88]
 File: assets/image51.jpeg Graphic file (type bmp)
 <assets/image51.jpeg>
+[83]
+Underfull \hbox (badness 6141) in paragraph at lines 373--381
+\TU/FreeSerif(1)/m/n/10 портных процессов, обеспечивающих адекват-
+ []
 
-Overfull \hbox (1.60597pt too wide) in alignment at lines 405--427
+
+Overfull \vbox (10.51004pt too high) detected at line 421
+ []
+
+
+Overfull \hbox (1.60573pt too wide) in alignment at lines 410--432
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (1.60597pt too wide) in alignment at lines 427--429
+Overfull \hbox (1.60573pt too wide) in alignment at lines 432--433
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (1.60597pt too wide) in alignment at lines 429--475
+Overfull \hbox (1.60573pt too wide) in alignment at lines 433--435
  [] [] [] [] [] 
  []
 
-[89]
-Underfull \hbox (badness 6526) in paragraph at lines 478--486
-\TU/FreeSerif(1)/m/n/10 потенциал снижения энергоёмкости горнотранс-
+
+Overfull \hbox (1.60573pt too wide) in alignment at lines 435--481
+ [] [] [] [] [] 
  []
 
-[90]
-Overfull \vbox (72.0pt too high) detected at line 550
- []
-
-[91]
-Overfull \hbox (6.52664pt too wide) in paragraph at lines 695--701
-[]\TU/FreeSerif(1)/m/n/10 Galiev S.Zh., Uteshov E.T., Galiev D.A. Digital techn
-ologies to improve energy efficiency of mining enterprises.
+[84]
+Overfull \vbox (12.0pt too high) detected at line 542
  []
 
 
-Overfull \hbox (3.39331pt too wide) in paragraph at lines 695--701
-\TU/FreeSerif(1)/m/n/10 Digitalization in power engineering: monograph / Yu.S. 
-Valeeva, R.S. Zaripova, K.A. Saryev, N.A. Allanazarov,
+Overfull \vbox (72.0pt too high) detected at line 556
+ []
+
+[85]
+Underfull \hbox (badness 5696) in paragraph at lines 579--587
+\TU/FreeSerif(1)/m/n/10 следований эффективности функционирования
  []
 
 
-Overfull \hbox (4.47832pt too wide) in paragraph at lines 695--701
-\TU/FreeSerif(1)/m/n/10 A.A. Matyakubov, etc.; eds. by I.G. Akhmetova, R.S. Zar
-ipova, Yu.S. Valeeva. - Kazan: Federal State Budgetary
+Underfull \hbox (badness 6625) in paragraph at lines 588--596
+[]\TU/FreeSerif(1)/m/n/10 Эффективная реализация определённого ком-
  []
 
-[92]
-Overfull \hbox (12.45828pt too wide) in paragraph at lines 707--709
-[]\TU/FreeSerif(1)/m/n/10 Report on the complex of studies and technical and te
-chnological audit of the effectiveness of the geotechnological
+[86]
+Underfull \hbox (badness 2818) in paragraph at lines 759--762
+[]\TU/FreeSerif(1)/m/n/10 Бексапин Жаслан Сержанович - инженер программист-иссл
+едователь, ТОО «Qazakstan smart
  []
 
 
-Overfull \hbox (23.0366pt too wide) in paragraph at lines 785--787
-[]\TU/FreeSerif(1)/m/n/10 Beksapin Jaslan Serzhanovich - software engineer-rese
-archer, Qazakstan smart technology LLP, Almaty, Kazakhstan,
+Underfull \hbox (badness 1406) in paragraph at lines 782--787
+[]\TU/FreeSerif(1)/m/n/10 Galiev Daniyar Aitkalievich - doctor (Ph.D), head of 
+the Automation Laboratory of the Mining
  []
 
-) (./src/11.tex [93]
+[87]) (./src/11.tex [88]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
 
-Overfull \hbox (20.34988pt too wide) in paragraph at lines 52--60
-\TU/FreeSerif(1)/m/n/10 ленности. Целью экспериментальных исследований является
- разработка методологии применения диспетчерско-
+Underfull \hbox (badness 1442) in paragraph at lines 22--30
+\TU/FreeSerif(1)/m/n/10 тілігі көрсетілген. Эксперименттік зерттеулердің мақсат
+ы тау-кен өнеркәсібі үшін диспетчерлік-
  []
 
-[94
+[89
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 95--101
+Underfull \hbox (badness 10000) in paragraph at lines 101--107
 []\TU/FreeSerif(1)/b/n/10 Кіріспе. \TU/FreeSerif(1)/m/n/10 Тау-кен өндірісін ав
 томаттандыру-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--101
-\TU/FreeSerif(1)/m/n/10 автоматтандыру-консервативті салалардың бірі.
+Underfull \hbox (badness 7981) in paragraph at lines 153--157
+[]\TU/FreeSerif(1)/m/n/10 Осы жобада пайдаланылатын жаңа аппарату-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--111
-[]\TU/FreeSerif(1)/m/n/10 Тау-кен өнеркәсібінің технологиялық проце-
- []
-
-
-Underfull \hbox (badness 8132) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
 []\TU/FreeSerif(1)/m/n/10 - "Депрессия және ауа жылдамдығы ПДС-1
  []
 
 File: assets/image69.png Graphic file (type bmp)
 <assets/image69.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [95]
-[96]
+[90]
 File: assets/image70.png Graphic file (type bmp)
 <assets/image70.png>
-
-Overfull \hbox (21.9741pt too wide) in paragraph at lines 240--246
-\TU/FreeSerif(1)/m/n/10 сызбасы көрсетілген. Бұл схемада жұмыс жиынтығы ретінде
- УС1 жұптастыру құрылғысы, қабылдау-командалық
- []
-
-
-Overfull \hbox (4.0874pt too wide) in paragraph at lines 240--246
-\TU/FreeSerif(1)/m/n/10 upc1 құрылғысы қолданылады. Резервтік жинақ ретінде УС2
- жұптастыру құрылғысы, қабылдау-командалық
- []
-
+ [91]
 File: assets/image71.png Graphic file (type bmp)
 <assets/image71.png>
 
-Overfull \hbox (1.2435pt too wide) in alignment at lines 263--277
+Overfull \hbox (1.2417pt too wide) in alignment at lines 270--273
  [] [] [] [] 
  []
 
-[97]
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 9 on input line 277.
-
-
-Underfull \hbox (badness 5847) in paragraph at lines 329--331
-[]\TU/FreeSerif(1)/m/n/10 Жүргізілген есептеулер нәтижесінде №2, №5
+Overfull \hbox (1.2417pt too wide) in alignment at lines 273--275
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--331
-\TU/FreeSerif(1)/m/n/10 учаскелерде ақпаратты іріктеу және қабылдау
+Overfull \hbox (1.2417pt too wide) in alignment at lines 275--289
+ [] [] [] [] 
  []
 
+[92]
 File: assets/image72.png Graphic file (type bmp)
 <assets/image72.png>
 File: assets/image73.png Graphic file (type bmp)
 <assets/image73.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [98]
-[99]
-Overfull \hbox (6.77245pt too wide) in paragraph at lines 450--453
-\TU/FreeSerif(1)/m/n/10 фессор, кафедра меңгерушісі, Қазақ технология және бизн
-ес университеті, Астана, Қазақстан, tad62@ya.ru; 
+ [93] [94]
+Underfull \hbox (badness 3019) in paragraph at lines 487--490
+\TU/FreeSerif(1)/m/n/10 Head of the Department. Kazakh University of Technology
+ and Business, Astana, Kazakhstan,
  []
 
 
-Package fontspec Info: Font family 'FreeMono(1)' created for font 'FreeMono'
-(fontspec)             with options
-(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
-Space,Script=Cyrillic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FreeMono/OT:script=cyrl;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"FreeMono/B/OT:script=cyrl;language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"FreeMono/I/OT:script=cyrl;language=dflt;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"FreeMono/BI/OT:script=cyrl;language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+Underfull \hbox (badness 1655) in paragraph at lines 498--500
+[]\TU/FreeSerif(1)/m/n/10 Yurkov Nikolay Kondratievich, Doctor of Technical Sci
+ences, Professor, Penza State University,
+ []
 
-) (./src/12.tex [100]
+) (./src/12.tex [95]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 4.
 
 
-Overfull \hbox (11.32745pt too wide) in paragraph at lines 29--31
-[]\TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 combined geotechnol
-ogy, technogenic space, mountain range, deformation, geomechanical processes. 
- []
-
-
-Overfull \hbox (1.37659pt too wide) in paragraph at lines 78--85
-\TU/FreeSerif(1)/m/n/10 сива. Сложность решения геомеханических задач определяе
-т основные факторы выбора открыто-подземной
- []
-
-[101
-
-]
 Underfull \hbox (badness 10000) in paragraph at lines 90--118
 []\TU/FreeSerif(1)/b/n/10 Introduction. \TU/FreeSerif(1)/m/n/10 A characteristi
 c feature of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--118
-\TU/FreeSerif(1)/m/n/10 determining rational technological parameters of
+Underfull \hbox (badness 6412) in paragraph at lines 90--118
+\TU/FreeSerif(1)/m/n/10 immediate vicinity. The combination of open-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--153
-[]\TU/FreeSerif(1)/m/n/10 The factors determining the use of open-
+Underfull \hbox (badness 7344) in paragraph at lines 90--118
+\TU/FreeSerif(1)/m/n/10 parameters of combined technologies, such as
  []
 
+[96
 
-Underfull \hbox (badness 7777) in paragraph at lines 170--173
-\TU/FreeSerif(1)/m/n/10 underground and open-pit work requires special
+]
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+\TU/FreeSerif(1)/m/n/10 organization of labor at quarry ore outlets
  []
 
-[102]
-Underfull \hbox (badness 8056) in paragraph at lines 196--201
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 196--201
 []\TU/FreeSerif(1)/m/n/10 Further development of the open method of
- []
-
-
-Underfull \hbox (badness 6332) in paragraph at lines 196--201
-\TU/FreeSerif(1)/m/n/10 regions of the country, will be associated with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 202--208
-\TU/FreeSerif(1)/m/n/10 mineral extraction, which allows to reduce the
  []
 
 
@@ -2622,29 +2521,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--240
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--240
+Underfull \hbox (badness 5133) in paragraph at lines 234--240
 \TU/FreeSerif(1)/m/n/10 also applicable in existing quarries, where the
  []
 
-
-Underfull \hbox (badness 5316) in paragraph at lines 241--244
-[]\TU/FreeSerif(1)/m/n/10 The technology in question has a number of
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 245--264
-\TU/FreeSerif(1)/m/n/10 are characterized by significant heterogeneity of
- []
-
-[103]
 File: assets/image74.png Graphic file (type bmp)
 <assets/image74.png>
 
-Underfull \hbox (badness 5036) in paragraph at lines 282--289
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+Underfull \hbox (badness 5726) in paragraph at lines 282--289
 []\TU/FreeSerif(1)/m/n/10 With an increase in the height of the open-
  []
 
-[104]
+[99]
 File: assets/image75.jpeg Graphic file (type bmp)
 <assets/image75.jpeg>
 
@@ -2659,62 +2550,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--375
 esults of the
  []
 
-[105]
+[100]
 File: assets/image76.jpeg Graphic file (type bmp)
 <assets/image76.jpeg>
 
-Underfull \hbox (badness 7540) in paragraph at lines 457--463
-[]\TU/FreeSerif(1)/m/n/10 The disadvantages of the location of drilling
- []
-
-[106]
 Underfull \hbox (badness 10000) in paragraph at lines 464--470
 []\TU/FreeSerif(1)/m/n/10 The main feature of the rebound in open-
  []
 
-
-Underfull \hbox (badness 6893) in paragraph at lines 494--500
+[101]
+Underfull \hbox (badness 7869) in paragraph at lines 494--500
 []\TU/FreeSerif(1)/m/n/10 Studies were devoted to the problem of the
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 501--508
-\TU/FreeSerif(1)/m/n/10 within the open-underground tier is the rate of
- []
-
-[107]
-Underfull \hbox (badness 6110) in paragraph at lines 588--602
+Underfull \hbox (badness 7379) in paragraph at lines 588--602
 []\TU/FreeSerif(1)/m/n/10 Combined geotechnology makes it possible to
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 588--602
-\TU/FreeSerif(1)/m/n/10 in the field of open-underground mining. These
+Underfull \hbox (badness 7907) in paragraph at lines 588--602
+\TU/FreeSerif(1)/m/n/10 to accommodate overburden. With a complex
  []
 
 
-Underfull \hbox (badness 6412) in paragraph at lines 588--602
-\TU/FreeSerif(1)/m/n/10 stage of treatment excavation, the joint use of
+Underfull \hbox (badness 10000) in paragraph at lines 588--602
+\TU/FreeSerif(1)/m/n/10 open-underground method, all three of these
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 588--602
-\TU/FreeSerif(1)/m/n/10 of open and underground mining operations to
+Underfull \hbox (badness 5548) in paragraph at lines 588--602
+\TU/FreeSerif(1)/m/n/10 directions are implemented, but they can also
+ []
+
+[102]
+Underfull \hbox (badness 1675) in paragraph at lines 642--645
+[]\TU/FreeSerif(1)/m/n/10 Aliyev S.B. - Institute of Problems of Complex Develo
+pment of Subsoil named after academic
  []
 
 
-Overfull \hbox (1.06326pt too wide) in paragraph at lines 614--616
-[]\TU/FreeSerif(1)/m/n/10 Lazchenko K.N. Terentyev B.D. Geotechnological Method
-s of Development of Mineral deposits. – M.- MGU.-
+Underfull \hbox (badness 10000) in paragraph at lines 647--650
+[]\TU/FreeSerif(1)/m/n/10 Shontayev A. D. - Kazakh University of Technology and
+ Business, Astana, Kazakhstan,
  []
 
 
-Overfull \hbox (4.85411pt too wide) in paragraph at lines 659--662
+Underfull \hbox (badness 10000) in paragraph at lines 652--655
+[]\TU/FreeSerif(1)/m/n/10 Meiram D. D. - Kazakh University of Technology and Bu
+siness, Astana, Kazakhstan,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--660
 []\TU/FreeSerif(1)/m/n/10 Karzhauova E. K. - Kazakh University of Technology an
-d Business, Astana, Kazakhstan, karzhauova.81@mail.ru 
+d Business, Astana, Kazakhstan,
  []
 
-[108]) (./src/13.tex [109]
+
+Underfull \hbox (badness 10000) in paragraph at lines 680--683
+[]\TU/FreeSerif(1)/m/n/10 Мейрам Д.Д. - Казахский университет технологии и бизн
+еса, Астана, Казахстан,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--688
+[]\TU/FreeSerif(1)/m/n/10 Каржауова Э.К. - Казахский университет технологии и б
+изнеса, Астана, Казахстан,
+ []
+
+) (./src/13.tex [103]
 Глава 3.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
@@ -2725,92 +2630,139 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 7.
 
 Font mapping `tex-text.tec' for font `FreeSerif Bold Italic' not found.
-[110
+
+Underfull \hbox (badness 1424) in paragraph at lines 53--55
+[]  \TU/FreeSerif(1)/b/n/10 Keywords: \TU/FreeSerif(1)/m/n/10 motivation system
+s, civil servants, assessment, management, analysis, remuneration,
+ []
+
+[104
 
 ]
-Overfull \hbox (15.46823pt too wide) in paragraph at lines 137--141
-\TU/FreeSerif(1)/m/n/10 Республикасында жетілдіру жолдарын қарастыру бұл зертте
-удің негізгі бағыты өзекті және ғылыми-тәжірибелік
- []
-
-[111]
-Underfull \hbox (badness 5548) in paragraph at lines 183--187
-\TU/FreeSerif(1)/m/n/10 toolkit to motivate the professional activities of
+Underfull \hbox (badness 1205) in paragraph at lines 131--140
+[]  \TU/FreeSerif(1)/m/n/10 Мемлекеттік басқарудың жетістікті болуы мемлекеттік
+ қызметшілердің кәсіби әлеуетін қан-
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 188--199
-\TU/FreeSerif(1)/m/n/10 and logical approaches, systemic and situational,
+Underfull \hbox (badness 5245) in paragraph at lines 172--182
+\TU/FreeSerif(1)/m/n/10 importance of the processes of improving the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--217
-\TU/FreeSerif(1)/m/n/10 approach to the system of motivation for the
- []
-
-[112]
-Underfull \hbox (badness 5147) in paragraph at lines 284--291
-[]\TU/FreeSerif(1)/m/n/10 The main objective of the study is to study
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+\TU/FreeSerif(1)/m/n/10 modern evaluation systems, and proposing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--291
-\TU/FreeSerif(1)/m/n/10 those samples of foreign experience that force
- []
-
-[113]
-Underfull \hbox (badness 5345) in paragraph at lines 359--369
-\TU/FreeSerif(1)/m/n/10 term, the further vector of development of the
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+\TU/FreeSerif(1)/m/n/10 integrated use of motivation mechanisms and
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 359--369
-\TU/FreeSerif(1)/m/n/10 of excessive bureaucracy of the state apparatus,
+Underfull \hbox (badness 10000) in paragraph at lines 194--205
+\TU/FreeSerif(1)/m/n/10 using general scientific methods of cognition:
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 370--382
-\TU/FreeSerif(1)/m/n/10 In terms of the level of education, respondents
- []
-
-[114]
-Overfull \vbox (48.0pt too high) detected at line 524
+Underfull \hbox (badness 6893) in paragraph at lines 194--205
+\TU/FreeSerif(1)/m/n/10 analysis. In the course of this study, various
  []
 
 
-Overfull \vbox (36.0pt too high) detected at line 533
+Underfull \hbox (badness 5175) in paragraph at lines 194--205
+\TU/FreeSerif(1)/m/n/10 graphic-analytical and calculation methods. The
+ []
+
+[105]
+Underfull \hbox (badness 5817) in paragraph at lines 216--223
+\TU/FreeSerif(1)/m/n/10 professional activities of civil servants showed
  []
 
 
-Overfull \vbox (60.0pt too high) detected at line 544
+Underfull \hbox (badness 10000) in paragraph at lines 216--223
+\TU/FreeSerif(1)/m/n/10 of motivation. Of particular relevance to the
  []
 
 
-Overfull \hbox (9.71057pt too wide) in paragraph at lines 547--547
+Underfull \hbox (badness 5388) in paragraph at lines 216--223
+\TU/FreeSerif(1)/m/n/10 technologies and artificial intelligence that can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--223
+\TU/FreeSerif(1)/m/n/10 creating template letters and processing large
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--297
+\TU/FreeSerif(1)/m/n/10 system, taking into account the specifics of
+ []
+
+[106]
+Underfull \hbox (badness 5288) in paragraph at lines 313--315
+[]\TU/FreeSerif(1)/m/n/10 - modern organization of work: more flexible
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
+\TU/FreeSerif(1)/m/n/10 working hours, introduction of advanced
+ []
+
+
+Underfull \hbox (badness 5878) in paragraph at lines 319--329
+\TU/FreeSerif(1)/m/n/10 of world experience and the specifics of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--375
+\TU/FreeSerif(1)/m/n/10 reorienting personnel management services to
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 389--402
+\TU/FreeSerif(1)/m/n/10 by the systematic implementation of the 100
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 389--402
+\TU/FreeSerif(1)/m/n/10 to strengthen the principles of meritocracy in
+ []
+
+[107] [108]
+Overfull \vbox (60.0pt too high) detected at line 530
+ []
+
+
+Overfull \vbox (36.0pt too high) detected at line 539
+ []
+
+
+Overfull \vbox (72.0pt too high) detected at line 550
+ []
+
+
+Overfull \hbox (12.185pt too wide) in paragraph at lines 553--553
 []|\TU/FreeSerif(1)/m/n/10 Underestimation 
  []
 
 
-Overfull \hbox (6.08057pt too wide) in paragraph at lines 547--547
+Overfull \hbox (8.555pt too wide) in paragraph at lines 553--553
 \TU/FreeSerif(1)/m/n/10 professionalism|  
  []
 
 
-Overfull \vbox (24.0pt too high) detected at line 553
+Overfull \vbox (24.0pt too high) detected at line 559
  []
 
 
-Overfull \hbox (3.98961pt too wide) in paragraph at lines 555--555
+Overfull \hbox (6.46584pt too wide) in paragraph at lines 561--561
 []|\TU/FreeSerif(1)/m/n/10 Careerprospect|  
  []
 
 
-Overfull \hbox (7.48035pt too wide) in paragraph at lines 555--557
+Overfull \hbox (9.87076pt too wide) in paragraph at lines 561--563
 []|\TU/FreeSerif(1)/m/n/10 Encouragement 
- []
-
-
-Overfull \vbox (36.0pt too high) detected at line 559
  []
 
 
@@ -2818,160 +2770,153 @@ Overfull \vbox (36.0pt too high) detected at line 565
  []
 
 
-Overfull \vbox (48.0pt too high) detected at line 574
+Overfull \vbox (36.0pt too high) detected at line 571
  []
 
 
-Overfull \hbox (4.24931pt too wide) in paragraph at lines 574--574
+Overfull \vbox (60.0pt too high) detected at line 581
+ []
+
+
+Overfull \hbox (6.96887pt too wide) in paragraph at lines 581--581
 []|\TU/FreeSerif(1)/m/n/10 Ratheryesthanno|  
  []
 
+[109]
+Underfull \hbox (badness 5817) in paragraph at lines 667--678
+[]\TU/FreeSerif(1)/m/n/10 In order to overcome these shortcomings, the
+ []
 
-Overfull \hbox (285.47728pt too wide) in alignment at lines 520--580
- [] [] [] [] [] [] 
+[110]
+Underfull \hbox (badness 5970) in paragraph at lines 712--719
+\TU/FreeSerif(1)/m/n/10 the state language at the Academy of Public
  []
 
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 580.
-
-[115]
-Underfull \hbox (badness 5245) in paragraph at lines 590--596
-\TU/FreeSerif(1)/m/n/10 to sacrifice the amount of wages indicates that
- []
-
-[116]
-Underfull \hbox (badness 10000) in paragraph at lines 682--687
-\TU/FreeSerif(1)/m/n/10 bodies who completed retraining and advanced
+Underfull \hbox (badness 10000) in paragraph at lines 712--719
+\TU/FreeSerif(1)/m/n/10 Administration and the share of modernized
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 697--704
-\TU/FreeSerif(1)/m/n/10 compliance with the legislation on civil service
+Underfull \hbox (badness 7433) in paragraph at lines 749--756
+[]\TU/FreeSerif(1)/m/n/10 The main criterion for the quality of public
  []
 
-[117] [118]
-Underfull \hbox (badness 5519) in paragraph at lines 843--850
-[]\TU/FreeSerif(1)/m/n/10 The survey involved 234 respondents. To the
- []
-
-
-Underfull \hbox (badness 6608) in paragraph at lines 857--862
-\TU/FreeSerif(1)/m/n/10 ... answered 8.5% of respondents, ``Difficult to
+[111]
+Underfull \hbox (badness 7415) in paragraph at lines 858--863
+\TU/FreeSerif(1)/m/n/10 that it is necessary to ``Bring to disciplinary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 881--890
+Underfull \hbox (badness 10000) in paragraph at lines 864--869
+[]\TU/FreeSerif(1)/m/n/10 To the third question: ``Measures taken in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--869
+\TU/FreeSerif(1)/m/n/10 the state body tocompliance with ethical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--869
+\TU/FreeSerif(1)/m/n/10 standards" - "Effective,..." answered 79.5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--869
+\TU/FreeSerif(1)/m/n/10 respondents,``Ineffective, ... answered 8.5% of
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 864--869
+\TU/FreeSerif(1)/m/n/10 respondents, ``Difficult to answer'' 10.3% and
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 888--897
 \TU/FreeSerif(1)/m/n/10 guarantees, gaining professional experience, the
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 896--897
+Underfull \hbox (badness 7186) in paragraph at lines 903--904
 []\TU/FreeSerif(1)/m/n/10 - the predominance of material needs among
  []
 
-[119]
-Underfull \hbox (badness 7522) in paragraph at lines 930--940
-\TU/FreeSerif(1)/m/n/10 of traditional concepts and the development of
+[112]
+Underfull \hbox (badness 5681) in paragraph at lines 915--923
+\TU/FreeSerif(1)/m/n/10 support, which it achieves through educational
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 957--959
-\TU/FreeSerif(1)/m/n/10 system includes both material and non-material
+Underfull \hbox (badness 10000) in paragraph at lines 937--947
+\TU/FreeSerif(1)/m/n/10 of public service employees require further
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 965--971
+Underfull \hbox (badness 6110) in paragraph at lines 972--978
 \TU/FreeSerif(1)/m/n/10 standard managerial, integrated approaches, the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 965--971
+Underfull \hbox (badness 10000) in paragraph at lines 972--978
 \TU/FreeSerif(1)/m/n/10 management model with the corresponding
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 986--992
-[]\TU/FreeSerif(1)/m/n/10 In recent years, the civil service system of
+Underfull \hbox (badness 10000) in paragraph at lines 985--992
+\TU/FreeSerif(1)/m/n/10 information under the influence of human
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 993--1005
-\TU/FreeSerif(1)/m/n/10 by civil servants can be built on the basis of
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1012
+\TU/FreeSerif(1)/m/n/10 their knowledge and professional competence.
  []
 
-
-Underfull \hbox (badness 5893) in paragraph at lines 1006--1017
+[113]
+Underfull \hbox (badness 6910) in paragraph at lines 1013--1024
 []\TU/FreeSerif(1)/m/n/10 For the corresponding analytical study of the
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1006--1017
-\TU/FreeSerif(1)/m/n/10 motivation factors of civil servants that are of
+Underfull \hbox (badness 7722) in paragraph at lines 1060--1076
+\TU/FreeSerif(1)/m/n/10 influencing the motivation of the professional
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 1006--1017
-\TU/FreeSerif(1)/m/n/10 characteristics of the personnel composition and
- []
-
-[120]
-Underfull \hbox (badness 5563) in paragraph at lines 1038--1043
-\TU/FreeSerif(1)/m/n/10 initiative of employees in raising their level of
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 1053--1069
-\TU/FreeSerif(1)/m/n/10 motivation, such as: the possibility of the most
- []
-
-
-Underfull \hbox (badness 5939) in paragraph at lines 1084--1094
+Underfull \hbox (badness 6808) in paragraph at lines 1091--1101
 []\TU/FreeSerif(1)/m/n/10 It should be emphasized once again that the
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 1084--1094
-\TU/FreeSerif(1)/m/n/10 development of a system of motivation for the
+Underfull \hbox (badness 6063) in paragraph at lines 1091--1101
+\TU/FreeSerif(1)/m/n/10 involves the use of material and non-material
  []
 
-[121]
-Overfull \hbox (2.28491pt too wide) in paragraph at lines 1162--1169
-[]\TU/FreeSerif(1)/m/n/10 The integrated system of motivation and performance a
-ssessment that we have considered allows for continuous
- []
-
-[122]
-Overfull \hbox (11.96161pt too wide) in paragraph at lines 1230--1234
-[]\TU/FreeSerif(1)/m/n/10 The plan of the nation "100 concrete steps to impleme
-nt five institutional reforms" / ed. ed. A. M. Rakhimzhanova,
+[114] [115]
+Underfull \hbox (badness 2310) in paragraph at lines 1302--1305
+[]\TU/FreeSerif(1)/m/n/10 Baktymbet Asem Serikovna - Candidateof Economics, Ass
+ociateProfessor, Head. Department of
  []
 
 
-Overfull \hbox (4.55493pt too wide) in paragraph at lines 1253--1257
-[]\TU/FreeSerif(1)/m/n/10 Methodology for studying the motivation of profession
-al activity (methodology of K. Zamfir in the modification
+Underfull \hbox (badness 6825) in paragraph at lines 1302--1305
+\TU/FreeSerif(1)/m/n/10 "Economics and Management" of theKazakh University of T
+echnology and Business, e-meil
  []
 
 
-Overfull \hbox (2.07909pt too wide) in paragraph at lines 1269--1272
-[]\TU/FreeSerif(1)/m/n/10 Belova N.P., Miroshnichenko O.N. Foreign experience o
-f motivating the professional activities of civil servants
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1330
+[]\TU/FreeSerif(1)/m/n/10 Карбетова Шолпан Рахимовна - кандидат экономических н
+аук, доцент, Международ-
  []
 
 
-Overfull \hbox (0.5633pt too wide) in paragraph at lines 1290--1293
-[]\TU/FreeSerif(1)/m/n/10 Karbetova Zatira Rakhimovna - Ph.D., Professorof Econ
-omics, Kazakh University of Technology and Business,
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1330
+\TU/FreeSerif(1)/m/n/10 ный транспортно-гуманитарный университет, факультет биз
+неса и менеджмента, e-meil
  []
 
-
-Overfull \hbox (24.33662pt too wide) in paragraph at lines 1300--1304
-[]\TU/FreeSerif(1)/m/n/10 Karbetova Sholpan Rakhimovna - Ph.D. in Economics, As
-sociateProfessor, International Transport and Humanitarian
- []
-
-[123]) (./src/last_page.tex [124])
+) (./src/last_page.tex [116])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3083,30 +3028,20 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/variant}  =>  {newzealand}
 >  {newzealand/options}  =>  {variant=newzealand}
 >  {kazakh/target}  =>  {kazakh}.
-
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-[125] (build/main.aux)
+ [117] (build/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  68C15C61409482B1512EA665968EBE2F;13259.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C43BC01CB9F6E54E634BD48C62F8D6E7;13259.
  ) 
 Here is how much of TeX's memory you used:
- 21724 strings out of 476683
- 414187 string characters out of 5809791
- 1898018 words of memory out of 5000000
- 41457 multiletter control sequences out of 15000+600000
- 518483 words of font info for 132 fonts, out of 8000000 for 9000
+ 21693 strings out of 476683
+ 413166 string characters out of 5809791
+ 1903018 words of memory out of 5000000
+ 41438 multiletter control sequences out of 15000+600000
+ 518387 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,13n,134p,485b,727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,13n,134p,1313b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.pdf (125 pages).
+Output written on build/main.pdf (117 pages).

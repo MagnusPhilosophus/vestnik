@@ -1,18 +1,18 @@
 \selectlanguage *{russian}
 \contentsline {chapter}{\numberline {1}Информационно-коммуникационные и химические технологии}{6}{chapter.1}%
 \contentsline {section}{Бургегулов А.Д.,Мазаков Т.Ж., Зиятбекова Г.З., Саметова А.А., Джолдасова Б.У. \\ ПРИМЕНЕНИЕ ИНТЕЛЛЕКТУЛЬНЫХ СИСТЕМ ПОЖАРНОЙ БЕЗОПАСНОСТИ В УМНЫХ ГОРОДАХ}{6}{section*.1}%
-\contentsline {section}{Ziyatbekova G.Z, Kisala P., Omirzak M.K. \\ DATAMINING CAPABILITIES FOR CLUSTERING CONCRETE MIX FORMULATIONS}{21}{Item.22}%
-\contentsline {section}{Ziyatbekova G.Z, Kisala P., Omirzak M.K. \\ EXPLORING THE USE OF ELECTRONIC MEDICAL RECORDS FOR PATIENTS}{29}{Item.38}%
-\contentsline {section}{Фазылов С., Нұркенов О., Искинеева А. Мүстафаева А., Пустолайкина И., Сарсенбекова А., Свидерский А. \\ ХОЛЕКАЛЬЦИФЕРОЛДЫҢ ОЛИГОҚАНТПЕН СУДА ЕРИТІН КЕШЕНІН АЛУ}{36}{Item.53}%
-\contentsline {section}{Нургалиев Н.У.,Такирова А.Х., Хамит А. Ж., Жунусова Э.Б., Ахаева А.А. \\ КИНЕТИКА ТЕРМИЧЕСКОЙ ДЕСТРУКЦИИ УГЛЯ МЕСТОРОЖДЕНИЯ КИЯКТЫ}{46}{Item.84}%
-\contentsline {section}{Omarov Kh.B., Nurtai J.T., Kopylov N.I. \\ VOLTAMMETRIC STUDY OF THE CATHODIC BEHAVIOR OF COPPER, NICKEL AND ZINC IONS IN AMMONIA SOLUTIONS}{54}{Item.110}%
-\contentsline {chapter}{\numberline {2}Производственные и обрабатывающие отрасли}{63}{chapter.2}%
-\contentsline {section}{Хастаева А.Ж., Бектурганова А.А.,Омаралиева А.М.,Сериков А.Ж.,Суюндык Р.К. \\ СПРОС НАСЕЛЕНИЯ НА ЗЕРНОВЫЕ НАПИТКИ В РК}{63}{section*.23}%
-\contentsline {section}{Pulatov I.B., Zhuraeva K.M., Dodaev K.O.,Niyozov Kh.N \\ SAFETY STUDY OF UZBEKISTAN FRESHWATER FISH AND THEIR CANNED FISH}{70}{Item.168}%
-\contentsline {section}{Какимов А.К., Майоров А.А., Муратбаев А.М. \\ OПPEДEЛEНИE OПТИМAЛЬНOЙ ДOЗЫ ВНOCИМЫХ ИНКAПCУЛИPOВAННЫХ БАД В КИCЛOМOЛOЧНЫЙ ПPOДУКТ}{78}{Item.184}%
-\contentsline {section}{Галиев С.Ж.,Утешов Е.Т., Галиев Д.А.,Бексапин Ж.С. \\ НАПРАВЛЕНИЯ ПОВЫШЕНИЯ ЭНЕРГОЭФФЕКТИВНОСТИ НА ОТКРЫТЫХ РАЗРАБОТКАХ МЕСТОРОЖДЕНИЙ ПОЛЕЗНЫХ ИСКОПАЕМЫХ}{84}{Item.204}%
-\contentsline {section}{Тулегулов А.Д., АкишевК.М., Юрков Н.К., Островерхов Д. \\ ТАУ-КЕН ӨНЕРКӘСІБІНЕ АРНАЛҒАН ДИСПЕТЧЕРЛІК-ТАЛДАМАЛЫҚ ЖҮЙЕ}{94}{Item.226}%
-\contentsline {section}{Baizbayev М.В., Aliyev S.B., Shontayev A.D., Meiram D.D., Karzhauova E.K. \\ THE INFLUENCE OF TECHNOGENIC FACTORS ON THE EFFECTIVE COMBINED DEVELOPMENT OF ORE DEPOSITS}{101}{Item.232}%
-\contentsline {chapter}{\numberline {3}Экономика, бизнес и услуги}{110}{chapter.3}%
-\contentsline {section}{Карбетова З. Р., Бактымбет А.С.,Карбетова Ш. Р. \\ MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKHSTAN: ASSESSMENT AND PROSPECTS FOR IMPROVEMENT}{110}{section*.41}%
+\contentsline {section}{Ziyatbekova G.Z, Kisala P., Omirzak M.K. \\ DATAMINING CAPABILITIES FOR CLUSTERING CONCRETE MIX FORMULATIONS}{20}{Item.22}%
+\contentsline {section}{Ziyatbekova G.Z, Kisala P., Omirzak M.K. \\ EXPLORING THE USE OF ELECTRONIC MEDICAL RECORDS FOR PATIENTS}{28}{Item.38}%
+\contentsline {section}{Фазылов С., Нұркенов О., Искинеева А. Мүстафаева А., Пустолайкина И., Сарсенбекова А., Свидерский А. \\ ХОЛЕКАЛЬЦИФЕРОЛДЫҢ ОЛИГОҚАНТПЕН СУДА ЕРИТІН КЕШЕНІН АЛУ}{35}{Item.53}%
+\contentsline {section}{Нургалиев Н.У.,Такирова А.Х., Хамит А. Ж., Жунусова Э.Б., Ахаева А.А. \\ КИНЕТИКА ТЕРМИЧЕСКОЙ ДЕСТРУКЦИИ УГЛЯ МЕСТОРОЖДЕНИЯ КИЯКТЫ}{45}{Item.84}%
+\contentsline {section}{Omarov Kh.B., Nurtai J.T., Kopylov N.I. \\ VOLTAMMETRIC STUDY OF THE CATHODIC BEHAVIOR OF COPPER, NICKEL AND ZINC IONS IN AMMONIA SOLUTIONS}{52}{Item.110}%
+\contentsline {chapter}{\numberline {2}Производственные и обрабатывающие отрасли}{60}{chapter.2}%
+\contentsline {section}{Хастаева А.Ж., Бектурганова А.А.,Омаралиева А.М.,Сериков А.Ж.,Суюндык Р.К. \\ СПРОС НАСЕЛЕНИЯ НА ЗЕРНОВЫЕ НАПИТКИ В РК}{60}{section*.22}%
+\contentsline {section}{Pulatov I.B., Zhuraeva K.M., Dodaev K.O.,Niyozov Kh.N \\ SAFETY STUDY OF UZBEKISTAN FRESHWATER FISH AND THEIR CANNED FISH}{67}{Item.168}%
+\contentsline {section}{Какимов А.К., Майоров А.А., Муратбаев А.М. \\ OПPEДEЛEНИE OПТИМAЛЬНOЙ ДOЗЫ ВНOCИМЫХ ИНКAПCУЛИPOВAННЫХ БАД В КИCЛOМOЛOЧНЫЙ ПPOДУКТ}{74}{Item.184}%
+\contentsline {section}{Галиев С.Ж.,Утешов Е.Т., Галиев Д.А.,Бексапин Ж.С. \\ НАПРАВЛЕНИЯ ПОВЫШЕНИЯ ЭНЕРГОЭФФЕКТИВНОСТИ НА ОТКРЫТЫХ РАЗРАБОТКАХ МЕСТОРОЖДЕНИЙ ПОЛЕЗНЫХ ИСКОПАЕМЫХ}{79}{Item.204}%
+\contentsline {section}{Тулегулов А.Д., АкишевК.М., Юрков Н.К., Островерхов Д. \\ ТАУ-КЕН ӨНЕРКӘСІБІНЕ АРНАЛҒАН ДИСПЕТЧЕРЛІК-ТАЛДАМАЛЫҚ ЖҮЙЕ}{89}{Item.226}%
+\contentsline {section}{Baizbayev М.В., Aliyev S.B., Shontayev A.D., Meiram D.D., Karzhauova E.K. \\ THE INFLUENCE OF TECHNOGENIC FACTORS ON THE EFFECTIVE COMBINED DEVELOPMENT OF ORE DEPOSITS}{96}{Item.232}%
+\contentsline {chapter}{\numberline {3}Экономика, бизнес и услуги}{104}{chapter.3}%
+\contentsline {section}{Карбетова З. Р., Бактымбет А.С.,Карбетова Ш. Р. \\ MOTIVATION SYSTEM OF CIVIL SERVANTS OF KAZAKHSTAN: ASSESSMENT AND PROSPECTS FOR IMPROVEMENT}{104}{section*.39}%
 \contentsfinish 

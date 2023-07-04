@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"03498d360e00d2453bdb4b15886f84a80a0a91b9"
+"faf125443c8cdb00c0755f44431ea532ff536b84"
 [nil nil nil nil (25762 36701 396770 878000) 0 nil]
 ([nil nil ((#("% Custom command
 \\newcommand{\\addauthor}[1]{%
@@ -87,13 +87,16 @@ nil
 ([nil nil ((#("\\counterwithin{figure}{section}
 " 0 14 (fontified t face font-lock-keyword-face) 14 15 (fontified t) 15 31 (fontified t) 31 32 (fontified t)) . 4697) (undo-tree-id496 . -31) (undo-tree-id497 . -31) (undo-tree-id498 . -32) (t 25762 44795 699570 588000)) nil (25762 44916 728798 528000) 0 nil])
 ([nil nil ((4494 . 4505)) ((#("@addtoreset" 0 11 (fontified t face font-lock-keyword-face)) . 4494)) (25762 44705 266494 316000) 0 nil])
-([nil current ((nil rear-nonsticky nil 5561 . 5562) (nil fontified nil 5540 . 5562) (5540 . 5562) (5537 . 5540) 5536) nil (25762 44916 728783 794000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 5561 . 5562) (nil fontified nil 5540 . 5562) (5540 . 5562) (5537 . 5540) 5536) nil (25762 44916 728783 794000) 0 nil])
 ([nil nil ((4493 . 4506) (4492 . 4493) (t 25762 44631 649569 816000) 4483) ((#("
 " 0 1 (fontified t)) . 4492) (#("\\makeatletter" 0 13 (fontified t face font-lock-keyword-face)) . 4493)) (25762 44704 578674 338000) 0 nil])
-nil
+([nil nil ((nil rear-nonsticky nil 5564 . 5565) (#("
+" 0 1 (fontified nil)) . -5587) (5562 . 5588) 5549 (t 25762 44916 729571 181000)) nil (25763 60586 693682 160000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 4579 . 4580) (#("
 " 0 1 (rear-nonsticky t fontified nil)) . -4593) (4579 . 4594) 4549) ((#("
 \\makeatletter
 " 0 1 (rear-nonsticky nil fontified nil) 1 8 (fontified nil face font-lock-keyword-face) 8 14 (fontified nil face font-lock-keyword-face) 14 15 (rear-nonsticky t fontified nil)) . 4579) (undo-tree-id456 . -8) (undo-tree-id457 . -13) (undo-tree-id458 . -8) (undo-tree-id459 . -8) (undo-tree-id460 . -8) (undo-tree-id461 . -1) (undo-tree-id462 . -8) (undo-tree-id463 . -8) (4593 . 4594) (nil rear-nonsticky t 4579 . 4580)) (25762 44703 826826 495000) 0 nil])
+([nil current ((5577 . 5582) (#("figure" 0 6 (fontified t face font-lock-variable-name-face)) . 5577) (undo-tree-id499 . -5) (undo-tree-id500 . -6) (undo-tree-id501 . -6)) nil (25763 60586 693676 973000) 0 nil])
 ([nil nil ((4587 . 4592) (#("letter" 0 6 (fontified t face font-lock-keyword-face)) . 4587) (undo-tree-id450 . -6) (undo-tree-id451 . -5) (undo-tree-id452 . -6) (undo-tree-id453 . -6)) ((4587 . 4593) (#("other" 0 5 (fontified t face font-lock-keyword-face)) . 4587) (undo-tree-id454 . -4) (undo-tree-id455 . -4) (t 25762 44649 232903 231000)) (25762 44649 232008 350000) 0 nil])
+nil
 nil
