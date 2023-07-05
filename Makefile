@@ -25,9 +25,6 @@ $(PDF): $(TEXFILES)
 test: $(TEXFILES)
 	$(LATEX) $(LATEX_TEST_FLAGS) -output-directory=$(BUILD_DIR) src/main.tex
 
-vestnik: $(PDF)
-	convert assets/vestnik-front.pdf $(PDF) -resize '2480x3508' -density 300 vestnik.pdf
-
 # Clean target
 clean:
 	rm -rf $(BUILD_DIR)

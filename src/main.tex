@@ -1,7 +1,9 @@
 \documentclass[a4paper]{book}
 \input{src/packages}
+\usepackage{pdfpages}
 
 \begin{document}
+        \includepdf[pages=-,fitpaper=true]{assets/vestnik-front.pdf}
         \input{src/first_pages.tex}
 	\tableofcontents
         \thispagestyle{empty}

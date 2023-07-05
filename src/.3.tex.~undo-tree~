@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"3f15301bf4a8c608497e9e84dfdda34072365272"
+"f8c894f254c218116ae74f2ff90815b34de6bd36"
 [nil nil nil nil (25752 31509 294435 706000) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 1 . 2) (#("
 " 0 1 (fontified nil)) . -20721) (1 . 20722) (t 25752 31502 539651 532000)) nil (25752 31509 294432 354000) 0 nil])
@@ -412,5 +412,10 @@ nil
 " 0 6 (fontified t face font-lock-keyword-face) 6 7 (latex-env-pair t fontified t) 7 14 (latex-env-pair t fontified t face font-lock-function-name-face) 14 15 (latex-env-pair t fontified t) 15 16 (fontified t) 16 21 (fontified t face font-lock-keyword-face) 21 36 (fontified t) 36 41 (fontified t face font-lock-keyword-face) 41 60 (fontified t) 60 65 (fontified t face font-lock-keyword-face) 65 87 (fontified t) 87 92 (fontified t face font-lock-keyword-face) 92 103 (fontified t) 103 107 (fontified t face font-lock-keyword-face) 107 108 (latex-env-pair t fontified t) 108 115 (latex-env-pair t fontified t face font-lock-function-name-face) 115 116 (latex-env-pair t fontified t) 116 117 (fontified t)) . 14869) (undo-tree-id21 . -103) (undo-tree-id22 . -103) (undo-tree-id23 . -103) (undo-tree-id24 . -116) (undo-tree-id25 . -117) (undo-tree-id26 . -103) (undo-tree-id27 . -103) (undo-tree-id28 . -103) (undo-tree-id29 . -117) 14972 (t 25763 63399 829975 369000)) nil (25763 63429 235248 701000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 14746 . 14747) (#("
 " 0 1 (fontified nil)) . -14863) (14746 . 14864) 14681) nil (25763 63429 235230 348000) 0 nil])
-([nil current ((14746 . 14747) 14681) nil (25763 63429 235224 192000) 0 nil])
+([nil nil ((14746 . 14747) 14681) nil (25763 63429 235224 192000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 160 . 161) (nil fontified nil 43 . 161) (43 . 161) 42 (t 25763 63429 239975 518000)) nil (25765 5164 659357 956000) 0 nil])
+([nil nil ((#("10.58805/kazutb.v.2.19-96" 0 25 (fontified t face (bold))) . 90) (undo-tree-id32 . -24) (undo-tree-id33 . -25)) nil (25765 5164 659355 440000) 0 nil])
+([nil nil ((#("10.58805/kazutb.v.2.19-96" 0 25 (fontified t face (bold))) . 108) (undo-tree-id30 . -24) (undo-tree-id31 . -25)) nil (25765 5164 659351 673000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 114 . 115) (nil fontified nil 90 . 115) (90 . 115)) nil (25765 5164 659339 616000) 0 nil])
+([nil current ((nil rear-nonsticky nil 157 . 158) (nil fontified nil 133 . 158) (133 . 158) 115) nil (25765 5164 659333 531000) 0 nil])
 nil

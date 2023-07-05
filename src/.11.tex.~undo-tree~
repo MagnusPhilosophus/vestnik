@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"738e39a6c279c912ba0e0982205d132ba17f5351"
+"0de70254437992cdb0612ce27ec207007b5e00b7"
 [nil nil nil nil (25756 19618 743227 345000) 0 nil]
 ([nil nil ((#("\\begin{quote}
 " 0 6 (face font-lock-keyword-face fontified t) 6 7 (latex-env-pair t fontified t) 7 12 (face font-lock-function-name-face latex-env-pair t fontified t) 12 13 (latex-env-pair t fontified t) 13 14 (fontified t)) . 18544) (undo-tree-id8 . -8) (undo-tree-id9 . -13) 18552 (t 25756 18639 461735 803000)) nil (25756 19618 743224 62000) 0 nil])
@@ -2478,7 +2478,16 @@ nil
 " 0 1 (fontified t)) . 15867) (undo-tree-id244 . -1)) nil (25763 62621 94737 695000) 0 nil])
 ([nil nil ((#("7" 0 1 (fontified t)) . -15946) (t 25763 62621 106638 331000) (15947 . 15948) 15946 (t 25763 62621 106638 331000)) nil (25763 62638 684684 842000) 0 nil])
 ([nil nil ((#("7" 0 1 (fontified t)) . -16113) (16114 . 16115) 16113) nil (25763 62794 459352 655000) 0 nil])
-([nil current ((15687 . 15688) (t 25763 62638 693305 91000) 15633) nil (25763 62795 742570 487000) 0 nil] [nil nil ((15759 . 15760) (t 25763 62638 693305 91000) 15688) ((#("
+([nil nil ((15687 . 15688) (t 25763 62638 693305 91000) 15633) nil (25763 62795 742570 487000) 0 nil] [nil nil ((15759 . 15760) (t 25763 62638 693305 91000) 15688) ((#("
 " 0 1 (fontified t)) . 15759) (undo-tree-id247 . -1) (undo-tree-id248 . -1) (undo-tree-id249 . -1)) (25763 62794 459116 374000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 157 . 158) (nil fontified nil 38 . 158) (38 . 158) 37 (t 25763 62795 749972 486000)) nil (25765 6105 450840 986000) 0 nil])
 nil
+([nil nil ((#("10.58805/kazutb.v.2.19-100" 0 26 (fontified t face (bold))) . 85) (undo-tree-id254 . -25) (undo-tree-id255 . -26)) nil (25765 6105 450839 124000) 0 nil])
+([nil nil ((#("10.58805/kazutb.v.2.19-100" 0 26 (fontified t face (bold))) . 103) (undo-tree-id252 . -25) (undo-tree-id253 . -26)) nil (25765 6105 450836 347000) 0 nil])
+([nil nil ((1427 . 1428)) nil (25765 6105 450833 440000) 0 nil])
+([nil nil ((#("A" 0 1 (fontified t face (bold))) . -1427) (undo-tree-id250 . -1) (undo-tree-id251 . -1) 1428) nil (25765 6105 450830 813000) 0 nil])
+([nil nil ((1427 . 1428)) nil (25765 6105 450814 410000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 154 . 155) (nil fontified nil 129 . 155) (129 . 155) 111 (nil rear-nonsticky nil 110 . 111) (nil fontified nil 85 . 111) (85 . 111) 1203 (t 25765 6105 460328 587000)) nil (25765 6141 159329 801000) 0 nil])
+([nil current ((#("
+" 0 1 (fontified t)) . 158) (undo-tree-id256 . -1)) nil (25765 6141 159322 978000) 0 nil])
 nil

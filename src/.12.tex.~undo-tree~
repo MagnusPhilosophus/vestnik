@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"4f8027e1163139c65b64924d502d558bd92b1140"
+"7aafc6229c4d1c655e964d2aadf8a182964c8a33"
 [nil nil nil nil (25756 19615 815295 150000) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 1 . 2) (#("
 " 0 1 (fontified nil)) . -97931) (1 . 97932) (t 25756 19609 16415 424000)) nil (25756 19615 815291 728000) 0 nil])
@@ -1807,7 +1807,14 @@ vp" 0 1 (fontified t) 1 2 (fontified t) 2 3 (fontified nil) 3 4 (fontified nil))
 " 0 1 (fontified nil)) . -1486) (1473 . 1487)) ((#("
 \\vpsace{1em}
 " 0 1 (fontified nil rear-nonsticky nil) 1 8 (fontified nil face font-lock-keyword-face) 8 13 (fontified nil) 13 14 (fontified nil)) . 1473) (undo-tree-id15 . -1) (undo-tree-id16 . -13) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (undo-tree-id25 . -1) (undo-tree-id26 . -1) (undo-tree-id27 . -1) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) (undo-tree-id34 . -1) (undo-tree-id35 . -1) (undo-tree-id36 . -1) (undo-tree-id37 . -1) (undo-tree-id38 . -1) (undo-tree-id39 . -1) (undo-tree-id40 . -1) (undo-tree-id41 . -1) (1486 . 1487) (nil rear-nonsticky t 1473 . 1474) (t 25763 62101 996635 895000)) (25763 62101 987496 752000) 0 nil])
-([nil current ((#("\\end{center}
+([nil nil ((#("\\end{center}
 " 0 4 (fontified t face font-lock-keyword-face) 4 5 (latex-env-pair t fontified t) 5 11 (latex-env-pair t fontified t face font-lock-function-name-face) 11 12 (latex-env-pair t fontified t) 12 13 (fontified t)) . 33040) (undo-tree-id79 . -12) (undo-tree-id80 . -13)) nil (25763 62893 692067 262000) 0 nil])
 nil
+([nil nil ((nil rear-nonsticky nil 157 . 158) (nil fontified nil 38 . 158) (38 . 158) 37 (t 25763 62893 699972 948000)) nil (25765 6290 595242 901000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 158)) nil (25765 6290 595240 820000) 0 nil])
+([nil nil ((#("10.58805/kazutb.v.2.19-113" 0 26 (fontified t face (bold))) . 85) (undo-tree-id89 . -25) (undo-tree-id90 . -26)) nil (25765 6290 595239 433000) 0 nil])
+([nil nil ((#("10.58805/kazutb.v.2.19-113" 0 26 (fontified t face (bold))) . 103) (undo-tree-id87 . -25) (undo-tree-id88 . -26)) nil (25765 6290 595235 442000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 110 . 111) (nil fontified nil 85 . 111) (85 . 111) 10) nil (25765 6290 595221 944000) 0 nil])
+([nil current ((nil rear-nonsticky nil 154 . 155) (nil fontified nil 129 . 155) (129 . 155) 111) nil (25765 6290 595215 638000) 0 nil])
 nil
